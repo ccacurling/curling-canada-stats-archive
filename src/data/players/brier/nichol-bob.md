@@ -7,15 +7,15 @@ totals:
    games: 38
    wins: 28
    losses: 10
-   inturn-total: 335
+   inturn-total: 364
    inturn-percent: 75
-   outturn-total: 165
-   outturn-percent: 75
-   draw-total: 257
-   draw-percent: 78
-   takeout-total: 243
+   outturn-total: 176
+   outturn-percent: 74
+   draw-total: 272
+   draw-percent: 77
+   takeout-total: 268
    takeout-percent: 72
-   shots-total: 500
+   shots-total: 540
    shots-percent: 75
 years:
  - year: 1980
@@ -62,6 +62,16 @@ years:
    games: 13
    wins: 10
    losses: 3
+   inturn-total: 29
+   inturn-percent: 70
+   outturn-total: 11
+   outturn-percent: 68
+   draw-total: 15
+   draw-percent: 63
+   takeout-total: 25
+   takeout-percent: 73
+   shots-total: 40
+   shots-percent: 69
 vs:
  - Aitken, Don
  - Allan, John

@@ -4,19 +4,19 @@ name: Tyler Smith
 name-sort: Smith, Tyler
 totals:
  - event: Brier
-   games: 32
-   wins: 9
-   losses: 23
-   inturn-total: 294
+   games: 40
+   wins: 10
+   losses: 30
+   inturn-total: 362
    inturn-percent: 73
-   outturn-total: 271
-   outturn-percent: 75
-   draw-total: 235
-   draw-percent: 73
-   takeout-total: 330
+   outturn-total: 350
+   outturn-percent: 77
+   draw-total: 300
+   draw-percent: 74
+   takeout-total: 412
    takeout-percent: 75
-   shots-total: 565
-   shots-percent: 74
+   shots-total: 712
+   shots-percent: 75
 years:
  - year: 2021
    event: Brier
@@ -124,10 +124,30 @@ years:
    takeout-percent: 82
    shots-total: 145
    shots-percent: 83
+ - year: 2025
+   event: Brier
+   team: "PE"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 68
+   inturn-percent: 71
+   outturn-total: 79
+   outturn-percent: 80
+   draw-total: 65
+   draw-percent: 77
+   takeout-total: 82
+   takeout-percent: 75
+   shots-total: 147
+   shots-percent: 76
 vs:
+ - Abraham, Ryan
  - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Blyde, Greg
  - Bottcher, Brendan
@@ -137,6 +157,7 @@ vs:
  - Chown, Jeff
  - Crete, Martin
  - Crowell, Phil
+ - Delorey, D'arcy
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
@@ -152,6 +173,7 @@ vs:
  - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Hart, Joey
  - Harty, Jeremy
@@ -160,13 +182,16 @@ vs:
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -182,22 +207,29 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
  - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Mullen, Jesse
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
  - Parsons, Cole
+ - Preston, Eric
+ - Purcell, Owen
  - Saccary, Scott
  - Saunders, Luke
  - Schneider, Catlin
@@ -207,6 +239,7 @@ vs:
  - Smith, Greg
  - Smitheram, Christian
  - St.Louis, Brady
+ - Steele, Nathan
  - Stringer, Ben
  - Sturmay, Karsten
  - Tardi, Tyler
@@ -219,6 +252,7 @@ vs:
  - Webster, Dylan
  - Webster, Paul
  - Wettig, Sheldon
+ - Wiebe, Ryan
  - Young, Nathan
  - Zachernuk, Nick
 ---

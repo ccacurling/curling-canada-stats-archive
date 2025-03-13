@@ -30,6 +30,34 @@ vs:
       year: 1989
       draw: Round Robin(8)
       score: QC 6 - PE 5
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(12)
+      score: PE 7 - NL 6
  - name: Wight, Bryan
    totals:
     - event: Brier

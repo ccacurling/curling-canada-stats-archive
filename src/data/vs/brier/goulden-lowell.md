@@ -1094,6 +1094,34 @@ vs:
       year: 1980
       draw: Round Robin(13)
       score: NO 7 - BC 9
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(15)
+      score: NL 7 - NS 5
  - name: Nowlan, Daryell
    totals:
     - event: Brier
@@ -1234,6 +1262,34 @@ vs:
       year: 1997
       draw: Round Robin(16)
       score: NS 8 - ON 12
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 58
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 58
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(15)
+      score: NL 7 - NS 5
  - name: Peters, Vic
    totals:
     - event: Brier
@@ -1542,6 +1598,34 @@ vs:
       year: 1997
       draw: Round Robin(5)
       score: NS 5 - NL 6
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(15)
+      score: NL 7 - NS 5
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -1710,6 +1794,34 @@ vs:
       year: 1997
       draw: Round Robin(14)
       score: QC 9 - NS 5
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 66
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(15)
+      score: NL 7 - NS 5
  - name: Wilson, Jim
    totals:
     - event: Brier

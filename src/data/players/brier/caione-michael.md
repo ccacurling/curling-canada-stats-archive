@@ -32,6 +32,11 @@ years:
    draw-percent: 67
    shots-total: 6
    shots-percent: 67
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Alternate
+   alternate: true
 vs:
  - Chown, Jeff
  - Howard, Greg

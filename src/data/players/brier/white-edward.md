@@ -4,19 +4,19 @@ name: Edward White
 name-sort: White, Edward
 totals:
  - event: Brier
-   games: 24
-   wins: 8
-   losses: 16
-   inturn-total: 193
-   inturn-percent: 83
-   outturn-total: 233
-   outturn-percent: 83
-   draw-total: 344
-   draw-percent: 84
-   takeout-total: 82
-   takeout-percent: 79
-   shots-total: 426
-   shots-percent: 83
+   games: 32
+   wins: 9
+   losses: 23
+   inturn-total: 251
+   inturn-percent: 85
+   outturn-total: 323
+   outturn-percent: 85
+   draw-total: 479
+   draw-percent: 86
+   takeout-total: 95
+   takeout-percent: 81
+   shots-total: 574
+   shots-percent: 85
 years:
  - year: 2022
    event: Brier
@@ -72,15 +72,36 @@ years:
    takeout-percent: 83
    shots-total: 144
    shots-percent: 85
+ - year: 2025
+   event: Brier
+   team: "PE"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 58
+   inturn-percent: 91
+   outturn-total: 90
+   outturn-percent: 91
+   draw-total: 135
+   draw-percent: 91
+   takeout-total: 13
+   takeout-percent: 92
+   shots-total: 148
+   shots-percent: 91
 vs:
+ - Abraham, Ryan
  - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
  - Crete, Martin
+ - Delorey, D'arcy
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
@@ -93,6 +114,7 @@ vs:
  - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Hart, Joey
  - Harty, Jeremy
@@ -100,13 +122,16 @@ vs:
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -121,18 +146,26 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Mullen, Jesse
  - Muyres, Kirk
+ - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
  - Parsons, Cole
+ - Preston, Eric
+ - Purcell, Owen
+ - Saccary, Scott
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
@@ -140,6 +173,7 @@ vs:
  - Sluchinski, Aaron
  - Smitheram, Christian
  - St.Louis, Brady
+ - Steele, Nathan
  - Stringer, Ben
  - Sturmay, Karsten
  - Tardi, Tyler
@@ -152,6 +186,7 @@ vs:
  - Webster, Dylan
  - Webster, Paul
  - Wettig, Sheldon
+ - Wiebe, Ryan
  - Young, Nathan
  - Zachernuk, Nick
 ---

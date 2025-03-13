@@ -7,16 +7,16 @@ totals:
    games: 46
    wins: 25
    losses: 21
-   inturn-total: 293
-   inturn-percent: 75
-   outturn-total: 317
-   outturn-percent: 72
-   draw-total: 284
-   draw-percent: 72
-   takeout-total: 326
-   takeout-percent: 76
-   shots-total: 610
-   shots-percent: 74
+   inturn-total: 391
+   inturn-percent: 74
+   outturn-total: 448
+   outturn-percent: 73
+   draw-total: 385
+   draw-percent: 71
+   takeout-total: 454
+   takeout-percent: 75
+   shots-total: 839
+   shots-percent: 73
 years:
  - year: 1982
    event: Brier
@@ -26,6 +26,16 @@ years:
    games: 12
    wins: 6
    losses: 6
+   inturn-total: 98
+   inturn-percent: 69
+   outturn-total: 131
+   outturn-percent: 74
+   draw-total: 101
+   draw-percent: 69
+   takeout-total: 128
+   takeout-percent: 74
+   shots-total: 229
+   shots-percent: 72
  - year: 1987
    event: Brier
    team: "NL"

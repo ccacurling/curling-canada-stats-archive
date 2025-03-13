@@ -4,18 +4,18 @@ name: Catlin Schneider
 name-sort: Schneider, Catlin
 totals:
  - event: Brier
-   games: 44
-   wins: 25
-   losses: 19
-   inturn-total: 383
-   inturn-percent: 84
-   outturn-total: 439
-   outturn-percent: 86
-   draw-total: 320
+   games: 54
+   wins: 32
+   losses: 22
+   inturn-total: 471
+   inturn-percent: 83
+   outturn-total: 529
+   outturn-percent: 85
+   draw-total: 402
    draw-percent: 88
-   takeout-total: 502
-   takeout-percent: 83
-   shots-total: 822
+   takeout-total: 598
+   takeout-percent: 82
+   shots-total: 1000
    shots-percent: 85
 years:
  - year: 2017
@@ -90,24 +90,48 @@ years:
    takeout-percent: 78
    shots-total: 144
    shots-percent: 84
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 88
+   inturn-percent: 80
+   outturn-total: 90
+   outturn-percent: 85
+   draw-total: 82
+   draw-percent: 87
+   takeout-total: 96
+   takeout-percent: 78
+   shots-total: 178
+   shots-percent: 82
 vs:
  - Aho, David
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Follett, Sam
  - Forrest, Alex
@@ -122,6 +146,9 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Jacobs, Brad
@@ -131,10 +158,12 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Nathan
  - Koe, Jamie
  - Koe, Kevin
  - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -142,12 +171,17 @@ vs:
  - Lott, Colton
  - Lowery, Ryan
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Menard, Jean-Michel
  - Menard, Philippe
  - Morris, John
@@ -172,17 +206,21 @@ vs:
  - Schille, Chris
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Tyler
  - Spencer, Adam
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Trickett, Stephen
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Winfield, Brett
  - Wozniak, Matt

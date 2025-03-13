@@ -4,19 +4,19 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Brier
-   games: 244
-   wins: 178
-   losses: 66
-   inturn-total: 1949
+   games: 255
+   wins: 186
+   losses: 69
+   inturn-total: 2032
    inturn-percent: 84
-   outturn-total: 2634
+   outturn-total: 2751
    outturn-percent: 86
-   draw-total: 1837
+   draw-total: 1907
    draw-percent: 86
-   takeout-total: 2746
+   takeout-total: 2876
    takeout-percent: 85
-   shots-total: 4583
-   shots-percent: 85
+   shots-total: 4783
+   shots-percent: 86
 years:
  - year: 2003
    event: Brier
@@ -378,6 +378,24 @@ years:
    takeout-percent: 89
    shots-total: 200
    shots-percent: 89
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 83
+   inturn-percent: 93
+   outturn-total: 117
+   outturn-percent: 88
+   draw-total: 70
+   draw-percent: 93
+   takeout-total: 130
+   takeout-percent: 88
+   shots-total: 200
+   shots-percent: 90
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -415,6 +433,7 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Bruce, Daniel
  - Bryant, Doug
  - Bubbs, John
  - Burgess, Craig
@@ -425,6 +444,7 @@ vs:
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
@@ -432,6 +452,7 @@ vs:
  - Chadwick, Scott
  - Champion, Kevin
  - Charette, Pierre
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
@@ -448,9 +469,11 @@ vs:
  - Dacey, Mark
  - Daneault, Richard
  - Darragh, Alan
+ - deJong, Cameron
  - Desjardins, Robert
  - Desilets, Mike
  - Dieno, Clint
+ - Dilello, Ty
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
@@ -468,6 +491,7 @@ vs:
  - Farnell, Jamie
  - Fawcett, Brian
  - Fecteau, Steve
+ - Feltham, Aaron
  - Fenton, Brad
  - Ferbey, Randy
  - Ferland, Martin
@@ -504,6 +528,7 @@ vs:
  - Gorveatt, Philip
  - Gould, Steve
  - Granchelli, Kris
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -528,6 +553,7 @@ vs:
  - Hicke, Dean
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Horning, Deane
  - Horvath, Alex
@@ -570,6 +596,7 @@ vs:
  - Kopf, Steve
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Lafleur, Daniel
  - Laing, Brent
@@ -609,15 +636,19 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
+ - McCann, Andy
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey
@@ -731,6 +762,7 @@ vs:
  - Trevellyan, Todd
  - Turpin, Randy
  - Ursel, Bob
+ - Van Strien, Peter
  - Vaughan, Jason
  - Venance, Glenn
  - Villeneuve, Steeve

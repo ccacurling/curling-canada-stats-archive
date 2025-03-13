@@ -4,18 +4,18 @@ name: Kyle Doering
 name-sort: Doering, Kyle
 totals:
  - event: Brier
-   games: 8
-   wins: 3
+   games: 10
+   wins: 5
    losses: 5
-   inturn-total: 49
+   inturn-total: 53
    inturn-percent: 86
-   outturn-total: 69
+   outturn-total: 77
    outturn-percent: 83
-   draw-total: 65
-   draw-percent: 82
-   takeout-total: 53
-   takeout-percent: 87
-   shots-total: 118
+   draw-total: 70
+   draw-percent: 81
+   takeout-total: 60
+   takeout-percent: 88
+   shots-total: 130
    shots-percent: 84
 years:
  - year: 2022
@@ -84,13 +84,34 @@ years:
    takeout-percent: 86
    shots-total: 108
    shots-percent: 82
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: true
+   games: 2
+   wins: 2
+   losses: 0
+   inturn-total: 4
+   inturn-percent: 94
+   outturn-total: 8
+   outturn-percent: 84
+   draw-total: 5
+   draw-percent: 80
+   takeout-total: 7
+   takeout-percent: 93
+   shots-total: 12
+   shots-percent: 88
 vs:
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Bottcher, Brendan
+ - Bruce, Daniel
  - Chester, Corey
  - Crete, Martin
+ - Dilello, Ty
+ - Feltham, Aaron
  - Fry, Ryan
  - Gallant, Brett
  - Gauthier, Jacques
@@ -104,11 +125,15 @@ vs:
  - Jones, Scott
  - Kennedy, Marc
  - King, Brian
+ - King, Nathan
  - Kolomaya, Jared
  - Laing, Brent
+ - Latimer, Shane
  - Mackey, Peter
  - Mallais, Jeremy
+ - McDonell, Justin
  - McEwen, Mike
+ - NcNeil-Lamswood, Ryan
  - Meister, Nicholas
  - Middleton, Sterling
  - Nadeau, Jeff
@@ -119,4 +144,5 @@ vs:
  - Trepanier, Jean-Francois
  - Van Strien, Peter
  - Walker, Geoff
+ - Wettig, Sheldon
 ---

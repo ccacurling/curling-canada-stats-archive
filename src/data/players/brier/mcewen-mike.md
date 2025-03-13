@@ -4,18 +4,18 @@ name: Mike McEwen
 name-sort: McEwen, Mike
 totals:
  - event: Brier
-   games: 102
-   wins: 64
-   losses: 38
-   inturn-total: 814
+   games: 112
+   wins: 71
+   losses: 41
+   inturn-total: 887
    inturn-percent: 84
-   outturn-total: 1061
-   outturn-percent: 85
-   draw-total: 727
+   outturn-total: 1173
+   outturn-percent: 86
+   draw-total: 804
    draw-percent: 86
-   takeout-total: 1148
+   takeout-total: 1256
    takeout-percent: 84
-   shots-total: 1875
+   shots-total: 2060
    shots-percent: 85
 years:
  - year: 2016
@@ -180,6 +180,24 @@ years:
    takeout-percent: 90
    shots-total: 239
    shots-percent: 89
+ - year: 2025
+   event: Brier
+   team: "SK"
+   position: Fourth
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 73
+   inturn-percent: 86
+   outturn-total: 112
+   outturn-percent: 89
+   draw-total: 77
+   draw-percent: 89
+   takeout-total: 108
+   takeout-percent: 88
+   shots-total: 185
+   shots-percent: 88
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -188,6 +206,8 @@ vs:
  - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
+ - Bassett, Norman
  - Beuk, Jonathan
  - Bezanson, Jared
  - Boland, Adam
@@ -207,6 +227,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Delorey, D'arcy
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
@@ -232,6 +253,7 @@ vs:
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -247,12 +269,14 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
@@ -275,6 +299,7 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McDonald, Scott
  - Mckinnon, Robert
@@ -287,6 +312,8 @@ vs:
  - Middaugh, Wayne
  - Middleton, Sterling
  - Mikkelsen, Dustin
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -307,6 +334,8 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Rach, Dave
  - Richard, Jeff
  - Rycroft, Carter
@@ -328,6 +357,7 @@ vs:
  - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
+ - Steele, Nathan
  - Sturmay, Karsten
  - Sylvain, Eric
  - Symonds, Andrew
@@ -343,6 +373,7 @@ vs:
  - Webster, Dylan
  - Wettig, Sheldon
  - White, Edward
+ - Wiebe, Ryan
  - Winfield, Brett
  - Withycombe, Ian
  - Wood, Brad

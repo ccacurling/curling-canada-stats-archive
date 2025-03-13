@@ -4,19 +4,19 @@ name: Tyler Tardi
 name-sort: Tardi, Tyler
 totals:
  - event: Brier
-   games: 19
-   wins: 11
-   losses: 8
-   inturn-total: 161
-   inturn-percent: 87
-   outturn-total: 177
-   outturn-percent: 84
-   draw-total: 149
+   games: 27
+   wins: 15
+   losses: 12
+   inturn-total: 262
+   inturn-percent: 86
+   outturn-total: 228
+   outturn-percent: 85
+   draw-total: 226
    draw-percent: 85
-   takeout-total: 189
+   takeout-total: 264
    takeout-percent: 86
-   shots-total: 338
-   shots-percent: 85
+   shots-total: 490
+   shots-percent: 86
 years:
  - year: 2021
    event: Brier
@@ -106,44 +106,88 @@ years:
    takeout-percent: 84
    shots-total: 144
    shots-percent: 82
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 101
+   inturn-percent: 85
+   outturn-total: 51
+   outturn-percent: 88
+   draw-total: 77
+   draw-percent: 86
+   takeout-total: 75
+   takeout-percent: 85
+   shots-total: 152
+   shots-percent: 86
 vs:
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Bottcher, Brendan
+ - Bruce, Daniel
+ - Carpenter, Brayden
+ - Carruthers, Reid
+ - Chester, Corey
  - Cocks, Adam
  - Crete, Martin
+ - deJong, Cameron
+ - Dilello, Ty
+ - Dobson, Paul
+ - Dunstone, Matt
+ - Epping, John
+ - Feltham, Aaron
  - Fry, Ryan
  - Gallant, Brett
  - Gauthier, Jacques
  - Ginter, Jason
+ - Grattan, James
  - Gushue, Brad
  - Hagen, Brandon
  - Harnden, E.J.
+ - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Horvath, Alex
  - Jensen, Trygg
  - Jones, Scott
  - Kennedy, Marc
  - King, Brian
+ - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
+ - Lott, Colton
  - MacFadyen, Alex
  - Mallais, Jeremy
  - Martin, Karrick
+ - McCann, Andy
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Middleton, Sterling
  - Mikkelsen, Dustin
  - Moulding, Darren
+ - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
  - Peech, Alexander
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
  - Smith, Tyler
  - Thiessen, Brad
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Walker, Geoff
+ - Wettig, Sheldon
  - White, Edward
 ---

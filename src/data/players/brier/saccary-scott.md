@@ -4,18 +4,18 @@ name: Scott Saccary
 name-sort: Saccary, Scott
 totals:
  - event: Brier
-   games: 45
-   wins: 19
-   losses: 26
-   inturn-total: 392
+   games: 54
+   wins: 24
+   losses: 30
+   inturn-total: 454
    inturn-percent: 83
-   outturn-total: 443
+   outturn-total: 555
    outturn-percent: 82
-   draw-total: 403
+   draw-total: 490
    draw-percent: 82
-   takeout-total: 432
+   takeout-total: 519
    takeout-percent: 83
-   shots-total: 835
+   shots-total: 1009
    shots-percent: 83
 years:
  - year: 2017
@@ -142,10 +142,30 @@ years:
    takeout-percent: 84
    shots-total: 142
    shots-percent: 81
+ - year: 2025
+   event: Brier
+   team: "NS"
+   position: Second
+   alternate: false
+   games: 9
+   wins: 5
+   losses: 4
+   inturn-total: 62
+   inturn-percent: 83
+   outturn-total: 112
+   outturn-percent: 84
+   draw-total: 87
+   draw-percent: 84
+   takeout-total: 87
+   takeout-percent: 84
+   shots-total: 174
+   shots-percent: 84
 vs:
  - Appelman, Tom
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
+ - Bassett, Norman
  - Bedard, Alek
  - Blyde, Greg
  - Boland, Adam
@@ -158,20 +178,26 @@ vs:
  - Chorostkowski, Brad
  - Chown, Jeff
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Currie, Morgan
+ - Delorey, D'arcy
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
+ - Flasch, Colton
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Geall, Sean
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -184,11 +210,14 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -205,8 +234,11 @@ vs:
  - MacKenzie, Eddie
  - Mackey, Peter
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McDonah, Alex
  - McDonah, Evan
  - McEwen, Mike
@@ -214,6 +246,8 @@ vs:
  - Meister, Nicholas
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -230,6 +264,7 @@ vs:
  - Pfeifer, Scott
  - Pierce, Brent
  - Pillsworth, Mark
+ - Preston, Eric
  - Quevillon, Louis
  - Richard, Jeff
  - Samagalski, Derek
@@ -241,12 +276,16 @@ vs:
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
+ - Steele, Nathan
  - Sylvain, Eric
  - Taylor, Andrew
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - Walker, Geoff
+ - Wallingham, Joe
  - Wettig, Sheldon
+ - White, Edward
+ - Wiebe, Ryan
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt

@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Brier
-   games: 158
-   wins: 115
-   losses: 43
-   inturn-total: 1628
+   games: 171
+   wins: 127
+   losses: 44
+   inturn-total: 1765
    inturn-percent: 90
-   outturn-total: 1276
+   outturn-total: 1381
    outturn-percent: 88
-   draw-total: 1015
+   draw-total: 1075
    draw-percent: 88
-   takeout-total: 1889
+   takeout-total: 2071
    takeout-percent: 90
-   shots-total: 2904
+   shots-total: 3146
    shots-percent: 89
 years:
  - year: 2007
@@ -252,6 +252,24 @@ years:
    takeout-percent: 90
    shots-total: 198
    shots-percent: 90
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Third
+   alternate: false
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 137
+   inturn-percent: 89
+   outturn-total: 105
+   outturn-percent: 90
+   draw-total: 60
+   draw-percent: 89
+   takeout-total: 182
+   takeout-percent: 90
+   shots-total: 242
+   shots-percent: 89
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -261,6 +279,7 @@ vs:
  - Atchison, Chris
  - Barker, Richard
  - Barry, Josh
+ - Bartling, Aaron
  - Bedard, Alek
  - Berthelot, Marco
  - Beuk, Jonathan
@@ -298,12 +317,14 @@ vs:
  - Danbrook, Jamie
  - Daneault, Richard
  - Darragh, Alan
+ - Delorey, D'arcy
  - Desjardins, Robert
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -322,6 +343,7 @@ vs:
  - Gagne, Francois
  - Gagnon, Jean
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gaudet, Mike
  - Gauthier, Jacques
@@ -337,6 +359,7 @@ vs:
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Hall, Matthew
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Ryan
@@ -361,6 +384,7 @@ vs:
  - Jeffrey, Chris
  - Jensen, Trygg
  - Joanisse, Dean
+ - Johnson, Trevor
  - Jones, Brennen
  - Jones, Scott
  - Jordison, Joel
@@ -371,6 +395,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
@@ -404,6 +429,7 @@ vs:
  - Martin, Karrick
  - Maskiewich, Ken
  - Mathers, David
+ - Mattern, Joshua
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarville, Mike
@@ -417,7 +443,9 @@ vs:
  - Middaugh, Wayne
  - Middleton, Sterling
  - Mikkelsen, Dustin
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -426,6 +454,7 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Nantes, Dave
+ - Naugler, Adam
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -446,6 +475,8 @@ vs:
  - Pinder, Jordan
  - Porter, Ryan
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Quevillon, Louis
  - Rafuse, Brian
  - Recksiedler, Kevin
@@ -456,6 +487,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -476,6 +508,7 @@ vs:
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
+ - Steele, Nathan
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sullivan, Charles Jr.
@@ -499,6 +532,7 @@ vs:
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Wood, Mike
  - Wozniak, Matt
 ---

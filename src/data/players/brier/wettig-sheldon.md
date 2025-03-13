@@ -4,19 +4,19 @@ name: Sheldon Wettig
 name-sort: Wettig, Sheldon
 totals:
  - event: Brier
-   games: 21
+   games: 29
    wins: 2
-   losses: 19
-   inturn-total: 181
-   inturn-percent: 64
-   outturn-total: 177
-   outturn-percent: 79
-   draw-total: 155
-   draw-percent: 71
-   takeout-total: 203
-   takeout-percent: 72
-   shots-total: 358
-   shots-percent: 72
+   losses: 27
+   inturn-total: 230
+   inturn-percent: 65
+   outturn-total: 262
+   outturn-percent: 74
+   draw-total: 201
+   draw-percent: 70
+   takeout-total: 291
+   takeout-percent: 70
+   shots-total: 492
+   shots-percent: 70
 years:
  - year: 2020
    event: Brier
@@ -106,21 +106,50 @@ years:
    takeout-percent: 73
    shots-total: 140
    shots-percent: 75
+ - year: 2025
+   event: Brier
+   team: "NU"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 0
+   losses: 8
+   inturn-total: 49
+   inturn-percent: 66
+   outturn-total: 85
+   outturn-percent: 64
+   draw-total: 46
+   draw-percent: 64
+   takeout-total: 88
+   takeout-percent: 65
+   shots-total: 134
+   shots-percent: 65
 vs:
  - Appelman, Ted
  - Armstrong, Mike
  - Arsenault, Jean-Michel
  - Asselin, Emile
  - Bedard, Alek
+ - Bottcher, Brendan
  - Brassard, Philippe
+ - Bruce, Daniel
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
+ - Chester, Corey
  - Cochrane, Bryan
  - Cocks, Adam
  - Crowell, Phil
+ - Cseke, Paul
  - Currie, Morgan
+ - deJong, Cameron
+ - Dilello, Ty
+ - Dobson, Paul
+ - Doering, Kyle
  - Drummond, Kerr
  - Dunstone, Matt
+ - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Forrest, Alex
@@ -128,6 +157,7 @@ vs:
  - Gallant, Chris
  - Gauthier, Jacques
  - Gordon, Rob
+ - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Harnden, E.J.
@@ -136,13 +166,17 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Jones, Brennen
  - Kennedy, Glen
+ - Kingsbury, Adam
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
  - Lequin, Bradley
+ - Libbus, Mike
  - Locke, Nathan
  - Lott, Colton
  - MacAulay, Ian
@@ -150,8 +184,11 @@ vs:
  - Marsh, Dan
  - Marsh, Kevin
  - Martin, Karrick
+ - McCann, Andy
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Moulding, Darren
  - Mullen, Jesse
@@ -167,9 +204,11 @@ vs:
  - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
+ - Schneider, Catlin
  - Sluchinski, Aaron
  - Smith, Tyler
  - Stringer, Ben
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Jeff
  - Tremblay, Julien

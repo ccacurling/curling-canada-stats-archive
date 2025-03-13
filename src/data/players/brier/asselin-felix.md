@@ -4,18 +4,18 @@ name: Felix Asselin
 name-sort: Asselin, Felix
 totals:
  - event: Brier
-   games: 32
-   wins: 16
-   losses: 16
-   inturn-total: 256
+   games: 40
+   wins: 20
+   losses: 20
+   inturn-total: 313
    inturn-percent: 79
-   outturn-total: 318
+   outturn-total: 410
    outturn-percent: 82
-   draw-total: 260
+   draw-total: 318
    draw-percent: 81
-   takeout-total: 314
+   takeout-total: 405
    takeout-percent: 81
-   shots-total: 574
+   shots-total: 723
    shots-percent: 81
 years:
  - year: 2018
@@ -90,9 +90,28 @@ years:
    takeout-percent: 80
    shots-total: 142
    shots-percent: 80
+ - year: 2025
+   event: Brier
+   team: "QC"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 57
+   inturn-percent: 77
+   outturn-total: 92
+   outturn-percent: 82
+   draw-total: 58
+   draw-percent: 80
+   takeout-total: 91
+   takeout-percent: 80
+   shots-total: 149
+   shots-percent: 80
 vs:
  - Abraham, Ryan
  - Barry, Josh
+ - Bartling, Aaron
  - Bezanson, Jared
  - Blyde, Greg
  - Borden, Robert
@@ -105,9 +124,12 @@ vs:
  - Chown, Jeff
  - Cocks, Adam
  - Crowell, Phil
+ - Delorey, D'arcy
  - Doering, Kyle
+ - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Flemming, Paul
  - Fry, Ryan
  - Gallant, Brett
@@ -118,6 +140,7 @@ vs:
  - Grattan, James
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
@@ -129,12 +152,14 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
  - Kingdon, Wade
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Kolomaya, Jared
@@ -150,6 +175,9 @@ vs:
  - Mackey, Peter
  - Mallais, Jeremy
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
+ - Mattern, Joshua
  - McCann, Andy
  - McDonah, Alex
  - McDonah, Evan
@@ -157,11 +185,14 @@ vs:
  - McEwen, Mike
  - Meister, Nicholas
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
@@ -169,19 +200,24 @@ vs:
  - Parsons, Cole
  - Pierce, Brent
  - Pillsworth, Mark
+ - Preston, Eric
+ - Purcell, Owen
  - Richard, Jeff
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Schille, Chris
  - Scoffin, Thomas
  - Smith, Greg
  - Smith, Tyler
  - St.Louis, Brady
  - St.Louis, David
+ - Steele, Nathan
  - Sturmay, Karsten
  - Tardi, Tyler
  - Walker, Geoff
  - Wallingham, Joe
  - White, Edward
+ - Wiebe, Ryan
  - Wozniak, Matt
 ---

@@ -574,6 +574,34 @@ vs:
       year: 2021
       draw: Round Robin(10)
       score: NT 4 - MB 7
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(5)
+      score: AB 4 - MB 5
  - name: Smith, Alex
    totals:
     - event: Brier
@@ -730,6 +758,34 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: MB 6 - NL 3
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(5)
+      score: AB 4 - MB 5
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -890,16 +946,44 @@ vs:
       year: 2024
       draw: Round Robin(14)
       score: MB 6 - NL 3
+ - name: Van Strien, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 93
+        percent: 94
         wins: 0
-        losses: 4
+        losses: 5
       player2:
         percent: 86
-        wins: 4
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -966,17 +1050,33 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: CA 9 - MB 7
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 100
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(9)
+      score: MB 3 - CA 7
  - name: Wettig, Sheldon
    totals:
     - event: Brier
       player1:
         percent: 91
-        wins: 2
+        wins: 3
         losses: 0
       player2:
         percent: 71
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -1010,6 +1110,22 @@ vs:
       year: 2023
       draw: Round Robin(15)
       score: WC 8 - NU 4
+    - player1:
+        team: 'MB'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: Young, Nathan
    totals:
     - event: Brier

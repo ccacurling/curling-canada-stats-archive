@@ -4,18 +4,18 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Brier
-   games: 257
-   wins: 181
-   losses: 76
-   inturn-total: 1953
+   games: 268
+   wins: 189
+   losses: 79
+   inturn-total: 2040
    inturn-percent: 86
-   outturn-total: 2820
+   outturn-total: 2936
    outturn-percent: 86
-   draw-total: 2082
+   draw-total: 2165
    draw-percent: 85
-   takeout-total: 2691
+   takeout-total: 2811
    takeout-percent: 86
-   shots-total: 4773
+   shots-total: 4976
    shots-percent: 86
 years:
  - year: 2003
@@ -396,6 +396,24 @@ years:
    takeout-percent: 88
    shots-total: 198
    shots-percent: 90
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 87
+   inturn-percent: 87
+   outturn-total: 116
+   outturn-percent: 89
+   draw-total: 83
+   draw-percent: 88
+   takeout-total: 120
+   takeout-percent: 88
+   shots-total: 203
+   shots-percent: 88
 vs:
  - Abraham, Ryan
  - Adam, Gerry
@@ -433,6 +451,7 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Bruce, Daniel
  - Bryant, Doug
  - Bubbs, John
  - Burgess, Craig
@@ -443,6 +462,7 @@ vs:
  - Camm, Mathew
  - Campbell, Robert
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
@@ -451,6 +471,7 @@ vs:
  - Champion, Kevin
  - Charest, Jean-Francois
  - Charette, Pierre
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
@@ -469,9 +490,11 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
  - Desilets, Mike
  - Dieno, Clint
+ - Dilello, Ty
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
@@ -489,6 +512,7 @@ vs:
  - Farnell, Jamie
  - Fawcett, Brian
  - Fecteau, Steve
+ - Feltham, Aaron
  - Fenton, Brad
  - Ferbey, Randy
  - Ferland, Martin
@@ -525,6 +549,7 @@ vs:
  - Gorveatt, Philip
  - Gould, Steve
  - Granchelli, Kris
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -549,6 +574,7 @@ vs:
  - Hicke, Dean
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Horning, Deane
  - Horvath, Alex
@@ -591,6 +617,7 @@ vs:
  - Kopf, Steve
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Lafleur, Daniel
  - Laing, Brent
@@ -640,9 +667,12 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey
@@ -759,6 +789,7 @@ vs:
  - Trevellyan, Todd
  - Turpin, Randy
  - Ursel, Bob
+ - Van Strien, Peter
  - Vaughan, Jason
  - Venance, Glenn
  - Villeneuve, Steeve

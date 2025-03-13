@@ -4,19 +4,19 @@ name: Tanner Horgan
 name-sort: Horgan, Tanner
 totals:
  - event: Brier
-   games: 15
-   wins: 9
-   losses: 6
-   inturn-total: 83
-   inturn-percent: 83
-   outturn-total: 145
-   outturn-percent: 82
-   draw-total: 120
-   draw-percent: 83
-   takeout-total: 108
-   takeout-percent: 81
-   shots-total: 228
-   shots-percent: 82
+   games: 23
+   wins: 15
+   losses: 8
+   inturn-total: 170
+   inturn-percent: 85
+   outturn-total: 216
+   outturn-percent: 85
+   draw-total: 178
+   draw-percent: 86
+   takeout-total: 208
+   takeout-percent: 85
+   shots-total: 386
+   shots-percent: 85
 years:
  - year: 2018
    event: Brier
@@ -86,22 +86,49 @@ years:
    takeout-percent: 80
    shots-total: 165
    shots-percent: 78
+ - year: 2025
+   event: Brier
+   team: "NO"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 6
+   losses: 2
+   inturn-total: 87
+   inturn-percent: 88
+   outturn-total: 71
+   outturn-percent: 91
+   draw-total: 58
+   draw-percent: 92
+   takeout-total: 100
+   takeout-percent: 88
+   shots-total: 158
+   shots-percent: 89
 vs:
  - Armstrong, Mike
  - Barry, Josh
  - Bottcher, Brendan
+ - Bruce, Daniel
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
+ - Chester, Corey
+ - deJong, Cameron
+ - Dilello, Ty
+ - Dobson, Paul
  - Dunstone, Matt
+ - Feltham, Aaron
  - Follett, Sam
  - Gallant, Brett
  - Gallant, Chris
  - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
+ - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Higgs, Jake
+ - Horvath, Alex
  - Jeffrey, Chris
  - Jones, Brennen
  - Kennedy, Glen
@@ -112,6 +139,8 @@ vs:
  - Knapp, Trent
  - Koe, Jamie
  - Koe, Kevin
+ - Krats, Joel
+ - Latimer, Shane
  - Laycock, Steve
  - Ledgerwood, Sean
  - Locke, Nathan
@@ -121,7 +150,9 @@ vs:
  - Manuel, Matthew
  - Martin, Karrick
  - McCann, Andy
+ - McDonell, Justin
  - Mcleod, Shadrach
+ - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Moulding, Darren
  - Muyres, Dallan
@@ -134,11 +165,15 @@ vs:
  - Robertson, Stephen
  - Samagalski, Derek
  - Saunders, Luke
+ - Schneider, Catlin
+ - Sluchinski, Aaron
  - Smitheram, Christian
  - St.Louis, Brady
  - St.Louis, David
  - Stringer, Ben
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Van Strien, Peter
  - Walker, Geoff
  - Wettig, Sheldon
  - Young, Nathan

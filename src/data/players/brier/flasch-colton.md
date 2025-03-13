@@ -4,18 +4,18 @@ name: Colton Flasch
 name-sort: Flasch, Colton
 totals:
  - event: Brier
-   games: 85
-   wins: 57
-   losses: 28
-   inturn-total: 801
+   games: 95
+   wins: 64
+   losses: 31
+   inturn-total: 870
    inturn-percent: 84
-   outturn-total: 812
+   outturn-total: 925
    outturn-percent: 84
-   draw-total: 684
+   draw-total: 759
    draw-percent: 84
-   takeout-total: 929
-   takeout-percent: 84
-   shots-total: 1613
+   takeout-total: 1036
+   takeout-percent: 85
+   shots-total: 1795
    shots-percent: 84
 years:
  - year: 2014
@@ -144,13 +144,35 @@ years:
    takeout-percent: 86
    shots-total: 240
    shots-percent: 85
+ - year: 2025
+   event: Brier
+   team: "SK"
+   position: Third
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 69
+   inturn-percent: 86
+   outturn-total: 113
+   outturn-percent: 88
+   draw-total: 75
+   draw-percent: 85
+   takeout-total: 107
+   takeout-percent: 89
+   shots-total: 182
+   shots-percent: 87
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Ardiel, Taylor
  - Arsenault, Jean-Michel
+ - Asselin, Felix
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
+ - Bassett, Norman
  - Beuk, Jonathan
  - Bezanson, Jared
  - Bice, Mark
@@ -170,6 +192,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Currie, Jeff
+ - Delorey, D'arcy
  - Dobson, Paul
  - Doherty, Robbie
  - Drummond, Kerr
@@ -188,6 +211,7 @@ vs:
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -200,6 +224,7 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -207,6 +232,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -230,6 +256,7 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
@@ -240,6 +267,8 @@ vs:
  - Meagher, Jeffrey
  - Menard, Jean-Michel
  - Menard, Philippe
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
@@ -259,9 +288,12 @@ vs:
  - Odishaw, Terry
  - Parsons, Cole
  - Pinder, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Roach, Darren
  - Roach, Jason
  - Rycroft, Carter
+ - Saccary, Scott
  - Sallows, Tom
  - Samagalski, Derek
  - Saunders, Luke
@@ -277,6 +309,7 @@ vs:
  - St.Louis, Brady
  - St.Louis, David
  - Steele, Colten
+ - Steele, Nathan
  - Stoughton, Jeff
  - Stringer, Ben
  - Sylvain, Eric
@@ -284,6 +317,7 @@ vs:
  - Thiessen, Nolan
  - Thompson, Stuart
  - Tremblay, Julien
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Webster, Dylan
@@ -291,6 +325,7 @@ vs:
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Winfield, Brett
  - Wozniak, Matt
  - Young, Nathan

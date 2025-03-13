@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Brier
-   games: 193
-   wins: 141
-   losses: 52
-   inturn-total: 783
+   games: 206
+   wins: 153
+   losses: 53
+   inturn-total: 866
    inturn-percent: 88
-   outturn-total: 2690
+   outturn-total: 2849
    outturn-percent: 92
-   draw-total: 3063
+   draw-total: 3287
    draw-percent: 92
-   takeout-total: 410
+   takeout-total: 428
    takeout-percent: 80
-   shots-total: 3473
+   shots-total: 3715
    shots-percent: 91
 years:
  - year: 2005
@@ -340,7 +340,26 @@ years:
    takeout-percent: 91
    shots-total: 192
    shots-percent: 95
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 83
+   inturn-percent: 92
+   outturn-total: 159
+   outturn-percent: 94
+   draw-total: 224
+   draw-percent: 94
+   takeout-total: 18
+   takeout-percent: 82
+   shots-total: 242
+   shots-percent: 93
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Aho, David
@@ -394,6 +413,7 @@ vs:
  - Danbrook, Jamie
  - Daneault, Richard
  - Darragh, Alan
+ - Delorey, D'arcy
  - Desjardins, Robert
  - Desrosiers, John
  - Dillon, Mike
@@ -401,6 +421,7 @@ vs:
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Dutiaume, Randy
  - Eldridge, Zach
@@ -445,6 +466,7 @@ vs:
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, Al
  - Harnden, E.J.
  - Harnden, Ryan
@@ -474,6 +496,7 @@ vs:
  - Jewer, Keith
  - Joanisse, Dean
  - Johnson, Bill
+ - Johnson, Trevor
  - Jones, Brennen
  - Jones, Scott
  - Jordison, Joel
@@ -485,6 +508,7 @@ vs:
  - Kidby, Dustin
  - Kilgallen, Shane
  - King, Brian
+ - Kleiter, Rylan
  - Klitch, Tyler
  - Knapp, Kelly
  - Koe, Jamie
@@ -520,6 +544,7 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
+ - Mattern, Joshua
  - Mawhinney, Spencer
  - McCann, Andy
  - McCarrel, Graeme
@@ -536,7 +561,9 @@ vs:
  - Menard, Philippe
  - Middaugh, Wayne
  - Middleton, Sterling
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Braeden
@@ -546,6 +573,7 @@ vs:
  - Muyres, Kirk
  - Nadeau, Jeff
  - Nantes, Dave
+ - Naugler, Adam
  - Naugler, Tom
  - Nedohin, David
  - Nelson, Randy
@@ -573,6 +601,8 @@ vs:
  - Porter, Geoff
  - Porter, Ryan
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Roach, Darren
@@ -585,6 +615,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -607,6 +638,7 @@ vs:
  - Spencer, Adam
  - St.Louis, Brady
  - Steele, Colten
+ - Steele, Nathan
  - Stoughton, Jeff
  - Stringer, Ben
  - Sturmay, Karsten
@@ -635,6 +667,7 @@ vs:
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Windsor, Brian
  - Winfield, Brett
  - Wood, Mike

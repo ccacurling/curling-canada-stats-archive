@@ -4,18 +4,18 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Brier
-   games: 97
-   wins: 64
-   losses: 33
-   inturn-total: 1322
+   games: 105
+   wins: 68
+   losses: 37
+   inturn-total: 1333
    inturn-percent: 91
-   outturn-total: 428
-   outturn-percent: 87
-   draw-total: 1526
+   outturn-total: 569
+   outturn-percent: 89
+   draw-total: 1667
    draw-percent: 91
-   takeout-total: 224
+   takeout-total: 235
    takeout-percent: 84
-   shots-total: 1750
+   shots-total: 1902
    shots-percent: 90
 years:
  - year: 2013
@@ -180,6 +180,24 @@ years:
    takeout-percent: 57
    shots-total: 144
    shots-percent: 90
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 11
+   inturn-percent: 95
+   outturn-total: 141
+   outturn-percent: 95
+   draw-total: 141
+   draw-percent: 94
+   takeout-total: 11
+   takeout-percent: 98
+   shots-total: 152
+   shots-percent: 95
 vs:
  - Abel, Clinton
  - Aho, David
@@ -191,15 +209,19 @@ vs:
  - Beuk, Jonathan
  - Boland, Adam
  - Borden, Robert
+ - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Bruce, Daniel
  - Burgess, Steve
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cochrane, Bryan
  - Cocks, Adam
@@ -207,12 +229,15 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
  - Doherty, Robbie
  - Drummond, Kerr
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -240,6 +265,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
  - Hunt, Matthew
@@ -258,6 +284,7 @@ vs:
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
+ - Krats, Joel
  - Laing, Brent
  - Latimer, Shane
  - Latos, Evan
@@ -279,9 +306,12 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Meagher, Jeffrey
  - Menard, Jean-Michel
@@ -335,6 +365,7 @@ vs:
  - Tardi, Tyler
  - Taylor, Andrew
  - Tremblay, Julien
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
  - Webster, Dylan

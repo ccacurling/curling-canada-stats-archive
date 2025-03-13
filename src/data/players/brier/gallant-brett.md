@@ -4,18 +4,18 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Brier
-   games: 150
-   wins: 111
-   losses: 39
-   inturn-total: 1197
+   games: 163
+   wins: 123
+   losses: 40
+   inturn-total: 1299
    inturn-percent: 86
-   outturn-total: 1671
-   outturn-percent: 88
-   draw-total: 1113
+   outturn-total: 1811
+   outturn-percent: 89
+   draw-total: 1199
    draw-percent: 87
-   takeout-total: 1755
+   takeout-total: 1911
    takeout-percent: 88
-   shots-total: 2868
+   shots-total: 3110
    shots-percent: 87
 years:
  - year: 2013
@@ -302,6 +302,24 @@ years:
    takeout-percent: 92
    shots-total: 198
    shots-percent: 92
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Second
+   alternate: false
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 102
+   inturn-percent: 88
+   outturn-total: 140
+   outturn-percent: 92
+   draw-total: 86
+   draw-percent: 90
+   takeout-total: 156
+   takeout-percent: 90
+   shots-total: 242
+   shots-percent: 90
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -343,9 +361,11 @@ vs:
  - Crowell, Phil
  - Currie, Jeff
  - Currie, Morgan
+ - Delorey, D'arcy
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -359,6 +379,7 @@ vs:
  - Forrest, Alex
  - Fournier, Mike
  - Fry, Ryan
+ - Gallant, Chris
  - Gauthier, Jacques
  - Geall, Sean
  - Giddens, Ryan
@@ -368,6 +389,7 @@ vs:
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harper, David
@@ -387,6 +409,7 @@ vs:
  - Janssen, Patrick
  - Jeffrey, Chris
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kean, Mark
  - Kendall, Lloyd
@@ -395,6 +418,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -424,6 +448,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
@@ -438,7 +463,9 @@ vs:
  - Menard, Philippe
  - Middaugh, Wayne
  - Middleton, Sterling
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morgan, Tyler
  - Morris, John
  - Moskowy, Braeden
@@ -447,6 +474,7 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Adam
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -462,6 +490,8 @@ vs:
  - Pillsworth, Mark
  - Pinder, Jordan
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Quevillon, Louis
  - Richard, Jeff
  - Roach, Darren
@@ -469,6 +499,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -484,6 +515,7 @@ vs:
  - Spencer, Adam
  - St.Louis, David
  - Steele, Colten
+ - Steele, Nathan
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Sylvain, Eric
@@ -505,6 +537,7 @@ vs:
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt

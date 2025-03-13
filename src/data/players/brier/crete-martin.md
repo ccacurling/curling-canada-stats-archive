@@ -4,18 +4,18 @@ name: Martin Crete
 name-sort: Crete, Martin
 totals:
  - event: Brier
-   games: 112
-   wins: 58
-   losses: 54
-   inturn-total: 657
+   games: 120
+   wins: 62
+   losses: 58
+   inturn-total: 717
    inturn-percent: 83
-   outturn-total: 1477
+   outturn-total: 1569
    outturn-percent: 83
-   draw-total: 835
+   draw-total: 905
    draw-percent: 83
-   takeout-total: 1299
+   takeout-total: 1381
    takeout-percent: 83
-   shots-total: 2134
+   shots-total: 2286
    shots-percent: 83
 years:
  - year: 2008
@@ -250,6 +250,24 @@ years:
    takeout-percent: 79
    shots-total: 146
    shots-percent: 81
+ - year: 2025
+   event: Brier
+   team: "QC"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 60
+   inturn-percent: 86
+   outturn-total: 92
+   outturn-percent: 89
+   draw-total: 70
+   draw-percent: 85
+   takeout-total: 82
+   takeout-percent: 91
+   shots-total: 152
+   shots-percent: 88
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -257,6 +275,7 @@ vs:
  - Balsdon, Greg
  - Bardsley, Mike
  - Barry, Josh
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
@@ -288,9 +307,11 @@ vs:
  - Dacey, Mark
  - Daneault, Richard
  - Darragh, Alan
+ - Delorey, D'arcy
  - Desrosiers, John
  - Doering, Kyle
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -305,6 +326,7 @@ vs:
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gauthier, Jacques
  - Gavin, Martin
@@ -318,6 +340,7 @@ vs:
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
@@ -337,6 +360,7 @@ vs:
  - Jeffrey, Chris
  - Jensen, Trygg
  - Jewer, Keith
+ - Johnson, Trevor
  - Jones, Scott
  - Jordison, Joel
  - Kammerlock, Dan
@@ -346,6 +370,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -374,6 +399,7 @@ vs:
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
  - McCarville, Mike
  - McDermaid, Donald
  - McDonah, Alex
@@ -385,7 +411,9 @@ vs:
  - Meister, Nicholas
  - Middaugh, Wayne
  - Middleton, Sterling
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -393,6 +421,7 @@ vs:
  - Muyres, Dallan
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Adam
  - Naugler, Tom
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -410,6 +439,8 @@ vs:
  - Pierce, Brent
  - Pillsworth, Mark
  - Pinder, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Richard, Jeff
@@ -420,6 +451,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -438,6 +470,7 @@ vs:
  - Solberg, Jon
  - Spencer, Adam
  - St.Louis, Brady
+ - Steele, Nathan
  - Stoughton, Jeff
  - Sturmay, Karsten
  - Symonds, Andrew
@@ -454,5 +487,6 @@ vs:
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Wozniak, Matt
 ---

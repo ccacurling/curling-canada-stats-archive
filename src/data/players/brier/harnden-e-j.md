@@ -4,18 +4,18 @@ name: E.J. Harnden
 name-sort: Harnden, E.J.
 totals:
  - event: Brier
-   games: 182
-   wins: 124
-   losses: 58
-   inturn-total: 1384
-   inturn-percent: 86
-   outturn-total: 2000
+   games: 193
+   wins: 133
+   losses: 60
+   inturn-total: 1471
+   inturn-percent: 87
+   outturn-total: 2125
    outturn-percent: 87
-   draw-total: 1313
-   draw-percent: 85
-   takeout-total: 2071
+   draw-total: 1392
+   draw-percent: 86
+   takeout-total: 2204
    takeout-percent: 88
-   shots-total: 3384
+   shots-total: 3596
    shots-percent: 87
 years:
  - year: 2008
@@ -288,6 +288,24 @@ years:
    takeout-percent: 89
    shots-total: 199
    shots-percent: 89
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 87
+   inturn-percent: 89
+   outturn-total: 125
+   outturn-percent: 88
+   draw-total: 79
+   draw-percent: 90
+   takeout-total: 133
+   takeout-percent: 88
+   shots-total: 212
+   shots-percent: 88
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -311,11 +329,13 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Bruce, Daniel
  - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
@@ -336,9 +356,12 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
  - Desrosiers, John
+ - Dilello, Ty
  - Dion, William
+ - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
  - Drummond, Kerr
@@ -346,6 +369,7 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -381,6 +405,8 @@ vs:
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
@@ -410,6 +436,7 @@ vs:
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
@@ -447,10 +474,13 @@ vs:
  - McCann, Andy
  - McDermaid, Donald
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey

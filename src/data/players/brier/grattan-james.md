@@ -4,18 +4,18 @@ name: James Grattan
 name-sort: Grattan, James
 totals:
  - event: Brier
-   games: 166
-   wins: 76
-   losses: 90
-   inturn-total: 1210
+   games: 174
+   wins: 79
+   losses: 95
+   inturn-total: 1283
    inturn-percent: 78
-   outturn-total: 1897
+   outturn-total: 1971
    outturn-percent: 81
-   draw-total: 1291
+   draw-total: 1353
    draw-percent: 77
-   takeout-total: 1816
+   takeout-total: 1901
    takeout-percent: 82
-   shots-total: 3107
+   shots-total: 3254
    shots-percent: 80
 years:
  - year: 1997
@@ -306,6 +306,24 @@ years:
    takeout-percent: 83
    shots-total: 143
    shots-percent: 73
+ - year: 2025
+   event: Brier
+   team: "NB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 73
+   inturn-percent: 76
+   outturn-total: 74
+   outturn-percent: 83
+   draw-total: 62
+   draw-percent: 76
+   takeout-total: 85
+   takeout-percent: 82
+   shots-total: 147
+   shots-percent: 80
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -331,6 +349,7 @@ vs:
  - Breckon, Graham
  - Brodersen, Erik
  - Brown, Ken
+ - Bruce, Daniel
  - Bryant, Doug
  - Bubbs, John
  - Buchan, Chris
@@ -344,11 +363,13 @@ vs:
  - Campbell, Robert
  - Carey, Dan
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Cayouette, Maurice
  - Champion, Kevin
  - Charette, Pierre
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cochrane, Bryan
@@ -365,10 +386,12 @@ vs:
  - Danbrook, Jamie
  - Daneault, Richard
  - Darragh, Alan
+ - deJong, Cameron
  - Desjardins, Robert
  - Desilets, Mike
  - Desrosiers, John
  - Dieno, Clint
+ - Dilello, Ty
  - Dillon, Mike
  - Dion, William
  - Doerr, Bob
@@ -383,6 +406,7 @@ vs:
  - Errington, Derek
  - Farnell, Jamie
  - Fawcett, Brian
+ - Feltham, Aaron
  - Fenton, Brad
  - Ferbey, Randy
  - Fitzner-LeBlanc, Ian
@@ -440,6 +464,7 @@ vs:
  - Hodgson, Colin
  - Hong, Doug
  - Hopkins, Jeff
+ - Horgan, Jacob
  - Horgan, Tanner
  - Horning, Deane
  - Horvath, Alex
@@ -481,6 +506,7 @@ vs:
  - Landry, Jeremy
  - Lang, Mark
  - Lappalainen, Art
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
@@ -517,11 +543,14 @@ vs:
  - McCarville, Mike
  - McCusker, Brian
  - McDermaid, Donald
+ - McDonell, Justin
  - McEwen, Mike
  - McGowan, Nolin
  - McKee, Darrell
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - McPhee, Barry
  - Mead, Jon
  - Menard, Jean-Michel
@@ -603,6 +632,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Garth
  - Smith, Jeff
@@ -620,6 +650,7 @@ vs:
  - Sumner, Kevin
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
@@ -631,6 +662,7 @@ vs:
  - Turpin, Randy
  - Ursel, Bob
  - Van Den Berghe, Garry
+ - Van Strien, Peter
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walchuk, Don
@@ -644,6 +676,7 @@ vs:
  - Wempe, Brian
  - Werenich, Ed
  - Westphal, Don
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark

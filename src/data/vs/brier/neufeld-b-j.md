@@ -34,12 +34,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 86
         wins: 3
-        losses: 6
+        losses: 7
       player2:
         percent: 88
-        wins: 6
+        wins: 7
         losses: 3
    games:
     - player1:
@@ -186,6 +186,22 @@ vs:
       year: 2023
       draw: Final(24)
       score: CA 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(9)
+      score: MB 3 - CA 7
  - name: Njegovan, Connor
    totals:
     - event: Brier
@@ -1094,6 +1110,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: MB 6 - CA 4
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(5)
+      score: AB 4 - MB 5
  - name: Smith, Alex
    totals:
     - event: Brier
@@ -1498,6 +1542,34 @@ vs:
       year: 2024
       draw: Round Robin(18)
       score: NL 4 - MB 12
+ - name: Tardi, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(5)
+      score: AB 4 - MB 5
  - name: Taylor, Andrew
    totals:
     - event: Brier
@@ -1866,16 +1938,44 @@ vs:
       year: 2024
       draw: Round Robin(18)
       score: NL 4 - MB 12
+ - name: Van Strien, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 70
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
         percent: 84
         wins: 3
-        losses: 7
+        losses: 8
       player2:
-        percent: 91
-        wins: 7
+        percent: 90
+        wins: 8
         losses: 3
    games:
     - player1:
@@ -2038,6 +2138,22 @@ vs:
       year: 2023
       draw: Final(24)
       score: CA 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(9)
+      score: MB 3 - CA 7
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -2102,13 +2218,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 97
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 0
       player2:
-        percent: 83
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -2126,6 +2242,22 @@ vs:
       year: 2023
       draw: Round Robin(4)
       score: MB 14 - NU 2
+    - player1:
+        team: 'MB'
+        position: Third
+        percent: 70
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: White, Edward
    totals:
     - event: Brier

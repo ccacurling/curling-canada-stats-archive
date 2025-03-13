@@ -4,19 +4,19 @@ name: Joe Wallingham
 name-sort: Wallingham, Joe
 totals:
  - event: Brier
-   games: 27
-   wins: 5
-   losses: 22
-   inturn-total: 159
-   inturn-percent: 76
-   outturn-total: 273
+   games: 35
+   wins: 9
+   losses: 26
+   inturn-total: 219
+   inturn-percent: 78
+   outturn-total: 364
    outturn-percent: 82
-   draw-total: 289
+   draw-total: 420
    draw-percent: 83
-   takeout-total: 143
-   takeout-percent: 73
-   shots-total: 432
-   shots-percent: 80
+   takeout-total: 163
+   takeout-percent: 74
+   shots-total: 583
+   shots-percent: 81
 years:
  - year: 2020
    event: Brier
@@ -124,11 +124,31 @@ years:
    takeout-percent: 84
    shots-total: 88
    shots-percent: 87
+ - year: 2025
+   event: Brier
+   team: "YT"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 60
+   inturn-percent: 84
+   outturn-total: 91
+   outturn-percent: 82
+   draw-total: 131
+   draw-percent: 83
+   takeout-total: 20
+   takeout-percent: 80
+   shots-total: 151
+   shots-percent: 83
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Ted
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bonot, Trevor
  - Bottcher, Brendan
@@ -139,6 +159,7 @@ vs:
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
+ - Delorey, D'arcy
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
@@ -146,10 +167,12 @@ vs:
  - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gauthier, Jacques
  - Ginter, Jason
  - Gordon, Rob
  - Grattan, James
+ - Hall, Matthew
  - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
@@ -157,11 +180,14 @@ vs:
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
+ - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Krats, Joel
@@ -177,30 +203,41 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Muyres, Kirk
+ - Naugler, Adam
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Parsons, Cole
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Rycroft, Carter
+ - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Simmons, Pat
  - Sluchinski, Aaron
  - Smith, Tyler
  - Spencer, Adam
+ - Steele, Nathan
  - Stringer, Ben
  - Thiessen, Brad
  - Trepanier, Jean-Francois
  - White, Edward
+ - Wiebe, Ryan
  - Young, Nathan
 ---

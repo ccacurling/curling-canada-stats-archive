@@ -66,13 +66,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
-        wins: 1
+        percent: 88
+        wins: 2
         losses: 0
       player2:
-        percent: 80
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -90,17 +90,33 @@ vs:
       year: 2023
       draw: Round Robin(3)
       score: QC 8 - YT 2
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: YT 5 - QC 7
  - name: White, Edward
    totals:
     - event: Brier
       player1:
         percent: 94
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 84
+        percent: 91
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'QC'
@@ -118,6 +134,50 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: PE 4 - QC 7
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: QC 4 - ON 11
  - name: Wozniak, Matt
    totals:
     - event: Brier

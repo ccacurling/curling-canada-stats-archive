@@ -4,19 +4,19 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Brier
-   games: 101
-   wins: 70
-   losses: 31
-   inturn-total: 1025
-   inturn-percent: 85
-   outturn-total: 817
-   outturn-percent: 83
-   draw-total: 704
-   draw-percent: 83
-   takeout-total: 1138
-   takeout-percent: 85
-   shots-total: 1842
-   shots-percent: 84
+   games: 123
+   wins: 86
+   losses: 37
+   inturn-total: 1169
+   inturn-percent: 86
+   outturn-total: 1085
+   outturn-percent: 85
+   draw-total: 864
+   draw-percent: 84
+   takeout-total: 1390
+   takeout-percent: 86
+   shots-total: 2254
+   shots-percent: 85
 years:
  - year: 2017
    event: Brier
@@ -162,6 +162,42 @@ years:
    takeout-percent: 84
    shots-total: 192
    shots-percent: 85
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 72
+   inturn-percent: 86
+   outturn-total: 134
+   outturn-percent: 90
+   draw-total: 80
+   draw-percent: 89
+   takeout-total: 126
+   takeout-percent: 89
+   shots-total: 206
+   shots-percent: 89
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Second
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 72
+   inturn-percent: 86
+   outturn-total: 134
+   outturn-percent: 90
+   draw-total: 80
+   draw-percent: 89
+   takeout-total: 126
+   takeout-percent: 89
+   shots-total: 206
+   shots-percent: 89
 vs:
  - Abel, Clinton
  - Aho, David
@@ -175,13 +211,16 @@ vs:
  - Bonot, Trevor
  - Borden, Robert
  - Brannen, Jamie
+ - Bruce, Daniel
  - Burgess, Steve
  - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cochrane, Bryan
  - Cocks, Adam
@@ -189,12 +228,15 @@ vs:
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -240,6 +282,7 @@ vs:
  - Kohlenberg, Dale
  - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -257,12 +300,16 @@ vs:
  - March, Tim
  - Marsh, Dan
  - Marsh, Kevin
+ - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Menard, Jean-Michel
  - Menard, Philippe
@@ -298,6 +345,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Alex
  - Smith, Greg
@@ -314,9 +362,11 @@ vs:
  - Thomas, Colin
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
  - Withycombe, Ian
  - Wood, Brad

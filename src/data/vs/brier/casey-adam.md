@@ -3566,6 +3566,34 @@ vs:
       year: 2012
       draw: Round Robin(12)
       score: NL 10 - SK 6
+ - name: Latimer, Shane
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 69
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 12
  - name: Laycock, Steve
    totals:
     - event: Brier
@@ -4366,6 +4394,34 @@ vs:
       year: 2014
       draw: Round Robin(1)
       score: NS 2 - NL 7
+ - name: McDonell, Justin
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 12
  - name: McEwen, Mike
    totals:
     - event: Brier
@@ -7326,6 +7382,34 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: QC 7 - WC 9
+ - name: Van Strien, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 12
  - name: Villeneuve, Steeve
    totals:
     - event: Brier
@@ -7523,12 +7607,12 @@ vs:
     - event: Brier
       player1:
         percent: 92
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 67
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -7546,6 +7630,22 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NU 5 - MB 11
+    - player1:
+        team: 'CA'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 12
  - name: Whitehead, Kevin
    totals:
     - event: Brier

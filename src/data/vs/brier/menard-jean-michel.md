@@ -102,6 +102,34 @@ vs:
       year: 2003
       draw: Round Robin(15)
       score: TR 5 - QC 8
+ - name: Mitchell, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: QC 4 - ON 11
  - name: Mittelstadt, Kelly
    totals:
     - event: Brier
@@ -146,6 +174,34 @@ vs:
       year: 2013
       draw: Round Robin(12)
       score: NS 5 - QC 8
+ - name: Mooibroek, Sam
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: QC 4 - ON 11
  - name: Morris, John
    totals:
     - event: Brier
@@ -562,6 +618,34 @@ vs:
       year: 2016
       draw: Round Robin(7)
       score: QC 3 - SK 7
+ - name: Naugler, Adam
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: QC 9 - NT 8
  - name: Naugler, Tom
    totals:
     - event: Brier
@@ -1410,6 +1494,62 @@ vs:
       year: 2005
       draw: Round Robin(9)
       score: QC 6 - NB 4
+ - name: Preston, Eric
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: QC 9 - NT 8
+ - name: Purcell, Owen
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: NS 7 - QC 6
  - name: Rafuse, Brian
    totals:
     - event: Brier
@@ -1806,12 +1946,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 93
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 86
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1830,6 +1970,22 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: QC 10 - NS 6
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: NS 7 - QC 6
  - name: Samagalski, Derek
    totals:
     - event: Brier
@@ -1858,6 +2014,34 @@ vs:
       year: 2015
       draw: Round Robin(12)
       score: MB 4 - QC 7
+ - name: Saunders, Luke
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: NS 7 - QC 6
  - name: Savill, Craig
    totals:
     - event: Brier
@@ -2218,6 +2402,34 @@ vs:
       year: 2017
       draw: Round Robin(6)
       score: SK 3 - QC 8
+ - name: Scoffin, Thomas
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: YT 5 - QC 7
  - name: Scoffin, Wade
    totals:
     - event: Brier
@@ -2546,6 +2758,34 @@ vs:
       year: 2014
       draw: Bronze(21)
       score: MB 9 - QC 5
+ - name: Smith, Tyler
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
  - name: Solberg, Jon
    totals:
     - event: Brier
@@ -2662,6 +2902,34 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: QC 9 - ON 5
+ - name: Steele, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: QC 4 - ON 11
  - name: Steski, John
    totals:
     - event: Brier
@@ -3326,6 +3594,34 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: NL 7 - QC 3
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: YT 5 - QC 7
  - name: Ward, Mark
    totals:
     - event: Brier
@@ -3410,6 +3706,34 @@ vs:
       year: 2003
       draw: Round Robin(12)
       score: SK 5 - QC 4
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 98
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
  - name: Whitehead, Kevin
    totals:
     - event: Brier
@@ -3498,6 +3822,34 @@ vs:
       year: 2015
       draw: Round Robin(11)
       score: QC 8 - NT 5
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: QC 4 - ON 11
  - name: Windsor, Brian
    totals:
     - event: Brier

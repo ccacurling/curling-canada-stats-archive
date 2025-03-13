@@ -74,6 +74,34 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+ - name: Steele, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
  - name: Stringer, Ben
    totals:
     - event: Brier
@@ -218,12 +246,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 74
         wins: 0
-        losses: 2
+        losses: 3
       player2:
         percent: 96
-        wins: 2
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -258,6 +286,22 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: PE 4 - QC 7
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
  - name: Venance, Glenn
    totals:
     - event: Brier
@@ -350,12 +394,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 58
+        percent: 63
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 75
-        wins: 2
+        percent: 79
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -390,6 +434,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: YT 9 - PE 2
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: YT 8 - PE 5
  - name: Webster, Dylan
    totals:
     - event: Brier
@@ -474,6 +534,34 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 61
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Fourth
+        percent: 61
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
  - name: Young, Nathan
    totals:
     - event: Brier

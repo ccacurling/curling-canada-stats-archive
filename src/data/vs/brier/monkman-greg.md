@@ -2,6 +2,34 @@
 title: Greg Monkman Head-to-head
 name: Monkman, Greg
 vs:
+ - name: Morkin, Gary
+   totals:
+    - event: Brier
+      player1:
+        percent: 82
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 82
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: BC 5 - AB 3
  - name: Moss, Steve
    totals:
     - event: Brier
@@ -58,6 +86,34 @@ vs:
       year: 1992
       draw: Round Robin(9)
       score: MB 7 - BC 5
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(4)
+      score: NL 5 - BC 6
  - name: Novakowski, Bob
    totals:
     - event: Brier
@@ -142,6 +198,34 @@ vs:
       year: 1992
       draw: Round Robin(13)
       score: BC 5 - NO 7
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(4)
+      score: NL 5 - BC 6
  - name: Peters, Vic
    totals:
     - event: Brier
@@ -310,6 +394,34 @@ vs:
       year: 1992
       draw: Round Robin(15)
       score: SK 5 - BC 7
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(4)
+      score: NL 5 - BC 6
  - name: Van Dine, Steve
    totals:
     - event: Brier
@@ -338,6 +450,34 @@ vs:
       year: 1992
       draw: Round Robin(5)
       score: TR 7 - BC 6
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'BC'
+        position: Third
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(4)
+      score: NL 5 - BC 6
  - name: Young, Neil
    totals:
     - event: Brier

@@ -260,10 +260,10 @@ vs:
       player1:
         percent: 87
         wins: 7
-        losses: 8
+        losses: 9
       player2:
-        percent: 92
-        wins: 8
+        percent: 93
+        wins: 9
         losses: 7
    games:
     - player1:
@@ -506,6 +506,22 @@ vs:
       year: 2024
       draw: Page 1-2(22)
       score: CA 7 - AB 3
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 98
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Final(24)
+      score: AB 5 - MB 3
  - name: Higgs, Jake
    totals:
     - event: Brier
@@ -626,17 +642,73 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: WC 8 - NO 5
+ - name: Horgan, Jacob
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(7)
+      score: MB 7 - NO 8
+ - name: Horgan, Tanner
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(7)
+      score: MB 7 - NO 8
  - name: Horvath, Alex
    totals:
     - event: Brier
       player1:
-        percent: 81
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
-        percent: 86
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -654,6 +726,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: CA 6 - BC 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(5)
+      score: BC 4 - MB 7
  - name: Howard, Glenn
    totals:
     - event: Brier
@@ -1006,12 +1094,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 93
+        percent: 95
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 85
-        wins: 0
+        percent: 89
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1030,6 +1118,22 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: CA 9 - MB 7
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Final(24)
+      score: AB 5 - MB 3
  - name: Janssen, Patrick
    totals:
     - event: Brier
@@ -1366,12 +1470,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 86
         wins: 5
-        losses: 5
+        losses: 6
       player2:
-        percent: 85
-        wins: 5
+        percent: 86
+        wins: 6
         losses: 5
    games:
     - player1:
@@ -1534,6 +1638,22 @@ vs:
       year: 2024
       draw: Page 1-2(22)
       score: CA 7 - AB 3
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 98
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Final(24)
+      score: AB 5 - MB 3
  - name: Kennedy, Mike
    totals:
     - event: Brier
@@ -1903,12 +2023,12 @@ vs:
     - event: Brier
       player1:
         percent: 88
-        wins: 6
+        wins: 7
         losses: 8
       player2:
-        percent: 79
+        percent: 80
         wins: 8
-        losses: 6
+        losses: 7
    games:
     - player1:
         team: 'NO'
@@ -2134,6 +2254,22 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: CA 8 - AB 3
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(1)
+      score: AB 2 - MB 6
  - name: Kohlenberg, Dale
    totals:
     - event: Brier
@@ -2302,6 +2438,34 @@ vs:
       year: 2010
       draw: Round Robin(7)
       score: NO 7 - SK 6
+ - name: Krats, Joel
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: NB 3 - MB 9
  - name: Kuhn, Ryan
    totals:
     - event: Brier
@@ -2662,13 +2826,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 73
+        percent: 59
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -2686,6 +2850,22 @@ vs:
       year: 2024
       draw: Round Robin(11)
       score: NU 3 - CA 8
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 45
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: MB 13 - NU 2
  - name: Latos, Evan
    totals:
     - event: Brier
@@ -3650,13 +3830,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 2
       player2:
-        percent: 84
+        percent: 87
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -3722,17 +3902,33 @@ vs:
       year: 2024
       draw: Final(24)
       score: SK 5 - CA 9
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Playoff(19)
+      score: SK 5 - MB 6
  - name: Marsh, Kevin
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 2
       player2:
         percent: 84
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -3798,17 +3994,33 @@ vs:
       year: 2024
       draw: Final(24)
       score: SK 5 - CA 9
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Playoff(19)
+      score: SK 5 - MB 6
  - name: Martin, Karrick
    totals:
     - event: Brier
       player1:
         percent: 89
-        wins: 5
+        wins: 6
         losses: 4
       player2:
         percent: 90
         wins: 4
-        losses: 5
+        losses: 6
    games:
     - player1:
         team: 'NO'
@@ -3954,6 +4166,22 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: CA 8 - AB 3
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(1)
+      score: AB 2 - MB 6
  - name: Martin, Kevin
    totals:
     - event: Brier
@@ -4122,13 +4350,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 80
-        wins: 1
+        percent: 81
+        wins: 2
         losses: 2
       player2:
         percent: 83
         wins: 2
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -4178,6 +4406,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: NO 6 - NB 7
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NB'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: NB 3 - MB 9
  - name: McDermaid, Donald
    totals:
     - event: Brier
@@ -4234,17 +4478,45 @@ vs:
       year: 2019
       draw: Pool(16)
       score: ON 7 - NO 6
+ - name: McDonell, Justin
+   totals:
+    - event: Brier
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 55
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 55
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: MB 13 - NU 2
  - name: McEwen, Mike
    totals:
     - event: Brier
       player1:
         percent: 89
-        wins: 7
+        wins: 8
         losses: 6
       player2:
         percent: 83
         wins: 6
-        losses: 7
+        losses: 8
    games:
     - player1:
         team: 'NO'
@@ -4454,6 +4726,22 @@ vs:
       year: 2024
       draw: Final(24)
       score: SK 5 - CA 9
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Playoff(19)
+      score: SK 5 - MB 6
  - name: McKee, Darrell
    totals:
     - event: Brier
@@ -4538,6 +4826,62 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: CA 5 - NT 7
+ - name: McMillan, Ian
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 93
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'NO'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(7)
+      score: MB 7 - NO 8
+ - name: NcNeil-Lamswood, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(11)
+      score: NL 4 - MB 5
  - name: Meachem, Shaun Myles
    totals:
     - event: Brier
@@ -5971,12 +6315,12 @@ vs:
     - event: Brier
       player1:
         percent: 91
-        wins: 7
+        wins: 8
         losses: 5
       player2:
-        percent: 84
+        percent: 85
         wins: 5
-        losses: 7
+        losses: 8
    games:
     - player1:
         team: 'NO'
@@ -6170,6 +6514,22 @@ vs:
       year: 2023
       draw: Final(24)
       score: CA 7 - MB 5
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: MB 8 - MB 6
  - name: Neufeld, Denni
    totals:
     - event: Brier
@@ -6295,12 +6655,12 @@ vs:
     - event: Brier
       player1:
         percent: 87
-        wins: 7
+        wins: 9
         losses: 9
       player2:
         percent: 86
         wins: 9
-        losses: 7
+        losses: 9
    games:
     - player1:
         team: 'NO'
@@ -6558,17 +6918,49 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: NO 7 - WC 8
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(17)
+      score: MB 7 - CA 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Page 1-2(22)
+      score: CA 4 - MB 7
  - name: Njegovan, Connor
    totals:
     - event: Brier
       player1:
-        percent: 89
-        wins: 3
+        percent: 88
+        wins: 4
         losses: 1
       player2:
         percent: 89
         wins: 1
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'NO'
@@ -6634,6 +7026,22 @@ vs:
       year: 2024
       draw: Playoff(19)
       score: CA 9 - MB 7
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: MB 8 - MB 6
  - name: Noftall, David
    totals:
     - event: Brier
@@ -8082,13 +8490,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 1
       player2:
-        percent: 81
+        percent: 80
         wins: 1
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NO'
@@ -8138,6 +8546,22 @@ vs:
       year: 2022
       draw: Playoff(20)
       score: NO 3 - SK 10
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: MB 8 - MB 6
  - name: Scoffin, Thomas
    totals:
     - event: Brier
@@ -8434,13 +8858,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 98
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 0
       player2:
-        percent: 72
+        percent: 77
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -8458,6 +8882,22 @@ vs:
       year: 2024
       draw: Round Robin(17)
       score: CA 10 - AB 4
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(1)
+      score: AB 2 - MB 6
  - name: Smallwood, Robert
    totals:
     - event: Brier
@@ -9014,13 +9454,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 98
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 0
       player2:
-        percent: 64
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -9038,6 +9478,22 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: CA 8 - WC 3
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(1)
+      score: AB 2 - MB 6
  - name: Thiessen, Brad
    totals:
     - event: Brier
@@ -9390,13 +9846,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 1
+        percent: 92
+        wins: 2
         losses: 0
       player2:
-        percent: 58
+        percent: 65
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NO'
@@ -9414,6 +9870,22 @@ vs:
       year: 2022
       draw: Round Robin(12)
       score: NU 2 - NO 12
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: MB 13 - NU 2
  - name: Vaughan, Jason
    totals:
     - event: Brier
@@ -9563,12 +10035,12 @@ vs:
     - event: Brier
       player1:
         percent: 86
-        wins: 6
+        wins: 8
         losses: 8
       player2:
         percent: 92
         wins: 8
-        losses: 6
+        losses: 8
    games:
     - player1:
         team: 'NO'
@@ -9794,6 +10266,38 @@ vs:
       year: 2022
       draw: Round Robin(6)
       score: NO 7 - WC 8
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(17)
+      score: MB 7 - CA 6
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Page 1-2(22)
+      score: CA 4 - MB 7
  - name: Watson, Aaron
    totals:
     - event: Brier
@@ -9854,13 +10358,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 92
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 78
+        percent: 71
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'CA'
@@ -9878,6 +10382,22 @@ vs:
       year: 2024
       draw: Round Robin(11)
       score: NU 3 - CA 8
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: MB 13 - NU 2
  - name: White, Edward
    totals:
     - event: Brier

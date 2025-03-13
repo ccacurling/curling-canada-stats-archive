@@ -4,18 +4,18 @@ name: Brent Laing
 name-sort: Laing, Brent
 totals:
  - event: Brier
-   games: 197
-   wins: 146
+   games: 198
+   wins: 147
    losses: 51
    inturn-total: 1799
    inturn-percent: 88
-   outturn-total: 1854
+   outturn-total: 1860
    outturn-percent: 88
-   draw-total: 1748
+   draw-total: 1750
    draw-percent: 88
-   takeout-total: 1905
+   takeout-total: 1909
    takeout-percent: 88
-   shots-total: 3653
+   shots-total: 3659
    shots-percent: 88
 years:
  - year: 2002
@@ -288,6 +288,22 @@ years:
    takeout-percent: 88
    shots-total: 203
    shots-percent: 87
+ - year: 2025
+   event: Brier
+   team: "SK"
+   position: Second
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   outturn-total: 6
+   outturn-percent: 92
+   draw-total: 2
+   draw-percent: 100
+   takeout-total: 4
+   takeout-percent: 88
+   shots-total: 6
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -301,6 +317,8 @@ vs:
  - Barker, Richard
  - Barry, Josh
  - Bartlett, Don
+ - Bartling, Aaron
+ - Bassett, Norman
  - Berthelot, Marco
  - Bezanson, Jared
  - Bilesky, Andrew
@@ -342,6 +360,7 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Deis, Ryan
+ - Delorey, D'arcy
  - Desjardins, Robert
  - Desrosiers, John
  - Dillon, Mike
@@ -524,6 +543,7 @@ vs:
  - Pierce, Brent
  - Pinder, Jordan
  - Porter, Ryan
+ - Preston, Eric
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Reid, Serge

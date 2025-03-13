@@ -7,6 +7,16 @@ totals:
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 14
+   inturn-percent: 75
+   outturn-total: 6
+   outturn-percent: 75
+   draw-total: 17
+   draw-percent: 79
+   takeout-total: 3
+   takeout-percent: 50
+   shots-total: 20
+   shots-percent: 75
 years:
  - year: 1982
    event: Brier
@@ -16,6 +26,16 @@ years:
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 14
+   inturn-percent: 75
+   outturn-total: 6
+   outturn-percent: 75
+   draw-total: 17
+   draw-percent: 79
+   takeout-total: 3
+   takeout-percent: 50
+   shots-total: 20
+   shots-percent: 75
 vs:
  - Aitken, Don
  - Armour, Doug

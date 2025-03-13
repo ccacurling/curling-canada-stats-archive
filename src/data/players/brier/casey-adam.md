@@ -4,18 +4,18 @@ name: Adam Casey
 name-sort: Casey, Adam
 totals:
  - event: Brier
-   games: 101
-   wins: 48
+   games: 102
+   wins: 49
    losses: 53
-   inturn-total: 823
+   inturn-total: 825
    inturn-percent: 81
-   outturn-total: 1072
+   outturn-total: 1076
    outturn-percent: 83
-   draw-total: 801
+   draw-total: 802
    draw-percent: 81
-   takeout-total: 1094
+   takeout-total: 1099
    takeout-percent: 83
-   shots-total: 1895
+   shots-total: 1901
    shots-percent: 82
 years:
  - year: 2012
@@ -180,6 +180,24 @@ years:
    takeout-percent: 86
    shots-total: 184
    shots-percent: 84
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Second
+   alternate: true
+   games: 1
+   wins: 1
+   losses: 0
+   inturn-total: 2
+   inturn-percent: 75
+   outturn-total: 4
+   outturn-percent: 100
+   draw-total: 1
+   draw-percent: 50
+   takeout-total: 5
+   takeout-percent: 100
+   shots-total: 6
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
@@ -262,6 +280,7 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
@@ -282,6 +301,7 @@ vs:
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - NcNeil-Lamswood, Ryan
@@ -338,6 +358,7 @@ vs:
  - Thiessen, Brad
  - Thiessen, Nolan
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff

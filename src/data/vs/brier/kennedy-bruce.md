@@ -142,6 +142,34 @@ vs:
       year: 1987
       draw: Round Robin(4)
       score: NO 8 - MB 10
+ - name: Laidlaw, Bob
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 60
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 60
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: MacDonald, Peter
    totals:
     - event: Brier
@@ -638,6 +666,34 @@ vs:
       year: 1980
       draw: Round Robin(6)
       score: NO 11 - MB 3
+ - name: Munro, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Murovic, Karl
    totals:
     - event: Brier
@@ -698,14 +754,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
-        wins: 0
+        percent: 61
+        wins: 1
         losses: 1
       player2:
-        percent: 83
+        percent: 68
         wins: 1
-        losses: 0
+        losses: 1
    games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 51
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
     - player1:
         team: 'NO'
         position: Lead
@@ -766,6 +838,34 @@ vs:
       year: 1981
       draw: Final(19)
       score: NO 4 - MB 5
+ - name: Paterson, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Pennell, Don
    totals:
     - event: Brier
@@ -798,14 +898,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
-        wins: 0
+        percent: 61
+        wins: 1
         losses: 1
       player2:
-        percent: 67
+        percent: 71
         wins: 1
-        losses: 0
+        losses: 1
    games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
     - player1:
         team: 'NO'
         position: Lead
@@ -1334,14 +1450,30 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 72
-        wins: 0
+        percent: 61
+        wins: 1
         losses: 1
       player2:
-        percent: 76
+        percent: 73
         wins: 1
-        losses: 0
+        losses: 1
    games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
     - player1:
         team: 'NO'
         position: Lead
@@ -1654,6 +1786,34 @@ vs:
       year: 1981
       draw: Round Robin(6)
       score: ON 7 - NO 8
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 50
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Lead
+        percent: 50
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Widdis, Bob
    totals:
     - event: Brier

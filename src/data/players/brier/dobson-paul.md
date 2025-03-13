@@ -4,18 +4,18 @@ name: Paul Dobson
 name-sort: Dobson, Paul
 totals:
  - event: Brier
-   games: 45
-   wins: 11
-   losses: 34
-   inturn-total: 369
-   inturn-percent: 76
-   outturn-total: 459
+   games: 53
+   wins: 14
+   losses: 39
+   inturn-total: 444
+   inturn-percent: 77
+   outturn-total: 530
    outturn-percent: 78
-   draw-total: 368
-   draw-percent: 76
-   takeout-total: 460
+   draw-total: 448
+   draw-percent: 77
+   takeout-total: 526
    takeout-percent: 78
-   shots-total: 828
+   shots-total: 974
    shots-percent: 77
 years:
  - year: 2005
@@ -108,6 +108,24 @@ years:
    takeout-percent: 83
    shots-total: 144
    shots-percent: 83
+ - year: 2025
+   event: Brier
+   team: "NB"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 75
+   inturn-percent: 81
+   outturn-total: 71
+   outturn-percent: 77
+   draw-total: 80
+   draw-percent: 81
+   takeout-total: 66
+   takeout-percent: 77
+   shots-total: 146
+   shots-percent: 79
 vs:
  - Adam, Gerry
  - Adam, Mike
@@ -120,23 +138,29 @@ vs:
  - Bice, Steve
  - Bonot, Trevor
  - Bottcher, Brendan
+ - Bruce, Daniel
  - Bryant, Doug
  - Burgess, Craig
  - Byrd, Kurtis
  - Camm, Mathew
  - Campbell, Robert
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Champion, Kevin
  - Charette, Pierre
+ - Chester, Corey
  - Chorostkowski, Brad
  - Cocks, Adam
  - Cotter, Jim
+ - deJong, Cameron
+ - Dilello, Ty
  - Dillon, Mike
  - Dunstone, Matt
  - Dutiaume, Randy
  - Elias, Dave
  - Elmaleh, Maxime
  - Epping, John
+ - Feltham, Aaron
  - Ferbey, Randy
  - Ferland, Martin
  - Flasch, Colton
@@ -154,10 +178,13 @@ vs:
  - Gushue, Brad
  - Haichert, Chris
  - Harnden, Al
+ - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Horning, Deane
  - Horvath, Alex
  - Howard, Glenn
@@ -177,6 +204,7 @@ vs:
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Lemay, Philippe
@@ -193,8 +221,11 @@ vs:
  - Mathers, David
  - McCarrel, Graeme
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Melnichuk, Greg
  - Menard, Jean-Michel
  - Middaugh, Wayne
@@ -230,6 +261,7 @@ vs:
  - Scoffin, Thomas
  - Sharp, Jeff
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Tyler
  - Solberg, Jon
@@ -238,13 +270,17 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Thomson, Fred
  - Toner, Lee
  - Trickett, Stephen
+ - Van Strien, Peter
+ - Walker, Geoff
  - Wallingham, Joe
  - Webster, Paul
+ - Wettig, Sheldon
  - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark

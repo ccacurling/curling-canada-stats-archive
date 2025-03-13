@@ -4,19 +4,19 @@ name: Connor Njegovan
 name-sort: Njegovan, Connor
 totals:
  - event: Brier
-   games: 51
-   wins: 28
-   losses: 23
-   inturn-total: 250
-   inturn-percent: 91
-   outturn-total: 716
+   games: 61
+   wins: 35
+   losses: 26
+   inturn-total: 306
+   inturn-percent: 92
+   outturn-total: 850
    outturn-percent: 90
-   draw-total: 777
+   draw-total: 941
    draw-percent: 91
-   takeout-total: 189
+   takeout-total: 215
    takeout-percent: 89
-   shots-total: 966
-   shots-percent: 90
+   shots-total: 1156
+   shots-percent: 91
 years:
  - year: 2020
    event: Brier
@@ -108,6 +108,24 @@ years:
    takeout-percent: 88
    shots-total: 200
    shots-percent: 91
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 56
+   inturn-percent: 95
+   outturn-total: 134
+   outturn-percent: 91
+   draw-total: 164
+   draw-percent: 93
+   takeout-total: 26
+   takeout-percent: 89
+   shots-total: 190
+   shots-percent: 92
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
@@ -119,17 +137,23 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
+ - Carpenter, Brayden
  - Carruthers, Reid
+ - Chester, Corey
  - Cochrane, Bryan
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
  - Currie, Morgan
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -157,6 +181,7 @@ vs:
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Nathan
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Jamie
@@ -165,6 +190,7 @@ vs:
  - Kolomaya, Jared
  - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Lequin, Bradley
@@ -175,13 +201,17 @@ vs:
  - Mackey, Peter
  - Manuel, Matthew
  - March, Tim
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
  - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Meister, Nicholas
@@ -215,15 +245,18 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Walker, Geoff
  - Wettig, Sheldon
  - Young, Nathan

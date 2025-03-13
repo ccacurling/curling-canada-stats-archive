@@ -7,15 +7,15 @@ totals:
    games: 52
    wins: 28
    losses: 24
-   inturn-total: 399
+   inturn-total: 408
    inturn-percent: 80
-   outturn-total: 420
-   outturn-percent: 78
-   draw-total: 376
+   outturn-total: 451
+   outturn-percent: 79
+   draw-total: 404
    draw-percent: 78
-   takeout-total: 443
+   takeout-total: 455
    takeout-percent: 80
-   shots-total: 819
+   shots-total: 859
    shots-percent: 79
 years:
  - year: 1980
@@ -44,6 +44,16 @@ years:
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 9
+   inturn-percent: 56
+   outturn-total: 31
+   outturn-percent: 89
+   draw-total: 28
+   draw-percent: 84
+   takeout-total: 12
+   takeout-percent: 75
+   shots-total: 40
+   shots-percent: 81
  - year: 1986
    event: Brier
    team: "QC"

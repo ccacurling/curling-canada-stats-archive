@@ -2,6 +2,34 @@
 title: Kyle Doering Head-to-head
 name: Doering, Kyle
 vs:
+ - name: Feltham, Aaron
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: NL 2 - MB 14
  - name: Fry, Ryan
    totals:
     - event: Brier
@@ -366,6 +394,34 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: NB 3 - WC 7
+ - name: King, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 67
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: NL 2 - MB 14
  - name: Kolomaya, Jared
    totals:
     - event: Brier
@@ -422,6 +478,34 @@ vs:
       year: 2023
       draw: Round Robin(18)
       score: ON 9 - WC 8
+ - name: Latimer, Shane
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 66
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: Mackey, Peter
    totals:
     - event: Brier
@@ -478,6 +562,34 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: NB 3 - WC 7
+ - name: McDonell, Justin
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: McEwen, Mike
    totals:
     - event: Brier
@@ -506,6 +618,34 @@ vs:
       year: 2023
       draw: Round Robin(18)
       score: ON 9 - WC 8
+ - name: NcNeil-Lamswood, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(3)
+      score: NL 2 - MB 14
  - name: Meister, Nicholas
    totals:
     - event: Brier
@@ -734,13 +874,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 100
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
       player2:
-        percent: 58
+        percent: 70
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -758,6 +898,22 @@ vs:
       year: 2022
       draw: Round Robin(8)
       score: NU 1 - MB 18
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
  - name: Walker, Geoff
    totals:
     - event: Brier
@@ -786,4 +942,32 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: CA 8 - WC 3
+ - name: Wettig, Sheldon
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MB'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: MB 7 - NU 3
 ---

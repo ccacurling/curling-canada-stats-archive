@@ -4,18 +4,18 @@ name: Colton Lott
 name-sort: Lott, Colton
 totals:
  - event: Brier
-   games: 31
-   wins: 22
-   losses: 9
-   inturn-total: 309
+   games: 42
+   wins: 31
+   losses: 11
+   inturn-total: 405
    inturn-percent: 86
-   outturn-total: 251
+   outturn-total: 367
    outturn-percent: 88
-   draw-total: 293
+   draw-total: 345
    draw-percent: 87
-   takeout-total: 267
+   takeout-total: 427
    takeout-percent: 87
-   shots-total: 560
+   shots-total: 772
    shots-percent: 87
 years:
  - year: 2022
@@ -106,6 +106,24 @@ years:
    takeout-percent: 87
    shots-total: 188
    shots-percent: 87
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 96
+   inturn-percent: 84
+   outturn-total: 116
+   outturn-percent: 89
+   draw-total: 52
+   draw-percent: 87
+   takeout-total: 160
+   takeout-percent: 87
+   shots-total: 212
+   shots-percent: 87
 vs:
  - Abraham, Ryan
  - Armstrong, Mike
@@ -113,14 +131,20 @@ vs:
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Chester, Corey
  - Crete, Martin
  - Crowell, Phil
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
+ - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -152,6 +176,7 @@ vs:
  - Koe, Kevin
  - Kolomaya, Jared
  - Krats, Joel
+ - Latimer, Shane
  - Latos, Evan
  - Lichty, Terry
  - Locke, Nathan
@@ -164,13 +189,17 @@ vs:
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Meister, Nicholas
  - Middleton, Sterling
  - Moulding, Darren
  - Nadeau, Jeff
+ - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
@@ -184,11 +213,13 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smitheram, Christian
  - St.Louis, Brady
  - Stringer, Ben
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Thomas, Jeff

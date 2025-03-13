@@ -7,16 +7,16 @@ totals:
    games: 22
    wins: 11
    losses: 11
-   inturn-total: 84
-   inturn-percent: 80
-   outturn-total: 118
-   outturn-percent: 76
-   draw-total: 119
-   draw-percent: 74
-   takeout-total: 83
-   takeout-percent: 83
-   shots-total: 202
-   shots-percent: 77
+   inturn-total: 103
+   inturn-percent: 79
+   outturn-total: 139
+   outturn-percent: 78
+   draw-total: 148
+   draw-percent: 75
+   takeout-total: 94
+   takeout-percent: 84
+   shots-total: 242
+   shots-percent: 78
 years:
  - year: 1982
    event: Brier
@@ -26,6 +26,16 @@ years:
    games: 11
    wins: 5
    losses: 6
+   inturn-total: 19
+   inturn-percent: 74
+   outturn-total: 21
+   outturn-percent: 88
+   draw-total: 29
+   draw-percent: 78
+   takeout-total: 11
+   takeout-percent: 89
+   shots-total: 40
+   shots-percent: 81
  - year: 2006
    event: Brier
    team: "BC"

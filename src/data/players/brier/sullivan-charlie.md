@@ -7,15 +7,15 @@ totals:
    games: 24
    wins: 11
    losses: 13
-   inturn-total: 93
-   inturn-percent: 75
-   outturn-total: 117
-   outturn-percent: 65
-   draw-total: 100
+   inturn-total: 114
+   inturn-percent: 74
+   outturn-total: 158
+   outturn-percent: 68
+   draw-total: 129
    draw-percent: 74
-   takeout-total: 110
-   takeout-percent: 66
-   shots-total: 210
+   takeout-total: 143
+   takeout-percent: 67
+   shots-total: 272
    shots-percent: 70
 years:
  - year: 1982
@@ -26,6 +26,16 @@ years:
    games: 13
    wins: 7
    losses: 6
+   inturn-total: 21
+   inturn-percent: 69
+   outturn-total: 41
+   outturn-percent: 74
+   draw-total: 29
+   draw-percent: 74
+   takeout-total: 33
+   takeout-percent: 71
+   shots-total: 62
+   shots-percent: 73
  - year: 1983
    event: Brier
    team: "NB"

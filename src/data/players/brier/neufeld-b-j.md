@@ -4,18 +4,18 @@ name: B.J. Neufeld
 name-sort: Neufeld, B.J.
 totals:
  - event: Brier
-   games: 109
-   wins: 81
-   losses: 28
-   inturn-total: 978
-   inturn-percent: 86
-   outturn-total: 1049
-   outturn-percent: 87
-   draw-total: 688
+   games: 119
+   wins: 88
+   losses: 31
+   inturn-total: 1080
+   inturn-percent: 87
+   outturn-total: 1137
+   outturn-percent: 86
+   draw-total: 747
    draw-percent: 84
-   takeout-total: 1339
+   takeout-total: 1470
    takeout-percent: 88
-   shots-total: 2027
+   shots-total: 2217
    shots-percent: 87
 years:
  - year: 2016
@@ -180,6 +180,24 @@ years:
    takeout-percent: 87
    shots-total: 187
    shots-percent: 88
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Third
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 102
+   inturn-percent: 88
+   outturn-total: 88
+   outturn-percent: 80
+   draw-total: 59
+   draw-percent: 81
+   takeout-total: 131
+   takeout-percent: 86
+   shots-total: 190
+   shots-percent: 84
 vs:
  - Aho, David
  - Appelman, Tom
@@ -193,12 +211,15 @@ vs:
  - Borden, Robert
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Chadwick, Scott
+ - Chester, Corey
  - Chorostkowski, Brad
  - Chown, Jeff
  - Cocks, Adam
@@ -207,11 +228,14 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - deJong, Cameron
+ - Dilello, Ty
  - Dobson, Paul
  - Doherty, Robbie
  - Dunstone, Matt
  - Epping, John
  - Fecteau, Steve
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -251,6 +275,7 @@ vs:
  - Kennedy, Marc
  - Kennedy, Mike
  - Kidby, Dustin
+ - King, Nathan
  - Knapp, Kelly
  - Knapp, Trent
  - Koe, Jamie
@@ -258,12 +283,14 @@ vs:
  - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
  - Ledgerwood, Sean
  - Lichty, Terry
  - Locke, Nathan
+ - Lott, Colton
  - Lowery, Ryan
  - MacKenzie, Eddie
  - Mackey, Peter
@@ -278,8 +305,11 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Meagher, Jeffrey
  - Menard, Jean-Michel
@@ -313,6 +343,7 @@ vs:
  - Scoffin, Thomas
  - Scoffin, Wade
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
@@ -324,6 +355,7 @@ vs:
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Taylor, Andrew
  - Thiessen, Brad
  - Thiessen, Nolan
@@ -332,6 +364,7 @@ vs:
  - Thompson, Stuart
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
  - Wettig, Sheldon

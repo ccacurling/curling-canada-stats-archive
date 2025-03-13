@@ -1482,6 +1482,34 @@ vs:
       year: 1993
       draw: Round Robin(3)
       score: TR 5 - NO 7
+ - name: Munro, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 57
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Murovic, Karl
    totals:
     - event: Brier
@@ -1582,6 +1610,34 @@ vs:
       year: 1993
       draw: Tie-Breaker(19)
       score: NO 6 - MB 5
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 51
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 51
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Odian, Scott
    totals:
     - event: Brier
@@ -1914,6 +1970,34 @@ vs:
       year: 1995
       draw: Round Robin(9)
       score: AB 6 - NO 7
+ - name: Paterson, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 57
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 57
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Patriquin, Chuck
    totals:
     - event: Brier
@@ -2142,6 +2226,34 @@ vs:
       year: 1995
       draw: Round Robin(14)
       score: ON 8 - NO 3
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Peters, Vic
    totals:
     - event: Brier
@@ -3650,6 +3762,34 @@ vs:
       year: 1991
       draw: Round Robin(3)
       score: MB 7 - NO 3
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -4206,6 +4346,34 @@ vs:
       year: 1993
       draw: Round Robin(12)
       score: NO 7 - QC 4
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Widdis, Bob
    totals:
     - event: Brier

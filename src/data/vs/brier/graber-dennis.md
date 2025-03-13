@@ -506,6 +506,62 @@ vs:
       year: 2006
       draw: Round Robin(13)
       score: BC 7 - QC 5
+ - name: Monkman, Greg
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 82
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Third
+        percent: 82
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: BC 5 - AB 3
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(10)
+      score: NL 7 - AB 5
  - name: Peddigrew, Ken
    totals:
     - event: Brier
@@ -534,6 +590,34 @@ vs:
       year: 2006
       draw: Round Robin(4)
       score: BC 9 - NL 8
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(10)
+      score: NL 7 - AB 5
  - name: Roberge, Francois
    totals:
     - event: Brier
@@ -562,6 +646,34 @@ vs:
       year: 2006
       draw: Round Robin(13)
       score: BC 7 - QC 5
+ - name: Roemer, Al
+   totals:
+    - event: Brier
+      player1:
+        percent: 78
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: BC 5 - AB 3
  - name: Rose, Jeff
    totals:
     - event: Brier
@@ -786,6 +898,34 @@ vs:
       year: 2006
       draw: Round Robin(7)
       score: NB 10 - BC 4
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 83
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(10)
+      score: NL 7 - AB 5
  - name: Van Den Berghe, Garry
    totals:
     - event: Brier
@@ -870,6 +1010,34 @@ vs:
       year: 2006
       draw: Round Robin(12)
       score: AB 7 - BC 1
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 62
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 62
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(10)
+      score: NL 7 - AB 5
  - name: Whitehead, Kevin
    totals:
     - event: Brier

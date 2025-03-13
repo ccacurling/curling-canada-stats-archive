@@ -142,6 +142,34 @@ vs:
       year: 1980
       draw: Round Robin(5)
       score: QC 6 - MB 5
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
  - name: Williams, Don
    totals:
     - event: Brier
@@ -282,6 +310,34 @@ vs:
       year: 1986
       draw: Round Robin(2)
       score: MB 1 - QC 6
+ - name: Yeulet, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: TR 3 - QC 4
  - name: Young, Neil
    totals:
     - event: Brier

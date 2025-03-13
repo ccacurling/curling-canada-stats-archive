@@ -4,18 +4,18 @@ name: Andy McCann
 name-sort: McCann, Andy
 totals:
  - event: Brier
-   games: 51
-   wins: 18
-   losses: 33
-   inturn-total: 470
-   inturn-percent: 82
-   outturn-total: 486
-   outturn-percent: 83
-   draw-total: 542
-   draw-percent: 85
-   takeout-total: 414
+   games: 59
+   wins: 21
+   losses: 38
+   inturn-total: 543
+   inturn-percent: 83
+   outturn-total: 563
+   outturn-percent: 84
+   draw-total: 672
+   draw-percent: 86
+   takeout-total: 434
    takeout-percent: 79
-   shots-total: 956
+   shots-total: 1106
    shots-percent: 83
 years:
  - year: 2008
@@ -149,6 +149,24 @@ years:
    takeout-percent: 65
    shots-total: 138
    shots-percent: 89
+ - year: 2025
+   event: Brier
+   team: "NB"
+   position: Lead
+   alternate: false
+   games: 8
+   wins: 3
+   losses: 5
+   inturn-total: 73
+   inturn-percent: 89
+   outturn-total: 77
+   outturn-percent: 89
+   draw-total: 130
+   draw-percent: 90
+   takeout-total: 20
+   takeout-percent: 83
+   shots-total: 150
+   shots-percent: 89
 vs:
  - Adam, Gerry
  - Aho, David
@@ -159,21 +177,27 @@ vs:
  - Bonot, Trevor
  - Borden, Robert
  - Bottcher, Brendan
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Casey, Adam
  - Charest, Jean-Francois
+ - Chester, Corey
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cotter, Jim
  - Daneault, Richard
  - deConinck-Smith, Carl
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
+ - Dilello, Ty
  - Dion, William
  - Dunstone, Matt
  - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Folk, Kevin
  - Follett, Sam
@@ -195,6 +219,7 @@ vs:
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Horvath, Alex
  - Howard, Glenn
@@ -209,6 +234,7 @@ vs:
  - Koe, Kevin
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
@@ -226,9 +252,12 @@ vs:
  - Mathers, David
  - McCarville, Mike
  - McDermaid, Donald
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Middaugh, Wayne
  - Middleton, Sterling
  - Mikkelsen, Ray
@@ -244,6 +273,7 @@ vs:
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
+ - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
  - Patzer, Brad
@@ -261,18 +291,22 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smith, Alex
  - St.Louis, David
  - Stringer, Ben
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
  - Webster, Paul
+ - Wettig, Sheldon
  - Winfield, Brett
  - Wood, Brad
  - Wozniak, Matt

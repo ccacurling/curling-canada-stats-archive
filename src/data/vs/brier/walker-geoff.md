@@ -62,13 +62,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 95
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 0
       player2:
-        percent: 77
+        percent: 73
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'NL'
@@ -102,6 +102,22 @@ vs:
       year: 2024
       draw: Round Robin(11)
       score: NU 3 - CA 8
+    - player1:
+        team: 'CA'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 64
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(15)
+      score: NU 3 - CA 12
  - name: White, Edward
    totals:
     - event: Brier

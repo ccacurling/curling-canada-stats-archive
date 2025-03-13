@@ -7,15 +7,15 @@ totals:
    games: 100
    wins: 39
    losses: 61
-   inturn-total: 712
+   inturn-total: 724
    inturn-percent: 77
-   outturn-total: 991
+   outturn-total: 1017
    outturn-percent: 79
-   draw-total: 825
+   draw-total: 851
    draw-percent: 78
-   takeout-total: 878
+   takeout-total: 890
    takeout-percent: 79
-   shots-total: 1703
+   shots-total: 1741
    shots-percent: 78
 years:
  - year: 1982
@@ -26,6 +26,16 @@ years:
    games: 11
    wins: 3
    losses: 8
+   inturn-total: 12
+   inturn-percent: 67
+   outturn-total: 26
+   outturn-percent: 82
+   draw-total: 26
+   draw-percent: 82
+   takeout-total: 12
+   takeout-percent: 67
+   shots-total: 38
+   shots-percent: 77
  - year: 1991
    event: Brier
    team: "PE"

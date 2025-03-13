@@ -4,19 +4,19 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Brier
-   games: 147
-   wins: 107
-   losses: 40
-   inturn-total: 1007
+   games: 155
+   wins: 111
+   losses: 44
+   inturn-total: 1048
    inturn-percent: 83
-   outturn-total: 1687
-   outturn-percent: 86
-   draw-total: 1019
+   outturn-total: 1793
+   outturn-percent: 85
+   draw-total: 1083
    draw-percent: 83
-   takeout-total: 1675
-   takeout-percent: 86
-   shots-total: 2694
-   shots-percent: 85
+   takeout-total: 1758
+   takeout-percent: 85
+   shots-total: 2841
+   shots-percent: 84
 years:
  - year: 2010
    event: Brier
@@ -234,6 +234,24 @@ years:
    takeout-percent: 71
    shots-total: 143
    shots-percent: 71
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 41
+   inturn-percent: 84
+   outturn-total: 106
+   outturn-percent: 80
+   draw-total: 64
+   draw-percent: 80
+   takeout-total: 83
+   takeout-percent: 83
+   shots-total: 147
+   shots-percent: 81
 vs:
  - Aho, David
  - Anderson, Chris
@@ -254,14 +272,17 @@ vs:
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
+ - Bruce, Daniel
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
  - Champion, Kevin
  - Charest, Jean-Francois
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
@@ -276,7 +297,9 @@ vs:
  - Currie, Jeff
  - Daneault, Richard
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
+ - Dilello, Ty
  - Dobson, Paul
  - Doherty, Robbie
  - Drummond, Kerr
@@ -284,6 +307,7 @@ vs:
  - Dutiaume, Randy
  - Eldridge, Zach
  - Epping, John
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flaxey, Caleb
@@ -316,6 +340,7 @@ vs:
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Horvath, Alex
  - Howard, Glenn
  - Howard, Greg
  - Howard, Scott
@@ -339,6 +364,7 @@ vs:
  - Korab, Jamie
  - Korte, Bruce
  - Korte, Roger
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
@@ -373,9 +399,12 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey
@@ -442,6 +471,7 @@ vs:
  - Thompson, Stuart
  - Tremblay, Julien
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Vaughan, Jason
  - Villeneuve, Steeve
  - Walker, Geoff

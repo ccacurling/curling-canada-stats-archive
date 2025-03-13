@@ -7,6 +7,16 @@ totals:
    games: 13
    wins: 7
    losses: 6
+   inturn-total: 11
+   inturn-percent: 80
+   outturn-total: 27
+   outturn-percent: 86
+   draw-total: 9
+   draw-percent: 81
+   takeout-total: 29
+   takeout-percent: 85
+   shots-total: 38
+   shots-percent: 84
 years:
  - year: 1982
    event: Brier
@@ -16,6 +26,16 @@ years:
    games: 13
    wins: 7
    losses: 6
+   inturn-total: 11
+   inturn-percent: 80
+   outturn-total: 27
+   outturn-percent: 86
+   draw-total: 9
+   draw-percent: 81
+   takeout-total: 29
+   takeout-percent: 85
+   shots-total: 38
+   shots-percent: 84
 vs:
  - Aitken, Don
  - Aucoin, Gabriel

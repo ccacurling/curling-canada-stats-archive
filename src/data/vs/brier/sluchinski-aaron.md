@@ -130,16 +130,44 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: AB 10 - QC 8
+ - name: Van Strien, Peter
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Lead
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(9)
+      score: AB 10 - NU 2
  - name: Walker, Geoff
    totals:
     - event: Brier
       player1:
-        percent: 72
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -158,6 +186,22 @@ vs:
       year: 2024
       draw: Round Robin(17)
       score: CA 10 - AB 4
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'CA'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(13)
+      score: CA 7 - AB 6
  - name: Wallingham, Joe
    totals:
     - event: Brier
@@ -191,12 +235,12 @@ vs:
     - event: Brier
       player1:
         percent: 83
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 66
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'AB'
@@ -214,6 +258,22 @@ vs:
       year: 2024
       draw: Round Robin(5)
       score: AB 12 - NU 10
+    - player1:
+        team: 'AB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'NU'
+        position: Third
+        percent: 55
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(9)
+      score: AB 10 - NU 2
  - name: White, Edward
    totals:
     - event: Brier

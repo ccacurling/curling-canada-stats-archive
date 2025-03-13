@@ -86,6 +86,34 @@ vs:
       year: 1987
       draw: Round Robin(4)
       score: NL 10 - NS 3
+ - name: Rechenmacher, Warren
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(13)
+      score: NL 6 - SK 5
  - name: Reddick, Don
    totals:
     - event: Brier
@@ -142,6 +170,62 @@ vs:
       year: 1987
       draw: Round Robin(6)
       score: NL 7 - NB 4
+ - name: Rodd, Roy
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(12)
+      score: PE 7 - NL 6
+ - name: Roemer, Al
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 80
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'BC'
+        position: Second
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(4)
+      score: NL 5 - BC 6
  - name: Ryan, Pat
    totals:
     - event: Brier
@@ -286,18 +370,150 @@ vs:
       year: 1987
       draw: Semi-Final(16)
       score: NL 6 - BC 8
+ - name: Steventon, Lawren
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
+ - name: Sullivan, Charlie
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 77
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(7)
+      score: NB 7 - NL 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Fourth
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Tie-Breaker(16)
+      score: NB 8 - NL 7
+ - name: Sullivan, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 0
+        losses: 2
+      player2:
+        percent: 71
+        wins: 2
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 66
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(7)
+      score: NB 7 - NL 3
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'NB'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Tie-Breaker(16)
+      score: NB 8 - NL 7
  - name: Turner, Malcolm
    totals:
     - event: Brier
       player1:
-        percent: 74
-        wins: 1
+        percent: 79
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 81
         wins: 0
-        losses: 1
+        losses: 2
    games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 86
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
     - player1:
         team: 'NL'
         position: Third
@@ -370,6 +586,118 @@ vs:
       year: 1987
       draw: Round Robin(15)
       score: NL 4 - MB 7
+ - name: Wallace, Dave
+   totals:
+    - event: Brier
+      player1:
+        percent: 58
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 58
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(15)
+      score: NL 7 - NS 5
+ - name: Weeks, Doug
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 68
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'PE'
+        position: Third
+        percent: 68
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(12)
+      score: PE 7 - NL 6
+ - name: Whetter, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 63
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 63
+        win: 1
+        loss: 0
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 74
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(13)
+      score: NL 6 - SK 5
+ - name: Yeulet, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 60
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NL'
+        position: Third
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 60
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(1)
+      score: TR 3 - NL 9
  - name: Ziola, Monte
    totals:
     - event: Brier

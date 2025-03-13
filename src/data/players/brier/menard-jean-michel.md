@@ -4,18 +4,18 @@ name: Jean-Michel Menard
 name-sort: Menard, Jean-Michel
 totals:
  - event: Brier
-   games: 119
-   wins: 65
-   losses: 54
-   inturn-total: 672
+   games: 127
+   wins: 69
+   losses: 58
+   inturn-total: 741
    inturn-percent: 79
-   outturn-total: 1575
+   outturn-total: 1658
    outturn-percent: 82
-   draw-total: 952
+   draw-total: 1012
    draw-percent: 80
-   takeout-total: 1295
+   takeout-total: 1387
    takeout-percent: 82
-   shots-total: 2247
+   shots-total: 2399
    shots-percent: 81
 years:
  - year: 2002
@@ -250,7 +250,26 @@ years:
    takeout-percent: 82
    shots-total: 211
    shots-percent: 82
+ - year: 2025
+   event: Brier
+   team: "QC"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 69
+   inturn-percent: 85
+   outturn-total: 83
+   outturn-percent: 83
+   draw-total: 60
+   draw-percent: 84
+   takeout-total: 92
+   takeout-percent: 84
+   shots-total: 152
+   shots-percent: 84
 vs:
+ - Abraham, Ryan
  - Adam, Gerry
  - Adams, Shawn
  - Bailey, Scott
@@ -258,6 +277,7 @@ vs:
  - Bardsley, Mike
  - Barry, Josh
  - Bartlett, Don
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bice, Mark
  - Bice, Steve
@@ -284,6 +304,7 @@ vs:
  - Childs, Jamie
  - Chorostkowski, Brad
  - Cochrane, Bryan
+ - Cocks, Adam
  - Cotter, Jim
  - Cowan, Chad
  - Crowell, Phil
@@ -291,12 +312,14 @@ vs:
  - Dacey, Mark
  - Daneault, Richard
  - Darragh, Alan
+ - Delorey, D'arcy
  - Desilets, Mike
  - Desrosiers, John
  - Dillon, Mike
  - Dobson, Mark
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dutiaume, Randy
  - Eldridge, Zach
  - Elias, Dave
@@ -313,6 +336,7 @@ vs:
  - Freschi, Don
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gallant, Peter
  - Gamble, Bill
  - Gavin, Martin
@@ -327,6 +351,7 @@ vs:
  - Griffith, Tyrel
  - Gushue, Brad
  - Haichert, Chris
+ - Hall, Matthew
  - Harcourt, Doug
  - Harcourt, Greg
  - Harnden, E.J.
@@ -347,8 +372,10 @@ vs:
  - Jakubo, Mike
  - Jeffrey, Chris
  - Jenion, Bob
+ - Jensen, Trygg
  - Jewer, Keith
  - Johnson, Bill
+ - Johnson, Trevor
  - Jones, Scott
  - Jordison, Joel
  - Kalthoff, Kevin
@@ -359,6 +386,7 @@ vs:
  - Kennedy, Mike
  - Kidby, Dustin
  - Kilgallen, Shane
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Koivula, Colin
@@ -384,9 +412,12 @@ vs:
  - MacKenzie, Tyler
  - MacLean, Stuart
  - Mallais, Jeremy
+ - Marsh, Dan
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
  - McCarrel, Graeme
  - McCarville, Mike
  - McDermaid, Donald
@@ -397,7 +428,9 @@ vs:
  - Middaugh, Wayne
  - Mikkelsen, Ray
  - Milward, Ross
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morris, John
  - Moshenko, Darcy
  - Moskowy, Braeden
@@ -406,6 +439,7 @@ vs:
  - Murphy, Jamie
  - Muyres, Dallan
  - Muyres, Kirk
+ - Naugler, Adam
  - Naugler, Tom
  - Nedohin, David
  - Nelson, Randy
@@ -426,6 +460,8 @@ vs:
  - Pierce, Brent
  - Pinder, Jordan
  - Porter, Geoff
+ - Preston, Eric
+ - Purcell, Owen
  - Rafuse, Brian
  - Recksiedler, Kevin
  - Roach, Darren
@@ -438,21 +474,25 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Scales, Bob
  - Schille, Chris
  - Schmidt, Aryn
  - Schneider, Catlin
+ - Scoffin, Thomas
  - Scoffin, Wade
  - Seabrook, Matt
  - Sharp, Jeff
  - Simmons, Pat
  - Slauenwhite, David
  - Smith, Garth
+ - Smith, Tyler
  - Solberg, Jon
  - Sosiak, Jim
  - Spencer, Adam
+ - Steele, Nathan
  - Steski, John
  - Stoughton, Jeff
  - Stuart, Darol
@@ -467,11 +507,14 @@ vs:
  - Virtue, Brock
  - Walchuk, Don
  - Walker, Geoff
+ - Wallingham, Joe
  - Ward, Mark
  - Watson, Aaron
  - Wempe, Brian
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Windsor, Brian
  - Wozniak, Matt
 ---

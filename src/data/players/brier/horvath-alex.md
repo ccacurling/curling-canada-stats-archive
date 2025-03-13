@@ -4,19 +4,19 @@ name: Alex Horvath
 name-sort: Horvath, Alex
 totals:
  - event: Brier
-   games: 16
-   wins: 7
-   losses: 9
-   inturn-total: 145
-   inturn-percent: 91
-   outturn-total: 153
-   outturn-percent: 92
-   draw-total: 273
-   draw-percent: 91
-   takeout-total: 25
-   takeout-percent: 92
-   shots-total: 298
-   shots-percent: 91
+   games: 24
+   wins: 9
+   losses: 15
+   inturn-total: 222
+   inturn-percent: 86
+   outturn-total: 230
+   outturn-percent: 90
+   draw-total: 336
+   draw-percent: 90
+   takeout-total: 116
+   takeout-percent: 82
+   shots-total: 452
+   shots-percent: 88
 years:
  - year: 2023
    event: Brier
@@ -54,20 +54,42 @@ years:
    takeout-percent: 83
    shots-total: 148
    shots-percent: 91
+ - year: 2025
+   event: Brier
+   team: "BC"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 2
+   losses: 6
+   inturn-total: 77
+   inturn-percent: 77
+   outturn-total: 77
+   outturn-percent: 86
+   draw-total: 63
+   draw-percent: 85
+   takeout-total: 91
+   takeout-percent: 79
+   shots-total: 154
+   shots-percent: 82
 vs:
  - Asselin, Emile
  - Asselin, Felix
  - Bezanson, Jared
  - Bonot, Trevor
  - Bottcher, Brendan
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
  - Carruthers, Reid
  - Cocks, Adam
  - Crete, Martin
+ - Dilello, Ty
  - Dobson, Paul
  - Doering, Kyle
  - Dunstone, Matt
+ - Epping, John
+ - Feltham, Aaron
  - Fry, Ryan
  - Gallant, Brett
  - Grattan, James
@@ -76,6 +98,8 @@ vs:
  - Harnden, Ryan
  - Hart, Joey
  - Hebert, Ben
+ - Horgan, Jacob
+ - Horgan, Tanner
  - Howard, Scott
  - Jacobs, Brad
  - Jeffrey, Chris
@@ -83,26 +107,34 @@ vs:
  - Jones, Scott
  - Kennedy, Marc
  - King, Brian
+ - Koe, Kevin
  - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Lind, J.D.
  - Lott, Colton
  - MacFadyen, Alex
  - Mallais, Jeremy
  - March, Tim
+ - Martin, Karrick
  - Mathers, David
  - McCann, Andy
  - McCarville, Mike
+ - McDonell, Justin
  - McEwen, Mike
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Noftall, David
  - Potts, Jordan
  - Samagalski, Derek
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Tyler
  - Sturmay, Karsten
@@ -111,8 +143,10 @@ vs:
  - Thomas, Colin
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Venance, Glenn
  - Walker, Geoff
  - Wallingham, Joe
+ - Wettig, Sheldon
  - White, Edward
 ---

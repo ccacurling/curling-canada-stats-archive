@@ -178,13 +178,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 86
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
       player2:
-        percent: 84
+        percent: 83
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MB'
@@ -218,6 +218,22 @@ vs:
       year: 2017
       draw: Round Robin(17)
       score: MB 5 - QC 2
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: SK 9 - QC 4
  - name: Menard, Philippe
    totals:
     - event: Brier
@@ -362,6 +378,62 @@ vs:
       year: 2021
       draw: Round Robin(18)
       score: YT 2 - WC 14
+ - name: Mitchell, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: SK 8 - ON 4
+ - name: Mooibroek, Sam
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 72
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 72
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: SK 8 - ON 4
  - name: Morris, John
    totals:
     - event: Brier
@@ -854,12 +926,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 85
+        percent: 84
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 89
-        wins: 2
+        percent: 88
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -910,6 +982,22 @@ vs:
       year: 2024
       draw: Page 3-4(21)
       score: SK 6 - MB 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Third
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Playoff(20)
+      score: MB 6 - SK 4
  - name: Nichols, Mark
    totals:
     - event: Brier
@@ -1104,10 +1192,10 @@ vs:
       player1:
         percent: 79
         wins: 1
-        losses: 3
+        losses: 4
       player2:
-        percent: 94
-        wins: 3
+        percent: 93
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -1174,6 +1262,22 @@ vs:
       year: 2022
       draw: Tie-Breaker(19)
       score: WC 9 - MB 3
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Playoff(20)
+      score: MB 6 - SK 4
  - name: Odian, Scott
    totals:
     - event: Brier
@@ -1418,6 +1522,62 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: NS 3 - MB 9
+ - name: Preston, Eric
+   totals:
+    - event: Brier
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: NT 2 - SK 14
+ - name: Purcell, Owen
+   totals:
+    - event: Brier
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: NS 6 - SK 8
  - name: Rach, Dave
    totals:
     - event: Brier
@@ -1523,12 +1683,12 @@ vs:
     - event: Brier
       player1:
         percent: 86
-        wins: 3
+        wins: 4
         losses: 0
       player2:
-        percent: 77
+        percent: 78
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'MB'
@@ -1578,6 +1738,22 @@ vs:
       year: 2022
       draw: Round Robin(10)
       score: MB 7 - NS 4
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: NS 6 - SK 8
  - name: Samagalski, Derek
    totals:
     - event: Brier
@@ -1610,13 +1786,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 87
-        wins: 0
+        percent: 88
+        wins: 1
         losses: 1
       player2:
-        percent: 93
+        percent: 92
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'SK'
@@ -1634,6 +1810,22 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: NS 7 - SK 4
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 91
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: NS 6 - SK 8
  - name: Sawatsky, Rick
    totals:
     - event: Brier
@@ -1790,12 +1982,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 90
+        percent: 88
         wins: 2
-        losses: 0
+        losses: 1
       player2:
-        percent: 89
-        wins: 0
+        percent: 90
+        wins: 1
         losses: 2
    games:
     - player1:
@@ -1830,17 +2022,33 @@ vs:
       year: 2020
       draw: Round Robin(2)
       score: SK 3 - WC 5
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      player2:
+        team: 'MB'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Playoff(20)
+      score: MB 6 - SK 4
  - name: Scoffin, Thomas
    totals:
     - event: Brier
       player1:
-        percent: 82
-        wins: 3
+        percent: 85
+        wins: 4
         losses: 0
       player2:
-        percent: 77
+        percent: 79
         wins: 0
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'WC'
@@ -1890,6 +2098,22 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: ON 10 - YT 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: SK 7 - YT 5
  - name: Scoffin, Wade
    totals:
     - event: Brier
@@ -2062,13 +2286,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
       player2:
-        percent: 89
+        percent: 86
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -2102,6 +2326,22 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
  - name: Smitheram, Christian
    totals:
     - event: Brier
@@ -2230,6 +2470,34 @@ vs:
       year: 2024
       draw: Round Robin(15)
       score: NU 3 - SK 9
+ - name: Steele, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: SK 8 - ON 4
  - name: Sturmay, Karsten
    totals:
     - event: Brier
@@ -2570,13 +2838,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 76
-        wins: 1
+        percent: 78
+        wins: 2
         losses: 1
       player2:
-        percent: 91
+        percent: 93
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MB'
@@ -2610,6 +2878,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: ON 13 - QC 2
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: SK 9 - QC 4
  - name: Van Strien, Peter
    totals:
     - event: Brier
@@ -2830,13 +3114,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 82
-        wins: 2
+        percent: 86
+        wins: 3
         losses: 0
       player2:
-        percent: 82
+        percent: 84
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'WC'
@@ -2870,6 +3154,22 @@ vs:
       year: 2023
       draw: Round Robin(10)
       score: ON 10 - YT 7
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: SK 7 - YT 5
  - name: Webster, Dylan
    totals:
     - event: Brier
@@ -2930,13 +3230,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
       player2:
-        percent: 95
+        percent: 90
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'ON'
@@ -2970,6 +3270,50 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 71
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 71
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: SK 8 - ON 4
  - name: Winfield, Brett
    totals:
     - event: Brier

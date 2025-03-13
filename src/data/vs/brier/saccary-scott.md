@@ -150,12 +150,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 97
+        percent: 84
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 78
-        wins: 0
+        percent: 80
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -174,6 +174,22 @@ vs:
       year: 2018
       draw: Round Robin(12)
       score: YT 4 - NS 7
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: NS 5 - YT 7
  - name: Scoffin, Wade
    totals:
     - event: Brier
@@ -250,13 +266,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 88
-        wins: 1
+        percent: 86
+        wins: 2
         losses: 0
       player2:
-        percent: 67
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NS'
@@ -274,6 +290,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: NS 11 - PE 4
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Fourth
+        percent: 82
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: PE 6 - NS 10
  - name: St.Louis, Brady
    totals:
     - event: Brier
@@ -302,6 +334,34 @@ vs:
       year: 2021
       draw: Round Robin(15)
       score: NS 14 - NU 1
+ - name: Steele, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(18)
+      score: ON 3 - NS 7
  - name: Sylvain, Eric
    totals:
     - event: Brier
@@ -422,13 +482,13 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 76
-        wins: 1
+        percent: 77
+        wins: 2
         losses: 1
       player2:
-        percent: 85
+        percent: 88
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'NS'
@@ -462,6 +522,22 @@ vs:
       year: 2022
       draw: Round Robin(16)
       score: NS 6 - QC 14
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 78
+        win: 1
+        loss: 0
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: NS 7 - QC 6
  - name: Walker, Geoff
    totals:
     - event: Brier
@@ -554,6 +630,34 @@ vs:
       year: 2022
       draw: Round Robin(14)
       score: NS 4 - WC 10
+ - name: Wallingham, Joe
+   totals:
+    - event: Brier
+      player1:
+        percent: 73
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: NS 5 - YT 7
  - name: Wettig, Sheldon
    totals:
     - event: Brier
@@ -582,6 +686,62 @@ vs:
       year: 2020
       draw: Round Robin(7)
       score: NU 4 - NS 7
+ - name: White, Edward
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'PE'
+        position: Lead
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: PE 6 - NS 10
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 95
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NS'
+        position: Second
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(18)
+      score: ON 3 - NS 7
  - name: Withycombe, Ian
    totals:
     - event: Brier

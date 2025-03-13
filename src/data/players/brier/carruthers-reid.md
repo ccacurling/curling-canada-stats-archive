@@ -4,19 +4,19 @@ name: Reid Carruthers
 name-sort: Carruthers, Reid
 totals:
  - event: Brier
-   games: 120
-   wins: 72
-   losses: 48
-   inturn-total: 1119
+   games: 130
+   wins: 79
+   losses: 51
+   inturn-total: 1209
    inturn-percent: 84
-   outturn-total: 1102
+   outturn-total: 1198
    outturn-percent: 85
-   draw-total: 914
+   draw-total: 989
    draw-percent: 84
-   takeout-total: 1307
+   takeout-total: 1418
    takeout-percent: 85
-   shots-total: 2221
-   shots-percent: 84
+   shots-total: 2407
+   shots-percent: 85
 years:
  - year: 2008
    event: Brier
@@ -230,6 +230,24 @@ years:
    takeout-percent: 86
    shots-total: 200
    shots-percent: 86
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 90
+   inturn-percent: 85
+   outturn-total: 96
+   outturn-percent: 88
+   draw-total: 75
+   draw-percent: 88
+   takeout-total: 111
+   takeout-percent: 86
+   shots-total: 186
+   shots-percent: 87
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -253,10 +271,12 @@ vs:
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Bruce, Daniel
  - Burgess, Steve
  - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
@@ -269,7 +289,9 @@ vs:
  - Crowell, Phil
  - Currie, Jeff
  - Danbrook, Jamie
+ - deJong, Cameron
  - Desjardins, Robert
+ - Dilello, Ty
  - Dillon, Mike
  - Dion, William
  - Dobson, Paul
@@ -279,6 +301,7 @@ vs:
  - Epping, John
  - Errington, Derek
  - Farnell, Jamie
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -325,6 +348,7 @@ vs:
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - King, Nathan
  - Kingdon, Wade
  - Knapp, Kelly
  - Knapp, Trent
@@ -336,6 +360,7 @@ vs:
  - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
@@ -361,9 +386,12 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Meister, Nicholas
  - Menard, Jean-Michel
@@ -411,6 +439,7 @@ vs:
  - Sharp, Jeff
  - Simmons, Pat
  - Skauge, Greg
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Alex
  - Smitheram, Christian
@@ -421,6 +450,7 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin

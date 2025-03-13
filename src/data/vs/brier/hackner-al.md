@@ -1518,6 +1518,34 @@ vs:
       year: 1992
       draw: Round Robin(3)
       score: NO 5 - QC 7
+ - name: Laidlaw, Bob
+   totals:
+    - event: Brier
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 60
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 60
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Langdon, Dennis
    totals:
     - event: Brier
@@ -3162,6 +3190,34 @@ vs:
       year: 2001
       draw: Round Robin(9)
       score: TR 5 - NO 6
+ - name: Munro, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 76
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Murovic, Karl
    totals:
     - event: Brier
@@ -3330,6 +3386,34 @@ vs:
       year: 1992
       draw: Round Robin(12)
       score: NO 6 - MB 7
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 51
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 51
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Novakowski, Bob
    totals:
     - event: Brier
@@ -3630,6 +3714,34 @@ vs:
       year: 1995
       draw: Round Robin(9)
       score: AB 6 - NO 7
+ - name: Paterson, Bruce
+   totals:
+    - event: Brier
+      player1:
+        percent: 60
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 60
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 65
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: ON 7 - NO 5
  - name: Patriquin, Chuck
    totals:
     - event: Brier
@@ -3830,6 +3942,34 @@ vs:
       year: 1995
       draw: Round Robin(14)
       score: ON 8 - NO 3
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Peters, Vic
    totals:
     - event: Brier
@@ -5426,6 +5566,34 @@ vs:
       year: 1985
       draw: Final(19)
       score: NO 6 - AB 5
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 70
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -6114,6 +6282,34 @@ vs:
       year: 2001
       draw: Round Robin(13)
       score: NO 2 - QC 9
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'NO'
+        position: Fourth
+        percent: 68
+        win: 1
+        loss: 0
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 76
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(2)
+      score: NO 7 - NL 3
  - name: Widdis, Bob
    totals:
     - event: Brier

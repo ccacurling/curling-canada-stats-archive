@@ -4,19 +4,19 @@ name: Adam Cocks
 name-sort: Cocks, Adam
 totals:
  - event: Brier
-   games: 24
-   wins: 8
-   losses: 16
-   inturn-total: 196
-   inturn-percent: 78
-   outturn-total: 230
-   outturn-percent: 80
-   draw-total: 160
+   games: 32
+   wins: 9
+   losses: 23
+   inturn-total: 256
+   inturn-percent: 79
+   outturn-total: 318
+   outturn-percent: 81
+   draw-total: 219
    draw-percent: 83
-   takeout-total: 266
-   takeout-percent: 77
-   shots-total: 426
-   shots-percent: 79
+   takeout-total: 355
+   takeout-percent: 78
+   shots-total: 574
+   shots-percent: 80
 years:
  - year: 2022
    event: Brier
@@ -72,15 +72,36 @@ years:
    takeout-percent: 84
    shots-total: 146
    shots-percent: 85
+ - year: 2025
+   event: Brier
+   team: "PE"
+   position: Third
+   alternate: false
+   games: 8
+   wins: 1
+   losses: 7
+   inturn-total: 60
+   inturn-percent: 83
+   outturn-total: 88
+   outturn-percent: 81
+   draw-total: 59
+   draw-percent: 83
+   takeout-total: 89
+   takeout-percent: 81
+   shots-total: 148
+   shots-percent: 82
 vs:
+ - Abraham, Ryan
  - Arsenault, Jean-Michel
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bottcher, Brendan
  - Brannen, Jamie
  - Brassard, Philippe
  - Crete, Martin
+ - Delorey, D'arcy
  - Dobson, Paul
  - Drummond, Kerr
  - Dunstone, Matt
@@ -93,6 +114,7 @@ vs:
  - Goller, Kurtis
  - Grattan, James
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Hart, Joey
  - Harty, Jeremy
@@ -100,13 +122,16 @@ vs:
  - Horvath, Alex
  - Howard, Glenn
  - Howard, Scott
+ - Jacobs, Brad
  - Janssen, Patrick
  - Jensen, Trygg
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Laing, Brent
@@ -121,18 +146,26 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Mullen, Jesse
  - Muyres, Kirk
+ - Naugler, Adam
  - Neufeld, B.J.
  - Nichols, Mark
  - Parsons, Cole
+ - Preston, Eric
+ - Purcell, Owen
+ - Saccary, Scott
  - Saunders, Luke
  - Schneider, Catlin
  - Scoffin, Thomas
@@ -140,6 +173,7 @@ vs:
  - Sluchinski, Aaron
  - Smitheram, Christian
  - St.Louis, Brady
+ - Steele, Nathan
  - Stringer, Ben
  - Sturmay, Karsten
  - Tardi, Tyler
@@ -152,6 +186,7 @@ vs:
  - Webster, Dylan
  - Webster, Paul
  - Wettig, Sheldon
+ - Wiebe, Ryan
  - Young, Nathan
  - Zachernuk, Nick
 ---

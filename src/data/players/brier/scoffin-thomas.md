@@ -4,19 +4,19 @@ name: Thomas Scoffin
 name-sort: Scoffin, Thomas
 totals:
  - event: Brier
-   games: 39
-   wins: 7
-   losses: 32
-   inturn-total: 320
+   games: 47
+   wins: 11
+   losses: 36
+   inturn-total: 391
    inturn-percent: 75
-   outturn-total: 376
-   outturn-percent: 72
-   draw-total: 329
-   draw-percent: 72
-   takeout-total: 367
-   takeout-percent: 74
-   shots-total: 696
-   shots-percent: 73
+   outturn-total: 454
+   outturn-percent: 73
+   draw-total: 377
+   draw-percent: 73
+   takeout-total: 468
+   takeout-percent: 75
+   shots-total: 845
+   shots-percent: 74
 years:
  - year: 2018
    event: Brier
@@ -108,11 +108,31 @@ years:
    takeout-percent: 74
    shots-total: 147
    shots-percent: 74
+ - year: 2025
+   event: Brier
+   team: "YT"
+   position: Fourth
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 71
+   inturn-percent: 78
+   outturn-total: 78
+   outturn-percent: 78
+   draw-total: 48
+   draw-percent: 77
+   takeout-total: 101
+   takeout-percent: 79
+   shots-total: 149
+   shots-percent: 78
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Ted
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bonot, Trevor
  - Borden, Robert
@@ -126,6 +146,7 @@ vs:
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - Delorey, D'arcy
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
@@ -134,6 +155,7 @@ vs:
  - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gauthier, Jacques
  - Geall, Sean
  - Ginter, Jason
@@ -141,6 +163,7 @@ vs:
  - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
@@ -152,11 +175,13 @@ vs:
  - Hunt, Matthew
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
  - Kingdon, Wade
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Krats, Joel
@@ -174,17 +199,22 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Murphy, Jamie
  - Muyres, Kirk
  - Nadeau, Jeff
+ - Naugler, Adam
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Neufeld, Denni
@@ -192,11 +222,14 @@ vs:
  - Njegovan, Connor
  - Parsons, Cole
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Richard, Jeff
  - Rycroft, Carter
  - Saccary, Scott
  - Sallows, Tom
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schille, Chris
  - Schneider, Catlin
@@ -207,6 +240,7 @@ vs:
  - Smith, Tyler
  - Spencer, Adam
  - St.Louis, David
+ - Steele, Nathan
  - Stringer, Ben
  - Sturmay, Karsten
  - Symonds, Andrew
@@ -219,6 +253,7 @@ vs:
  - Venance, Glenn
  - Walker, Geoff
  - White, Edward
+ - Wiebe, Ryan
  - Withycombe, Ian
  - Wood, Brad
  - Wozniak, Matt

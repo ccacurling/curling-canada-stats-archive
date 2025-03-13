@@ -4,19 +4,19 @@ name: Trygg Jensen
 name-sort: Jensen, Trygg
 totals:
  - event: Brier
-   games: 31
-   wins: 5
-   losses: 26
-   inturn-total: 257
+   games: 39
+   wins: 9
+   losses: 30
+   inturn-total: 308
    inturn-percent: 77
-   outturn-total: 303
+   outturn-total: 403
    outturn-percent: 80
-   draw-total: 257
+   draw-total: 315
    draw-percent: 79
-   takeout-total: 303
+   takeout-total: 396
    takeout-percent: 78
-   shots-total: 560
-   shots-percent: 79
+   shots-total: 711
+   shots-percent: 78
 years:
  - year: 2020
    event: Brier
@@ -90,11 +90,31 @@ years:
    takeout-percent: 80
    shots-total: 148
    shots-percent: 82
+ - year: 2025
+   event: Brier
+   team: "YT"
+   position: Second
+   alternate: false
+   games: 8
+   wins: 4
+   losses: 4
+   inturn-total: 51
+   inturn-percent: 78
+   outturn-total: 100
+   outturn-percent: 77
+   draw-total: 58
+   draw-percent: 77
+   takeout-total: 93
+   takeout-percent: 78
+   shots-total: 151
+   shots-percent: 77
 vs:
+ - Abraham, Ryan
  - Aho, David
  - Appelman, Ted
  - Asselin, Emile
  - Asselin, Felix
+ - Bartling, Aaron
  - Bezanson, Jared
  - Bonot, Trevor
  - Bottcher, Brendan
@@ -105,6 +125,7 @@ vs:
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
+ - Delorey, D'arcy
  - Dobson, Paul
  - Dunstone, Matt
  - Epping, John
@@ -112,12 +133,14 @@ vs:
  - Follett, Sam
  - Fry, Ryan
  - Gallant, Brett
+ - Gallant, Chris
  - Gauthier, Jacques
  - Ginter, Jason
  - Goller, Kurtis
  - Gordon, Rob
  - Grattan, James
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Joey
@@ -128,10 +151,12 @@ vs:
  - Howard, Scott
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Jones, Scott
  - Kennedy, Marc
  - Kidby, Dustin
  - King, Brian
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Krats, Joel
@@ -148,23 +173,32 @@ vs:
  - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McEwen, Mike
  - Mcleod, Shadrach
+ - Menard, Jean-Michel
  - Middleton, Sterling
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
  - Muyres, Kirk
+ - Naugler, Adam
  - Nerpin, Andrew
  - Neufeld, B.J.
  - Nichols, Mark
  - Njegovan, Connor
  - Parsons, Cole
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Rycroft, Carter
+ - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Sawatsky, Rick
  - Schneider, Catlin
  - Simmons, Pat
@@ -172,6 +206,7 @@ vs:
  - Smith, Alex
  - Smith, Tyler
  - Spencer, Adam
+ - Steele, Nathan
  - Stringer, Ben
  - Sturmay, Karsten
  - Symonds, Andrew
@@ -183,5 +218,6 @@ vs:
  - Venance, Glenn
  - Walker, Geoff
  - White, Edward
+ - Wiebe, Ryan
  - Young, Nathan
 ---

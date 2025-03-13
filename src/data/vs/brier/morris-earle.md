@@ -30,6 +30,34 @@ vs:
       year: 1980
       draw: Round Robin(6)
       score: NO 11 - MB 3
+ - name: Noseworthy, Mark
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 72
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Fourth
+        percent: 72
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
  - name: Paulsen, Art
    totals:
     - event: Brier
@@ -142,6 +170,34 @@ vs:
       year: 1985
       draw: Round Robin(1)
       score: ON 8 - NO 6
+ - name: Perry, Randy
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Third
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
  - name: Reibin, Dale
    totals:
     - event: Brier
@@ -466,6 +522,34 @@ vs:
       year: 1985
       draw: Round Robin(7)
       score: ON 2 - AB 8
+ - name: Trickett, Eugene
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 75
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Second
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
  - name: Turner, Malcolm
    totals:
     - event: Brier
@@ -634,6 +718,34 @@ vs:
       year: 1985
       draw: Round Robin(4)
       score: ON 8 - PE 7
+ - name: Wheeler, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'NL'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Brier
+      year: 1982
+      draw: Round Robin(5)
+      score: QC 4 - NL 6
  - name: Wight, Bryan
    totals:
     - event: Brier
@@ -718,6 +830,34 @@ vs:
       year: 1980
       draw: Round Robin(8)
       score: SK 7 - MB 5
+ - name: Yeulet, John
+   totals:
+    - event: Brier
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'QC'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'TR'
+        position: Third
+        percent: 63
+        win: 0
+        loss: 1
+      event: Brier
+      year: 1982
+      draw: Round Robin(14)
+      score: TR 3 - QC 4
  - name: Young, Neil
    totals:
     - event: Brier

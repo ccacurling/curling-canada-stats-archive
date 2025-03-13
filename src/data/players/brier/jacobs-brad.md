@@ -4,19 +4,19 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Brier
-   games: 175
-   wins: 116
-   losses: 59
-   inturn-total: 1431
-   inturn-percent: 82
-   outturn-total: 1792
-   outturn-percent: 84
-   draw-total: 1327
-   draw-percent: 81
-   takeout-total: 1896
+   games: 188
+   wins: 128
+   losses: 60
+   inturn-total: 1551
+   inturn-percent: 83
+   outturn-total: 1908
+   outturn-percent: 85
+   draw-total: 1408
+   draw-percent: 82
+   takeout-total: 2051
    takeout-percent: 85
-   shots-total: 3223
-   shots-percent: 83
+   shots-total: 3459
+   shots-percent: 84
 years:
  - year: 2007
    event: Brier
@@ -322,6 +322,24 @@ years:
    takeout-percent: 85
    shots-total: 195
    shots-percent: 83
+ - year: 2025
+   event: Brier
+   team: "AB"
+   position: Fourth
+   alternate: false
+   games: 13
+   wins: 12
+   losses: 1
+   inturn-total: 120
+   inturn-percent: 91
+   outturn-total: 116
+   outturn-percent: 93
+   draw-total: 81
+   draw-percent: 92
+   takeout-total: 155
+   takeout-percent: 92
+   shots-total: 236
+   shots-percent: 92
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -335,6 +353,7 @@ vs:
  - Bardsley, Mike
  - Barker, Richard
  - Barry, Josh
+ - Bartling, Aaron
  - Bedard, Alek
  - Berthelot, Marco
  - Beuk, Jonathan
@@ -363,6 +382,7 @@ vs:
  - Chorostkowski, Brad
  - Clarey, Sean
  - Cochrane, Bryan
+ - Cocks, Adam
  - Collin, Simon
  - Cotter, Jim
  - Crete, Martin
@@ -372,10 +392,12 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Deis, Ryan
+ - Delorey, D'arcy
  - Desjardins, Robert
  - Dion, William
  - Dobson, Paul
  - Doherty, Robbie
+ - Drummond, Kerr
  - Dunstone, Matt
  - Eldridge, Zach
  - Epping, John
@@ -408,6 +430,7 @@ vs:
  - Gunnlaugson, Jason
  - Gushue, Brad
  - Hagen, Brandon
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Tyler
@@ -425,6 +448,7 @@ vs:
  - Jensen, Trygg
  - Jewer, Keith
  - Joanisse, Dean
+ - Johnson, Trevor
  - Jones, Brennen
  - Jones, Scott
  - Kean, Mark
@@ -435,6 +459,7 @@ vs:
  - Kidby, Dustin
  - King, Brian
  - Kingdon, Wade
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Kohlenberg, Dale
@@ -475,6 +500,7 @@ vs:
  - Martin, Kevin
  - Maskiewich, Ken
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McCarville, Mike
  - McDermaid, Donald
@@ -491,7 +517,9 @@ vs:
  - Middaugh, Wayne
  - Middleton, Sterling
  - Mikkelsen, Dustin
+ - Mitchell, Scott
  - Mittelstadt, Kelly
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -502,6 +530,7 @@ vs:
  - Nadeau, Jeff
  - Nantes, Dave
  - Nason, Paul
+ - Naugler, Adam
  - Naugler, Tom
  - Nerpin, Andrew
  - Neufeld, B.J.
@@ -524,6 +553,8 @@ vs:
  - Pinder, Jordan
  - Porter, Ryan
  - Potts, Jordan
+ - Preston, Eric
+ - Purcell, Owen
  - Quevillon, Louis
  - Rafuse, Brian
  - Reid, Serge
@@ -537,6 +568,7 @@ vs:
  - Rycroft, Carter
  - Saccary, Scott
  - Samagalski, Derek
+ - Saunders, Luke
  - Savill, Craig
  - Sawatsky, Rick
  - Schille, Chris
@@ -551,10 +583,12 @@ vs:
  - Smallwood, Robert
  - Smith, Alex
  - Smith, Kent
+ - Smith, Tyler
  - Smitheram, Christian
  - Solberg, Jon
  - Spencer, Adam
  - St.Louis, David
+ - Steele, Nathan
  - Stoughton, Jeff
  - Sullivan, Charles Jr.
  - Sylvain, Eric
@@ -570,9 +604,12 @@ vs:
  - Villeneuve, Steeve
  - Virtue, Brock
  - Walker, Geoff
+ - Wallingham, Joe
  - Watson, Aaron
+ - White, Edward
  - Whitehead, Kevin
  - Whitehead, Mark
+ - Wiebe, Ryan
  - Wood, Brad
  - Wood, Mike
  - Wozniak, Matt

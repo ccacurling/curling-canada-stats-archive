@@ -4,19 +4,19 @@ name: Dan Marsh
 name-sort: Marsh, Dan
 totals:
  - event: Brier
-   games: 36
-   wins: 23
-   losses: 13
-   inturn-total: 291
+   games: 46
+   wins: 30
+   losses: 16
+   inturn-total: 327
    inturn-percent: 89
-   outturn-total: 370
-   outturn-percent: 89
-   draw-total: 515
-   draw-percent: 90
-   takeout-total: 146
-   takeout-percent: 84
-   shots-total: 661
-   shots-percent: 89
+   outturn-total: 522
+   outturn-percent: 90
+   draw-total: 681
+   draw-percent: 91
+   takeout-total: 168
+   takeout-percent: 83
+   shots-total: 849
+   shots-percent: 90
 years:
  - year: 2019
    event: Brier
@@ -72,9 +72,31 @@ years:
    takeout-percent: 84
    shots-total: 237
    shots-percent: 92
+ - year: 2025
+   event: Brier
+   team: "SK"
+   position: Lead
+   alternate: false
+   games: 10
+   wins: 7
+   losses: 3
+   inturn-total: 36
+   inturn-percent: 90
+   outturn-total: 152
+   outturn-percent: 93
+   draw-total: 166
+   draw-percent: 94
+   takeout-total: 22
+   takeout-percent: 80
+   shots-total: 188
+   shots-percent: 92
 vs:
  - Abel, Clinton
+ - Abraham, Ryan
  - Arsenault, Jean-Michel
+ - Asselin, Felix
+ - Bartling, Aaron
+ - Bassett, Norman
  - Beuk, Jonathan
  - Boland, Adam
  - Bottcher, Brendan
@@ -86,6 +108,7 @@ vs:
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
+ - Delorey, D'arcy
  - Dobson, Paul
  - Doherty, Robbie
  - Drummond, Kerr
@@ -101,6 +124,7 @@ vs:
  - Grattan, James
  - Griffith, Tyrel
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harty, Jeremy
@@ -112,9 +136,11 @@ vs:
  - Janssen, Patrick
  - Jensen, Trygg
  - Jewer, Keith
+ - Johnson, Trevor
  - Kennedy, Glen
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Jamie
  - Koe, Kevin
  - Latimer, Shane
@@ -129,12 +155,16 @@ vs:
  - March, Tim
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
  - McCann, Andy
  - McDonald, Scott
  - McEwen, Mike
  - Mcleod, Shadrach
  - Meagher, Jeffrey
+ - Menard, Jean-Michel
  - Menard, Philippe
+ - Mitchell, Scott
+ - Mooibroek, Sam
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -143,11 +173,16 @@ vs:
  - Nabuurs, Matt
  - Neufeld, B.J.
  - Nichols, Mark
+ - Njegovan, Connor
  - Odian, Scott
  - Parsons, Cole
+ - Preston, Eric
+ - Purcell, Owen
+ - Saccary, Scott
  - Samagalski, Derek
  - Saunders, Luke
  - Sawatsky, Rick
+ - Schneider, Catlin
  - Scoffin, Thomas
  - Sluchinski, Aaron
  - Smallwood, Robert
@@ -155,16 +190,19 @@ vs:
  - Smitheram, Christian
  - Solberg, Jon
  - St.Louis, Brady
+ - Steele, Nathan
  - Stringer, Ben
  - Sylvain, Eric
  - Symonds, Andrew
  - Thiessen, Brad
  - Tremblay, Julien
+ - Trepanier, Jean-Francois
  - Walker, Geoff
  - Wallingham, Joe
  - Webster, Dylan
  - Wettig, Sheldon
  - White, Edward
+ - Wiebe, Ryan
  - Young, Nathan
  - Zachernuk, Nick
 ---

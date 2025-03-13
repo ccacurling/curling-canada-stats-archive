@@ -4,18 +4,18 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Brier
-   games: 179
-   wins: 122
-   losses: 57
-   inturn-total: 1376
+   games: 190
+   wins: 131
+   losses: 59
+   inturn-total: 1474
    inturn-percent: 89
-   outturn-total: 1911
-   outturn-percent: 88
-   draw-total: 2414
+   outturn-total: 2023
+   outturn-percent: 89
+   draw-total: 2594
    draw-percent: 91
-   takeout-total: 873
+   takeout-total: 903
    takeout-percent: 83
-   shots-total: 3287
+   shots-total: 3497
    shots-percent: 89
 years:
  - year: 2008
@@ -288,6 +288,24 @@ years:
    takeout-percent: 94
    shots-total: 183
    shots-percent: 94
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 98
+   inturn-percent: 94
+   outturn-total: 112
+   outturn-percent: 95
+   draw-total: 180
+   draw-percent: 95
+   takeout-total: 30
+   takeout-percent: 88
+   shots-total: 210
+   shots-percent: 94
 vs:
  - Abel, Clinton
  - Abraham, Ryan
@@ -310,12 +328,14 @@ vs:
  - Bouchard, Christian
  - Brannen, Jamie
  - Breckon, Graham
+ - Bruce, Daniel
  - Burgess, Steve
  - Burtnyk, Kerry
  - Buyck, James
  - Byrd, Kurtis
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
@@ -335,8 +355,10 @@ vs:
  - Daneault, Richard
  - Darragh, Alan
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
  - Desrosiers, John
+ - Dilello, Ty
  - Dion, William
  - Dobson, Paul
  - Doherty, Robbie
@@ -344,6 +366,7 @@ vs:
  - Eldridge, Zach
  - Epping, John
  - Errington, Derek
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -415,6 +438,7 @@ vs:
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - LeCocq, Marc
@@ -450,10 +474,13 @@ vs:
  - McCarville, Mike
  - McDermaid, Donald
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - McKee, Darrell
  - Mckinnon, Robert
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey
@@ -521,6 +548,7 @@ vs:
  - Simmons, Pat
  - Skauge, Greg
  - Slauenwhite, David
+ - Sluchinski, Aaron
  - Smallwood, Robert
  - Smith, Alex
  - Smith, Garth
@@ -535,6 +563,7 @@ vs:
  - Sullivan, Charles Jr.
  - Sylvain, Eric
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Thomas, Colin

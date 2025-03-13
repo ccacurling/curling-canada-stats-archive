@@ -4,18 +4,18 @@ name: Geoff Walker
 name-sort: Walker, Geoff
 totals:
  - event: Brier
-   games: 160
-   wins: 119
-   losses: 41
-   inturn-total: 1330
+   games: 171
+   wins: 127
+   losses: 44
+   inturn-total: 1412
    inturn-percent: 90
-   outturn-total: 1714
+   outturn-total: 1838
    outturn-percent: 89
-   draw-total: 2566
+   draw-total: 2746
    draw-percent: 92
-   takeout-total: 478
+   takeout-total: 504
    takeout-percent: 79
-   shots-total: 3044
+   shots-total: 3250
    shots-percent: 90
 years:
  - year: 2012
@@ -252,6 +252,24 @@ years:
    takeout-percent: 82
    shots-total: 200
    shots-percent: 94
+ - year: 2025
+   event: Brier
+   team: "CA"
+   position: Lead
+   alternate: false
+   games: 11
+   wins: 8
+   losses: 3
+   inturn-total: 82
+   inturn-percent: 87
+   outturn-total: 124
+   outturn-percent: 93
+   draw-total: 180
+   draw-percent: 91
+   takeout-total: 26
+   takeout-percent: 88
+   shots-total: 206
+   shots-percent: 91
 vs:
  - Abraham, Ryan
  - Aho, David
@@ -277,13 +295,16 @@ vs:
  - Brannen, Jamie
  - Brassard, Philippe
  - Breckon, Graham
+ - Bruce, Daniel
  - Camm, Mathew
  - Carmody, Anson
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
  - Chadwick, Scott
  - Charest, Jean-Francois
+ - Chester, Corey
  - Childs, Jamie
  - Chorostkowski, Brad
  - Chown, Jeff
@@ -298,7 +319,10 @@ vs:
  - Currie, Morgan
  - Daneault, Richard
  - Deis, Ryan
+ - deJong, Cameron
  - Desjardins, Robert
+ - Dilello, Ty
+ - Dobson, Paul
  - Doering, Kyle
  - Doherty, Robbie
  - Drummond, Kerr
@@ -308,6 +332,7 @@ vs:
  - Errington, Derek
  - Farnell, Jamie
  - Fecteau, Steve
+ - Feltham, Aaron
  - Fitzner-LeBlanc, Ian
  - Flasch, Colton
  - Flemming, Paul
@@ -324,6 +349,7 @@ vs:
  - Geall, Sean
  - Giddens, Ryan
  - Ginter, Jason
+ - Grattan, Drew
  - Grattan, James
  - Griffith, Tyrel
  - Gunnlaugson, Jason
@@ -337,6 +363,7 @@ vs:
  - Hebert, Ben
  - Higgs, Jake
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Horvath, Alex
  - Howard, Glenn
@@ -360,6 +387,7 @@ vs:
  - Koivula, Colin
  - Kolomaya, Jared
  - Kopf, Steve
+ - Krats, Joel
  - Kuhn, Ryan
  - Laing, Brent
  - Lang, Tyler
@@ -394,8 +422,11 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meachem, Shaun Myles
  - Mead, Jon
  - Meagher, Jeffrey
@@ -464,6 +495,7 @@ vs:
  - Thompson, Stuart
  - Tremblay, Julien
  - Trepanier, Jean-Francois
+ - Van Strien, Peter
  - Venance, Glenn
  - Villeneuve, Steeve
  - Virtue, Brock

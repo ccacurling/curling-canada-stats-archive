@@ -4330,6 +4330,34 @@ vs:
       year: 2007
       draw: Round Robin(12)
       score: ON 11 - NB 1
+ - name: Preston, Eric
+   totals:
+    - event: Brier
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'SK'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 78
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: NT 2 - SK 14
  - name: Rafuse, Brian
    totals:
     - event: Brier

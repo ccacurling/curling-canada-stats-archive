@@ -4,18 +4,18 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Brier
-   games: 68
-   wins: 46
-   losses: 22
-   inturn-total: 759
+   games: 79
+   wins: 55
+   losses: 24
+   inturn-total: 864
    inturn-percent: 86
-   outturn-total: 504
-   outturn-percent: 85
-   draw-total: 501
+   outturn-total: 603
+   outturn-percent: 86
+   draw-total: 568
    draw-percent: 86
-   takeout-total: 762
+   takeout-total: 899
    takeout-percent: 86
-   shots-total: 1263
+   shots-total: 1467
    shots-percent: 86
 years:
  - year: 2018
@@ -126,6 +126,24 @@ years:
    takeout-percent: 86
    shots-total: 182
    shots-percent: 86
+ - year: 2025
+   event: Brier
+   team: "MB"
+   position: Fourth
+   alternate: false
+   games: 11
+   wins: 9
+   losses: 2
+   inturn-total: 105
+   inturn-percent: 85
+   outturn-total: 99
+   outturn-percent: 91
+   draw-total: 67
+   draw-percent: 85
+   takeout-total: 137
+   takeout-percent: 90
+   shots-total: 204
+   shots-percent: 88
 vs:
  - Aho, David
  - Armstrong, Mike
@@ -136,19 +154,25 @@ vs:
  - Bonot, Trevor
  - Bottcher, Brendan
  - Brannen, Jamie
+ - Bruce, Daniel
  - Byrd, Kurtis
  - Camm, Mathew
+ - Carpenter, Brayden
  - Carruthers, Reid
  - Case, Peter
  - Casey, Adam
+ - Chester, Corey
  - Chown, Jeff
  - Cocks, Adam
  - Cotter, Jim
  - Crete, Martin
  - Crowell, Phil
+ - deJong, Cameron
+ - Dilello, Ty
  - Dion, William
  - Dobson, Paul
  - Epping, John
+ - Feltham, Aaron
  - Flasch, Colton
  - Flemming, Paul
  - Follett, Sam
@@ -187,6 +211,7 @@ vs:
  - Koe, Kevin
  - Krats, Joel
  - Laing, Brent
+ - Latimer, Shane
  - Latos, Evan
  - Laycock, Steve
  - Ledgerwood, Sean
@@ -206,8 +231,11 @@ vs:
  - McDonah, Alex
  - McDonah, Evan
  - McDonald, Scott
+ - McDonell, Justin
  - McEwen, Mike
  - Mcleod, Shadrach
+ - McMillan, Ian
+ - NcNeil-Lamswood, Ryan
  - Meagher, Jeffrey
  - Middaugh, Wayne
  - Middleton, Sterling
@@ -231,6 +259,7 @@ vs:
  - Schneider, Catlin
  - Scoffin, Thomas
  - Scoffin, Wade
+ - Sluchinski, Aaron
  - Smith, Alex
  - Smith, Greg
  - Smith, Tyler
@@ -239,11 +268,13 @@ vs:
  - St.Louis, David
  - Stringer, Ben
  - Symonds, Andrew
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thomas, Colin
  - Thomas, Jeff
  - Trepanier, Jean-Francois
  - Trickett, Stephen
+ - Van Strien, Peter
  - Walker, Geoff
  - Wallingham, Joe
  - Wettig, Sheldon

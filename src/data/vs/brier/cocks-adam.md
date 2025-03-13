@@ -6,12 +6,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 66
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 84
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -30,6 +30,50 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: PE 4 - QC 7
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Second
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
+ - name: Delorey, D'arcy
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: PE 10 - NT 5
  - name: Dobson, Paul
    totals:
     - event: Brier
@@ -64,10 +108,10 @@ vs:
       player1:
         percent: 81
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 89
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -86,6 +130,22 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: PE 8 - AB 5
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: YT 8 - PE 5
  - name: Dunstone, Matt
    totals:
     - event: Brier
@@ -120,10 +180,10 @@ vs:
       player1:
         percent: 82
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 82
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -158,6 +218,22 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
  - name: Follett, Sam
    totals:
     - event: Brier
@@ -218,12 +294,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 97
-        wins: 1
+        percent: 95
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -242,6 +318,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: WC 8 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Second
+        percent: 94
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: PE 3 - AB 10
  - name: Gauthier, Jacques
    totals:
     - event: Brier
@@ -414,6 +506,34 @@ vs:
       year: 2024
       draw: Round Robin(13)
       score: PE 3 - CA 11
+ - name: Hall, Matthew
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: SK 7 - PE 4
  - name: Harnden, E.J.
    totals:
     - event: Brier
@@ -518,12 +638,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 83
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 98
-        wins: 2
+        percent: 96
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -558,6 +678,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: WC 8 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: PE 3 - AB 10
  - name: Horvath, Alex
    totals:
     - event: Brier
@@ -642,6 +778,34 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: PE 5 - ON 13
+ - name: Jacobs, Brad
+   totals:
+    - event: Brier
+      player1:
+        percent: 77
+        wins: 0
+        losses: 1
+      player2:
+        percent: 95
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: PE 3 - AB 10
  - name: Janssen, Patrick
    totals:
     - event: Brier
@@ -674,12 +838,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 75
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 80
-        wins: 2
+        percent: 79
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -714,6 +878,50 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: YT 9 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: YT 8 - PE 5
+ - name: Johnson, Trevor
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: SK 7 - PE 4
  - name: Jones, Scott
    totals:
     - event: Brier
@@ -774,12 +982,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 75
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 83
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -798,6 +1006,22 @@ vs:
       year: 2023
       draw: Round Robin(1)
       score: WC 8 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 77
+        win: 0
+        loss: 1
+      player2:
+        team: 'AB'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(8)
+      score: PE 3 - AB 10
  - name: Kidby, Dustin
    totals:
     - event: Brier
@@ -854,6 +1078,34 @@ vs:
       year: 2023
       draw: Round Robin(3)
       score: NB 8 - PE 9
+ - name: Kleiter, Rylan
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: SK 7 - PE 4
  - name: Koe, Jamie
    totals:
     - event: Brier
@@ -1172,10 +1424,10 @@ vs:
       player1:
         percent: 82
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 91
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1210,16 +1462,32 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Lead
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
  - name: Marsh, Kevin
    totals:
     - event: Brier
       player1:
         percent: 82
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1254,6 +1522,22 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
  - name: Martin, Karrick
    totals:
     - event: Brier
@@ -1326,16 +1610,44 @@ vs:
       year: 2022
       draw: Round Robin(15)
       score: PE 5 - ON 13
+ - name: Mattern, Joshua
+   totals:
+    - event: Brier
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(4)
+      score: SK 7 - PE 4
  - name: McEwen, Mike
    totals:
     - event: Brier
       player1:
-        percent: 84
+        percent: 83
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 90
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -1370,6 +1682,22 @@ vs:
       year: 2024
       draw: Round Robin(1)
       score: SK 7 - PE 6
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SK'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(2)
+      score: PE 4 - SK 6
  - name: Mcleod, Shadrach
    totals:
     - event: Brier
@@ -1426,6 +1754,34 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: PE 11 - NS 7
+ - name: Menard, Jean-Michel
+   totals:
+    - event: Brier
+      player1:
+        percent: 84
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Third
+        percent: 90
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
  - name: Middleton, Sterling
    totals:
     - event: Brier
@@ -1454,6 +1810,62 @@ vs:
       year: 2023
       draw: Round Robin(18)
       score: PE 2 - BC 9
+ - name: Mitchell, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
+ - name: Mooibroek, Sam
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
  - name: Morris, John
    totals:
     - event: Brier
@@ -1594,6 +2006,34 @@ vs:
       year: 2022
       draw: Round Robin(11)
       score: PE 6 - WC 8
+ - name: Naugler, Adam
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: PE 10 - NT 5
  - name: Neufeld, B.J.
    totals:
     - event: Brier
@@ -1694,16 +2134,100 @@ vs:
       year: 2024
       draw: Round Robin(17)
       score: NT 9 - PE 8
+ - name: Preston, Eric
+   totals:
+    - event: Brier
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'NT'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Brier
+      year: 2025
+      draw: Round Robin(14)
+      score: PE 10 - NT 5
+ - name: Purcell, Owen
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: PE 6 - NS 10
+ - name: Saccary, Scott
+   totals:
+    - event: Brier
+      player1:
+        percent: 85
+        wins: 0
+        losses: 1
+      player2:
+        percent: 85
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: PE 6 - NS 10
  - name: Saunders, Luke
    totals:
     - event: Brier
       player1:
-        percent: 89
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 83
-        wins: 0
+        percent: 79
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1722,6 +2246,22 @@ vs:
       year: 2024
       draw: Round Robin(3)
       score: PE 11 - NS 7
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      player2:
+        team: 'NS'
+        position: Third
+        percent: 75
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(10)
+      score: PE 6 - NS 10
  - name: Schneider, Catlin
    totals:
     - event: Brier
@@ -1754,12 +2294,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
+        percent: 75
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 84
-        wins: 2
+        percent: 82
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1794,6 +2334,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: YT 9 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: YT 8 - PE 5
  - name: Scoffin, Wade
    totals:
     - event: Brier
@@ -1922,6 +2478,34 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+ - name: Steele, Nathan
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
  - name: Stringer, Ben
    totals:
     - event: Brier
@@ -2066,12 +2650,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 66
+        percent: 75
         wins: 0
-        losses: 1
+        losses: 2
       player2:
         percent: 94
-        wins: 1
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -2090,6 +2674,22 @@ vs:
       year: 2023
       draw: Round Robin(5)
       score: PE 4 - QC 7
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'QC'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(6)
+      score: QC 7 - PE 5
  - name: Venance, Glenn
    totals:
     - event: Brier
@@ -2166,12 +2766,12 @@ vs:
    totals:
     - event: Brier
       player1:
-        percent: 73
-        wins: 0
-        losses: 2
-      player2:
         percent: 75
-        wins: 2
+        wins: 0
+        losses: 3
+      player2:
+        percent: 79
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -2206,6 +2806,22 @@ vs:
       year: 2023
       draw: Round Robin(12)
       score: YT 9 - PE 2
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'YT'
+        position: Lead
+        percent: 84
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(12)
+      score: YT 8 - PE 5
  - name: Webster, Dylan
    totals:
     - event: Brier
@@ -2290,6 +2906,34 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: NU 3 - PE 10
+ - name: Wiebe, Ryan
+   totals:
+    - event: Brier
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 77
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'PE'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'ON'
+        position: Third
+        percent: 77
+        win: 1
+        loss: 0
+      event: Brier
+      year: 2025
+      draw: Round Robin(16)
+      score: ON 8 - PE 4
  - name: Young, Nathan
    totals:
     - event: Brier
