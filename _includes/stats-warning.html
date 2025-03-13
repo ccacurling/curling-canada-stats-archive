@@ -1,0 +1,6 @@
+{%- assign limited_stats_briers = '1982' | split: ',' -%}
+{%- assign tmp_year = include.year | downcase -%}
+{%- assign tmp_event = include.event | downcase -%}
+{%- if tmp_event contains 'brier' and limited_stats_briers contains tmp_year %}
+ <button class="btn btn-danger btn-sm" data-toggle="tooltip" data-placement="top" title="" data-original-title="Limited detailed statistics available"><i class="fe fe-alert-octagon"></i></button>
+{%- endif -%}

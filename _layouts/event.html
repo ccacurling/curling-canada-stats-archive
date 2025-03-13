@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}{% include no-detailed-stats.html event=page.title year=page.year %}</h1>
+<h1>{{ page.title }}{% include stats-warning.html event=page.title year=page.year %}</h1>
 <p class="font-italic">{{ page.location }}<br>{{ page.dates }}</p>
 {% for static_file in site.static_files %}
 {% capture chart_path %}/assets/images/playoffs/{{ page.collection }}/{{ page.year }}.jpg{% endcapture %}
