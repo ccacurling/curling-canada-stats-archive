@@ -59,7 +59,7 @@ vs:
  - Aucoin, Shelley
  - Bacon, Kathy
  - Baird, Mary
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Mary Susan
  - Bildfell, Shelly
  - Brophy, Kathy

@@ -59,7 +59,7 @@ vs:
  - Arnott, Janet
  - Barker, Catherine
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bennet, Connie
  - Blanchard, Judy
  - Boudreault, Tracie

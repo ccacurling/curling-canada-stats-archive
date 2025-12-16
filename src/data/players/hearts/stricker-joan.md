@@ -123,7 +123,7 @@ vs:
  - Baker, Michelle
  - Balderston, Marcy
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Bernard, Cheryl
  - Blanchard, Judy

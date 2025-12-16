@@ -39,7 +39,7 @@ years:
 vs:
  - Allen, Laurie
  - Arnott, Janet
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Blanchard, Judy
  - Brown, Marcie

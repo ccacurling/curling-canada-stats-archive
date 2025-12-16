@@ -77,7 +77,7 @@ vs:
  - Allardyce, Kathie
  - Anderson, Kelly
  - Aucoin, Shelley
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Blanchard, Judy
  - Cameron, Nancy

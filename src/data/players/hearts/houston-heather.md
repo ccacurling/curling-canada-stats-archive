@@ -102,7 +102,7 @@ vs:
  - Aucoin, Shelley
  - Bacon, Kathy
  - Baird, Mary
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Blanchard, Judy
  - Brophy, Kathy

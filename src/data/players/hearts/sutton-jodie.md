@@ -86,7 +86,7 @@ vs:
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan

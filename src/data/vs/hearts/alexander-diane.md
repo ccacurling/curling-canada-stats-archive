@@ -86,7 +86,7 @@ vs:
       year: 1991
       draw: Round Robin(2)
       score: TR 4 - AB 8
- - name: Bartlett, Sue Anne
+ - name: Bartlett, Sue Ann
    totals:
     - event: Hearts
       player1:

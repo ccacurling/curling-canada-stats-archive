@@ -86,7 +86,7 @@ vs:
  - Arsenault, Mary-Anne
  - Arseneau, Jane
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beever, Jocelyn
  - Belley, Joelle
  - Bernard, Cheryl

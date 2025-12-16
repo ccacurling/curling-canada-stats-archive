@@ -119,7 +119,7 @@ vs:
  - Bacon, Kathy
  - Baird, Mary
  - Balderston, Marcy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Blair, Diane
  - Blanchard, Judy

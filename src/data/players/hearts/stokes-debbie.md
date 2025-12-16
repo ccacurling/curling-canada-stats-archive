@@ -174,7 +174,7 @@ vs:
  - Baird, Mary
  - Balderston, Marcy
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Betker, Jan
  - Blanchard, Judy

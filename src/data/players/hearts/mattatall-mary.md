@@ -180,7 +180,7 @@ vs:
  - Aucoin, Shelley
  - Barker, Penny
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beever, Jocelyn
  - Belisle, Eve
  - Bell, Chelsey

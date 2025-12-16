@@ -288,7 +288,7 @@ vs:
  - Arseneau, Jane
  - Babin, Jillian
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beever, Jocelyn
  - Belanger, Nancy
  - Bell, Chelsey

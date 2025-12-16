@@ -42,7 +42,7 @@ years:
    position: Alternate
    alternate: true
 vs:
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bildfell, Shelly
  - Burkitt, Maureen

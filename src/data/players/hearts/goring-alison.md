@@ -98,7 +98,7 @@ vs:
  - Arnott, Janet
  - Arseneau, Jane
  - Aucoin, Shelley
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Beveridge, Corie
  - Blanchard, Judy

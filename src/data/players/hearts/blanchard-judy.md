@@ -180,7 +180,7 @@ vs:
  - Balderston, Marcy
  - Barrack, Carmen
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belley, Joelle
  - Bernard, Cheryl
  - Bernard, Krista

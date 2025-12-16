@@ -40,7 +40,7 @@ vs:
  - Allen, Laurie
  - Arnott, Janet
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Blanchard, Judy
  - Brown, Marcie
  - Charette, Agnes

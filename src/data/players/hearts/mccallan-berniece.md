@@ -59,7 +59,7 @@ vs:
  - Armstrong, Iris
  - Aucoin, Shelley
  - Augustyn, Jan
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bildfell, Shelly
  - Blair, Diane
  - Bodogh, Marilyn

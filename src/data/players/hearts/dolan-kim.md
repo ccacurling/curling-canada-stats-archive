@@ -249,7 +249,7 @@ vs:
  - Balderston, Marcy
  - Barbour, Shona
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Bernard, Cheryl

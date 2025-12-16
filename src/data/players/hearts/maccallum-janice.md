@@ -139,7 +139,7 @@ vs:
  - Bakker, Glenys
  - Balderston, Marcy
  - Barrack, Carmen
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Bell, Allyson
  - Bernard, Krista

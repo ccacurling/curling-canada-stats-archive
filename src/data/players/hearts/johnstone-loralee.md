@@ -65,7 +65,7 @@ vs:
  - Arnott, Janet
  - Arseneau, Jane
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Betker, Jan
  - Blanchard, Judy

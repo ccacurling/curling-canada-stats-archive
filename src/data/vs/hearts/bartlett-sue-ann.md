@@ -1,6 +1,6 @@
 ---
-title: Sue Anne Bartlett Head-to-head
-name: Bartlett, Sue Anne
+title: Sue Ann Bartlett Head-to-head
+name: Bartlett, Sue Ann
 vs:
  - name: Beaudin, Yvonne
    totals:

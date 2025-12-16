@@ -269,7 +269,7 @@ vs:
  - Balderston, Marcy
  - Barker, Catherine
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beddington, Shalegh
  - Beever, Jocelyn
  - Belanger, Nancy

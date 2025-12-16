@@ -59,7 +59,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Baird, Mary
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bodogh, Marilyn
  - Brophy, Kathy
  - Burgess, Judy

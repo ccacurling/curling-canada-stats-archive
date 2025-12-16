@@ -103,7 +103,7 @@ vs:
  - Asham, Sandra
  - Aucoin, Shelley
  - Balderston, Marcy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Beveridge, Corie
  - Blair, Diane

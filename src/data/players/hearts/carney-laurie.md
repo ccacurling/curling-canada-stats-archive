@@ -77,7 +77,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Barker, Catherine
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Bennet, Connie

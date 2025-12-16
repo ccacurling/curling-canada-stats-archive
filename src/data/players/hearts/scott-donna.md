@@ -153,7 +153,7 @@ vs:
  - Bacon, Kathy
  - Baird, Mary
  - Balderston, Marcy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan

@@ -67,7 +67,7 @@ years:
 vs:
  - Arsenault, Mary-Anne
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan

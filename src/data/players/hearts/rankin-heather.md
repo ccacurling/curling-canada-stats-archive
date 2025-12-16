@@ -59,7 +59,7 @@ vs:
  - Alexander, Diane
  - Allen, Laurie
  - Arnott, Janet
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Betker, Jan
  - Blanchard, Judy

@@ -39,7 +39,7 @@ years:
 vs:
  - Aucoin, Shelley
  - Augustyn, Jan
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bodogh, Marilyn
  - Bussieres, Helene
  - Carney, Laurie

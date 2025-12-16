@@ -130,7 +130,7 @@ vs:
       year: 1987
       draw: Round Robin(6)
       score: TR 5 - AB 11
- - name: Bartlett, Sue Anne
+ - name: Bartlett, Sue Ann
    totals:
     - event: Hearts
       player1:

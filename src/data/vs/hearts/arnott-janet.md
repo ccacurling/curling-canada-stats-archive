@@ -346,7 +346,7 @@ vs:
       year: 1992
       draw: Round Robin(5)
       score: MB 6 - ON 4
- - name: Bartlett, Sue Anne
+ - name: Bartlett, Sue Ann
    totals:
     - event: Hearts
       player1:

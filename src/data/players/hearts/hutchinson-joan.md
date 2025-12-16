@@ -60,7 +60,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Balderston, Marcy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Betker, Jan

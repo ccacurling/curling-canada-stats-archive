@@ -77,7 +77,7 @@ vs:
  - Arnott, Janet
  - Baldwin, Nicole
  - Barbour, Shona
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Bell, Mary Susan
  - Betker, Jan

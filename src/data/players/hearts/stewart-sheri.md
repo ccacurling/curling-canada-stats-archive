@@ -214,7 +214,7 @@ vs:
  - Bakker, Glenys
  - Barrack, Carmen
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Bernard, Krista
  - Berthelot, Janique

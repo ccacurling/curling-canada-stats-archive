@@ -64,7 +64,7 @@ vs:
  - Alexander, Diane
  - Allardyce, Kathie
  - Aucoin, Shelley
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Blanchard, Judy
  - Cameron, Nancy

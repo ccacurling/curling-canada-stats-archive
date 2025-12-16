@@ -1,7 +1,7 @@
 ---
-title: Sue Anne Bartlett
-name: Sue Anne Bartlett
-name-sort: Bartlett, Sue Anne
+title: Sue Ann Bartlett
+name: Sue Ann Bartlett
+name-sort: Bartlett, Sue Ann
 totals:
  - event: Hearts
    games: 47

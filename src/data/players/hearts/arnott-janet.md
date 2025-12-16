@@ -218,7 +218,7 @@ vs:
  - Barker, Catherine
  - Barrack, Carmen
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bennet, Connie
  - Bernard, Cheryl

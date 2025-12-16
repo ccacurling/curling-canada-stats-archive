@@ -122,7 +122,7 @@ vs:
  - Baker, Michelle
  - Bakker, Glenys
  - Balderston, Marcy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Belley, Joelle
  - Bernard, Krista

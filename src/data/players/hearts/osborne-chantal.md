@@ -119,7 +119,7 @@ vs:
  - Baker, Rose-Marie
  - Baldwin, Nicole
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bernard, Cheryl
  - Betker, Jan

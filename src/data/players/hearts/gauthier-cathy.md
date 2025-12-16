@@ -135,7 +135,7 @@ vs:
  - Aucoin, Shelley
  - Baker, Rose-Marie
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Bell, Chelsey
  - Bernard, Cheryl

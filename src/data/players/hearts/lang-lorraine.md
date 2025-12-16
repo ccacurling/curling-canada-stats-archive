@@ -180,7 +180,7 @@ vs:
  - Bacon, Kathy
  - Baird, Mary
  - Barbour, Shona
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Belisle, Eve
  - Bernard, Cheryl

@@ -334,7 +334,7 @@ vs:
  - Balderston, Marcy
  - Barrack, Carmen
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beauchamp, Sasha
  - Belanger, Nancy
  - Belisle, Eve

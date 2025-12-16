@@ -157,7 +157,7 @@ vs:
  - Balderston, Marcy
  - Barrack, Carmen
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Bernard, Cheryl
  - Bernard, Krista

@@ -60,7 +60,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Baker, Rose-Marie
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Bodogh, Marilyn
  - Bradley, Shelley

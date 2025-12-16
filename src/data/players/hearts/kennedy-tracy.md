@@ -98,7 +98,7 @@ vs:
  - Aucoin, Shelley
  - Bacon, Kathy
  - Baird, Mary
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Blanchard, Judy
  - Brophy, Kathy

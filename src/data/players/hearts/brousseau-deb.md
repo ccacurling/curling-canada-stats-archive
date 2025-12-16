@@ -37,7 +37,7 @@ years:
    shots-total: 189
    shots-percent: 67
 vs:
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bildfell, Shelly
  - Burkitt, Maureen

@@ -59,7 +59,7 @@ vs:
  - Allen, Laurie
  - Arnott, Janet
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bell, Allyson
  - Beveridge, Corie
  - Blanchard, Judy

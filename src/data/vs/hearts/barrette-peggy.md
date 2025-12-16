@@ -2,7 +2,7 @@
 title: Peggy Barrette Head-to-head
 name: Barrette, Peggy
 vs:
- - name: Bartlett, Sue Anne
+ - name: Bartlett, Sue Ann
    totals:
     - event: Hearts
       player1:

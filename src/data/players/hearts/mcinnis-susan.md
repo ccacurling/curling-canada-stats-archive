@@ -192,7 +192,7 @@ vs:
  - Atkinson, Rebecca
  - Bakker, Glenys
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Baxter, Jennifer
  - Beever, Jocelyn
  - Belisle, Eve

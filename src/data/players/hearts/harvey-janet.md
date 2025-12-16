@@ -78,7 +78,7 @@ vs:
  - Alexander, Diane
  - Arsenault, Mary-Anne
  - Arseneau, Jane
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belisle, Eve
  - Betker, Jan
  - Beveridge, Corie

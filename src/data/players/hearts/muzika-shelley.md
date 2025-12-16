@@ -120,7 +120,7 @@ vs:
  - Augustyn, Jan
  - Baker, Rose-Marie
  - Barbour, Shona
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beever, Jocelyn
  - Belanger, Nancy
  - Bernard, Cheryl

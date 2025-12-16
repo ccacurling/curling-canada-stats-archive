@@ -37,7 +37,7 @@ years:
    shots-total: 214
    shots-percent: 61
 vs:
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Bildfell, Shelly

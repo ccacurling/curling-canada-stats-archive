@@ -44,7 +44,7 @@ years:
 vs:
  - Adams, Diane
  - Alexander, Diane
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Blanchard, Judy
  - Chaulk, Wendy
  - Cowan, Michele

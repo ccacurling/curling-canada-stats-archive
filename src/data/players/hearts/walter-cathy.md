@@ -81,7 +81,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Barrack, Carmen
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Krista
  - Berthelot, Janique
  - Bildfell, Shelly

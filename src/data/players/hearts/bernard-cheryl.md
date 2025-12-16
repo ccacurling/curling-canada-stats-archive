@@ -98,7 +98,7 @@ vs:
  - Baldwin, Nicole
  - Barbour, Shona
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Bell, Allyson
  - Betker, Jan

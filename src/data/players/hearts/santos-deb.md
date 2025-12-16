@@ -96,7 +96,7 @@ vs:
  - Anderson, Kelly
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belley, Joelle
  - Betker, Jan
  - Birt, Suzanne

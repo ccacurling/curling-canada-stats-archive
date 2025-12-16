@@ -208,7 +208,7 @@ vs:
  - Barbour, Shona
  - Barker, Penny
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Baxter, Jennifer
  - Belanger, Nancy
  - Belisle, Eve

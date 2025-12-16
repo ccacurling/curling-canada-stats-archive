@@ -130,7 +130,7 @@ vs:
  - Alexander, Diane
  - Anderson, Kelly
  - Armstrong, Iris
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Bell, Mary Susan
  - Bildfell, Shelly

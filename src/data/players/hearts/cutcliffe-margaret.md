@@ -80,7 +80,7 @@ vs:
  - Augustyn, Jan
  - Balderston, Marcy
  - Barker, Penny
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Beaudin, Yvonne
  - Belisle, Eve
  - Bell, Mary Susan

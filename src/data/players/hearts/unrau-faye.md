@@ -58,7 +58,7 @@ vs:
  - Arsenault, Mary-Anne
  - Aucoin, Shelley
  - Augustyn, Jan
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belley, Joelle
  - Betker, Jan
  - Birt, Suzanne

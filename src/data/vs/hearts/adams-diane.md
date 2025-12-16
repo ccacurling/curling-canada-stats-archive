@@ -234,7 +234,7 @@ vs:
       year: 1988
       draw: Round Robin(1)
       score: NS 4 - ON 8
- - name: Bartlett, Sue Anne
+ - name: Bartlett, Sue Ann
    totals:
     - event: Hearts
       player1:

@@ -77,7 +77,7 @@ vs:
  - Aucoin, Shelley
  - Augustyn, Jan
  - Barbour, Shona
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Belanger, Nancy
  - Belley, Joelle
  - Bernard, Cheryl

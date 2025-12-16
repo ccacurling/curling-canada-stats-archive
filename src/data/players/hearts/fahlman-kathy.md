@@ -88,7 +88,7 @@ vs:
  - Augustyn, Jan
  - Balderston, Marcy
  - Barrette, Peggy
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Bernard, Cheryl
  - Blanchard, Judy
  - Bodogh, Marilyn

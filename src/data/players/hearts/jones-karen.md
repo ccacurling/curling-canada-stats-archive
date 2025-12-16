@@ -82,7 +82,7 @@ vs:
  - Augustyn, Jan
  - Aulenback, Wanda
  - Baldwin, Laurel
- - Bartlett, Sue Anne
+ - Bartlett, Sue Ann
  - Betker, Jan
  - Blanchard, Judy
  - Bodogh, Marilyn
