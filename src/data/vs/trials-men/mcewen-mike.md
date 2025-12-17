@@ -2,6 +2,34 @@
 title: Mike McEwen Head-to-head
 name: McEwen, Mike
 vs:
+ - name: McMillan, Ian
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 86
+        wins: 0
+        losses: 1
+      player2:
+        percent: 94
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'EPPm'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: EPPm 9 - MCEm 5
  - name: Mead, Jon
    totals:
     - event: Trials(Men)
@@ -351,12 +379,12 @@ vs:
     - event: Trials(Men)
       player1:
         percent: 83
-        wins: 2
+        wins: 3
         losses: 2
       player2:
         percent: 90
         wins: 2
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'MCE'
@@ -422,6 +450,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Gush 6 - McEw 4
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUSm'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
  - name: Njegovan, Connor
    totals:
     - event: Trials(Men)
@@ -450,6 +494,34 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: McEw 11 - Gunn 2
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 86
+        wins: 1
+        losses: 0
+      player2:
+        percent: 80
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 80
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: MCEm 6 - MCDm 5
  - name: Rycroft, Carter
    totals:
     - event: Trials(Men)
@@ -618,6 +690,34 @@ vs:
       year: 2013
       draw: Round Robin(14)
       score: MCE 4 - KOE 5
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
  - name: Stoughton, Jeff
    totals:
     - event: Trials(Men)
@@ -646,6 +746,34 @@ vs:
       year: 2013
       draw: Round Robin(13)
       score: STO 6 - MCE 9
+ - name: Tardi, Tyler
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
  - name: Thiessen, Brad
    totals:
     - event: Trials(Men)
@@ -722,13 +850,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 2
       player2:
-        percent: 87
+        percent: 89
         wins: 2
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'McEw'
@@ -778,6 +906,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Gush 6 - McEw 4
+    - player1:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUSm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)

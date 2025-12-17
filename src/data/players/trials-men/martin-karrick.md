@@ -4,19 +4,19 @@ name: Karrick Martin
 name-sort: Martin, Karrick
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 7
-   losses: 9
-   inturn-total: 266
-   inturn-percent: 90
-   outturn-total: 41
-   outturn-percent: 82
-   draw-total: 265
+   games: 23
+   wins: 10
+   losses: 13
+   inturn-total: 359
+   inturn-percent: 91
+   outturn-total: 84
+   outturn-percent: 87
+   draw-total: 396
    draw-percent: 91
-   takeout-total: 42
+   takeout-total: 47
    takeout-percent: 79
-   shots-total: 307
-   shots-percent: 89
+   shots-total: 443
+   shots-percent: 90
 years:
  - year: 2017
    event: Trials (Men)
@@ -52,8 +52,26 @@ years:
    takeout-percent: 81
    shots-total: 146
    shots-percent: 92
+ - year: 2025
+   event: Trials (Men)
+   team: "KOEm"
+   position: Lead
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 93
+   inturn-percent: 91
+   outturn-total: 43
+   outturn-percent: 91
+   draw-total: 131
+   draw-percent: 92
+   takeout-total: 5
+   takeout-percent: 80
+   shots-total: 136
+   shots-percent: 91
 vs:
  - Beuk, Jonathan
+ - Bottcher, Brendan
  - Camm, Mathew
  - Carruthers, Reid
  - Casey, Adam
@@ -61,28 +79,40 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Knapp, Kelly
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
@@ -91,6 +121,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Samagalski, Derek
  - Schneider, Catlin
  - Walker, Geoff

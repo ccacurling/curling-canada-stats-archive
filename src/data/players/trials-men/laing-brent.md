@@ -120,6 +120,10 @@ years:
    takeout-percent: 78
    shots-total: 140
    shots-percent: 86
+ - year: 2025
+   event: Trials (Men)
+   team: "MCEm"
+   position: Alternate
 vs:
  - Adam, Gerry
  - Adams, Shawn

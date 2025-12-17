@@ -4,18 +4,18 @@ name: Marc Kennedy
 name-sort: Kennedy, Marc
 totals:
  - event: Trials (Men)
-   games: 45
-   wins: 35
-   losses: 10
-   inturn-total: 500
+   games: 54
+   wins: 43
+   losses: 11
+   inturn-total: 587
    inturn-percent: 91
-   outturn-total: 376
+   outturn-total: 471
    outturn-percent: 87
-   draw-total: 301
-   draw-percent: 86
-   takeout-total: 575
+   draw-total: 336
+   draw-percent: 87
+   takeout-total: 722
    takeout-percent: 91
-   shots-total: 876
+   shots-total: 1058
    shots-percent: 89
 years:
  - year: 2005
@@ -103,6 +103,23 @@ years:
    takeout-percent: 92
    shots-total: 180
    shots-percent: 90
+ - year: 2025
+   event: Trials (Men)
+   team: "JACm"
+   position: Third
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 87
+   inturn-percent: 91
+   outturn-total: 95
+   outturn-percent: 90
+   draw-total: 35
+   draw-percent: 89
+   takeout-total: 147
+   takeout-percent: 91
+   shots-total: 182
+   shots-percent: 91
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -121,17 +138,20 @@ vs:
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
+ - Flasch, Colton
  - Flemming, Paul
  - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gibson, Andrew
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
@@ -142,9 +162,12 @@ vs:
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Korab, Jamie
  - Laing, Brent
@@ -155,10 +178,15 @@ vs:
  - MacDonald, Blake
  - MacKenzie, Kevin
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -173,6 +201,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Park, Kevin
  - Peachey, Jay
  - Pfeifer, Scott
@@ -187,7 +216,9 @@ vs:
  - Schneider, Catlin
  - Sharp, Jeff
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Van Den Berghe, Garry

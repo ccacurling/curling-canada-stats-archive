@@ -35,6 +35,10 @@ years:
    takeout-percent: 86
    shots-total: 150
    shots-percent: 87
+ - year: 2025
+   event: Trials (Men)
+   team: "GUSm"
+   position: Alternate
 vs:
  - Beuk, Jonathan
  - Bottcher, Brendan

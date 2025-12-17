@@ -4,18 +4,18 @@ name: Ben Hebert
 name-sort: Hebert, Ben
 totals:
  - event: Trials (Men)
-   games: 34
-   wins: 27
-   losses: 7
-   inturn-total: 89
+   games: 43
+   wins: 35
+   losses: 8
+   inturn-total: 144
    inturn-percent: 90
-   outturn-total: 559
+   outturn-total: 686
    outturn-percent: 93
-   draw-total: 564
+   draw-total: 737
    draw-percent: 94
-   takeout-total: 84
-   takeout-percent: 80
-   shots-total: 648
+   takeout-total: 93
+   takeout-percent: 81
+   shots-total: 830
    shots-percent: 92
 years:
  - year: 2005
@@ -90,6 +90,23 @@ years:
    takeout-percent: 71
    shots-total: 154
    shots-percent: 92
+ - year: 2025
+   event: Trials (Men)
+   team: "JACm"
+   position: Lead
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 55
+   inturn-percent: 90
+   outturn-total: 127
+   outturn-percent: 93
+   draw-total: 173
+   draw-percent: 92
+   takeout-total: 9
+   takeout-percent: 89
+   shots-total: 182
+   shots-percent: 92
 vs:
  - Adam, Gerry
  - Bailey, Scott
@@ -103,34 +120,46 @@ vs:
  - Dunstone, Matt
  - Epping, John
  - Ferbey, Randy
+ - Flasch, Colton
  - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - MacDonald, Blake
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -144,6 +173,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Park, Kevin
  - Pfeifer, Scott
  - Richter, Justin
@@ -155,7 +185,9 @@ vs:
  - Schneider, Catlin
  - Sharp, Jeff
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff

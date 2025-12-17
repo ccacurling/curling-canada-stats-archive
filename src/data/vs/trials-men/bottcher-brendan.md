@@ -178,12 +178,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 78
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 80
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -218,17 +218,33 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Duns 9 - Bott 4
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: Epping, John
    totals:
     - event: Trials(Men)
       player1:
         percent: 91
-        wins: 2
+        wins: 3
         losses: 0
       player2:
-        percent: 80
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'Bott'
@@ -262,6 +278,50 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eppi 6 - Bott 10
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
+ - name: Flasch, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
  - name: Forget, Wesley
    totals:
     - event: Trials(Men)
@@ -338,12 +398,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 83
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 86
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -378,6 +438,50 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Bott 4 - Gush 6
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: GUSm 3 - JACm 6
+ - name: Gauthier, Jacques
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Third
+        percent: 83
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: MCDm 6 - GUSm 8
  - name: Griffith, Tyrel
    totals:
     - event: Trials(Men)
@@ -478,16 +582,44 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Bott 4 - Gush 6
+ - name: Hall, Matthew
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 69
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Third
+        percent: 69
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: KLEm 5 - GUSm 11
  - name: Harnden, E.J.
    totals:
     - event: Trials(Men)
       player1:
-        percent: 79
+        percent: 76
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 87
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -522,16 +654,32 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Jaco 5 - Bott 2
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: Harnden, Ryan
    totals:
     - event: Trials(Men)
       player1:
-        percent: 79
+        percent: 76
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 97
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -566,16 +714,32 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Jaco 5 - Bott 2
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Lead
+        percent: 97
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: Hebert, Ben
    totals:
     - event: Trials(Men)
       player1:
-        percent: 78
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 95
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -610,6 +774,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Bott 7 - Koe 9
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: GUSm 3 - JACm 6
  - name: Hodgson, Colin
    totals:
     - event: Trials(Men)
@@ -654,17 +834,45 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Bott 10 - McEw 2
+ - name: Horgan, Jacob
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
  - name: Horgan, Tanner
    totals:
     - event: Trials(Men)
       player1:
-        percent: 92
-        wins: 0
+        percent: 91
+        wins: 1
         losses: 1
       player2:
-        percent: 84
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Bott'
@@ -682,16 +890,60 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Horg 6 - Bott 5
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Second
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
+ - name: Huminicki, Elias
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 67
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Second
+        percent: 67
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: MCDm 6 - GUSm 8
  - name: Jacobs, Brad
    totals:
     - event: Trials(Men)
       player1:
-        percent: 79
+        percent: 82
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 79
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -726,6 +978,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Jaco 5 - Bott 2
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: GUSm 3 - JACm 6
  - name: Janssen, Patrick
    totals:
     - event: Trials(Men)
@@ -754,16 +1022,44 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: Eppi 6 - Bott 7
+ - name: Johnson, Trevor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: KLEm 5 - GUSm 11
  - name: Kennedy, Marc
    totals:
     - event: Trials(Men)
       player1:
-        percent: 74
+        percent: 79
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 91
-        wins: 2
+        percent: 93
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -798,6 +1094,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Jaco 5 - Bott 2
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Third
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: GUSm 3 - JACm 6
  - name: Kidby, Dustin
    totals:
     - event: Trials(Men)
@@ -826,6 +1138,34 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Duns 9 - Bott 4
+ - name: Kleiter, Rylan
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: KLEm 5 - GUSm 11
  - name: Knapp, Kelly
    totals:
     - event: Trials(Men)
@@ -858,13 +1198,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 78
-        wins: 0
+        percent: 82
+        wins: 1
         losses: 2
       player2:
-        percent: 88
+        percent: 90
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Bott'
@@ -898,6 +1238,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Bott 7 - Koe 9
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Fourth
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Laing, Brent
    totals:
     - event: Trials(Men)
@@ -974,12 +1330,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 85
+        percent: 78
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 93
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -998,6 +1354,22 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Duns 9 - Bott 4
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: March, Tim
    totals:
     - event: Trials(Men)
@@ -1026,16 +1398,156 @@ vs:
       year: 2017
       draw: Round Robin(16)
       score: Eppi 6 - Bott 7
+ - name: Marsh, Daniel
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Lead
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
+ - name: Marsh, Kevin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 89
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Second
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
+ - name: Martin, Karrick
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
+ - name: Mattern, Joshua
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Second
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: KLEm 5 - GUSm 11
+ - name: McDonald, Jordon
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Fourth
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: MCDm 6 - GUSm 8
  - name: McEwen, Mike
    totals:
     - event: Trials(Men)
       player1:
-        percent: 84
-        wins: 1
-        losses: 1
-      player2:
         percent: 86
         wins: 1
+        losses: 2
+      player2:
+        percent: 86
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -1070,6 +1582,50 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Bott 10 - McEw 2
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: GUSm 7 - MCEm 9
+ - name: McMillan, Ian
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 98
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
  - name: Morris, John
    totals:
     - event: Trials(Men)
@@ -1358,6 +1914,34 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Bott 7 - Gunn 6
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: MCDm 6 - GUSm 8
  - name: Samagalski, Derek
    totals:
     - event: Trials(Men)
@@ -1430,6 +2014,62 @@ vs:
       year: 2017
       draw: Round Robin(11)
       score: Bott 6 - Morr 10
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
+ - name: Tardi, Tyler
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Second
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Walker, Geoff
    totals:
     - event: Trials(Men)

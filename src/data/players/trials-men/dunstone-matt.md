@@ -4,19 +4,19 @@ name: Matt Dunstone
 name-sort: Dunstone, Matt
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 5
-   losses: 11
-   inturn-total: 152
-   inturn-percent: 78
-   outturn-total: 143
-   outturn-percent: 81
-   draw-total: 102
-   draw-percent: 79
-   takeout-total: 193
-   takeout-percent: 79
-   shots-total: 295
-   shots-percent: 79
+   games: 26
+   wins: 10
+   losses: 16
+   inturn-total: 236
+   inturn-percent: 81
+   outturn-total: 251
+   outturn-percent: 82
+   draw-total: 170
+   draw-percent: 82
+   takeout-total: 317
+   takeout-percent: 81
+   shots-total: 487
+   shots-percent: 81
 years:
  - year: 2017
    event: Trials (Men)
@@ -52,6 +52,23 @@ years:
    takeout-percent: 78
    shots-total: 141
    shots-percent: 80
+ - year: 2025
+   event: Trials (Men)
+   team: "DUNm"
+   position: Fourth
+   games: 10
+   wins: 5
+   losses: 5
+   inturn-total: 84
+   inturn-percent: 86
+   outturn-total: 108
+   outturn-percent: 83
+   draw-total: 68
+   draw-percent: 86
+   takeout-total: 124
+   takeout-percent: 84
+   shots-total: 192
+   shots-percent: 84
 vs:
  - Beuk, Jonathan
  - Bottcher, Brendan
@@ -61,24 +78,36 @@ vs:
  - Chadwick, Scott
  - Cotter, Jim
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -86,9 +115,12 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Samagalski, Derek
  - Sawatsky, Rick
  - Schneider, Catlin
+ - Sluchinski, Aaron
+ - Tardi, Tyler
  - Thiessen, Brad
  - Walker, Geoff
  - Wozniak, Matt

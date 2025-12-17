@@ -30,6 +30,34 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Gunn 7 - Gush 6
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 89
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: MCDm 6 - GUSm 8
  - name: Peachey, Jay
    totals:
     - event: Trials(Men)
@@ -402,6 +430,34 @@ vs:
       year: 2013
       draw: Round Robin(10)
       score: KOE 6 - STO 10
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Stoughton, Jeff
    totals:
     - event: Trials(Men)
@@ -446,6 +502,34 @@ vs:
       year: 2005
       draw: Final(23)
       score: STO 7 - GUS 8
+ - name: Tardi, Tyler
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'GUSm'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Thiessen, Brad
    totals:
     - event: Trials(Men)

@@ -4,19 +4,19 @@ name: Ryan Harnden
 name-sort: Harnden, Ryan
 totals:
  - event: Trials (Men)
-   games: 26
-   wins: 19
-   losses: 7
-   inturn-total: 168
-   inturn-percent: 89
-   outturn-total: 308
-   outturn-percent: 90
-   draw-total: 406
-   draw-percent: 90
-   takeout-total: 70
-   takeout-percent: 86
-   shots-total: 476
-   shots-percent: 90
+   games: 36
+   wins: 24
+   losses: 12
+   inturn-total: 253
+   inturn-percent: 92
+   outturn-total: 417
+   outturn-percent: 91
+   draw-total: 591
+   draw-percent: 92
+   takeout-total: 79
+   takeout-percent: 85
+   shots-total: 670
+   shots-percent: 91
 years:
  - year: 2013
    event: Trials (Men)
@@ -102,6 +102,23 @@ years:
    takeout-percent: 85
    shots-total: 180
    shots-percent: 93
+ - year: 2025
+   event: Trials (Men)
+   team: "DUNm"
+   position: Lead
+   games: 10
+   wins: 5
+   losses: 5
+   inturn-total: 85
+   inturn-percent: 97
+   outturn-total: 109
+   outturn-percent: 95
+   draw-total: 185
+   draw-percent: 96
+   takeout-total: 9
+   takeout-percent: 83
+   shots-total: 194
+   shots-percent: 96
 vs:
  - Bailey, Scott
  - Beuk, Jonathan
@@ -113,29 +130,41 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
+ - Huminicki, Elias
+ - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -149,13 +178,16 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
  - Schneider, Catlin
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff

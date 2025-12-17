@@ -4,19 +4,19 @@ name: Brad Jacobs
 name-sort: Jacobs, Brad
 totals:
  - event: Trials (Men)
-   games: 26
-   wins: 19
-   losses: 7
-   inturn-total: 204
-   inturn-percent: 87
-   outturn-total: 270
-   outturn-percent: 87
-   draw-total: 149
-   draw-percent: 84
-   takeout-total: 325
+   games: 35
+   wins: 27
+   losses: 8
+   inturn-total: 278
+   inturn-percent: 88
+   outturn-total: 375
+   outturn-percent: 88
+   draw-total: 195
+   draw-percent: 85
+   takeout-total: 458
    takeout-percent: 89
-   shots-total: 474
-   shots-percent: 87
+   shots-total: 653
+   shots-percent: 88
 years:
  - year: 2013
    event: Trials (Men)
@@ -69,6 +69,23 @@ years:
    takeout-percent: 91
    shots-total: 177
    shots-percent: 91
+ - year: 2025
+   event: Trials (Men)
+   team: "JACm"
+   position: Fourth
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 74
+   inturn-percent: 90
+   outturn-total: 105
+   outturn-percent: 90
+   draw-total: 46
+   draw-percent: 89
+   takeout-total: 133
+   takeout-percent: 90
+   shots-total: 179
+   shots-percent: 90
 vs:
  - Bailey, Scott
  - Beuk, Jonathan
@@ -80,29 +97,42 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
+ - Harnden, E.J.
+ - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
+ - Huminicki, Elias
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -116,13 +146,16 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Rycroft, Carter
  - Samagalski, Derek
  - Savill, Craig
  - Sawatsky, Rick
  - Schneider, Catlin
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff

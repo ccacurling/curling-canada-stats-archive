@@ -2,16 +2,72 @@
 title: Karrick Martin Head-to-head
 name: Martin, Karrick
 vs:
+ - name: Mattern, Joshua
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 97
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 97
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Second
+        percent: 65
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: KLEm 8 - KOEm 3
+ - name: McDonald, Jordon
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: MCDm 7 - KOEm 8
  - name: McEwen, Mike
    totals:
     - event: Trials(Men)
       player1:
         percent: 90
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 86
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -46,6 +102,50 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Bott 10 - McEw 2
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
+ - name: McMillan, Ian
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 96
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      player2:
+        team: 'EPPm'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Morris, John
    totals:
     - event: Trials(Men)
@@ -266,12 +366,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 85
+        percent: 87
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 83
-        wins: 2
+        percent: 87
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -306,6 +406,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Bott 4 - Gush 6
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Njegovan, Connor
    totals:
     - event: Trials(Men)
@@ -334,6 +450,34 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Bott 7 - Gunn 6
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 94
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 94
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: MCDm 7 - KOEm 8
  - name: Samagalski, Derek
    totals:
     - event: Trials(Men)
@@ -410,12 +554,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 85
+        percent: 87
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 86
-        wins: 2
+        percent: 88
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -450,6 +594,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Bott 4 - Gush 6
+    - player1:
+        team: 'KOEm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)

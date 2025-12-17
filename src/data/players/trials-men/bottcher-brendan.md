@@ -4,19 +4,19 @@ name: Brendan Bottcher
 name-sort: Bottcher, Brendan
 totals:
  - event: Trials (Men)
-   games: 16
-   wins: 7
-   losses: 9
-   inturn-total: 165
-   inturn-percent: 84
-   outturn-total: 140
-   outturn-percent: 81
-   draw-total: 116
-   draw-percent: 80
-   takeout-total: 189
-   takeout-percent: 84
-   shots-total: 305
-   shots-percent: 82
+   games: 23
+   wins: 11
+   losses: 12
+   inturn-total: 223
+   inturn-percent: 85
+   outturn-total: 224
+   outturn-percent: 83
+   draw-total: 178
+   draw-percent: 82
+   takeout-total: 269
+   takeout-percent: 86
+   shots-total: 447
+   shots-percent: 84
 years:
  - year: 2017
    event: Trials (Men)
@@ -52,6 +52,23 @@ years:
    takeout-percent: 86
    shots-total: 149
    shots-percent: 84
+ - year: 2025
+   event: Trials (Men)
+   team: "GUSm"
+   position: Second
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 58
+   inturn-percent: 88
+   outturn-total: 84
+   outturn-percent: 88
+   draw-total: 62
+   draw-percent: 85
+   takeout-total: 80
+   takeout-percent: 89
+   shots-total: 142
+   shots-percent: 88
 vs:
  - Beuk, Jonathan
  - Camm, Mathew
@@ -61,28 +78,41 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Knapp, Kelly
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
+ - Martin, Karrick
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Morris, John
  - Moskowy, Braeden
  - Muyres, Dallan
@@ -91,8 +121,11 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Samagalski, Derek
  - Schneider, Catlin
+ - Sluchinski, Aaron
+ - Tardi, Tyler
  - Walker, Geoff
  - Wozniak, Matt
 ---

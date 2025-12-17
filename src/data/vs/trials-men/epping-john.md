@@ -30,6 +30,34 @@ vs:
       year: 2009
       draw: Round Robin(1)
       score: MIDD 7 - FERB 9
+ - name: Flasch, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 78
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Third
+        percent: 78
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: EPPm 9 - MCEm 5
  - name: Forget, Wesley
    totals:
     - event: Trials(Men)
@@ -162,12 +190,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 77
+        percent: 78
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 82
-        wins: 1
+        percent: 84
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -202,6 +230,50 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Gush 8 - Eppi 6
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: JACm 6 - EPPm 4
+ - name: Gauthier, Jacques
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Third
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCDm 6 - EPPm 8
  - name: Gould, Steve
    totals:
     - event: Trials(Men)
@@ -324,10 +396,10 @@ vs:
       player1:
         percent: 77
         wins: 1
-        losses: 1
+        losses: 2
       player2:
         percent: 83
-        wins: 1
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -362,16 +434,60 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Gush 8 - Eppi 6
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
+ - name: Hall, Matthew
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Third
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: EPPm 7 - KLEm 10
  - name: Harnden, E.J.
    totals:
     - event: Trials(Men)
       player1:
-        percent: 79
+        percent: 82
         wins: 0
-        losses: 2
+        losses: 3
       player2:
         percent: 84
-        wins: 2
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -406,16 +522,32 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Jaco 9 - Eppi 3
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Second
+        percent: 85
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
  - name: Harnden, Ryan
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
-        wins: 1
-        losses: 2
-      player2:
         percent: 84
-        wins: 2
+        wins: 1
+        losses: 3
+      player2:
+        percent: 86
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -466,6 +598,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Jaco 9 - Eppi 3
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
  - name: Hart, Richard
    totals:
     - event: Trials(Men)
@@ -498,12 +646,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 75
+        percent: 76
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 92
-        wins: 4
+        percent: 94
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -570,6 +718,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Eppi 3 - Koe 9
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Lead
+        percent: 100
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: JACm 6 - EPPm 4
  - name: Hodgson, Colin
    totals:
     - event: Trials(Men)
@@ -686,16 +850,44 @@ vs:
       year: 2013
       draw: Round Robin(4)
       score: EPP 5 - HOW 9
+ - name: Huminicki, Elias
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 76
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Second
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCDm 6 - EPPm 8
  - name: Jacobs, Brad
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 82
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 85
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -746,16 +938,60 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Jaco 9 - Eppi 3
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Fourth
+        percent: 99
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: JACm 6 - EPPm 4
+ - name: Johnson, Trevor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Lead
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: EPPm 7 - KLEm 10
  - name: Kennedy, Marc
    totals:
     - event: Trials(Men)
       player1:
-        percent: 78
+        percent: 79
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 93
-        wins: 4
+        percent: 92
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -822,6 +1058,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Jaco 9 - Eppi 3
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Third
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: JACm 6 - EPPm 4
  - name: Kidby, Dustin
    totals:
     - event: Trials(Men)
@@ -850,17 +1102,45 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Eppi 9 - Duns 7
+ - name: Kleiter, Rylan
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 80
+        wins: 0
+        losses: 1
+      player2:
+        percent: 86
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: EPPm 7 - KLEm 10
  - name: Koe, Kevin
    totals:
     - event: Trials(Men)
       player1:
-        percent: 84
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 3
       player2:
-        percent: 90
+        percent: 88
         wins: 3
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'MIDD'
@@ -926,6 +1206,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Eppi 3 - Koe 9
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Laing, Brent
    totals:
     - event: Trials(Men)
@@ -1034,12 +1330,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 73
+        percent: 79
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 86
-        wins: 0
+        percent: 87
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -1058,6 +1354,22 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Eppi 9 - Duns 7
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      player2:
+        team: 'DUNm'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
  - name: MacDonald, Blake
    totals:
     - event: Trials(Men)
@@ -1086,17 +1398,73 @@ vs:
       year: 2009
       draw: Round Robin(4)
       score: MIDD 4 - KOE 11
+ - name: Marsh, Daniel
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 90
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Lead
+        percent: 90
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: EPPm 9 - MCEm 5
+ - name: Marsh, Kevin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 92
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: EPPm 9 - MCEm 5
  - name: Martin, Karrick
    totals:
     - event: Trials(Men)
       player1:
-        percent: 80
-        wins: 0
+        percent: 83
+        wins: 1
         losses: 2
       player2:
-        percent: 89
+        percent: 91
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Eppi'
@@ -1130,6 +1498,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eppi 6 - Bott 10
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Martin, Kevin
    totals:
     - event: Trials(Men)
@@ -1174,17 +1558,73 @@ vs:
       year: 2013
       draw: Round Robin(10)
       score: MAR 9 - EPP 5
- - name: McEwen, Mike
+ - name: Mattern, Joshua
    totals:
     - event: Trials(Men)
       player1:
         percent: 80
         wins: 0
+        losses: 1
+      player2:
+        percent: 98
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 80
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Second
+        percent: 98
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: EPPm 7 - KLEm 10
+ - name: McDonald, Jordon
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 83
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Fourth
+        percent: 83
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCDm 6 - EPPm 8
+ - name: McEwen, Mike
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 83
+        wins: 1
         losses: 3
       player2:
-        percent: 92
+        percent: 90
         wins: 3
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'EPP'
@@ -1234,6 +1674,22 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: McEw 6 - Eppi 2
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: EPPm 9 - MCEm 5
  - name: Mead, Jon
    totals:
     - event: Trials(Men)
@@ -1678,12 +2134,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 81
         wins: 1
-        losses: 2
+        losses: 3
       player2:
-        percent: 83
-        wins: 2
+        percent: 84
+        wins: 3
         losses: 1
    games:
     - player1:
@@ -1734,6 +2190,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Gush 8 - Eppi 6
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
  - name: Njegovan, Connor
    totals:
     - event: Trials(Men)
@@ -1762,6 +2234,34 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Eppi 10 - Gunn 5
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 93
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 93
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCDm 6 - EPPm 8
  - name: Park, Kevin
    totals:
     - event: Trials(Men)
@@ -2134,6 +2634,34 @@ vs:
       year: 2013
       draw: Round Robin(2)
       score: KOE 8 - EPP 9
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Steski, Peter
    totals:
     - event: Trials(Men)
@@ -2206,6 +2734,34 @@ vs:
       year: 2013
       draw: Round Robin(6)
       score: STO 4 - EPP 3
+ - name: Tardi, Tyler
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 81
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'KOEm'
+        position: Third
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Thiessen, Brad
    totals:
     - event: Trials(Men)
@@ -2300,10 +2856,10 @@ vs:
       player1:
         percent: 77
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 91
-        wins: 1
+        percent: 93
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -2338,6 +2894,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Gush 8 - Eppi 6
+    - player1:
+        team: 'EPPm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Lead
+        percent: 99
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: GUSm 5 - EPPm 3
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)

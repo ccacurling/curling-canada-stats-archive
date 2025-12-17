@@ -4,18 +4,18 @@ name: Kevin Koe
 name-sort: Koe, Kevin
 totals:
  - event: Trials (Men)
-   games: 42
-   wins: 26
-   losses: 16
-   inturn-total: 290
-   inturn-percent: 83
-   outturn-total: 496
+   games: 49
+   wins: 29
+   losses: 20
+   inturn-total: 341
+   inturn-percent: 82
+   outturn-total: 580
    outturn-percent: 88
-   draw-total: 308
-   draw-percent: 86
-   takeout-total: 478
+   draw-total: 364
+   draw-percent: 84
+   takeout-total: 557
    takeout-percent: 86
-   shots-total: 786
+   shots-total: 921
    shots-percent: 86
 years:
  - year: 2005
@@ -103,6 +103,23 @@ years:
    takeout-percent: 85
    shots-total: 151
    shots-percent: 88
+ - year: 2025
+   event: Trials (Men)
+   team: "KOEm"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 51
+   inturn-percent: 75
+   outturn-total: 84
+   outturn-percent: 85
+   draw-total: 56
+   draw-percent: 75
+   takeout-total: 79
+   takeout-percent: 87
+   shots-total: 135
+   shots-percent: 82
 vs:
  - Adam, Gerry
  - Adams, Shawn
@@ -121,30 +138,37 @@ vs:
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
+ - Flasch, Colton
  - Flemming, Paul
  - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gibson, Andrew
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
  - Hart, Richard
  - Hebert, Ben
  - Hodgson, Colin
+ - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Russ
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Korab, Jamie
  - Laing, Brent
  - Laycock, Steve
@@ -153,10 +177,15 @@ vs:
  - Lott, Colton
  - MacKenzie, Kevin
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -171,6 +200,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Park, Kevin
  - Peachey, Jay
  - Pfeifer, Scott

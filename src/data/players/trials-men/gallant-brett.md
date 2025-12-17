@@ -4,19 +4,19 @@ name: Brett Gallant
 name-sort: Gallant, Brett
 totals:
  - event: Trials (Men)
-   games: 18
-   wins: 14
-   losses: 4
-   inturn-total: 150
-   inturn-percent: 86
-   outturn-total: 198
-   outturn-percent: 89
-   draw-total: 134
-   draw-percent: 86
-   takeout-total: 214
-   takeout-percent: 89
-   shots-total: 348
-   shots-percent: 88
+   games: 27
+   wins: 22
+   losses: 5
+   inturn-total: 212
+   inturn-percent: 84
+   outturn-total: 317
+   outturn-percent: 87
+   draw-total: 184
+   draw-percent: 87
+   takeout-total: 345
+   takeout-percent: 86
+   shots-total: 529
+   shots-percent: 86
 years:
  - year: 2017
    event: Trials (Men)
@@ -52,6 +52,23 @@ years:
    takeout-percent: 90
    shots-total: 172
    shots-percent: 89
+ - year: 2025
+   event: Trials (Men)
+   team: "JACm"
+   position: Second
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 62
+   inturn-percent: 80
+   outturn-total: 119
+   outturn-percent: 84
+   draw-total: 50
+   draw-percent: 89
+   takeout-total: 131
+   takeout-percent: 81
+   shots-total: 181
+   shots-percent: 83
 vs:
  - Beuk, Jonathan
  - Bottcher, Brendan
@@ -62,27 +79,39 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Epping, John
+ - Flasch, Colton
  - Forget, Wesley
  - Fry, Ryan
+ - Gauthier, Jacques
  - Griffith, Tyrel
  - Gunnlaugson, Jason
+ - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hebert, Ben
  - Hodgson, Colin
  - Horgan, Jacob
  - Horgan, Tanner
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Morris, John
  - Moskowy, Braeden
  - Moulding, Darren
@@ -90,9 +119,14 @@ vs:
  - Muyres, Kirk
  - Neufeld, B.J.
  - Neufeld, Denni
+ - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Samagalski, Derek
  - Schneider, Catlin
+ - Sluchinski, Aaron
+ - Tardi, Tyler
  - Thiessen, Brad
+ - Walker, Geoff
  - Wozniak, Matt
 ---

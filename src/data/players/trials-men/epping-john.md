@@ -4,18 +4,18 @@ name: John Epping
 name-sort: Epping, John
 totals:
  - event: Trials (Men)
-   games: 30
-   wins: 8
-   losses: 22
-   inturn-total: 289
+   games: 37
+   wins: 11
+   losses: 26
+   inturn-total: 346
    inturn-percent: 83
-   outturn-total: 269
-   outturn-percent: 80
-   draw-total: 256
+   outturn-total: 347
+   outturn-percent: 82
+   draw-total: 301
    draw-percent: 82
-   takeout-total: 302
+   takeout-total: 392
    takeout-percent: 82
-   shots-total: 558
+   shots-total: 693
    shots-percent: 82
 years:
  - year: 2009
@@ -86,6 +86,23 @@ years:
    takeout-percent: 77
    shots-total: 139
    shots-percent: 79
+ - year: 2025
+   event: Trials (Men)
+   team: "EPPm"
+   position: Fourth
+   games: 7
+   wins: 3
+   losses: 4
+   inturn-total: 57
+   inturn-percent: 81
+   outturn-total: 78
+   outturn-percent: 88
+   draw-total: 45
+   draw-percent: 86
+   takeout-total: 90
+   takeout-percent: 85
+   shots-total: 135
+   shots-percent: 85
 vs:
  - Adam, Gerry
  - Beuk, Jonathan
@@ -96,15 +113,18 @@ vs:
  - Cotter, Jim
  - Dunstone, Matt
  - Ferbey, Randy
+ - Flasch, Colton
  - Forget, Wesley
  - Forrest, Tyler
  - Fowler, Rob
  - Fry, Ryan
  - Gallant, Brett
+ - Gauthier, Jacques
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
  - Gushue, Brad
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Hart, Richard
@@ -112,16 +132,23 @@ vs:
  - Hodgson, Colin
  - Horgan, Tanner
  - Howard, Glenn
+ - Huminicki, Elias
  - Jacobs, Brad
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
  - Lott, Colton
  - MacDonald, Blake
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
  - Mead, Jon
  - Middaugh, Wayne
@@ -135,6 +162,7 @@ vs:
  - Neufeld, Denni
  - Nichols, Mark
  - Njegovan, Connor
+ - Olafson, Cameron
  - Park, Kevin
  - Pfeifer, Scott
  - Richter, Justin
@@ -146,8 +174,10 @@ vs:
  - Schneider, Catlin
  - Sharp, Jeff
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Steski, Peter
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Walker, Geoff

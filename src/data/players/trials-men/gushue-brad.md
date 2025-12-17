@@ -4,19 +4,19 @@ name: Brad Gushue
 name-sort: Gushue, Brad
 totals:
  - event: Trials (Men)
-   games: 28
-   wins: 23
-   losses: 5
-   inturn-total: 243
-   inturn-percent: 87
-   outturn-total: 286
-   outturn-percent: 87
-   draw-total: 217
+   games: 35
+   wins: 27
+   losses: 8
+   inturn-total: 299
+   inturn-percent: 88
+   outturn-total: 371
+   outturn-percent: 88
+   draw-total: 280
    draw-percent: 88
-   takeout-total: 312
+   takeout-total: 390
    takeout-percent: 87
-   shots-total: 529
-   shots-percent: 87
+   shots-total: 670
+   shots-percent: 88
 years:
  - year: 2005
    event: Trials (Men)
@@ -73,6 +73,23 @@ years:
    takeout-percent: 92
    shots-total: 171
    shots-percent: 89
+ - year: 2025
+   event: Trials (Men)
+   team: "GUSm"
+   position: Fourth
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 56
+   inturn-percent: 90
+   outturn-total: 85
+   outturn-percent: 89
+   draw-total: 63
+   draw-percent: 89
+   takeout-total: 78
+   takeout-percent: 90
+   shots-total: 141
+   shots-percent: 89
 vs:
  - Adams, Shawn
  - Bartlett, Don
@@ -89,13 +106,17 @@ vs:
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
+ - Flasch, Colton
  - Flemming, Paul
  - Forget, Wesley
  - Fry, Ryan
+ - Gallant, Brett
+ - Gauthier, Jacques
  - Gibson, Andrew
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
@@ -105,10 +126,13 @@ vs:
  - Horgan, Jacob
  - Horgan, Tanner
  - Howard, Glenn
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
@@ -117,9 +141,14 @@ vs:
  - Lott, Colton
  - MacKenzie, Kevin
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Mittelstadt, Kelly
  - Moffatt, Paul
@@ -132,6 +161,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Njegovan, Connor
+ - Olafson, Cameron
  - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
@@ -142,7 +172,9 @@ vs:
  - Savill, Craig
  - Sawatsky, Rick
  - Schneider, Catlin
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Van Den Berghe, Garry
  - Walchuk, Don

@@ -4,18 +4,18 @@ name: Mark Nichols
 name-sort: Nichols, Mark
 totals:
  - event: Trials (Men)
-   games: 35
-   wins: 26
-   losses: 9
-   inturn-total: 320
+   games: 42
+   wins: 30
+   losses: 12
+   inturn-total: 375
    inturn-percent: 89
-   outturn-total: 337
+   outturn-total: 424
    outturn-percent: 86
-   draw-total: 278
-   draw-percent: 88
-   takeout-total: 379
+   draw-total: 337
+   draw-percent: 89
+   takeout-total: 462
    takeout-percent: 86
-   shots-total: 657
+   shots-total: 799
    shots-percent: 87
 years:
  - year: 2005
@@ -119,6 +119,23 @@ years:
    takeout-percent: 90
    shots-total: 174
    shots-percent: 89
+ - year: 2025
+   event: Trials (Men)
+   team: "GUSm"
+   position: Third
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 55
+   inturn-percent: 93
+   outturn-total: 87
+   outturn-percent: 87
+   draw-total: 59
+   draw-percent: 91
+   takeout-total: 83
+   takeout-percent: 88
+   shots-total: 142
+   shots-percent: 89
 vs:
  - Adams, Shawn
  - Bailey, Scott
@@ -136,13 +153,17 @@ vs:
  - Epping, John
  - Fenton, Brad
  - Ferbey, Randy
+ - Flasch, Colton
  - Flemming, Paul
  - Forget, Wesley
  - Fry, Ryan
+ - Gallant, Brett
+ - Gauthier, Jacques
  - Gibson, Andrew
  - Gould, Steve
  - Griffith, Tyrel
  - Gunnlaugson, Jason
+ - Hall, Matthew
  - Harnden, E.J.
  - Harnden, Ryan
  - Harris, Rob
@@ -153,10 +174,13 @@ vs:
  - Horgan, Tanner
  - Howard, Glenn
  - Howard, Scott
+ - Huminicki, Elias
  - Jacobs, Brad
  - Janssen, Patrick
+ - Johnson, Trevor
  - Kennedy, Marc
  - Kidby, Dustin
+ - Kleiter, Rylan
  - Koe, Kevin
  - Laing, Brent
  - Laycock, Steve
@@ -165,10 +189,15 @@ vs:
  - Lott, Colton
  - MacKenzie, Kevin
  - March, Tim
+ - Marsh, Daniel
+ - Marsh, Kevin
  - Martin, Karrick
  - Martin, Kevin
  - Mathers, David
+ - Mattern, Joshua
+ - McDonald, Jordon
  - McEwen, Mike
+ - McMillan, Ian
  - Mead, Jon
  - Middaugh, Wayne
  - Mitchell, Collin
@@ -183,6 +212,7 @@ vs:
  - Neufeld, B.J.
  - Neufeld, Denni
  - Njegovan, Connor
+ - Olafson, Cameron
  - Peachey, Jay
  - Pfeifer, Scott
  - Recksiedler, Kevin
@@ -194,7 +224,9 @@ vs:
  - Sawatsky, Rick
  - Schneider, Catlin
  - Simmons, Pat
+ - Sluchinski, Aaron
  - Stoughton, Jeff
+ - Tardi, Tyler
  - Thiessen, Brad
  - Thiessen, Nolan
  - Van Den Berghe, Garry

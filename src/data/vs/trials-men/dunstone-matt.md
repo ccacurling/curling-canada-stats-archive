@@ -6,13 +6,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 80
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 1
       player2:
-        percent: 72
+        percent: 77
         wins: 1
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Layc'
@@ -46,6 +46,66 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Eppi 9 - Duns 7
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Fourth
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
+ - name: Flasch, Colton
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 1
+      player2:
+        percent: 84
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCEm 9 - DUNm 5
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(16)
+      score: MCEm 5 - DUNm 9
  - name: Forget, Wesley
    totals:
     - event: Trials(Men)
@@ -122,12 +182,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 82
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 5
       player2:
-        percent: 96
-        wins: 2
+        percent: 89
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -162,6 +222,82 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Gush 9 - Duns 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: DUNm 2 - JACm 6
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Second
+        percent: 84
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(18)
+      score: DUNm 8 - JACm 9
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Second
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(20)
+      score: DUNm 5 - JACm 6
+ - name: Gauthier, Jacques
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 96
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Third
+        percent: 96
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: DUNm 8 - MCDm 4
  - name: Gunnlaugson, Jason
    totals:
     - event: Trials(Men)
@@ -194,13 +330,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 82
-        wins: 0
+        percent: 81
+        wins: 1
         losses: 2
       player2:
-        percent: 96
+        percent: 93
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Layc'
@@ -234,6 +370,50 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Gush 9 - Duns 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUSm'
+        position: Fourth
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
+ - name: Hall, Matthew
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Third
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: KLEm 3 - DUNm 7
  - name: Harnden, E.J.
    totals:
     - event: Trials(Men)
@@ -326,12 +506,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 72
+        percent: 77
         wins: 0
-        losses: 2
+        losses: 5
       player2:
-        percent: 84
-        wins: 2
+        percent: 91
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -366,6 +546,54 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Koe 10 - Duns 3
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: DUNm 2 - JACm 6
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Lead
+        percent: 95
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(18)
+      score: DUNm 8 - JACm 9
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(20)
+      score: DUNm 5 - JACm 6
  - name: Hodgson, Colin
    totals:
     - event: Trials(Men)
@@ -410,17 +638,45 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Duns 2 - McEw 7
- - name: Horgan, Tanner
+ - name: Horgan, Jacob
    totals:
     - event: Trials(Men)
       player1:
-        percent: 92
+        percent: 90
         wins: 1
         losses: 0
       player2:
         percent: 86
         wins: 0
         losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
+ - name: Horgan, Tanner
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 2
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 2
    games:
     - player1:
         team: 'Duns'
@@ -438,16 +694,60 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Duns 8 - Horg 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Second
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
+ - name: Huminicki, Elias
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Second
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: DUNm 8 - MCDm 4
  - name: Jacobs, Brad
    totals:
     - event: Trials(Men)
       player1:
-        percent: 83
+        percent: 81
         wins: 1
-        losses: 1
+        losses: 4
       player2:
-        percent: 82
-        wins: 1
+        percent: 85
+        wins: 4
         losses: 1
    games:
     - player1:
@@ -482,6 +782,54 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Duns 6 - Jaco 7
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: DUNm 2 - JACm 6
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Fourth
+        percent: 79
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(18)
+      score: DUNm 8 - JACm 9
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(20)
+      score: DUNm 5 - JACm 6
  - name: Janssen, Patrick
    totals:
     - event: Trials(Men)
@@ -526,16 +874,44 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Duns 9 - Bott 4
+ - name: Johnson, Trevor
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 98
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Lead
+        percent: 98
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: KLEm 3 - DUNm 7
  - name: Kennedy, Marc
    totals:
     - event: Trials(Men)
       player1:
-        percent: 81
+        percent: 80
         wins: 0
-        losses: 2
+        losses: 5
       player2:
-        percent: 84
-        wins: 2
+        percent: 88
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -570,16 +946,92 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Duns 6 - Jaco 7
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 71
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: DUNm 2 - JACm 6
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 78
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Third
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(18)
+      score: DUNm 8 - JACm 9
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 0
+        loss: 1
+      player2:
+        team: 'JACm'
+        position: Third
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(20)
+      score: DUNm 5 - JACm 6
+ - name: Kleiter, Rylan
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 70
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: KLEm 3 - DUNm 7
  - name: Koe, Kevin
    totals:
     - event: Trials(Men)
       player1:
-        percent: 72
+        percent: 78
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 93
-        wins: 2
+        percent: 91
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -614,6 +1066,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Koe 10 - Duns 3
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOEm'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: KOEm 5 - DUNm 4
  - name: Laing, Brent
    totals:
     - event: Trials(Men)
@@ -686,16 +1154,104 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: Eppi 4 - Layc 7
- - name: Martin, Karrick
+ - name: Marsh, Daniel
    totals:
     - event: Trials(Men)
       player1:
-        percent: 80
+        percent: 81
         wins: 1
         losses: 1
       player2:
         percent: 92
         wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Lead
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCEm 9 - DUNm 5
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Lead
+        percent: 96
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(16)
+      score: MCEm 5 - DUNm 9
+ - name: Marsh, Kevin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 1
+      player2:
+        percent: 81
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Second
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCEm 9 - DUNm 5
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Second
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(16)
+      score: MCEm 5 - DUNm 9
+ - name: Martin, Karrick
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 2
+      player2:
+        percent: 91
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -730,17 +1286,89 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Duns 9 - Bott 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOEm'
+        position: Lead
+        percent: 89
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: KOEm 5 - DUNm 4
+ - name: Mattern, Joshua
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'KLEm'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: KLEm 3 - DUNm 7
+ - name: McDonald, Jordon
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Fourth
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: DUNm 8 - MCDm 4
  - name: McEwen, Mike
    totals:
     - event: Trials(Men)
       player1:
-        percent: 69
-        wins: 0
-        losses: 2
+        percent: 75
+        wins: 1
+        losses: 3
       player2:
-        percent: 94
-        wins: 2
-        losses: 0
+        percent: 88
+        wins: 3
+        losses: 1
    games:
     - player1:
         team: 'Layc'
@@ -774,6 +1402,66 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Duns 2 - McEw 7
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 67
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: MCEm 9 - DUNm 5
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Playoff(16)
+      score: MCEm 5 - DUNm 9
+ - name: McMillan, Ian
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 1
+        loss: 0
+      player2:
+        team: 'EPPm'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(2)
+      score: DUNm 6 - EPPm 3
  - name: Morris, John
    totals:
     - event: Trials(Men)
@@ -966,13 +1654,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 82
-        wins: 0
+        percent: 81
+        wins: 1
         losses: 2
       player2:
-        percent: 91
+        percent: 88
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Layc'
@@ -1006,6 +1694,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Gush 9 - Duns 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUSm'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: Njegovan, Connor
    totals:
     - event: Trials(Men)
@@ -1034,6 +1738,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Gunn 4 - Duns 8
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 93
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 93
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: DUNm 8 - MCDm 4
  - name: Samagalski, Derek
    totals:
     - event: Trials(Men)
@@ -1134,6 +1866,62 @@ vs:
       year: 2017
       draw: Round Robin(19)
       score: Layc 6 - Morr 7
+ - name: Sluchinski, Aaron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 74
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOEm'
+        position: Second
+        percent: 74
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: KOEm 5 - DUNm 4
+ - name: Tardi, Tyler
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 90
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 90
+        win: 0
+        loss: 1
+      player2:
+        team: 'KOEm'
+        position: Third
+        percent: 79
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: KOEm 5 - DUNm 4
  - name: Thiessen, Brad
    totals:
     - event: Trials(Men)
@@ -1182,13 +1970,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 82
-        wins: 0
+        percent: 81
+        wins: 1
         losses: 2
       player2:
-        percent: 97
+        percent: 92
         wins: 2
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Layc'
@@ -1222,6 +2010,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Gush 9 - Duns 4
+    - player1:
+        team: 'DUNm'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'GUSm'
+        position: Lead
+        percent: 83
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: DUNm 9 - GUSm 7
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)

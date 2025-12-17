@@ -210,13 +210,13 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 95
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
       player2:
-        percent: 88
+        percent: 90
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Koe'
@@ -234,6 +234,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Koe 10 - Duns 3
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'DUNm'
+        position: Third
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(10)
+      score: KOEm 5 - DUNm 4
  - name: MacKenzie, Kevin
    totals:
     - event: Trials(Men)
@@ -290,6 +306,62 @@ vs:
       year: 2017
       draw: Round Robin(13)
       score: Koe 6 - Eppi 4
+ - name: Marsh, Daniel
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Lead
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
+ - name: Marsh, Kevin
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 74
+        wins: 0
+        losses: 1
+      player2:
+        percent: 90
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Second
+        percent: 90
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
  - name: Martin, Karrick
    totals:
     - event: Trials(Men)
@@ -422,16 +494,72 @@ vs:
       year: 2013
       draw: Round Robin(2)
       score: KOE 8 - EPP 9
+ - name: Mattern, Joshua
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 68
+        wins: 0
+        losses: 1
+      player2:
+        percent: 65
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      player2:
+        team: 'KLEm'
+        position: Second
+        percent: 65
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(14)
+      score: KLEm 8 - KOEm 3
+ - name: McDonald, Jordon
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 74
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: MCDm 7 - KOEm 8
  - name: McEwen, Mike
    totals:
     - event: Trials(Men)
       player1:
-        percent: 88
+        percent: 86
         wins: 4
-        losses: 0
+        losses: 1
       player2:
-        percent: 85
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 4
    games:
     - player1:
@@ -498,6 +626,50 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: McEw 6 - Koe 7
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 74
+        win: 0
+        loss: 1
+      player2:
+        team: 'MCEm'
+        position: Fourth
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(8)
+      score: KOEm 7 - MCEm 9
+ - name: McMillan, Ian
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 76
+        wins: 0
+        losses: 1
+      player2:
+        percent: 96
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'EPPm'
+        position: Lead
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(12)
+      score: EPPm 8 - KOEm 4
  - name: Mead, Jon
    totals:
     - event: Trials(Men)
@@ -1062,12 +1234,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 78
+        percent: 81
         wins: 0
-        losses: 4
+        losses: 5
       player2:
-        percent: 92
-        wins: 4
+        percent: 93
+        wins: 5
         losses: 0
    games:
     - player1:
@@ -1134,6 +1306,22 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Koe 3 - Gush 7
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Njegovan, Connor
    totals:
     - event: Trials(Men)
@@ -1162,6 +1350,34 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Gunn 7 - Koe 8
+ - name: Olafson, Cameron
+   totals:
+    - event: Trials(Men)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 91
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'MCDm'
+        position: Lead
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(6)
+      score: MCDm 7 - KOEm 8
  - name: Park, Kevin
    totals:
     - event: Trials(Men)
@@ -1846,12 +2062,12 @@ vs:
    totals:
     - event: Trials(Men)
       player1:
-        percent: 74
+        percent: 81
         wins: 0
-        losses: 2
+        losses: 3
       player2:
-        percent: 88
-        wins: 2
+        percent: 89
+        wins: 3
         losses: 0
    games:
     - player1:
@@ -1886,6 +2102,22 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Koe 3 - Gush 7
+    - player1:
+        team: 'KOEm'
+        position: Fourth
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'GUSm'
+        position: Lead
+        percent: 93
+        win: 1
+        loss: 0
+      event: Trials (Men)
+      year: 2025
+      draw: Round Robin(4)
+      score: KOEm 3 - GUSm 5
  - name: Wozniak, Matt
    totals:
     - event: Trials(Men)

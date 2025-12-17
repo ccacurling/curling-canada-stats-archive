@@ -50,6 +50,10 @@ years:
    draw-percent: 81
    shots-total: 8
    shots-percent: 81
+ - year: 2025
+   event: Trials (Men)
+   team: "EPPm"
+   position: Alternate
 vs:
  - Bottcher, Brendan
  - Carruthers, Reid

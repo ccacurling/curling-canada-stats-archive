@@ -41,6 +41,7 @@ Dave Thomas
 ### 2025-12-16
 
  * Added 2025 Trials (Women) data.
+ * Added 2025 Trials (Men) data.
 
 ### 2025-03-13
 
