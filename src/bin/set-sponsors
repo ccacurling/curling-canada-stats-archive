@@ -19,6 +19,7 @@ sponsors = {
   },
   "trials-men" => {
     '2005' => 'Tim Hortons',
+    '2025' => "Montana's",
   },
   "hearts" => {
     '1982' => 'Scotties',
@@ -31,6 +32,7 @@ sponsors = {
   },
   "trials-women" => {
     '2005' => 'Tim Hortons',
+    '2025' => "Montana's",
   },
 }
 
