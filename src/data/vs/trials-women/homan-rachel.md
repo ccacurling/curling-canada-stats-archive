@@ -134,6 +134,34 @@ vs:
       year: 2013
       draw: Round Robin(12)
       score: LAW 5 - HOM 6
+ - name: Koltun, Sarah
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 1
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Second
+        percent: 77
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: HOMw 10 - BROw 3
  - name: Kreviazuk, Lynn
    totals:
     - event: Trials (Women)
@@ -182,13 +210,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 88
-        wins: 3
+        percent: 87
+        wins: 4
         losses: 1
       player2:
-        percent: 78
+        percent: 76
         wins: 1
-        losses: 3
+        losses: 4
    games:
     - player1:
         team: 'HOM'
@@ -254,6 +282,22 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Homa 7 - Jone 5
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Fourth
+        percent: 70
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: LAWw 7 - HOMw 8
  - name: Lawton, Stefanie
    totals:
     - event: Trials (Women)
@@ -458,13 +502,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 62
-        wins: 0
+        percent: 79
+        wins: 1
         losses: 1
       player2:
-        percent: 89
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Homa'
@@ -482,6 +526,22 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Homa 5 - Walk 11
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 97
+        win: 1
+        loss: 0
+      player2:
+        team: 'CAMw'
+        position: Second
+        percent: 83
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(1)
+      score: CAMw 5 - HOMw 16
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -782,13 +842,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 69
-        wins: 0
+        percent: 78
+        wins: 1
         losses: 1
       player2:
-        percent: 76
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Homa'
@@ -806,6 +866,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Homa 3 - Fleu 8
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Third
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: LAWw 7 - HOMw 8
  - name: Officer, Jill
    totals:
     - event: Trials (Women)
@@ -938,6 +1014,34 @@ vs:
       year: 2017
       draw: Final(22)
       score: Homa 6 - Care 5
+ - name: Papley, Paige
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: HOMw 12 - STUw 5
  - name: Pasika, Rona
    totals:
     - event: Trials (Women)
@@ -970,13 +1074,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 84
-        wins: 2
+        percent: 85
+        wins: 3
         losses: 1
       player2:
-        percent: 84
+        percent: 85
         wins: 1
-        losses: 2
+        losses: 3
    games:
     - player1:
         team: 'Homa'
@@ -1026,6 +1130,22 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Homa 7 - Jone 5
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: LAWw 7 - HOMw 8
  - name: Peters, Laine
    totals:
     - event: Trials (Women)
@@ -1090,13 +1210,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 62
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
       player2:
-        percent: 69
+        percent: 74
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Homa'
@@ -1114,6 +1234,22 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Homa 5 - Walk 11
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 91
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: HOMw 10 - BROw 3
  - name: Potts, Sarah
    totals:
     - event: Trials (Women)
@@ -1158,6 +1294,78 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Homa 5 - McCa 9
+ - name: Powers, Marlee
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 91
+        wins: 2
+        losses: 0
+      player2:
+        percent: 77
+        wins: 0
+        losses: 2
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 86
+        win: 1
+        loss: 0
+      player2:
+        team: 'BLAw'
+        position: Second
+        percent: 73
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: HOMw 8 - BLAw 2
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 95
+        win: 1
+        loss: 0
+      player2:
+        team: 'BLAw'
+        position: Second
+        percent: 81
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Final(19)
+      score: HOMw 12 - BLAw 3
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 91
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SKRw'
+        position: Lead
+        percent: 91
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: SKRw 8 - HOMw 7
  - name: Rizzo, Jo-Ann
    totals:
     - event: Trials (Women)
@@ -1306,13 +1514,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 67
-        wins: 1
+        percent: 75
+        wins: 2
         losses: 0
       player2:
-        percent: 70
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Homa'
@@ -1330,6 +1538,22 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Rocq 6 - Homa 9
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Third
+        percent: 80
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: HOMw 12 - STUw 5
  - name: Scotland, Nadine
    totals:
     - event: Trials (Women)
@@ -1430,6 +1654,62 @@ vs:
       year: 2021
       draw: Round Robin(2)
       score: Homa 5 - McCa 9
+ - name: Skrlik, Ashton
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 92
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SKRw'
+        position: Second
+        percent: 92
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: SKRw 8 - HOMw 7
+ - name: Skrlik, Kayla
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 81
+        wins: 0
+        losses: 1
+      player2:
+        percent: 88
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 81
+        win: 0
+        loss: 1
+      player2:
+        team: 'SKRw'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: SKRw 8 - HOMw 7
  - name: Sonnenberg, Renee
    totals:
     - event: Trials (Women)
@@ -1458,17 +1738,45 @@ vs:
       year: 2013
       draw: Round Robin(3)
       score: HOM 8 - SON 2
+ - name: Sturmay, Selena
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 84
+        wins: 1
+        losses: 0
+      player2:
+        percent: 64
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 84
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Fourth
+        percent: 64
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: HOMw 12 - STUw 5
  - name: Sweeting, Val
    totals:
     - event: Trials (Women)
       player1:
-        percent: 71
-        wins: 1
+        percent: 73
+        wins: 2
         losses: 2
       player2:
-        percent: 84
+        percent: 82
         wins: 2
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'HOM'
@@ -1518,6 +1826,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eina 7 - Homa 6
+    - player1:
+        team: 'HOMw'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'EINw'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
  - name: Tippin, Julie
    totals:
     - event: Trials (Women)

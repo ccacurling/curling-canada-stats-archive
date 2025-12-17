@@ -61,7 +61,7 @@ vs:
  - Bobbie, Tess
  - Bohmer, Brenda
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cordina, Sheri
  - Court, Morgan

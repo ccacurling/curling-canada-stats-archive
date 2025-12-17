@@ -94,7 +94,7 @@ vs:
  - Bernard, Cheryl
  - Birchard, Shannon
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha

@@ -42,7 +42,7 @@ years:
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Courtney, Joanne
  - Ferguson, Dana

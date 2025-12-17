@@ -4,19 +4,19 @@ name: Val Sweeting
 name-sort: Sweeting, Val
 totals:
  - event: Trials (Women)
-   games: 25
-   wins: 12
-   losses: 13
-   inturn-total: 251
-   inturn-percent: 78
-   outturn-total: 240
+   games: 33
+   wins: 18
+   losses: 15
+   inturn-total: 333
+   inturn-percent: 80
+   outturn-total: 310
    outturn-percent: 83
-   draw-total: 196
-   draw-percent: 76
-   takeout-total: 295
+   draw-total: 242
+   draw-percent: 77
+   takeout-total: 401
    takeout-percent: 84
-   shots-total: 491
-   shots-percent: 81
+   shots-total: 643
+   shots-percent: 82
 years:
  - year: 2013
    event: Trials (Women)
@@ -69,31 +69,59 @@ years:
    takeout-percent: 85
    shots-total: 198
    shots-percent: 84
+ - year: 2025
+   event: Trials (Women)
+   team: "EINw"
+   position: Third
+   games: 8
+   wins: 6
+   losses: 2
+   inturn-total: 82
+   inturn-percent: 87
+   outturn-total: 70
+   outturn-percent: 83
+   draw-total: 46
+   draw-percent: 84
+   takeout-total: 106
+   takeout-percent: 86
+   shots-total: 152
+   shots-percent: 85
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Baxter, Jennifer
+ - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Corryn
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
+ - Fisher, Samantha
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
  - Gordon, Kristin
  - Grandy, Clancy
+ - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Jones, Jennifer
  - Kasner, Marliese
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
@@ -114,11 +142,14 @@ vs:
  - Njegovan, Selena
  - Officer, Jill
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Pasika, Rona
  - Peterman, Jocelyn
  - Peters, Laine
  - Pincott, Erin
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Scheidegger, Casey
@@ -127,7 +158,10 @@ vs:
  - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Sonnenberg, Renee
+ - Sturmay, Selena
  - Tippin, Julie
  - Titheridge, Lindsay
  - Vink, Rachelle

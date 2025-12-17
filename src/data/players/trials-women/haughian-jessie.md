@@ -37,7 +37,7 @@ years:
    shots-percent: 84
 vs:
  - Birchard, Shannon
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Courtney, Joanne
  - Einarson, Kerri

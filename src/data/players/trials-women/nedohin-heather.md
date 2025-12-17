@@ -66,7 +66,7 @@ vs:
  - Bodogh, Marilyn
  - Bowman, Mary
  - Breen, Theresa
- - Brown, Rachel
+ - Brown, Rachelle
  - Bryant, Angie
  - Carey, Chelsea
  - Courtney, Joanne

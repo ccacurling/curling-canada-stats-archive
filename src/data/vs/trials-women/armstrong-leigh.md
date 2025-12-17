@@ -2,7 +2,7 @@
 title: Leigh Armstrong Head-to-head
 name: Armstrong, Leigh
 vs:
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Trials (Women)
       player1:

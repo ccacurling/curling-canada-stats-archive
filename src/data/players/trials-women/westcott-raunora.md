@@ -37,7 +37,7 @@ years:
    shots-percent: 86
 vs:
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne

@@ -190,12 +190,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 83
+        percent: 79
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 66
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -214,6 +214,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eina 7 - Homa 6
+    - player1:
+        team: 'EINw'
+        position: Third
+        percent: 76
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
  - name: Wilson, Leslie
    totals:
     - event: Trials (Women)

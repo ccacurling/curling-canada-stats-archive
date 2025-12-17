@@ -84,7 +84,7 @@ vs:
  - Beveridge, Corie
  - Bohmer, Brenda
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carter, Sasha
  - Cordina, Sheri

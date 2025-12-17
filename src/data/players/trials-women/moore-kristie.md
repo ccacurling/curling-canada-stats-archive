@@ -59,7 +59,7 @@ years:
 vs:
  - Birchard, Shannon
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan

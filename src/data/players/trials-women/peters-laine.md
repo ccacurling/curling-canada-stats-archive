@@ -60,7 +60,7 @@ vs:
  - Anderson, Sherry
  - Armstrong, Leigh
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan

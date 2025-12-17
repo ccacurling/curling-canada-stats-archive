@@ -58,7 +58,7 @@ vs:
  - Bakker, Glenys
  - Bell, Chelsey
  - Betker, Jan
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carter, Sasha
  - Cordina, Sheri

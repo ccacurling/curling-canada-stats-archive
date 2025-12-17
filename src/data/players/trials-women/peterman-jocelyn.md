@@ -4,19 +4,19 @@ name: Jocelyn Peterman
 name-sort: Peterman, Jocelyn
 totals:
  - event: Trials (Women)
-   games: 19
-   wins: 15
-   losses: 4
-   inturn-total: 176
-   inturn-percent: 81
-   outturn-total: 193
-   outturn-percent: 84
-   draw-total: 154
-   draw-percent: 84
-   takeout-total: 215
+   games: 26
+   wins: 19
+   losses: 7
+   inturn-total: 242
+   inturn-percent: 82
+   outturn-total: 269
+   outturn-percent: 82
+   draw-total: 224
+   draw-percent: 81
+   takeout-total: 287
    takeout-percent: 82
-   shots-total: 369
-   shots-percent: 83
+   shots-total: 511
+   shots-percent: 82
 years:
  - year: 2017
    event: Trials (Women)
@@ -52,18 +52,44 @@ years:
    takeout-percent: 81
    shots-total: 197
    shots-percent: 82
+ - year: 2025
+   event: Trials (Women)
+   team: "LAWw"
+   position: Second
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 66
+   inturn-percent: 83
+   outturn-total: 76
+   outturn-percent: 77
+   draw-total: 70
+   draw-percent: 75
+   takeout-total: 72
+   takeout-percent: 84
+   shots-total: 142
+   shots-percent: 80
 vs:
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Corryn
+ - Brown, Rachelle
+ - Burgess, Karlee
  - Cameron, Kate
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
+ - Fisher, Samantha
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz
  - Gordon, Kristin
@@ -71,9 +97,11 @@ vs:
  - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hickey, Laura
  - Homan, Rachel
  - Jones, Jennifer
+ - Koltun, Sarah
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
@@ -86,13 +114,19 @@ vs:
  - Njegovan, Selena
  - Officer, Jill
  - Olson-Johns, Lori
+ - Papley, Paige
+ - Pincott, Erin
  - Potts, Sarah
+ - Ramsay, Geri-Lynn
  - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
  - Scotland, Nadine
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Sturmay, Selena
  - Sweeting, Val
  - Tippin, Julie
  - Vink, Rachelle

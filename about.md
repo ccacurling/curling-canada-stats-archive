@@ -38,6 +38,10 @@ Dave Thomas
 
 ## Changelog
 
+### 2025-12-16
+
+ * Added 2025 Trials (Women) data.
+
 ### 2025-03-13
 
  * Added 2025 Brier data.

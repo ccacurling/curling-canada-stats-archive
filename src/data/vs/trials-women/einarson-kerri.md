@@ -2,6 +2,78 @@
 title: Kerri Einarson Head-to-head
 name: Einarson, Kerri
 vs:
+ - name: Elias, Mackenzie
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'CAMw'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: CAMw 5 - EINw 6
+ - name: Everist, Karlee
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 1
+      player2:
+        percent: 78
+        wins: 1
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 92
+        win: 1
+        loss: 0
+      player2:
+        team: 'BLAw'
+        position: Lead
+        percent: 77
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(1)
+      score: BLAw 5 - EINw 12
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'BLAw'
+        position: Lead
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Semi-Final(15)
+      score: BLAw 6 - EINw 3
  - name: Ferguson, Dana
    totals:
     - event: Trials (Women)
@@ -30,6 +102,34 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Rocq 8 - Eina 4
+ - name: Fisher, Samantha
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Lead
+        percent: 95
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: EINw 9 - BROw 1
  - name: Flaxey, Allison
    totals:
     - event: Trials (Women)
@@ -58,16 +158,44 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Harr 7 - Eina 6
+ - name: Flemming, Margot
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 86
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Third
+        percent: 86
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: EINw 6 - SKRw 5
  - name: Fleury, Tracy
    totals:
     - event: Trials (Women)
       player1:
-        percent: 82
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 88
-        wins: 1
+        percent: 91
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -86,6 +214,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Eina 4 - Fleu 7
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Third
+        percent: 95
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
  - name: Fyfe, Liz
    totals:
     - event: Trials (Women)
@@ -119,12 +263,12 @@ vs:
     - event: Trials (Women)
       player1:
         percent: 82
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 93
+        percent: 91
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Eina'
@@ -142,6 +286,50 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Eina 4 - Fleu 7
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
+ - name: Harris, Briane
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 73
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'CAMw'
+        position: Third
+        percent: 73
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: CAMw 5 - EINw 6
  - name: Harrison, Jacqueline
    totals:
     - event: Trials (Women)
@@ -214,6 +402,34 @@ vs:
       year: 2021
       draw: Tie-Breaker(10)
       score: Sche 6 - Eina 8
+ - name: Hawes, Dezaray
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 95
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Second
+        percent: 95
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: STUw 7 - EINw 9
  - name: Hickey, Laura
    totals:
     - event: Trials (Women)
@@ -246,12 +462,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 90
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 76
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -270,6 +486,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eina 7 - Homa 6
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
  - name: Jones, Jennifer
    totals:
     - event: Trials (Women)
@@ -298,6 +530,34 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Jone 9 - Eina 10
+ - name: Koltun, Sarah
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 88
+        wins: 1
+        losses: 0
+      player2:
+        percent: 94
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Second
+        percent: 94
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: EINw 9 - BROw 1
  - name: Kreviazuk, Lynn
    totals:
     - event: Trials (Women)
@@ -330,13 +590,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 66
-        wins: 1
+        percent: 74
+        wins: 2
         losses: 0
       player2:
-        percent: 69
+        percent: 68
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Eina'
@@ -354,6 +614,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Jone 9 - Eina 10
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Fourth
+        percent: 68
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
  - name: Lilly, Kendra
    totals:
     - event: Trials (Women)
@@ -447,12 +723,12 @@ vs:
     - event: Trials (Women)
       player1:
         percent: 80
-        wins: 1
+        wins: 2
         losses: 0
       player2:
-        percent: 69
+        percent: 74
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Eina'
@@ -470,6 +746,22 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Walk 5 - Eina 9
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'CAMw'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: CAMw 5 - EINw 6
  - name: McEwen, Dawn
    totals:
     - event: Trials (Women)
@@ -546,12 +838,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 90
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 71
-        wins: 0
+        percent: 84
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -570,6 +862,22 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eina 7 - Homa 6
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Second
+        percent: 96
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
  - name: Moore, Kristie
    totals:
     - event: Trials (Women)
@@ -619,12 +927,12 @@ vs:
     - event: Trials (Women)
       player1:
         percent: 82
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 91
+        percent: 88
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Eina'
@@ -642,17 +950,61 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Eina 4 - Fleu 7
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
+ - name: Papley, Paige
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 89
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Lead
+        percent: 89
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: STUw 7 - EINw 9
  - name: Peterman, Jocelyn
    totals:
     - event: Trials (Women)
       player1:
-        percent: 66
-        wins: 1
+        percent: 74
+        wins: 2
         losses: 0
       player2:
-        percent: 74
+        percent: 76
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Eina'
@@ -670,17 +1022,33 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Jone 9 - Eina 10
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'LAWw'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
  - name: Pincott, Erin
    totals:
     - event: Trials (Women)
       player1:
-        percent: 80
-        wins: 1
+        percent: 83
+        wins: 2
         losses: 0
       player2:
-        percent: 75
+        percent: 82
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Eina'
@@ -698,6 +1066,22 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: Walk 5 - Eina 9
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 88
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Third
+        percent: 91
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(5)
+      score: EINw 9 - BROw 1
  - name: Potts, Sarah
    totals:
     - event: Trials (Women)
@@ -742,6 +1126,62 @@ vs:
       year: 2021
       draw: Tie-Breaker(11)
       score: Eina 3 - McCa 4
+ - name: Powers, Marlee
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 75
+        wins: 0
+        losses: 1
+      player2:
+        percent: 79
+        wins: 1
+        losses: 0
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 75
+        win: 0
+        loss: 1
+      player2:
+        team: 'BLAw'
+        position: Second
+        percent: 79
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Semi-Final(15)
+      score: BLAw 6 - EINw 3
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: EINw 6 - SKRw 5
  - name: Rocque, Kelsey
    totals:
     - event: Trials (Women)
@@ -819,12 +1259,12 @@ vs:
     - event: Trials (Women)
       player1:
         percent: 84
-        wins: 0
+        wins: 1
         losses: 1
       player2:
-        percent: 99
+        percent: 87
         wins: 1
-        losses: 0
+        losses: 1
    games:
     - player1:
         team: 'Eina'
@@ -842,6 +1282,22 @@ vs:
       year: 2021
       draw: Round Robin(9)
       score: Rocq 8 - Eina 4
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Third
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: STUw 7 - EINw 9
  - name: Scotland, Nadine
    totals:
     - event: Trials (Women)
@@ -914,6 +1370,90 @@ vs:
       year: 2021
       draw: Tie-Breaker(11)
       score: Eina 3 - McCa 4
+ - name: Skrlik, Ashton
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 88
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: EINw 6 - SKRw 5
+ - name: Skrlik, Kayla
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: EINw 6 - SKRw 5
+ - name: Sturmay, Selena
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 85
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 85
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Fourth
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(9)
+      score: STUw 7 - EINw 9
  - name: Walker, Laura
    totals:
     - event: Trials (Women)
@@ -946,12 +1486,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 90
+        percent: 78
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 66
-        wins: 0
+        percent: 74
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -970,4 +1510,20 @@ vs:
       year: 2021
       draw: Round Robin(8)
       score: Eina 7 - Homa 6
+    - player1:
+        team: 'EINw'
+        position: Fourth
+        percent: 66
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Lead
+        percent: 81
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: EINw 6 - HOMw 7
 ---

@@ -35,9 +35,13 @@ years:
    takeout-percent: 80
    shots-total: 155
    shots-percent: 78
+ - year: 2025
+   event: Trials (Women)
+   team: "LAWw"
+   position: Alternate
 vs:
  - Birchard, Shannon
- - Brown, Rachel
+ - Brown, Rachelle
  - Courtney, Joanne
  - Einarson, Kerri
  - Ferguson, Dana

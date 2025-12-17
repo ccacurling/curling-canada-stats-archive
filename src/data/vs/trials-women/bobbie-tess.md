@@ -2,7 +2,7 @@
 title: Tess Bobbie Head-to-head
 name: Bobbie, Tess
 vs:
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Trials (Women)
       player1:

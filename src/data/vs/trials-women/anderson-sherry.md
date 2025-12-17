@@ -314,7 +314,7 @@ vs:
       year: 2001
       draw: Round Robin(3)
       score: MID 5 - AND 9
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Trials (Women)
       player1:

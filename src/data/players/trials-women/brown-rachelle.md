@@ -1,7 +1,7 @@
 ---
-title: Rachel Brown
-name: Rachel Brown
-name-sort: Brown, Rachel
+title: Rachelle Brown
+name: Rachelle Brown
+name-sort: Brown, Rachelle
 totals:
  - event: Trials (Women)
    games: 23
@@ -69,6 +69,10 @@ years:
    takeout-percent: 73
    shots-total: 156
    shots-percent: 87
+ - year: 2025
+   event: Trials (Women)
+   team: "HOMw"
+   position: Alternate
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh

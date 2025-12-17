@@ -2,6 +2,34 @@
 title: Selena Njegovan Head-to-head
 name: Njegovan, Selena
 vs:
+ - name: Papley, Paige
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 75
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Lead
+        percent: 75
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: LAWw 8 - STUw 7
  - name: Peterman, Jocelyn
    totals:
     - event: Trials (Women)
@@ -46,6 +74,34 @@ vs:
       year: 2021
       draw: Final(13)
       score: Jone 6 - Fleu 5
+ - name: Pincott, Erin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 81
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 81
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(1)
+      score: LAWw 7 - BROw 4
  - name: Potts, Sarah
    totals:
     - event: Trials (Women)
@@ -74,6 +130,34 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: McCa 2 - Fleu 9
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 61
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
  - name: Rocque, Kelsey
    totals:
     - event: Trials (Women)
@@ -134,13 +218,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 67
-        wins: 1
+        percent: 74
+        wins: 2
         losses: 0
       player2:
-        percent: 84
+        percent: 87
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Fleu'
@@ -158,6 +242,22 @@ vs:
       year: 2021
       draw: Round Robin(3)
       score: Fleu 8 - Rocq 6
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: LAWw 8 - STUw 7
  - name: Scotland, Nadine
    totals:
     - event: Trials (Women)
@@ -214,16 +314,100 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: McCa 2 - Fleu 9
+ - name: Skrlik, Ashton
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 61
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
+ - name: Skrlik, Kayla
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 61
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 61
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
+ - name: Sturmay, Selena
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 80
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 80
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: LAWw 8 - STUw 7
  - name: Sweeting, Val
    totals:
     - event: Trials (Women)
       player1:
+        percent: 88
+        wins: 1
+        losses: 1
+      player2:
         percent: 91
         wins: 1
-        losses: 0
-      player2:
-        percent: 88
-        wins: 0
         losses: 1
    games:
     - player1:
@@ -242,6 +426,22 @@ vs:
       year: 2021
       draw: Round Robin(1)
       score: Eina 4 - Fleu 7
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 84
+        win: 0
+        loss: 1
+      player2:
+        team: 'EINw'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
  - name: Walker, Laura
    totals:
     - event: Trials (Women)
@@ -274,12 +474,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 76
+        percent: 86
         wins: 1
-        losses: 0
+        losses: 1
       player2:
-        percent: 82
-        wins: 0
+        percent: 91
+        wins: 1
         losses: 1
    games:
     - player1:
@@ -298,4 +498,20 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Homa 3 - Fleu 8
+    - player1:
+        team: 'LAWw'
+        position: Third
+        percent: 94
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Lead
+        percent: 99
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: LAWw 7 - HOMw 8
 ---

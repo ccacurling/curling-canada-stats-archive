@@ -41,7 +41,7 @@ years:
    position: Alternate
 vs:
  - Anderson, Sherry
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Courtney, Joanne
  - Ferguson, Dana

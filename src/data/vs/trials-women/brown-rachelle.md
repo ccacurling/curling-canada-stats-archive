@@ -1,6 +1,6 @@
 ---
-title: Rachel Brown Head-to-head
-name: Brown, Rachel
+title: Rachelle Brown Head-to-head
+name: Brown, Rachelle
 vs:
  - name: Cameron, Kate
    totals:

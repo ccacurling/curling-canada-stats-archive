@@ -37,7 +37,7 @@ years:
    shots-percent: 86
 vs:
  - Birchard, Shannon
- - Brown, Rachel
+ - Brown, Rachelle
  - Courtney, Joanne
  - Einarson, Kerri
  - Ferguson, Dana

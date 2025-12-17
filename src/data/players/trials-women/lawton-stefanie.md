@@ -82,7 +82,7 @@ vs:
  - Bell, Chelsey
  - Bernard, Cheryl
  - Betker, Jan
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carter, Sasha
  - Cordina, Sheri

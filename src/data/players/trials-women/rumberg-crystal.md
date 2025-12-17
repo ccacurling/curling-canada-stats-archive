@@ -35,6 +35,10 @@ years:
    takeout-percent: 80
    shots-total: 140
    shots-percent: 75
+ - year: 2025
+   event: Trials (Women)
+   team: "SKRw"
+   position: Alternate
 vs:
  - Armstrong, Jacquie
  - Bell, Chelsey

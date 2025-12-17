@@ -12,5 +12,9 @@ years:
    event: Trials (Women)
    team: "Eina"
    position: Alternate
+ - year: 2025
+   event: Trials (Women)
+   team: "EINw"
+   position: Alternate
 vs:
 ---

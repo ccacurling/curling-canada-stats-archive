@@ -2,6 +2,34 @@
 title: Jocelyn Peterman Head-to-head
 name: Peterman, Jocelyn
 vs:
+ - name: Pincott, Erin
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 85
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'BROw'
+        position: Third
+        percent: 85
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(1)
+      score: LAWw 7 - BROw 4
  - name: Potts, Sarah
    totals:
     - event: Trials (Women)
@@ -62,6 +90,34 @@ vs:
       year: 2021
       draw: Semi-Final(12)
       score: McCa 3 - Jone 8
+ - name: Ramsay, Geri-Lynn
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Lead
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
  - name: Rocque, Kelsey
    totals:
     - event: Trials (Women)
@@ -166,13 +222,13 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 88
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 0
       player2:
-        percent: 76
+        percent: 83
         wins: 0
-        losses: 1
+        losses: 2
    games:
     - player1:
         team: 'Jone'
@@ -190,6 +246,22 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: Rocq 5 - Jone 8
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Third
+        percent: 90
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: LAWw 8 - STUw 7
  - name: Scotland, Nadine
    totals:
     - event: Trials (Women)
@@ -278,16 +350,100 @@ vs:
       year: 2021
       draw: Semi-Final(12)
       score: McCa 3 - Jone 8
+ - name: Skrlik, Ashton
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 79
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
+ - name: Skrlik, Kayla
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 76
+        wins: 1
+        losses: 0
+      player2:
+        percent: 63
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 76
+        win: 1
+        loss: 0
+      player2:
+        team: 'SKRw'
+        position: Fourth
+        percent: 63
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(13)
+      score: SKRw 6 - LAWw 9
+ - name: Sturmay, Selena
+   totals:
+    - event: Trials (Women)
+      player1:
+        percent: 83
+        wins: 1
+        losses: 0
+      player2:
+        percent: 84
+        wins: 0
+        losses: 1
+   games:
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 83
+        win: 1
+        loss: 0
+      player2:
+        team: 'STUw'
+        position: Fourth
+        percent: 84
+        win: 0
+        loss: 1
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(3)
+      score: LAWw 8 - STUw 7
  - name: Sweeting, Val
    totals:
     - event: Trials (Women)
       player1:
-        percent: 84
+        percent: 82
         wins: 1
-        losses: 1
+        losses: 2
       player2:
-        percent: 81
-        wins: 1
+        percent: 85
+        wins: 2
         losses: 1
    games:
     - player1:
@@ -322,6 +478,22 @@ vs:
       year: 2021
       draw: Round Robin(5)
       score: Jone 9 - Eina 10
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 79
+        win: 0
+        loss: 1
+      player2:
+        team: 'EINw'
+        position: Third
+        percent: 94
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(7)
+      score: LAWw 4 - EINw 6
  - name: Tippin, Julie
    totals:
     - event: Trials (Women)
@@ -482,12 +654,12 @@ vs:
    totals:
     - event: Trials (Women)
       player1:
-        percent: 83
+        percent: 85
         wins: 0
-        losses: 1
+        losses: 2
       player2:
-        percent: 80
-        wins: 1
+        percent: 89
+        wins: 2
         losses: 0
    games:
     - player1:
@@ -506,6 +678,22 @@ vs:
       year: 2021
       draw: Round Robin(7)
       score: Homa 7 - Jone 5
+    - player1:
+        team: 'LAWw'
+        position: Second
+        percent: 88
+        win: 0
+        loss: 1
+      player2:
+        team: 'HOMw'
+        position: Lead
+        percent: 99
+        win: 1
+        loss: 0
+      event: Trials (Women)
+      year: 2025
+      draw: Round Robin(11)
+      score: LAWw 7 - HOMw 8
  - name: Wilson, Leslie
    totals:
     - event: Trials (Women)

@@ -38,7 +38,7 @@ years:
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
- - Brown, Rachel
+ - Brown, Rachelle
  - Courtney, Joanne
  - Ferguson, Dana
  - Homan, Rachel

@@ -100,7 +100,7 @@ vs:
  - Bohmer, Brenda
  - Bowman, Mary
  - Breen, Theresa
- - Brown, Rachel
+ - Brown, Rachelle
  - Bryant, Angie
  - Cameron, Kate
  - Carter, Sasha

@@ -4,19 +4,19 @@ name: Rachel Homan
 name-sort: Homan, Rachel
 totals:
  - event: Trials (Women)
-   games: 26
-   wins: 15
-   losses: 11
-   inturn-total: 280
-   inturn-percent: 78
-   outturn-total: 214
+   games: 35
+   wins: 23
+   losses: 12
+   inturn-total: 363
+   inturn-percent: 81
+   outturn-total: 292
    outturn-percent: 81
-   draw-total: 192
-   draw-percent: 75
-   takeout-total: 302
-   takeout-percent: 82
-   shots-total: 494
-   shots-percent: 79
+   draw-total: 263
+   draw-percent: 78
+   takeout-total: 392
+   takeout-percent: 83
+   shots-total: 655
+   shots-percent: 81
 years:
  - year: 2013
    event: Trials (Women)
@@ -69,21 +69,47 @@ years:
    takeout-percent: 71
    shots-total: 154
    shots-percent: 72
+ - year: 2025
+   event: Trials (Women)
+   team: "HOMw"
+   position: Fourth
+   games: 9
+   wins: 8
+   losses: 1
+   inturn-total: 83
+   inturn-percent: 89
+   outturn-total: 78
+   outturn-percent: 81
+   draw-total: 71
+   draw-percent: 85
+   takeout-total: 90
+   takeout-percent: 86
+   shots-total: 161
+   shots-percent: 85
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Corryn
+ - Brown, Rachelle
+ - Burgess, Karlee
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
+ - Fisher, Samantha
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
@@ -92,10 +118,12 @@ vs:
  - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hickey, Laura
  - Iskiw, Beth
  - Jones, Jennifer
  - Kasner, Marliese
+ - Koltun, Sarah
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lawton, Stefanie
@@ -115,11 +143,14 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Pasika, Rona
  - Peterman, Jocelyn
  - Peters, Laine
  - Pincott, Erin
  - Potts, Sarah
+ - Powers, Marlee
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Scheidegger, Casey
@@ -128,7 +159,10 @@ vs:
  - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Sonnenberg, Renee
+ - Sturmay, Selena
  - Sweeting, Val
  - Tippin, Julie
  - Titheridge, Lindsay

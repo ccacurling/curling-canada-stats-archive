@@ -36,7 +36,7 @@ years:
    shots-total: 150
    shots-percent: 78
 vs:
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan

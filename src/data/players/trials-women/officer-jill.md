@@ -96,7 +96,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha

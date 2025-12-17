@@ -4,18 +4,18 @@ name: Kate Cameron
 name-sort: Cameron, Kate
 totals:
  - event: Trials (Women)
-   games: 15
-   wins: 5
-   losses: 10
-   inturn-total: 142
-   inturn-percent: 77
-   outturn-total: 144
-   outturn-percent: 76
-   draw-total: 132
+   games: 22
+   wins: 6
+   losses: 16
+   inturn-total: 205
+   inturn-percent: 75
+   outturn-total: 211
+   outturn-percent: 77
+   draw-total: 186
    draw-percent: 76
-   takeout-total: 154
-   takeout-percent: 77
-   shots-total: 286
+   takeout-total: 230
+   takeout-percent: 76
+   shots-total: 416
    shots-percent: 76
 years:
  - year: 2017
@@ -52,24 +52,53 @@ years:
    takeout-percent: 80
    shots-total: 132
    shots-percent: 80
+ - year: 2025
+   event: Trials (Women)
+   team: "CAMw"
+   position: Fourth
+   games: 7
+   wins: 1
+   losses: 6
+   inturn-total: 63
+   inturn-percent: 71
+   outturn-total: 67
+   outturn-percent: 79
+   draw-total: 54
+   draw-percent: 75
+   takeout-total: 76
+   takeout-percent: 76
+   shots-total: 130
+   shots-percent: 75
 vs:
+ - Baxter, Jennifer
+ - Birchard, Shannon
+ - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Corryn
+ - Brown, Rachelle
+ - Burgess, Karlee
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
+ - Einarson, Kerri
+ - Everist, Karlee
  - Ferguson, Dana
+ - Fisher, Samantha
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz
  - Gordon, Kristin
  - Grandy, Clancy
  - Harrison, Jacqueline
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hickey, Laura
  - Homan, Rachel
  - Jones, Jennifer
+ - Koltun, Sarah
  - Kreviazuk, Lynn
  - Lawes, Kaitlyn
  - Lilly, Kendra
@@ -82,14 +111,20 @@ vs:
  - Officer, Jill
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Potts, Sarah
+ - Ramsay, Geri-Lynn
  - Rocque, Kelsey
  - Scheidegger, Casey
  - Scheidegger, Jessie
  - Schmiemann, Danielle
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
+ - Sturmay, Selena
  - Sweeting, Val
  - Tippin, Julie
  - Vink, Rachelle

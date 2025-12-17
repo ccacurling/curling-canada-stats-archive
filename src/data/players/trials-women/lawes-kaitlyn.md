@@ -4,19 +4,19 @@ name: Kaitlyn Lawes
 name-sort: Lawes, Kaitlyn
 totals:
  - event: Trials (Women)
-   games: 27
-   wins: 19
-   losses: 8
-   inturn-total: 248
-   inturn-percent: 82
-   outturn-total: 271
-   outturn-percent: 84
-   draw-total: 204
-   draw-percent: 83
-   takeout-total: 315
-   takeout-percent: 83
-   shots-total: 519
-   shots-percent: 83
+   games: 34
+   wins: 23
+   losses: 11
+   inturn-total: 313
+   inturn-percent: 80
+   outturn-total: 343
+   outturn-percent: 82
+   draw-total: 264
+   draw-percent: 80
+   takeout-total: 392
+   takeout-percent: 82
+   shots-total: 656
+   shots-percent: 81
 years:
  - year: 2013
    event: Trials (Women)
@@ -69,21 +69,47 @@ years:
    takeout-percent: 83
    shots-total: 200
    shots-percent: 82
+ - year: 2025
+   event: Trials (Women)
+   team: "LAWw"
+   position: Fourth
+   games: 7
+   wins: 4
+   losses: 3
+   inturn-total: 65
+   inturn-percent: 74
+   outturn-total: 72
+   outturn-percent: 75
+   draw-total: 60
+   draw-percent: 71
+   takeout-total: 77
+   takeout-percent: 77
+   shots-total: 137
+   shots-percent: 74
 vs:
  - Anderson, Sherry
  - Armstrong, Leigh
+ - Baxter, Jennifer
  - Birchard, Shannon
+ - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Corryn
+ - Brown, Rachelle
+ - Burgess, Karlee
  - Cameron, Kate
  - Carey, Chelsea
  - Court, Morgan
  - Courtney, Joanne
  - Duhaime, Chantal
  - Einarson, Kerri
+ - Elias, Mackenzie
  - Englot, Michelle
+ - Everist, Karlee
  - Ferguson, Dana
+ - Fisher, Samantha
  - Flaxey, Allison
+ - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kristen
  - Fyfe, Liz
@@ -92,11 +118,13 @@ vs:
  - Harris, Briane
  - Harrison, Jacqueline
  - Haughian, Jessie
+ - Hawes, Dezaray
  - Hickey, Laura
  - Homan, Rachel
  - Iskiw, Beth
  - Kasner, Marliese
  - Knapp, Breanne
+ - Koltun, Sarah
  - Kreviazuk, Alison
  - Kreviazuk, Lynn
  - Lawton, Stefanie
@@ -114,10 +142,13 @@ vs:
  - Njegovan, Selena
  - Olson-Johns, Lori
  - Overton-Clapham, Cathy
+ - Papley, Paige
  - Pasika, Rona
  - Peterman, Jocelyn
  - Peters, Laine
+ - Pincott, Erin
  - Potts, Sarah
+ - Ramsay, Geri-Lynn
  - Rizzo, Jo-Ann
  - Rocque, Kelsey
  - Scheidegger, Casey
@@ -126,7 +157,10 @@ vs:
  - Scotland, Nadine
  - Singler, Sherri
  - Sippala, Ashley
+ - Skrlik, Ashton
+ - Skrlik, Kayla
  - Sonnenberg, Renee
+ - Sturmay, Selena
  - Sweeting, Val
  - Tippin, Julie
  - Titheridge, Lindsay

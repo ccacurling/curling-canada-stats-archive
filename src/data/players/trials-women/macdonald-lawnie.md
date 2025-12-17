@@ -60,7 +60,7 @@ vs:
  - Bell, Patty
  - Beveridge, Corie
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cordina, Sheri
  - Courtney, Joanne
