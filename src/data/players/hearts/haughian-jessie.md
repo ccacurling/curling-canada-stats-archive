@@ -62,8 +62,8 @@ vs:
  - Barbour, Shona
  - Birnie, Hailey
  - Birt, Suzanne
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille

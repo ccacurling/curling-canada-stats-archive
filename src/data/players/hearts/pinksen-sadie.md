@@ -178,9 +178,9 @@ vs:
  - Boivin, Florence
  - Boudreault, Patricia
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -198,7 +198,7 @@ vs:
  - Erickson, Rachel
  - Everist, Karlee
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

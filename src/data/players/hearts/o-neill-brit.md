@@ -41,7 +41,7 @@ vs:
  - Birt, Suzanne
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie

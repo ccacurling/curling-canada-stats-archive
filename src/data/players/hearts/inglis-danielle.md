@@ -94,7 +94,7 @@ vs:
  - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate

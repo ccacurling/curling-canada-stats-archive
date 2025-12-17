@@ -40,8 +40,8 @@ vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cooper, Kathryn
  - Courtney, Joanne

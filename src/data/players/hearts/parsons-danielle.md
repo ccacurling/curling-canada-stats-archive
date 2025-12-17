@@ -106,8 +106,8 @@ vs:
  - Blais, Amelie
  - Bradley, Shelley
  - Brassard, Veronique
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea

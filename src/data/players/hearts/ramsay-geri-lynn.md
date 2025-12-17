@@ -81,7 +81,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -100,7 +100,7 @@ vs:
  - Einarson, Megan
  - Ellis, Danielle
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Fleury, Tracy
  - George, Tara
  - Gilman, Sheena

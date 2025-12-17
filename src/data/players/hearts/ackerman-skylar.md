@@ -61,7 +61,7 @@ vs:
  - Curtis, Stacie
  - DiCarlo, Jane
  - Einarson, Kerri
- - Fisher, Sam
+ - Fisher, Samantha
  - Gordon, Kristin
  - Harris, Briane
  - Hawes, Dezaray

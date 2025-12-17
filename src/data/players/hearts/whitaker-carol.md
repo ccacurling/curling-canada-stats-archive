@@ -110,8 +110,8 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Brennan, Amanda
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carrier, Julie
  - Carter, Sasha
  - Clarke, Hayley

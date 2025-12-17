@@ -264,10 +264,10 @@ vs:
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Bush, Tracy
  - Cameron, Kate
  - Cameron, Nancy

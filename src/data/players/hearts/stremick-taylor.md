@@ -45,7 +45,7 @@ vs:
  - Curtis, Stacie
  - DiCarlo, Jane
  - Einarson, Kerri
- - Fisher, Sam
+ - Fisher, Samantha
  - Gordon, Kristin
  - Hawes, Dezaray
  - Jenkins, Whitney

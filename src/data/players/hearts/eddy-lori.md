@@ -89,7 +89,7 @@ vs:
  - Bohmer, Brenda
  - Boivin, Florence
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, June
  - Carey, Chelsea
@@ -104,7 +104,7 @@ vs:
  - Dolan, Kim
  - Einarson, Kerri
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Forward, Katie
  - Fraser, Sherry
  - Fyfe, Liz

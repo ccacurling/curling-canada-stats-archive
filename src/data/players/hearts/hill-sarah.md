@@ -72,7 +72,7 @@ vs:
  - Eddy, Lori
  - Enge, Jenna
  - Erickson, Rachel
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz

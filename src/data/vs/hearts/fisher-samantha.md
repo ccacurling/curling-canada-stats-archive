@@ -1,6 +1,6 @@
 ---
-title: Sam Fisher Head-to-head
-name: Fisher, Sam
+title: Samantha Fisher Head-to-head
+name: Fisher, Samantha
 vs:
  - name: Flemming, Margot
    totals:

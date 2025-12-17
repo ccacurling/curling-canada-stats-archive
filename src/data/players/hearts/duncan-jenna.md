@@ -64,7 +64,7 @@ vs:
  - Baxter, Jennifer
  - Birchard, Shannon
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Cameron, Kate
  - Chislett, Geneva
  - Crouse, Jennifer

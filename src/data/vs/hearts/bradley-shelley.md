@@ -146,7 +146,7 @@ vs:
       year: 2001
       draw: Tie-Breaker(18)
       score: PE 2 - ON 9
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

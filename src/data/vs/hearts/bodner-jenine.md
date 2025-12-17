@@ -58,7 +58,7 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: NS 11 - NU 1
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -86,7 +86,7 @@ vs:
       year: 2019
       draw: Round Robin(13)
       score: NS 11 - NU 1
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

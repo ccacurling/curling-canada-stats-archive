@@ -76,7 +76,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

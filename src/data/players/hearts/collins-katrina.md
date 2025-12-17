@@ -46,7 +46,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Cooper, Kathryn
  - Courtney, Joanne

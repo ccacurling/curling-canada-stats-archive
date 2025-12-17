@@ -33,7 +33,7 @@ years:
    shots-total: 6
    shots-percent: 50
 vs:
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Ferguson, Dana
  - Wilkes, Sarah

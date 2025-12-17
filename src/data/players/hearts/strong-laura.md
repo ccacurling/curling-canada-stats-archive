@@ -185,10 +185,10 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy

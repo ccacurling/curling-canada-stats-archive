@@ -1,7 +1,7 @@
 ---
-title: Rachel Brown
-name: Rachel Brown
-name-sort: Brown, Rachel
+title: Rachelle Brown
+name: Rachelle Brown
+name-sort: Brown, Rachelle
 totals:
  - event: Hearts
    games: 70
@@ -162,7 +162,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Burgess, Karlee
  - Burns, Krysta

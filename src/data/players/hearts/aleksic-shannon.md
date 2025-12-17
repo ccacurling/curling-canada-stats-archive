@@ -122,7 +122,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bohmer, Brenda
- - Brothers, Jill
+ - Brothers, Jillian
  - Cameron, Kate
  - Carey, Chelsea
  - Carter, Sasha

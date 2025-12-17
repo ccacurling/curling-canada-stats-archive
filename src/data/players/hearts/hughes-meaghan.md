@@ -187,9 +187,9 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -215,7 +215,7 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz

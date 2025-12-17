@@ -95,7 +95,7 @@ vs:
  - Duncan, Hollie
  - Einarson, Kerri
  - Elias, Mackenzie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry

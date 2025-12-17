@@ -170,7 +170,7 @@ vs:
       year: 2021
       draw: Round Robin(6)
       score: NL 9 - NU 3
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

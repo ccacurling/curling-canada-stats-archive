@@ -212,9 +212,9 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
@@ -259,7 +259,7 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Fleury, Tracy
  - Foster, Kerry

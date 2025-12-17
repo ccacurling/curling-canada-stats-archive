@@ -37,8 +37,8 @@ years:
    shots-total: 48
    shots-percent: 89
 vs:
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Courtney, Joanne
  - Ferguson, Dana
  - Homan, Rachel

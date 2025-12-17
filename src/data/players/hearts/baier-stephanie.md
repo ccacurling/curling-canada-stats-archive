@@ -48,8 +48,8 @@ years:
    alternate: true
 vs:
  - Atkinson, Rebecca
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cottrill, Katie
  - Court, Morgan

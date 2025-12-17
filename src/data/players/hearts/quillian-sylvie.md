@@ -143,8 +143,8 @@ vs:
  - Blais, Amelie
  - Bradley, Shelley
  - Brennan, Amanda
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate

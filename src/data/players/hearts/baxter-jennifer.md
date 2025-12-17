@@ -163,7 +163,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

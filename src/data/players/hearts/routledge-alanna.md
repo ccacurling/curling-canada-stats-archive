@@ -115,7 +115,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie

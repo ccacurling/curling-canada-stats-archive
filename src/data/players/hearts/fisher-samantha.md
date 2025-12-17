@@ -1,7 +1,7 @@
 ---
-title: Sam Fisher
-name: Sam Fisher
-name-sort: Fisher, Sam
+title: Samantha Fisher
+name: Samantha Fisher
+name-sort: Fisher, Samantha
 totals:
  - event: Hearts
    games: 25
@@ -82,7 +82,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Burt, Camille
  - Carey, Chelsea
  - Christianson, Marie

@@ -58,7 +58,7 @@ vs:
       year: 2024
       draw: Round Robin(9)
       score: PE 4 - CA 10
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

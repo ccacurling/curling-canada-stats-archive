@@ -1,7 +1,7 @@
 ---
-title: Jill Brothers
-name: Jill Brothers
-name-sort: Brothers, Jill
+title: Jillian Brothers
+name: Jillian Brothers
+name-sort: Brothers, Jillian
 totals:
  - event: Hearts
    games: 75
@@ -181,7 +181,7 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
@@ -216,7 +216,7 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

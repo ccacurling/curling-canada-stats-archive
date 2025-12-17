@@ -99,7 +99,7 @@ vs:
  - Birchard, Shannon
  - Birnie, Hailey
  - Birt, Suzanne
- - Brown, Rachel
+ - Brown, Rachelle
  - Burt, Camille
  - Cameron, Kate
  - Carey, Chelsea

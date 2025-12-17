@@ -83,9 +83,9 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin

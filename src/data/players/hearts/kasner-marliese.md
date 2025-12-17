@@ -142,9 +142,9 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Bush, Tracy
  - Camozzi, Rhonda
  - Carey, Chelsea

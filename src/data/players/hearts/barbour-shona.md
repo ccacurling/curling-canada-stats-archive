@@ -287,10 +287,10 @@ vs:
  - Blais, Amelie
  - Brassard, Veronique
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta

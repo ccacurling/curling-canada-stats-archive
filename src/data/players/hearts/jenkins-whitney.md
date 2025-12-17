@@ -60,14 +60,14 @@ vs:
  - Armstrong, Jennifer
  - Birchard, Shannon
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burt, Camille
  - Crandall, Jaclyn
  - Curtis, Erica
  - Curtis, Stacie
  - Doig, Deanna
  - Einarson, Kerri
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Gordon, Kristin

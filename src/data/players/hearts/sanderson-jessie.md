@@ -73,8 +73,8 @@ years:
 vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cooper, Kathryn
  - Cottrill, Katie

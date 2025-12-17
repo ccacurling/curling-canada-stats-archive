@@ -58,7 +58,7 @@ vs:
       year: 2015
       draw: Round Robin(11)
       score: QC 6 - PE 10
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

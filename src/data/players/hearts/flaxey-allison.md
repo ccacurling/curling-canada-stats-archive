@@ -62,8 +62,8 @@ vs:
  - Baier, Stephanie
  - Barker, Penny
  - Birt, Suzanne
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie

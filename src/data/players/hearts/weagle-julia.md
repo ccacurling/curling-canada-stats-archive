@@ -40,10 +40,10 @@ vs:
  - Ackerman, Colleen
  - Adams, Melissa
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Crandall, Jaclyn
  - DiCarlo, Jane
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Hawes, Dezaray

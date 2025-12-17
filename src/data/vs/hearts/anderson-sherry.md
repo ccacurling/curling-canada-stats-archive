@@ -1174,7 +1174,7 @@ vs:
       year: 1994
       draw: Round Robin(16)
       score: ON 9 - SK 6
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -1286,7 +1286,7 @@ vs:
       year: 1995
       draw: Round Robin(17)
       score: AB 2 - SK 4
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -2922,7 +2922,7 @@ vs:
       year: 2004
       draw: Round Robin(4)
       score: SK 8 - TR 0
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

@@ -174,7 +174,7 @@ vs:
       year: 2025
       draw: Playoff(20)
       score: BC 5 - NS 10
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -1182,7 +1182,7 @@ vs:
       year: 2015
       draw: Round Robin(14)
       score: NS 7 - QC 8
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

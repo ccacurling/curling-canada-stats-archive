@@ -426,7 +426,7 @@ vs:
       year: 1999
       draw: Page 3-4(18)
       score: SK 4 - CA 12
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:

@@ -255,9 +255,9 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Boyle, Jane
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
@@ -291,7 +291,7 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

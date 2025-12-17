@@ -144,7 +144,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Carter, Sasha
  - Clark, Stefanie

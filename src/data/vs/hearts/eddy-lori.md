@@ -58,7 +58,7 @@ vs:
       year: 2020
       draw: Round Robin(12)
       score: NU 5 - CA 6
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

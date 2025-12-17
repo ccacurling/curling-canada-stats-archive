@@ -124,9 +124,9 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
@@ -149,7 +149,7 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Foster, Kerry
  - Fyfe, Liz

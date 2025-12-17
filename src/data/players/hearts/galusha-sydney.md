@@ -39,7 +39,7 @@ years:
 vs:
  - Baxter, Jennifer
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

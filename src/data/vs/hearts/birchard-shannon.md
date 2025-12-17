@@ -206,7 +206,7 @@ vs:
       year: 2021
       draw: Round Robin(12)
       score: NS 3 - CA 8
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -278,7 +278,7 @@ vs:
       year: 2024
       draw: Round Robin(7)
       score: BC 8 - CA 9
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -1482,7 +1482,7 @@ vs:
       year: 2018
       draw: Round Robin(2)
       score: SK 5 - MB 12
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

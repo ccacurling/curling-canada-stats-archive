@@ -74,8 +74,8 @@ vs:
  - Atkinson, Rebecca
  - Baier, Stephanie
  - Birt, Suzanne
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy

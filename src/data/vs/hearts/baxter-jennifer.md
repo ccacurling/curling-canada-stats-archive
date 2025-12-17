@@ -398,7 +398,7 @@ vs:
       year: 2020
       draw: Tie-Breaker(15)
       score: BC 5 - NS 4
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

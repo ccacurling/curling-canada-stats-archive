@@ -68,8 +68,8 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie

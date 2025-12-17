@@ -58,7 +58,7 @@ vs:
       year: 2017
       draw: Round Robin(8)
       score: SK 7 - AB 10
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

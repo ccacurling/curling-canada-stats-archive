@@ -169,9 +169,9 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate

@@ -100,7 +100,7 @@ vs:
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta

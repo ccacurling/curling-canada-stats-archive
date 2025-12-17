@@ -109,7 +109,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Burgess, Carey
  - Bush, Tracy

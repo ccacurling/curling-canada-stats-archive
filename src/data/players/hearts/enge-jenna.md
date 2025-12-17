@@ -107,7 +107,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Campbell, Jolene

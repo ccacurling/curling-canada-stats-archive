@@ -1682,7 +1682,7 @@ vs:
       year: 2002
       draw: Semi-Final(20)
       score: ON 6 - CA 8
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

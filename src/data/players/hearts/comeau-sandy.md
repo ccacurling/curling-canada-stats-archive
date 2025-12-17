@@ -87,7 +87,7 @@ vs:
  - Bradley, Shelley
  - Breen, Theresa
  - Brophy, Kathy
- - Brothers, Jill
+ - Brothers, Jillian
  - Bush, Tracy
  - Cameron, Nancy
  - Carter, Sasha

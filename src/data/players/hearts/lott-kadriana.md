@@ -41,7 +41,7 @@ vs:
  - Brown, Corryn
  - Crandall, Jaclyn
  - DiCarlo, Jane
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Gustafson, Leigh

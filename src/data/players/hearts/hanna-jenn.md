@@ -68,7 +68,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Bush, Tracy
  - Campbell, Jolene
  - Carey, Chelsea

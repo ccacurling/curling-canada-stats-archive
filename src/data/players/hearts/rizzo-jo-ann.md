@@ -123,9 +123,9 @@ vs:
  - Black, Christina
  - Bobbie, Tess
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta

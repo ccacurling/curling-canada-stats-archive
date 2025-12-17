@@ -286,7 +286,7 @@ vs:
       year: 2025
       draw: Round Robin(8)
       score: NS 11 - NL 4
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

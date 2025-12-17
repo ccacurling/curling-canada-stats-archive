@@ -104,7 +104,7 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Bobbie, Tess
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee

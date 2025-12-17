@@ -119,9 +119,9 @@ vs:
  - Boivin, Florence
  - Boudreault, Patricia
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Carmody, Erin
@@ -133,7 +133,7 @@ vs:
  - Dunn, Michelle
  - Einarson, Kerri
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Fleury, Tracy
  - Forward, Katie
  - Fyfe, Liz

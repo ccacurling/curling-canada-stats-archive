@@ -268,11 +268,11 @@ vs:
  - Bowman, Mary
  - Brawley, Sandra
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Brousseau, Deb
  - Brown, Marcie
  - Brown, Maureen
- - Brown, Rachel
+ - Brown, Rachelle
  - Burkitt, Maureen
  - Burry, Gail
  - Byers, Denise

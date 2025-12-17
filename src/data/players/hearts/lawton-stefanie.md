@@ -144,10 +144,10 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Bush, Tracy
  - Cameron, Kate
  - Camozzi, Rhonda

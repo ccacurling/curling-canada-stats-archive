@@ -157,8 +157,8 @@ vs:
  - Barbour, Shona
  - Birchard, Shannon
  - Blais, Amelie
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Campbell, Jolene
  - Carey, Chelsea
  - Carter, Sasha

@@ -116,7 +116,7 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Campbell, Jolene
  - Carter, Sasha

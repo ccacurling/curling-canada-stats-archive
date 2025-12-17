@@ -39,7 +39,7 @@ years:
 vs:
  - Barbour, Shona
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

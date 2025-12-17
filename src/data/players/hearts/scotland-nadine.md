@@ -66,7 +66,7 @@ vs:
  - Birnie, Hailey
  - Black, Christina
  - Bobbie, Tess
- - Brown, Rachel
+ - Brown, Rachelle
  - Brown, Stephanie
  - Burgess, Karlee
  - Carey, Chelsea

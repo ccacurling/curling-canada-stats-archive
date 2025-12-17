@@ -39,8 +39,8 @@ years:
 vs:
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Cooper, Kathryn
  - Cottrill, Katie

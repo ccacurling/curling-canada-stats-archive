@@ -64,7 +64,7 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea

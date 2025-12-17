@@ -1042,7 +1042,7 @@ vs:
       year: 2014
       draw: Semi-Final(20)
       score: MB 5 - AB 6
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

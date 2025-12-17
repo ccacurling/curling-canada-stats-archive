@@ -309,9 +309,9 @@ vs:
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Bush, Tracy
  - Byers, Denise
@@ -359,7 +359,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Alana
- - Fisher, Sam
+ - Fisher, Samantha
  - Fister, Teri
  - Fister, Toni
  - Flaxey, Allison

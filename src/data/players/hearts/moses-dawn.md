@@ -305,7 +305,7 @@ vs:
  - Brassard, Veronique
  - Breen, Theresa
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Brown, Marcie
  - Brown, Maureen

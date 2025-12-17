@@ -146,9 +146,9 @@ vs:
  - Blais, Amelie
  - Bolland, Michelle
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy

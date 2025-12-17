@@ -67,7 +67,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Carter, Sasha
  - Clark-Rouire, Jennifer

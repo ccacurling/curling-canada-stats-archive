@@ -57,7 +57,7 @@ years:
 vs:
  - Brown, Corryn
  - Doig, Deanna
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry

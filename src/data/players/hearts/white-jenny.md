@@ -68,7 +68,7 @@ years:
    shots-percent: 71
 vs:
  - Brown, Corryn
- - Fisher, Sam
+ - Fisher, Samantha
  - Hawes, Dezaray
  - Koltun, Sarah
  - Papley, Paige

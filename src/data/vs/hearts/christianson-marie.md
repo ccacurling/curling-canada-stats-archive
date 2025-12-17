@@ -534,7 +534,7 @@ vs:
       year: 2020
       draw: Pool(19)
       score: CA 5 - PE 3
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

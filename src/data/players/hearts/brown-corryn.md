@@ -104,8 +104,8 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Burt, Camille
  - Carey, Chelsea
  - Christianson, Marie

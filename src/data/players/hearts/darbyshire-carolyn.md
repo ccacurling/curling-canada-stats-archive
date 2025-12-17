@@ -83,7 +83,7 @@ vs:
  - Betker, Jan
  - Bildfell, Shelly
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Brousseau, Deb
  - Brown, Jacalyn
  - Burkitt, Maureen

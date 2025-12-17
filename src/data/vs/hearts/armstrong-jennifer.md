@@ -230,7 +230,7 @@ vs:
       year: 2022
       draw: Round Robin(13)
       score: WC 4 - PE 8
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

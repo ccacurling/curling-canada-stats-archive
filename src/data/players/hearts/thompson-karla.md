@@ -61,7 +61,7 @@ vs:
  - Bell, Chelsey
  - Birt, Suzanne
  - Boyle, Jane
- - Brothers, Jill
+ - Brothers, Jillian
  - Campbell, Jolene
  - Carey, Chelsea
  - Carrier, Julie

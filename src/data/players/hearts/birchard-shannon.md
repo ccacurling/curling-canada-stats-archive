@@ -145,9 +145,9 @@ vs:
  - Black, Christina
  - Bobbie, Tess
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
@@ -178,7 +178,7 @@ vs:
  - Ferguson, Dana
  - Fesser, Kourtney
  - Fesser, Krista
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie

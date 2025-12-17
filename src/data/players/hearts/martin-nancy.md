@@ -62,7 +62,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie
@@ -72,7 +72,7 @@ vs:
  - Doerksen, Katherine
  - Eddy, Lori
  - Einarson, Kerri
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz

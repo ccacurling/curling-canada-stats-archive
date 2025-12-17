@@ -154,7 +154,7 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Breen, Theresa
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

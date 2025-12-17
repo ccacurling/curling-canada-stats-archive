@@ -43,7 +43,7 @@ years:
    position: Alternate
    alternate: true
 vs:
- - Brown, Rachel
+ - Brown, Rachelle
  - Courtney, Joanne
  - Ferguson, Dana
  - Sweeting, Val

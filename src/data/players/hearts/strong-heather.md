@@ -267,10 +267,10 @@ vs:
  - Bradley, Shelley
  - Breen, Theresa
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Bryant, Angie
  - Burgess, Carey
  - Burlington, Cheryl

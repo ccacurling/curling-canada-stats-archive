@@ -93,11 +93,11 @@ vs:
  - Adams, Melissa
  - Birchard, Shannon
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Crandall, Jaclyn
  - DiCarlo, Jane
  - Einarson, Kerri
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Gordon, Kristin

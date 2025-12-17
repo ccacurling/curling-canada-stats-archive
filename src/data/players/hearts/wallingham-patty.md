@@ -133,8 +133,8 @@ vs:
  - Baxter, Jennifer
  - Black, Christina
  - Bobbie, Tess
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Burgess, Karlee
  - Cameron, Kate
  - Carey, Chelsea

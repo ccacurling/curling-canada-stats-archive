@@ -77,7 +77,7 @@ vs:
  - Armstrong, Hailey
  - Barron, Lauren
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -92,7 +92,7 @@ vs:
  - Dubue, Lindsay
  - Eddy, Lori
  - Elias, Mackenzie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry

@@ -165,9 +165,9 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, Jolene
  - Carmody, Erin
@@ -198,7 +198,7 @@ vs:
  - Englot, Michelle
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie

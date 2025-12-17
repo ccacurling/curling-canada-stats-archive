@@ -86,7 +86,7 @@ vs:
  - Birt, Suzanne
  - Bowman, Mary
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Maureen
  - Bush, Tracy
  - Carter, Sasha

@@ -40,8 +40,8 @@ vs:
  - Blaney, Jennifer
  - Bodner, Jenine
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carmody, Erin
  - Courtney, Joanne

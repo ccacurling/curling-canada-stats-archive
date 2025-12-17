@@ -235,9 +235,9 @@ vs:
  - Boudreault, Patricia
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta
@@ -270,7 +270,7 @@ vs:
  - Englot, Michelle
  - Everist, Karlee
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie

@@ -30,7 +30,7 @@ vs:
       year: 2023
       draw: Round Robin(16)
       score: YT 2 - WC 9
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:

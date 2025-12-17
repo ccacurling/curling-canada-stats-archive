@@ -95,7 +95,7 @@ vs:
  - Enge, Jenna
  - Fesser, Kourtney
  - Fesser, Krista
- - Fisher, Sam
+ - Fisher, Samantha
  - Fleury, Tracy
  - Fyfe, Liz
  - Galusha, Kerry

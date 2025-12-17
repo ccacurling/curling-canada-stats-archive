@@ -362,7 +362,7 @@ vs:
       year: 2016
       draw: Round Robin(10)
       score: NS 7 - PE 5
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -450,7 +450,7 @@ vs:
       year: 2021
       draw: Round Robin(19)
       score: BC 9 - PE 5
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -2322,7 +2322,7 @@ vs:
       year: 2004
       draw: Round Robin(16)
       score: PE 10 - TR 4
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

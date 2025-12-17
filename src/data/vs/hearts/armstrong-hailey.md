@@ -354,7 +354,7 @@ vs:
       year: 2021
       draw: Round Robin(4)
       score: QC 9 - BC 5
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -750,7 +750,7 @@ vs:
       year: 2022
       draw: Round Robin(18)
       score: QC 10 - NS 8
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

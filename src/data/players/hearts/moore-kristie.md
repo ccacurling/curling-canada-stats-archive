@@ -131,7 +131,7 @@ vs:
  - Blanchard, Judy
  - Bradley, Shelley
  - Breen, Theresa
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, June
  - Carey, Chelsea

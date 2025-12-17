@@ -66,7 +66,7 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Camozzi, Rhonda
  - Carey, Chelsea

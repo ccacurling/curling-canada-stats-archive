@@ -187,7 +187,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Camozzi, Rhonda
  - Campbell, Jolene
@@ -215,7 +215,7 @@ vs:
  - Eyamie, Lisa
  - Ferguson, Dana
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie

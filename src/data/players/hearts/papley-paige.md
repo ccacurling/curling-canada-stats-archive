@@ -69,7 +69,7 @@ vs:
  - Doig, Deanna
  - Einarson, Kerri
  - Elias, Mackenzie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Gordon, Kristin

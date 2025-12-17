@@ -257,7 +257,7 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Carey
  - Burgess, Karlee
  - Bush, Tracy

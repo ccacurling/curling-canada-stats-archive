@@ -95,7 +95,7 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Boyle, Jane
- - Brown, Rachel
+ - Brown, Rachelle
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie

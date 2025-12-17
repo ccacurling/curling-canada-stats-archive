@@ -187,9 +187,9 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
@@ -221,7 +221,7 @@ vs:
  - Everist, Karlee
  - Eyamie, Lisa
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Forward, Katie
  - Foster, Kerry
  - Fullerton, Sarah

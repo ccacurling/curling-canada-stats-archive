@@ -62,8 +62,8 @@ vs:
  - Bodner, Jenine
  - Boudreault, Patricia
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carmody, Erin
  - Christianson, Marie

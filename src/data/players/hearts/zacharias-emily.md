@@ -104,8 +104,8 @@ vs:
  - Black, Christina
  - Bobbie, Tess
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brunton, Kira
  - Burns, Krysta
  - Cameron, Kate

@@ -84,7 +84,7 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie

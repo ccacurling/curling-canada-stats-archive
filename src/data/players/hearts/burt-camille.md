@@ -79,7 +79,7 @@ vs:
  - Barbour, Shona
  - Birnie, Hailey
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -92,7 +92,7 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie

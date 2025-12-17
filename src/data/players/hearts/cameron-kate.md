@@ -184,8 +184,8 @@ vs:
  - Black, Christina
  - Bobbie, Tess
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee

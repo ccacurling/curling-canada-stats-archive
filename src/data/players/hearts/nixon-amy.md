@@ -143,7 +143,7 @@ vs:
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Cameron, Kate
  - Campbell, Jolene
  - Carrier, Julie

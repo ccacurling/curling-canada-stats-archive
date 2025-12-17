@@ -83,8 +83,8 @@ vs:
  - Blais, Amelie
  - Bradley, Shelley
  - Brennan, Amanda
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea

@@ -41,8 +41,8 @@ vs:
  - Barbour, Shona
  - Birchard, Shannon
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burns, Krysta

@@ -106,8 +106,8 @@ vs:
  - Birt, Suzanne
  - Bohmer, Brenda
  - Bradley, Shelley
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Bush, Tracy
  - Byers, Denise
  - Carey, Chelsea

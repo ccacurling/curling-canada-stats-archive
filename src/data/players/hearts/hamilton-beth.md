@@ -142,7 +142,7 @@ vs:
  - Enge, Jenna
  - Erickson, Rachel
  - Farrell, Allison
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Fortier, Marie-Josee
  - Forward, Katie

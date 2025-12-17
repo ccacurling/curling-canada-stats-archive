@@ -60,7 +60,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate

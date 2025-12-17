@@ -30,7 +30,7 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: NS 7 - QC 4
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -58,7 +58,7 @@ vs:
       year: 2019
       draw: Round Robin(9)
       score: NS 7 - QC 4
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

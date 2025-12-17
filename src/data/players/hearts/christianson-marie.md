@@ -165,9 +165,9 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate
@@ -189,7 +189,7 @@ vs:
  - Enge, Jenna
  - Everist, Karlee
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

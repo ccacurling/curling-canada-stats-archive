@@ -102,7 +102,7 @@ vs:
  - Birt, Suzanne
  - Blais, Amelie
  - Boyle, Jane
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Cameron, Nancy
  - Campbell, Jolene

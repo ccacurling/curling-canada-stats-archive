@@ -137,7 +137,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brassard, Veronique
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Nancy
  - Campbell, Jolene
  - Carey, Chelsea

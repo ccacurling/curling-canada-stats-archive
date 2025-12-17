@@ -106,7 +106,7 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate
@@ -122,7 +122,7 @@ vs:
  - Einarson, Kerri
  - Elias, Mackenzie
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz

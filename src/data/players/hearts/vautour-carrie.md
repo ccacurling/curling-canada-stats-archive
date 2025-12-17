@@ -61,7 +61,7 @@ vs:
  - Birt, Suzanne
  - Boyle, Jane
  - Briand, Oye-Sem Won
- - Brothers, Jill
+ - Brothers, Jillian
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie

@@ -205,9 +205,9 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee
@@ -250,7 +250,7 @@ vs:
  - Everist, Karlee
  - Ferguson, Dana
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

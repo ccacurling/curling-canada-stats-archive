@@ -41,7 +41,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley

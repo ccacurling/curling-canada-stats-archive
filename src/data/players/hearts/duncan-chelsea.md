@@ -136,9 +136,9 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille

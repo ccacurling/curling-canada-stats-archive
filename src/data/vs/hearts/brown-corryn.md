@@ -2,7 +2,7 @@
 title: Corryn Brown Head-to-head
 name: Brown, Corryn
 vs:
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

@@ -198,7 +198,7 @@ vs:
       year: 2024
       draw: Round Robin(2)
       score: NB 5 - MB 10
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

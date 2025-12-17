@@ -177,7 +177,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Stephanie
  - Burns, Krysta

@@ -118,7 +118,7 @@ vs:
       year: 2022
       draw: Round Robin(14)
       score: ON 11 - YT 5
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:

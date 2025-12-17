@@ -99,7 +99,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy

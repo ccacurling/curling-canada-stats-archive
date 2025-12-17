@@ -100,7 +100,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -124,7 +124,7 @@ vs:
  - Enge, Jenna
  - Fesser, Kourtney
  - Fesser, Krista
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Fyfe, Liz

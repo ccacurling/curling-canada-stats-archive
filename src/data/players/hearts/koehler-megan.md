@@ -192,7 +192,7 @@ vs:
  - Blais, Amelie
  - Bradley, Shelley
  - Briand, Oye-Sem Won
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille

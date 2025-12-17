@@ -107,8 +107,8 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Cameron, Kate
  - Cameron, Nancy
  - Camozzi, Rhonda

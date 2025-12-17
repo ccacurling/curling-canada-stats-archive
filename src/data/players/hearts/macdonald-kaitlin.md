@@ -106,7 +106,7 @@ vs:
  - Black, Christina
  - Boivin, Florence
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea
@@ -120,7 +120,7 @@ vs:
  - Erickson, Rachel
  - Everist, Karlee
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Forward, Katie
  - Fyfe, Liz

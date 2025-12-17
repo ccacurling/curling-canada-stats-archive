@@ -203,10 +203,10 @@ vs:
  - Bohmer, Brenda
  - Boily, Caroline
  - Bowman, Mary
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Brown, Maureen
- - Brown, Rachel
+ - Brown, Rachelle
  - Bush, Tracy
  - Byers, Denise
  - Campbell, Gloria

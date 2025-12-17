@@ -103,8 +103,8 @@ vs:
  - Black, Christina
  - Boyle, Jane
  - Bradley, Shelley
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Cameron, Kate
  - Camozzi, Rhonda
  - Carey, Chelsea

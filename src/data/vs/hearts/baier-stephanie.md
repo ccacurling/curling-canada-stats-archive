@@ -2,7 +2,7 @@
 title: Stephanie Baier Head-to-head
 name: Baier, Stephanie
 vs:
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -30,7 +30,7 @@ vs:
       year: 2014
       draw: Round Robin(7)
       score: BC 9 - NS 8
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

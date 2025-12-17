@@ -61,7 +61,7 @@ vs:
  - Birchard, Shannon
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -75,7 +75,7 @@ vs:
  - Dubue, Lindsay
  - Einarson, Kerri
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Fleury, Tracy
  - Gordon, Kristin
  - Grandy, Clancy

@@ -58,8 +58,8 @@ vs:
  - Adams, Melissa
  - Barbour, Shona
  - Black, Christina
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille

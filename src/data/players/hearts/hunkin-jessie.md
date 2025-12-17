@@ -63,7 +63,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Christianson, Marie

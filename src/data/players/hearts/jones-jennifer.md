@@ -384,11 +384,11 @@ vs:
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Carey
  - Burlington, Cheryl
@@ -453,7 +453,7 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Floyd, Kathy

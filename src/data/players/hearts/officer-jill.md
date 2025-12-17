@@ -321,9 +321,9 @@ vs:
  - Brassard, Veronique
  - Brennan, Amanda
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Kate

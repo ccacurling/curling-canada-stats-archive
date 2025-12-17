@@ -88,8 +88,8 @@ vs:
  - Black, Christina
  - Blais, Amelie
  - Bradley, Shelley
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Campbell, Jolene
  - Carey, Chelsea

@@ -71,7 +71,7 @@ vs:
  - Dubue, Lindsay
  - Einarson, Kerri
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Gordon, Kristin
  - Grandy, Clancy
  - Harris, Briane

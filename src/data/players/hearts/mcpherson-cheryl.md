@@ -85,7 +85,7 @@ vs:
  - Bartlett, Sue Ann
  - Betker, Jan
  - Blanchard, Judy
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Nancy
  - Camozzi, Rhonda
  - Chapman, Kathy

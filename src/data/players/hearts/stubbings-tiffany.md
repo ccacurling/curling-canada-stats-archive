@@ -64,7 +64,7 @@ vs:
  - Betker, Jan
  - Birt, Suzanne
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Carey
  - Bush, Tracy
  - Cameron, Nancy

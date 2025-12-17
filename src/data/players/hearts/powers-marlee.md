@@ -44,7 +44,7 @@ vs:
  - Cullen, Brianna
  - Einarson, Kerri
  - Elias, Mackenzie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Foster, Kerry
  - Godsland, Brooke

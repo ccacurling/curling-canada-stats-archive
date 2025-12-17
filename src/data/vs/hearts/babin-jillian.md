@@ -390,7 +390,7 @@ vs:
       year: 2011
       draw: Round Robin(14)
       score: QC 5 - NB 8
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

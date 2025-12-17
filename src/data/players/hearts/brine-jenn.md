@@ -79,7 +79,7 @@ vs:
  - Blaney, Jennifer
  - Bodner, Jenine
  - Boudreault, Patricia
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Burns, Krysta
  - Cameron, Kate

@@ -358,7 +358,7 @@ vs:
       year: 2017
       draw: Round Robin(5)
       score: AB 5 - NL 3
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

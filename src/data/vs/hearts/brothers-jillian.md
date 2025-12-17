@@ -1,6 +1,6 @@
 ---
-title: Jill Brothers Head-to-head
-name: Brothers, Jill
+title: Jillian Brothers Head-to-head
+name: Brothers, Jillian
 vs:
  - name: Brown, Corryn
    totals:
@@ -30,7 +30,7 @@ vs:
       year: 2025
       draw: Playoff(20)
       score: BC 5 - NS 10
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:
@@ -1442,7 +1442,7 @@ vs:
       year: 2019
       draw: Round Robin(3)
       score: AB 6 - NS 5
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

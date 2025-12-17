@@ -208,11 +208,11 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Breen, Theresa
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Janet
  - Brown, Maureen
- - Brown, Rachel
+ - Brown, Rachelle
  - Bryant, Angie
  - Burlington, Cheryl
  - Cameron, Kate
@@ -255,7 +255,7 @@ vs:
  - Ferguson, Dana
  - Filteau, Anne-Marie
  - Fisher, Alana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flannigan, Lorraine
  - Flaxey, Allison
  - Fleury, Tracy

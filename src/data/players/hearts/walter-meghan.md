@@ -58,7 +58,7 @@ vs:
  - Adams, Melissa
  - Birchard, Shannon
  - Birnie, Hailey
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille

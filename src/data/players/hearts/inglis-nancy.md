@@ -51,7 +51,7 @@ vs:
  - Arnott, Janet
  - Bernard, Cheryl
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Carter, Sasha
  - Clark, Stefanie
  - Clarke, Hayley

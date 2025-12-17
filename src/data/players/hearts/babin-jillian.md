@@ -142,7 +142,7 @@ vs:
  - Blais, Amelie
  - Bradley, Shelley
  - Brassard, Veronique
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Campbell, Jolene
  - Carey, Chelsea

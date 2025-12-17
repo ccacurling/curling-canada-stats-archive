@@ -43,7 +43,7 @@ vs:
  - Bernard, Cheryl
  - Betker, Jan
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Carter, Sasha
  - Clarke, Hayley
  - Comeau, Sandy

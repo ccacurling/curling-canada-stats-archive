@@ -280,10 +280,10 @@ vs:
  - Bolland, Michelle
  - Bradley, Shelley
  - Brassard, Veronique
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Burgess, Karlee
  - Burt, Camille
@@ -332,7 +332,7 @@ vs:
  - Fallis, Karen
  - Ferguson, Dana
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Flemming, Margot
  - Fleury, Tracy

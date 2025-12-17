@@ -45,8 +45,8 @@ vs:
  - Anderson, Sherry
  - Atkinson, Rebecca
  - Baier, Stephanie
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Cooper, Kathryn
  - Cottrill, Katie
  - Court, Morgan

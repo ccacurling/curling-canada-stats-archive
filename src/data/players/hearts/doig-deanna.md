@@ -72,7 +72,7 @@ vs:
  - DiCarlo, Jane
  - Englot, Michelle
  - Eyamie, Lisa
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Fullerton, Sarah

@@ -38,7 +38,7 @@ years:
    shots-percent: 78
 vs:
  - Birnie, Hailey
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate

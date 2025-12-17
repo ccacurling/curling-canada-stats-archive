@@ -128,7 +128,7 @@ vs:
  - Brassard, Veronique
  - Breen, Theresa
  - Brophy, Kathy
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Cameron, Nancy
  - Carmody, Erin

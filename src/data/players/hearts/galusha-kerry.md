@@ -441,11 +441,11 @@ vs:
  - Brennan, Amanda
  - Briand, Oye-Sem Won
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Carey
  - Burgess, Karlee

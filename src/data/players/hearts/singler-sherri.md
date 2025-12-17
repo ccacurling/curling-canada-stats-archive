@@ -80,9 +80,9 @@ vs:
  - Belanger, Nancy
  - Bernard, Cheryl
  - Bradley, Shelley
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
- - Brown, Rachel
+ - Brown, Rachelle
  - Bush, Tracy
  - Carey, Chelsea
  - Carter, Sasha

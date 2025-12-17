@@ -72,7 +72,7 @@ vs:
  - Atkinson, Rebecca
  - Birt, Suzanne
  - Boyle, Jane
- - Brothers, Jill
+ - Brothers, Jillian
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie

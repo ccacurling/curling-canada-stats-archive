@@ -44,7 +44,7 @@ vs:
  - Birnie, Hailey
  - Birt, Suzanne
  - Black, Christina
- - Brown, Rachel
+ - Brown, Rachelle
  - Carey, Chelsea
  - Christianson, Marie
  - Courtney, Joanne

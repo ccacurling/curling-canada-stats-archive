@@ -89,8 +89,8 @@ vs:
  - Birt, Suzanne
  - Bradley, Shelley
  - Brassard, Veronique
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Carter, Sasha
  - Cheveldave, Amber

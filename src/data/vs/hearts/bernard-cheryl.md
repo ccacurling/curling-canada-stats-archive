@@ -250,7 +250,7 @@ vs:
       year: 1996
       draw: Round Robin(1)
       score: AB 3 - MB 10
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:

@@ -2,7 +2,7 @@
 title: Jenn Brine Head-to-head
 name: Brine, Jenn
 vs:
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

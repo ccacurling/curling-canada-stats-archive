@@ -81,7 +81,7 @@ vs:
  - Belanger, Nancy
  - Betker, Jan
  - Birt, Suzanne
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Carter, Sasha
  - Clark, Stefanie

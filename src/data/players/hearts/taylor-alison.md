@@ -84,7 +84,7 @@ vs:
  - Birt, Suzanne
  - Black, Christina
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Campbell, Jolene
  - Carey, Chelsea
  - Christianson, Marie
@@ -96,7 +96,7 @@ vs:
  - Enge, Jenna
  - Erickson, Rachel
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Flaxey, Allison
  - Fleury, Tracy
  - Forward, Katie

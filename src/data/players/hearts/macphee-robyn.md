@@ -206,7 +206,7 @@ vs:
  - Boyle, Jane
  - Brassard, Veronique
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Jacalyn
  - Bush, Tracy
  - Byers, Denise

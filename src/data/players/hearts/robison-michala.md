@@ -95,7 +95,7 @@ vs:
  - Baier, Stephanie
  - Barbour, Shona
  - Blais, Amelie
- - Brown, Rachel
+ - Brown, Rachelle
  - Campbell, Jolene
  - Carey, Chelsea
  - Cooper, Kathryn

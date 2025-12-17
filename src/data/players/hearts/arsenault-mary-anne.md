@@ -373,7 +373,7 @@ vs:
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Carey
  - Burgess, Karlee
  - Burlington, Cheryl

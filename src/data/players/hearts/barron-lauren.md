@@ -47,7 +47,7 @@ vs:
  - Christianson, Marie
  - Crandall, Jaclyn
  - Eddy, Lori
- - Fisher, Sam
+ - Fisher, Samantha
  - Fyfe, Liz
  - Gordon, Kristin
  - Grandy, Clancy

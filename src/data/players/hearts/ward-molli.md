@@ -55,7 +55,7 @@ years:
    shots-total: 42
    shots-percent: 76
 vs:
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Cameron, Kate

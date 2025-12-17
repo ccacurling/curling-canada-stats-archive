@@ -93,7 +93,7 @@ vs:
  - Armstrong, Jennifer
  - Babin, Jillian
  - Birchard, Shannon
- - Brothers, Jill
+ - Brothers, Jillian
  - Brunton, Kira
  - Burgess, Karlee
  - Carmody, Erin

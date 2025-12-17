@@ -72,8 +72,8 @@ years:
    shots-percent: 80
 vs:
  - Baier, Stephanie
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Carey, Chelsea
  - Courtney, Joanne
  - Ferguson, Dana

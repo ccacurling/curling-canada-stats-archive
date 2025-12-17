@@ -39,7 +39,7 @@ years:
 vs:
  - Atkinson, Rebecca
  - Boyle, Jane
- - Brothers, Jill
+ - Brothers, Jillian
  - Campbell, Jolene
  - Carey, Chelsea
  - Curtis, Stacie

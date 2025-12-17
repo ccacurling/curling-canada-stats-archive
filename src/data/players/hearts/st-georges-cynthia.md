@@ -68,7 +68,7 @@ vs:
  - Black, Christina
  - Bobbie, Tess
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Burgess, Karlee
  - Cameron, Kate
  - Carey, Chelsea
@@ -81,7 +81,7 @@ vs:
  - Eddy, Lori
  - Einarson, Kerri
  - Everist, Karlee
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fyfe, Liz
  - Galusha, Kerry

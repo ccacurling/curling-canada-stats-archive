@@ -2,7 +2,7 @@
 title: Karlee Everist Head-to-head
 name: Everist, Karlee
 vs:
- - name: Fisher, Sam
+ - name: Fisher, Samantha
    totals:
     - event: Hearts
       player1:

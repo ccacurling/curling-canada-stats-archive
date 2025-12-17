@@ -149,8 +149,8 @@ vs:
  - Bobbie, Tess
  - Bodner, Jenine
  - Brine, Jenn
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Brown, Stephanie
  - Brunton, Kira
  - Burgess, Karlee

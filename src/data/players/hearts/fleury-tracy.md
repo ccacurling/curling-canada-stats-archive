@@ -185,9 +185,9 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brine, Jenn
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
- - Brown, Rachel
+ - Brown, Rachelle
  - Brunton, Kira
  - Burgess, Karlee
  - Burt, Camille
@@ -227,7 +227,7 @@ vs:
  - Fesser, Kourtney
  - Fesser, Krista
  - Filteau, Anne-Marie
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Forward, Katie
  - Foster, Kerry

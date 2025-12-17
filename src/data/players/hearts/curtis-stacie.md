@@ -171,7 +171,7 @@ vs:
  - Bradley, Shelley
  - Brassard, Veronique
  - Briand, Oye-Sem Won
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
@@ -198,7 +198,7 @@ vs:
  - Elias, Mackenzie
  - Englot, Michelle
  - Eyamie, Lisa
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Forward, Katie

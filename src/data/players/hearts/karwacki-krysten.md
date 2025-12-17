@@ -151,7 +151,7 @@ vs:
  - Best, Emily
  - Birt, Suzanne
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burns, Krysta
@@ -169,7 +169,7 @@ vs:
  - Elias, Mackenzie
  - Everist, Karlee
  - Ferguson, Dana
- - Fisher, Sam
+ - Fisher, Samantha
  - Flemming, Margot
  - Fleury, Tracy
  - Foster, Kerry

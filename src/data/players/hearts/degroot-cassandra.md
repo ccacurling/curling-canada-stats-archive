@@ -59,7 +59,7 @@ vs:
  - Barbour, Shona
  - Baxter, Jennifer
  - Black, Christina
- - Brothers, Jill
+ - Brothers, Jillian
  - Burgess, Karlee
  - Burt, Camille
  - Cameron, Kate

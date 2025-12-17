@@ -64,8 +64,8 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brothers, Jill
- - Brown, Rachel
+ - Brothers, Jillian
+ - Brown, Rachelle
  - Camozzi, Rhonda
  - Carey, Chelsea
  - Clark-Rouire, Jennifer

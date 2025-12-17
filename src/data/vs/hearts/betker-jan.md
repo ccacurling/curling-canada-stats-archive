@@ -618,7 +618,7 @@ vs:
       year: 1993
       draw: Round Robin(12)
       score: NL 6 - SK 7
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:

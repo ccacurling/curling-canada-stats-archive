@@ -30,7 +30,7 @@ vs:
       year: 2015
       draw: Round Robin(2)
       score: NB 2 - PE 8
- - name: Brothers, Jill
+ - name: Brothers, Jillian
    totals:
     - event: Hearts
       player1:
@@ -74,7 +74,7 @@ vs:
       year: 2016
       draw: Round Robin(11)
       score: NB 7 - NS 8
- - name: Brown, Rachel
+ - name: Brown, Rachelle
    totals:
     - event: Hearts
       player1:

@@ -116,7 +116,7 @@ vs:
  - Blais, Amelie
  - Boyle, Jane
  - Bradley, Shelley
- - Brown, Rachel
+ - Brown, Rachelle
  - Clark-Rouire, Jennifer
  - Collins, Katrina
  - Cooper, Kathryn

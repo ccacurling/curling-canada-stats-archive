@@ -40,7 +40,7 @@ vs:
  - Armstrong, Jennifer
  - Babin, Jillian
  - Birchard, Shannon
- - Brown, Rachel
+ - Brown, Rachelle
  - Cameron, Kate
  - Carey, Chelsea
  - Eddy, Lori

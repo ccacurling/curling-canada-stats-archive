@@ -264,7 +264,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Brennan, Amanda
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brown, Jacalyn
  - Brown, Janet
@@ -297,7 +297,7 @@ vs:
  - Fallis, Karen
  - Farrell, Allison
  - Fisher, Alana
- - Fisher, Sam
+ - Fisher, Samantha
  - Fleury, Tracy
  - Floyd, Kathy
  - Fowler, Lois

@@ -146,7 +146,7 @@ vs:
  - Boyle, Jane
  - Bradley, Shelley
  - Briand, Oye-Sem Won
- - Brothers, Jill
+ - Brothers, Jillian
  - Brown, Corryn
  - Brunton, Kira
  - Burgess, Karlee
