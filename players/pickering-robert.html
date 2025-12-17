@@ -1,0 +1,1008 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Robert Pickering
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Robert Pickering <i class="fe fe-user-plus" data-name="Pickering, Robert" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1961">1961</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1966">1966</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1968">1968</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1969">1969</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1970">1970</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1971">1971</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>8</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>61</td>
+  <td>44</td>
+  <td>17</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/aitken-don#pickering-robert">Aitken, Don</option>
+
+
+      <option value="/vs/anderson-jim#pickering-robert">Anderson, Jim</option>
+
+
+      <option value="/vs/andrews-alexander#pickering-robert">Andrews, Alexander</option>
+
+
+      <option value="/vs/anton-ronald#pickering-robert">Anton, Ronald</option>
+
+
+      <option value="/vs/arseneau-robert#pickering-robert">Arseneau, Robert</option>
+
+
+      <option value="/vs/ayer-frank#pickering-robert">Ayer, Frank</option>
+
+
+      <option value="/vs/ayer-james#pickering-robert">Ayer, James</option>
+
+
+      <option value="/vs/baldwin-mathew#pickering-robert">Baldwin, Mathew</option>
+
+
+      <option value="/vs/beaver-reginald#pickering-robert">Beaver, Reginald</option>
+
+
+      <option value="/vs/behan-j-a#pickering-robert">Behan, J.A.</option>
+
+
+      <option value="/vs/bell-douglas#pickering-robert">Bell, Douglas</option>
+
+
+      <option value="/vs/bell-kenneth#pickering-robert">Bell, Kenneth</option>
+
+
+      <option value="/vs/berry-roy#pickering-robert">Berry, Roy</option>
+
+
+      <option value="/vs/bloom-terrance#pickering-robert">Bloom, Terrance</option>
+
+
+      <option value="/vs/bordage-paul#pickering-robert">Bordage, Paul</option>
+
+
+      <option value="/vs/bowering-lester#pickering-robert">Bowering, Lester</option>
+
+
+      <option value="/vs/buchan-kenneth#pickering-robert">Buchan, Kenneth</option>
+
+
+      <option value="/vs/burke-arthur#pickering-robert">Burke, Arthur</option>
+
+
+      <option value="/vs/burke-lorne#pickering-robert">Burke, Lorne</option>
+
+
+      <option value="/vs/butt-edwin#pickering-robert">Butt, Edwin</option>
+
+
+      <option value="/vs/caldwell-thomas#pickering-robert">Caldwell, Thomas</option>
+
+
+      <option value="/vs/cameron-douglas#pickering-robert">Cameron, Douglas</option>
+
+
+      <option value="/vs/cameron-stuart#pickering-robert">Cameron, Stuart</option>
+
+
+      <option value="/vs/carr-patrick#pickering-robert">Carr, Patrick</option>
+
+
+      <option value="/vs/carson-earl#pickering-robert">Carson, Earl</option>
+
+
+      <option value="/vs/carson-james#pickering-robert">Carson, James</option>
+
+
+      <option value="/vs/carter-douglas#pickering-robert">Carter, Douglas</option>
+
+
+      <option value="/vs/charlebois-robert#pickering-robert">Charlebois, Robert</option>
+
+
+      <option value="/vs/cole-robert#pickering-robert">Cole, Robert</option>
+
+
+      <option value="/vs/conrad-david#pickering-robert">Conrad, David</option>
+
+
+      <option value="/vs/corkum-peter#pickering-robert">Corkum, Peter</option>
+
+
+      <option value="/vs/coward-ross#pickering-robert">Coward, Ross</option>
+
+
+      <option value="/vs/crombie-john#pickering-robert">Crombie, John</option>
+
+
+      <option value="/vs/cummins-jack#pickering-robert">Cummins, Jack</option>
+
+
+      <option value="/vs/cunningham-robert#pickering-robert">Cunningham, Robert</option>
+
+
+      <option value="/vs/cushing-thomas#pickering-robert">Cushing, Thomas</option>
+
+
+      <option value="/vs/cust-richard#pickering-robert">Cust, Richard</option>
+
+
+      <option value="/vs/czaja-mitchell#pickering-robert">Czaja, Mitchell</option>
+
+
+      <option value="/vs/dagg-lyall#pickering-robert">Dagg, Lyall</option>
+
+
+      <option value="/vs/davis-ross#pickering-robert">Davis, Ross</option>
+
+
+      <option value="/vs/dillon-george#pickering-robert">Dillon, George</option>
+
+
+      <option value="/vs/dillon-robert#pickering-robert">Dillon, Robert</option>
+
+
+      <option value="/vs/downer-gerald#pickering-robert">Downer, Gerald</option>
+
+
+      <option value="/vs/downey-wayne#pickering-robert">Downey, Wayne</option>
+
+
+      <option value="/vs/dudar-allan#pickering-robert">Dudar, Allan</option>
+
+
+      <option value="/vs/dudar-robert#pickering-robert">Dudar, Robert</option>
+
+
+      <option value="/vs/duguid-donald#pickering-robert">Duguid, Donald</option>
+
+
+      <option value="/vs/easton-leonard#pickering-robert">Easton, Leonard</option>
+
+
+      <option value="/vs/eberg-omer#pickering-robert">Eberg, Omer</option>
+
+
+      <option value="/vs/ellis-kenneth#pickering-robert">Ellis, Kenneth</option>
+
+
+      <option value="/vs/eyben-neil#pickering-robert">Eyben, Neil</option>
+
+
+      <option value="/vs/fink-george#pickering-robert">Fink, George</option>
+
+
+      <option value="/vs/fisher-alexander#pickering-robert">Fisher, Alexander</option>
+
+
+      <option value="/vs/fisher-thomas#pickering-robert">Fisher, Thomas</option>
+
+
+      <option value="/vs/flemming-don#pickering-robert">Flemming, Don</option>
+
+
+      <option value="/vs/florian-james#pickering-robert">Florian, James</option>
+
+
+      <option value="/vs/folk-tony#pickering-robert">Folk, Tony</option>
+
+
+      <option value="/vs/franklin-ronald#pickering-robert">Franklin, Ronald</option>
+
+
+      <option value="/vs/fulton-donald#pickering-robert">Fulton, Donald</option>
+
+
+      <option value="/vs/gerlach-david#pickering-robert">Gerlach, David</option>
+
+
+      <option value="/vs/gervais-hector#pickering-robert">Gervais, Hector</option>
+
+
+      <option value="/vs/gilbert-donald#pickering-robert">Gilbert, Donald</option>
+
+
+      <option value="/vs/gillard-arthur#pickering-robert">Gillard, Arthur</option>
+
+
+      <option value="/vs/goldburg-reginald#pickering-robert">Goldburg, Reginald</option>
+
+
+      <option value="/vs/green-donald#pickering-robert">Green, Donald</option>
+
+
+      <option value="/vs/green-grant#pickering-robert">Green, Grant</option>
+
+
+      <option value="/vs/grozelle-robert#pickering-robert">Grozelle, Robert</option>
+
+
+      <option value="/vs/grozelle-william#pickering-robert">Grozelle, William</option>
+
+
+      <option value="/vs/guest-ross#pickering-robert">Guest, Ross</option>
+
+
+      <option value="/vs/gurowka-joseph#pickering-robert">Gurowka, Joseph</option>
+
+
+      <option value="/vs/hallinan-william#pickering-robert">Hallinan, William</option>
+
+
+      <option value="/vs/hammond-john#pickering-robert">Hammond, John</option>
+
+
+      <option value="/vs/hebert-leo#pickering-robert">Hebert, Leo</option>
+
+
+      <option value="/vs/herder-daniel#pickering-robert">Herder, Daniel</option>
+
+
+      <option value="/vs/herman-leroy#pickering-robert">Herman, Leroy</option>
+
+
+      <option value="/vs/hoar-frank#pickering-robert">Hoar, Frank</option>
+
+
+      <option value="/vs/hodgson-eugene#pickering-robert">Hodgson, Eugene</option>
+
+
+      <option value="/vs/hooper-temple#pickering-robert">Hooper, Temple</option>
+
+
+      <option value="/vs/hope-peter#pickering-robert">Hope, Peter</option>
+
+
+      <option value="/vs/howat-thomas#pickering-robert">Howat, Thomas</option>
+
+
+      <option value="/vs/hunter-roderick#pickering-robert">Hunter, Roderick</option>
+
+
+      <option value="/vs/ingo-kenneth#pickering-robert">Ingo, Kenneth</option>
+
+
+      <option value="/vs/issac-keith#pickering-robert">Issac, Keith</option>
+
+
+      <option value="/vs/jeans-gregory#pickering-robert">Jeans, Gregory</option>
+
+
+      <option value="/vs/johnson-terence#pickering-robert">Johnson, Terence</option>
+
+
+      <option value="/vs/kassner-david#pickering-robert">Kassner, David</option>
+
+
+      <option value="/vs/keith-harold#pickering-robert">Keith, Harold</option>
+
+
+      <option value="/vs/kelsch-leo#pickering-robert">Kelsch, Leo</option>
+
+
+      <option value="/vs/kent-william#pickering-robert">Kent, William</option>
+
+
+      <option value="/vs/ketch-ronald#pickering-robert">Ketch, Ronald</option>
+
+
+      <option value="/vs/kilburn-james#pickering-robert">Kilburn, James</option>
+
+
+      <option value="/vs/klotz-george#pickering-robert">Klotz, George</option>
+
+
+      <option value="/vs/knudsen-eric#pickering-robert">Knudsen, Eric</option>
+
+
+      <option value="/vs/kroeger-thomas#pickering-robert">Kroeger, Thomas</option>
+
+
+      <option value="/vs/lawes-keith#pickering-robert">Lawes, Keith</option>
+
+
+      <option value="/vs/leger-murray#pickering-robert">Leger, Murray</option>
+
+
+      <option value="/vs/lemecha-robert#pickering-robert">Lemecha, Robert</option>
+
+
+      <option value="/vs/lerner-hersh#pickering-robert">Lerner, Hersh</option>
+
+
+      <option value="/vs/lilly-raymond#pickering-robert">Lilly, Raymond</option>
+
+
+      <option value="/vs/llewellyn-arnold#pickering-robert">Llewellyn, Arnold</option>
+
+
+      <option value="/vs/lobel-arthur#pickering-robert">Lobel, Arthur</option>
+
+
+      <option value="/vs/lyon-john-david#pickering-robert">Lyon, John-David</option>
+
+
+      <option value="/vs/mabey-harold-jr#pickering-robert">Mabey, Harold Jr.</option>
+
+
+      <option value="/vs/mabey-roger#pickering-robert">Mabey, Roger</option>
+
+
+      <option value="/vs/maccharles-george#pickering-robert">MacCharles, George</option>
+
+
+      <option value="/vs/macdonald-frank#pickering-robert">Macdonald, Frank</option>
+
+
+      <option value="/vs/macdonald-john#pickering-robert">MacDonald, John</option>
+
+
+      <option value="/vs/macgregor-william#pickering-robert">MacGregor, William</option>
+
+
+      <option value="/vs/macinnes-earl#pickering-robert">MacInnes, Earl</option>
+
+
+      <option value="/vs/mackey-donald#pickering-robert">Mackey, Donald</option>
+
+
+      <option value="/vs/macmellon-grant#pickering-robert">MacMellon, Grant</option>
+
+
+      <option value="/vs/macneill-norman#pickering-robert">MacNeill, Norman</option>
+
+
+      <option value="/vs/manning-ralph#pickering-robert">Manning, Ralph</option>
+
+
+      <option value="/vs/marcoux-guy#pickering-robert">Marcoux, Guy</option>
+
+
+      <option value="/vs/margeson-robert#pickering-robert">Margeson, Robert</option>
+
+
+      <option value="/vs/mason-lynn#pickering-robert">Mason, Lynn</option>
+
+
+      <option value="/vs/mattatall-eugene#pickering-robert">Mattatall, Eugene</option>
+
+
+      <option value="/vs/mccabe-leslie#pickering-robert">McCabe, Leslie</option>
+
+
+      <option value="/vs/mccubbin-robert#pickering-robert">McCubbin, Robert</option>
+
+
+      <option value="/vs/mcdonald-robert#pickering-robert">McDonald, Robert</option>
+
+
+      <option value="/vs/mcgrath-jim#pickering-robert">McGrath, Jim</option>
+
+
+      <option value="/vs/mcillwaine-george#pickering-robert">McIllwaine, George</option>
+
+
+      <option value="/vs/mclaughlin-malcolm#pickering-robert">McLaughlin, Malcolm</option>
+
+
+      <option value="/vs/milligan-frank#pickering-robert">Milligan, Frank</option>
+
+
+      <option value="/vs/mitchell-william#pickering-robert">Mitchell, William</option>
+
+
+      <option value="/vs/miyashita-herbert#pickering-robert">Miyashita, Herbert</option>
+
+
+      <option value="/vs/murphy-reginald#pickering-robert">Murphy, Reginald</option>
+
+
+      <option value="/vs/naimark-barry#pickering-robert">Naimark, Barry</option>
+
+
+      <option value="/vs/northcott-ronald#pickering-robert">Northcott, Ronald</option>
+
+
+      <option value="/vs/ott-william#pickering-robert">Ott, William</option>
+
+
+      <option value="/vs/oxner-howard#pickering-robert">Oxner, Howard</option>
+
+
+      <option value="/vs/palmer-richard#pickering-robert">Palmer, Richard</option>
+
+
+      <option value="/vs/parker-burke#pickering-robert">Parker, Burke</option>
+
+
+      <option value="/vs/paulson-terry#pickering-robert">Paulson, Terry</option>
+
+
+      <option value="/vs/perry-charles#pickering-robert">Perry, Charles</option>
+
+
+      <option value="/vs/perry-graham#pickering-robert">Perry, Graham</option>
+
+
+      <option value="/vs/peterson-gordon#pickering-robert">Peterson, Gordon</option>
+
+
+      <option value="/vs/pettapiece-james#pickering-robert">Pettapiece, James</option>
+
+
+      <option value="/vs/phillips-david#pickering-robert">Phillips, David</option>
+
+
+      <option value="/vs/pickering-robert#piercey-william">Piercey, William</option>
+
+
+      <option value="/vs/pickering-robert#pile-herbert">Pile, Herbert</option>
+
+
+      <option value="/vs/pickering-robert#piper-charles-jr">Piper, Charles Jr.</option>
+
+
+      <option value="/vs/pickering-robert#polyblank-john">Polyblank, John</option>
+
+
+      <option value="/vs/pickering-robert#ready-clifford">Ready, Clifford</option>
+
+
+      <option value="/vs/pickering-robert#robinson-robert">Robinson, Robert</option>
+
+
+      <option value="/vs/pickering-robert#ronald-dick">Ronald, Dick</option>
+
+
+      <option value="/vs/pickering-robert#roy-william">Roy, William</option>
+
+
+      <option value="/vs/pickering-robert#saboe-wayne">Saboe, Wayne</option>
+
+
+      <option value="/vs/pickering-robert#sanford-john">Sanford, John</option>
+
+
+      <option value="/vs/pickering-robert#sargent-frank-jr">Sargent, Frank Jr.</option>
+
+
+      <option value="/vs/pickering-robert#sargent-james">Sargent, James</option>
+
+
+      <option value="/vs/pickering-robert#saunders-allison">Saunders, Allison</option>
+
+
+      <option value="/vs/pickering-robert#savage-paul">Savage, Paul</option>
+
+
+      <option value="/vs/pickering-robert#sherba-peter">Sherba, Peter</option>
+
+
+      <option value="/vs/pickering-robert#shields-james">Shields, James</option>
+
+
+      <option value="/vs/pickering-robert#shinfield-allan">Shinfield, Allan</option>
+
+
+      <option value="/vs/pickering-robert#smale-kevin">Smale, Kevin</option>
+
+
+      <option value="/vs/pickering-robert#smith-alan">Smith, Alan</option>
+
+
+      <option value="/vs/pickering-robert#smith-murvin">Smith, Murvin</option>
+
+
+      <option value="/vs/pickering-robert#snarr-victor">Snarr, Victor</option>
+
+
+      <option value="/vs/pickering-robert#somers-dale">Somers, Dale</option>
+
+
+      <option value="/vs/pickering-robert#sparkes-bernie">Sparkes, Bernie</option>
+
+
+      <option value="/vs/pickering-robert#stanhope-donald">Stanhope, Donald</option>
+
+
+      <option value="/vs/pickering-robert#stanley-harry">Stanley, Harry</option>
+
+
+      <option value="/vs/pickering-robert#steeves-edward">Steeves, Edward</option>
+
+
+      <option value="/vs/pickering-robert#stent-frank">Stent, Frank</option>
+
+
+      <option value="/vs/pickering-robert#storey-frederick">Storey, Frederick</option>
+
+
+      <option value="/vs/pickering-robert#strange-douglas">Strange, Douglas</option>
+
+
+      <option value="/vs/pickering-robert#stuart-douglas">Stuart, Douglas</option>
+
+
+      <option value="/vs/pickering-robert#sullivan-charlie">Sullivan, Charlie</option>
+
+
+      <option value="/vs/pickering-robert#sullivan-dave">Sullivan, Dave</option>
+
+
+      <option value="/vs/pickering-robert#sully-alan">Sully, Alan</option>
+
+
+      <option value="/vs/pickering-robert#tainsh-william">Tainsh, William</option>
+
+
+      <option value="/vs/pickering-robert#taite-john">Taite, John</option>
+
+
+      <option value="/vs/pickering-robert#tetley-william">Tetley, William</option>
+
+
+      <option value="/vs/pickering-robert#thompson-jack">Thompson, Jack</option>
+
+
+      <option value="/vs/pickering-robert#thun-albert">Thun, Albert</option>
+
+
+      <option value="/vs/pickering-robert#tod-thomas">Tod, Thomas</option>
+
+
+      <option value="/vs/pickering-robert#tracy-william">Tracy, William</option>
+
+
+      <option value="/vs/pickering-robert#tremblay-joseph">Tremblay, Joseph</option>
+
+
+      <option value="/vs/pickering-robert#trimble-edward">Trimble, Edward</option>
+
+
+      <option value="/vs/pickering-robert#tucker-jack">Tucker, Jack</option>
+
+
+      <option value="/vs/pickering-robert#tulley-james">Tulley, James</option>
+
+
+      <option value="/vs/pickering-robert#ursuliak-wally">Ursuliak, Wally</option>
+
+
+      <option value="/vs/pickering-robert#van-wassenhove-reginald">Van Wassenhove, Reginald</option>
+
+
+      <option value="/vs/pickering-robert#waite-james">Waite, James</option>
+
+
+      <option value="/vs/pickering-robert#walling-john">Walling, John</option>
+
+
+      <option value="/vs/pickering-robert#warren-thomas">Warren, Thomas</option>
+
+
+      <option value="/vs/pickering-robert#weisz-gary">Weisz, Gary</option>
+
+
+      <option value="/vs/pickering-robert#welch-thomas">Welch, Thomas</option>
+
+
+      <option value="/vs/pickering-robert#werner-raymond">Werner, Raymond</option>
+
+
+      <option value="/vs/pickering-robert#whitfield-carl">Whitfield, Carl</option>
+
+
+      <option value="/vs/pickering-robert#wiggington-merrill">Wiggington, Merrill</option>
+
+
+      <option value="/vs/pickering-robert#wood-bryan">Wood, Bryan</option>
+
+
+      <option value="/vs/pickering-robert#wood-edgar">Wood, Edgar</option>
+
+
+      <option value="/vs/pickering-robert#yerama-lloyd">Yerama, Lloyd</option>
+
+
+      <option value="/vs/pickering-robert#yuill-jack">Yuill, Jack</option>
+
+
+      <option value="/vs/pickering-robert#zaporzan-william">Zaporzan, William</option>
+
+
+      <option value="/vs/pickering-robert#zikman-albert">Zikman, Albert</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

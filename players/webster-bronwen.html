@@ -1,0 +1,1024 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Bronwen Webster
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Bronwen Webster <i class="fe fe-user-plus" data-name="Webster, Bronwen" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2007">2007</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Kle">Kle</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>4</td>
+  <td>2</td>
+  <td>70</td>
+  <td>83</td>
+  <td>44</td>
+  <td>76</td>
+  <td>43</td>
+  <td>75</td>
+  <td>71</td>
+  <td>83</td>
+  <td>114</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2008">2008</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="KLEI">KLEI</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>52</td>
+  <td>80</td>
+  <td>46</td>
+  <td>90</td>
+  <td>39</td>
+  <td>85</td>
+  <td>59</td>
+  <td>85</td>
+  <td>98</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2009">2009</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="KLEI">KLEI</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>71</td>
+  <td>87</td>
+  <td>63</td>
+  <td>81</td>
+  <td>45</td>
+  <td>79</td>
+  <td>89</td>
+  <td>86</td>
+  <td>134</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2010">2010</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="SK">SK</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>4</td>
+  <td>3</td>
+  <td>1</td>
+  <td>39</td>
+  <td>88</td>
+  <td>37</td>
+  <td>81</td>
+  <td>27</td>
+  <td>82</td>
+  <td>49</td>
+  <td>86</td>
+  <td>76</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2010">2010</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="SK">SK</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>35</td>
+  <td>79</td>
+  <td>29</td>
+  <td>75</td>
+  <td>24</td>
+  <td>67</td>
+  <td>40</td>
+  <td>84</td>
+  <td>64</td>
+  <td>77</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2010</td>
+  <td>Canada Cup (Women)</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>74</td>
+  <td>84</td>
+  <td>66</td>
+  <td>78</td>
+  <td>51</td>
+  <td>75</td>
+  <td>89</td>
+  <td>85</td>
+  <td>140</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2011">2011</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="KLE">KLE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>75</td>
+  <td>83</td>
+  <td>69</td>
+  <td>80</td>
+  <td>50</td>
+  <td>78</td>
+  <td>94</td>
+  <td>83</td>
+  <td>144</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2008">2008</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>149</td>
+  <td>83</td>
+  <td>102</td>
+  <td>80</td>
+  <td>82</td>
+  <td>75</td>
+  <td>169</td>
+  <td>85</td>
+  <td>251</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2011">2011</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>132</td>
+  <td>82</td>
+  <td>84</td>
+  <td>81</td>
+  <td>93</td>
+  <td>79</td>
+  <td>123</td>
+  <td>83</td>
+  <td>216</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2001">2001</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="FOW">FOW</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>4</td>
+  <td>5</td>
+  <td>98</td>
+  <td>83</td>
+  <td>66</td>
+  <td>86</td>
+  <td>66</td>
+  <td>75</td>
+  <td>98</td>
+  <td>91</td>
+  <td>164</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2009">2009</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="KLEI">KLEI</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>81</td>
+  <td>85</td>
+  <td>95</td>
+  <td>84</td>
+  <td>48</td>
+  <td>83</td>
+  <td>128</td>
+  <td>85</td>
+  <td>176</td>
+  <td>85</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>32</td>
+  <td>23</td>
+  <td>9</td>
+  <td>342</td>
+  <td>83</td>
+  <td>288</td>
+  <td>81</td>
+  <td>228</td>
+  <td>78</td>
+  <td>402</td>
+  <td>84</td>
+  <td>630</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>24</td>
+  <td>17</td>
+  <td>7</td>
+  <td>281</td>
+  <td>83</td>
+  <td>186</td>
+  <td>80</td>
+  <td>175</td>
+  <td>77</td>
+  <td>292</td>
+  <td>84</td>
+  <td>467</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>18</td>
+  <td>10</td>
+  <td>8</td>
+  <td>179</td>
+  <td>84</td>
+  <td>161</td>
+  <td>85</td>
+  <td>114</td>
+  <td>79</td>
+  <td>226</td>
+  <td>88</td>
+  <td>340</td>
+  <td>84</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/anderson-sherry#webster-bronwen">Anderson, Sherry</option>
+
+
+      <option value="/vs/appelman-pam#webster-bronwen">Appelman, Pam</option>
+
+
+      <option value="/vs/armstrong-jacquie#webster-bronwen">Armstrong, Jacquie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#webster-bronwen">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/babin-jillian#webster-bronwen">Babin, Jillian</option>
+
+
+      <option value="/vs/barbour-shona#webster-bronwen">Barbour, Shona</option>
+
+
+      <option value="/vs/belanger-nancy#webster-bronwen">Belanger, Nancy</option>
+
+
+      <option value="/vs/bell-chelsey#webster-bronwen">Bell, Chelsey</option>
+
+
+      <option value="/vs/bell-patty#webster-bronwen">Bell, Patty</option>
+
+
+      <option value="/vs/bernard-cheryl#webster-bronwen">Bernard, Cheryl</option>
+
+
+      <option value="/vs/beveridge-corie#webster-bronwen">Beveridge, Corie</option>
+
+
+      <option value="/vs/birt-suzanne#webster-bronwen">Birt, Suzanne</option>
+
+
+      <option value="/vs/bohmer-brenda#webster-bronwen">Bohmer, Brenda</option>
+
+
+      <option value="/vs/bradley-shelley#webster-bronwen">Bradley, Shelley</option>
+
+
+      <option value="/vs/brassard-veronique#webster-bronwen">Brassard, Veronique</option>
+
+
+      <option value="/vs/breen-theresa#webster-bronwen">Breen, Theresa</option>
+
+
+      <option value="/vs/brennan-amanda#webster-bronwen">Brennan, Amanda</option>
+
+
+      <option value="/vs/brown-janet#webster-bronwen">Brown, Janet</option>
+
+
+      <option value="/vs/carey-chelsea#webster-bronwen">Carey, Chelsea</option>
+
+
+      <option value="/vs/carrier-julie#webster-bronwen">Carrier, Julie</option>
+
+
+      <option value="/vs/carter-sasha#webster-bronwen">Carter, Sasha</option>
+
+
+      <option value="/vs/clark-stefanie#webster-bronwen">Clark, Stefanie</option>
+
+
+      <option value="/vs/cordina-sheri#webster-bronwen">Cordina, Sheri</option>
+
+
+      <option value="/vs/cunningham-cathy#webster-bronwen">Cunningham, Cathy</option>
+
+
+      <option value="/vs/curtis-stacie#webster-bronwen">Curtis, Stacie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#webster-bronwen">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/delahunt-nancy#webster-bronwen">Delahunt, Nancy</option>
+
+
+      <option value="/vs/dezura-diane#webster-bronwen">Dezura, Diane</option>
+
+
+      <option value="/vs/doig-deanna#webster-bronwen">Doig, Deanna</option>
+
+
+      <option value="/vs/englot-michelle#webster-bronwen">Englot, Michelle</option>
+
+
+      <option value="/vs/fallis-karen#webster-bronwen">Fallis, Karen</option>
+
+
+      <option value="/vs/fargey-lisa#webster-bronwen">Fargey, Lisa</option>
+
+
+      <option value="/vs/foster-kristen#webster-bronwen">Foster, Kristen</option>
+
+
+      <option value="/vs/fraser-sherry#webster-bronwen">Fraser, Sherry</option>
+
+
+      <option value="/vs/galusha-kerry#webster-bronwen">Galusha, Kerry</option>
+
+
+      <option value="/vs/george-tara#webster-bronwen">George, Tara</option>
+
+
+      <option value="/vs/gignac-donna#webster-bronwen">Gignac, Donna</option>
+
+
+      <option value="/vs/goss-peg#webster-bronwen">Goss, Peg</option>
+
+
+      <option value="/vs/gregoire-veronique#webster-bronwen">Gregoire, Veronique</option>
+
+
+      <option value="/vs/grenier-valerie#webster-bronwen">Grenier, Valerie</option>
+
+
+      <option value="/vs/gushulak-diane#webster-bronwen">Gushulak, Diane</option>
+
+
+      <option value="/vs/guzzwell-stephanie#webster-bronwen">Guzzwell, Stephanie</option>
+
+
+      <option value="/vs/hamer-kate#webster-bronwen">Hamer, Kate</option>
+
+
+      <option value="/vs/hardy-shelley#webster-bronwen">Hardy, Shelley</option>
+
+
+      <option value="/vs/harmark-andra#webster-bronwen">Harmark, Andra</option>
+
+
+      <option value="/vs/harvey-janet#webster-bronwen">Harvey, Janet</option>
+
+
+      <option value="/vs/hodson-kim#webster-bronwen">Hodson, Kim</option>
+
+
+      <option value="/vs/holland-amber#webster-bronwen">Holland, Amber</option>
+
+
+      <option value="/vs/homan-rachel#webster-bronwen">Homan, Rachel</option>
+
+
+      <option value="/vs/horne-kate#webster-bronwen">Horne, Kate</option>
+
+
+      <option value="/vs/iskiw-beth#webster-bronwen">Iskiw, Beth</option>
+
+
+      <option value="/vs/jones-colleen#webster-bronwen">Jones, Colleen</option>
+
+
+      <option value="/vs/jones-jennifer#webster-bronwen">Jones, Jennifer</option>
+
+
+      <option value="/vs/jordan-stephanie#webster-bronwen">Jordan, Stephanie</option>
+
+
+      <option value="/vs/joyce-blisse#webster-bronwen">Joyce, Blisse</option>
+
+
+      <option value="/vs/jurgenson-christine#webster-bronwen">Jurgenson, Christine</option>
+
+
+      <option value="/vs/kalenchuk-heather#webster-bronwen">Kalenchuk, Heather</option>
+
+
+      <option value="/vs/kasner-marliese#webster-bronwen">Kasner, Marliese</option>
+
+
+      <option value="/vs/kehler-lorie#webster-bronwen">Kehler, Lorie</option>
+
+
+      <option value="/vs/kelly-andrea#webster-bronwen">Kelly, Andrea</option>
+
+
+      <option value="/vs/kelly-kim#webster-bronwen">Kelly, Kim</option>
+
+
+      <option value="/vs/kidd-darlene#webster-bronwen">Kidd, Darlene</option>
+
+
+      <option value="/vs/king-cathy#webster-bronwen">King, Cathy</option>
+
+
+      <option value="/vs/kirby-carey#webster-bronwen">Kirby, Carey</option>
+
+
+      <option value="/vs/kreviazuk-alison#webster-bronwen">Kreviazuk, Alison</option>
+
+
+      <option value="/vs/lang-lorraine#webster-bronwen">Lang, Lorraine</option>
+
+
+      <option value="/vs/larouche-marie-france#webster-bronwen">Larouche, Marie-France</option>
+
+
+      <option value="/vs/law-kelley#webster-bronwen">Law, Kelley</option>
+
+
+      <option value="/vs/lawes-andrea#webster-bronwen">Lawes, Andrea</option>
+
+
+      <option value="/vs/lawes-kaitlyn#webster-bronwen">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/lawton-stefanie#webster-bronwen">Lawton, Stefanie</option>
+
+
+      <option value="/vs/ledrew-stephanie#webster-bronwen">LeDrew, Stephanie</option>
+
+
+      <option value="/vs/lemay-annie#webster-bronwen">Lemay, Annie</option>
+
+
+      <option value="/vs/lemon-colette#webster-bronwen">Lemon, Colette</option>
+
+
+      <option value="/vs/loder-cherie-ann#webster-bronwen">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/loder-kristin#webster-bronwen">Loder, Kristin</option>
+
+
+      <option value="/vs/macdonald-lawnie#webster-bronwen">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/macdougall-leslie#webster-bronwen">MacDougall, Leslie</option>
+
+
+      <option value="/vs/macinnes-allison#webster-bronwen">MacInnes, Allison</option>
+
+
+      <option value="/vs/maclachlan-kyla#webster-bronwen">Maclachlan, Kyla</option>
+
+
+      <option value="/vs/maclean-kari#webster-bronwen">MacLean, Kari</option>
+
+
+      <option value="/vs/macphee-robyn#webster-bronwen">MacPhee, Robyn</option>
+
+
+      <option value="/vs/mair-jessica#webster-bronwen">Mair, Jessica</option>
+
+
+      <option value="/vs/malekoff-stephanie#webster-bronwen">Malekoff, Stephanie</option>
+
+
+      <option value="/vs/martin-heather#webster-bronwen">Martin, Heather</option>
+
+
+      <option value="/vs/materi-roberta#webster-bronwen">Materi, Roberta</option>
+
+
+      <option value="/vs/mccagg-nystrom-heather#webster-bronwen">McCagg-Nystrom, Heather</option>
+
+
+      <option value="/vs/mccarville-krista#webster-bronwen">McCarville, Krista</option>
+
+
+      <option value="/vs/mcdonald-kristy#webster-bronwen">McDonald, Kristy</option>
+
+
+      <option value="/vs/mcewen-dawn#webster-bronwen">McEwen, Dawn</option>
+
+
+      <option value="/vs/middaugh-sherry#webster-bronwen">Middaugh, Sherry</option>
+
+
+      <option value="/vs/miller-jessica#webster-bronwen">Miller, Jessica</option>
+
+
+      <option value="/vs/miller-wendy#webster-bronwen">Miller, Wendy</option>
+
+
+      <option value="/vs/miskew-emma#webster-bronwen">Miskew, Emma</option>
+
+
+      <option value="/vs/montgomery-kay#webster-bronwen">Montgomery, Kay</option>
+
+
+      <option value="/vs/moore-kim#webster-bronwen">Moore, Kim</option>
+
+
+      <option value="/vs/moore-kristie#webster-bronwen">Moore, Kristie</option>
+
+
+      <option value="/vs/morris-cori#webster-bronwen">Morris, Cori</option>
+
+
+      <option value="/vs/moses-dawn#webster-bronwen">Moses, Dawn</option>
+
+
+      <option value="/vs/moulding-heather#webster-bronwen">Moulding, Heather</option>
+
+
+      <option value="/vs/mulroney-sandra#webster-bronwen">Mulroney, Sandra</option>
+
+
+      <option value="/vs/nedohin-heather#webster-bronwen">Nedohin, Heather</option>
+
+
+      <option value="/vs/nicholson-danielle#webster-bronwen">Nicholson, Danielle</option>
+
+
+      <option value="/vs/nowlan-denise#webster-bronwen">Nowlan, Denise</option>
+
+
+      <option value="/vs/o-connor-susan#webster-bronwen">O'Connor, Susan</option>
+
+
+      <option value="/vs/officer-jill#webster-bronwen">Officer, Jill</option>
+
+
+      <option value="/vs/olson-johns-lori#webster-bronwen">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/overton-clapham-cathy#webster-bronwen">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/parsons-danielle#webster-bronwen">Parsons, Danielle</option>
+
+
+      <option value="/vs/paul-sarah#webster-bronwen">Paul, Sarah</option>
+
+
+      <option value="/vs/peters-laine#webster-bronwen">Peters, Laine</option>
+
+
+      <option value="/vs/preston-sam#webster-bronwen">Preston, Sam</option>
+
+
+      <option value="/vs/preston-samantha#webster-bronwen">Preston, Samantha</option>
+
+
+      <option value="/vs/purdy-karen#webster-bronwen">Purdy, Karen</option>
+
+
+      <option value="/vs/quillian-sylvie#webster-bronwen">Quillian, Sylvie</option>
+
+
+      <option value="/vs/rankin-heather#webster-bronwen">Rankin, Heather</option>
+
+
+      <option value="/vs/richard-marie#webster-bronwen">Richard, Marie</option>
+
+
+      <option value="/vs/robertson-desiree#webster-bronwen">Robertson, Desiree</option>
+
+
+      <option value="/vs/rogers-rhonda#webster-bronwen">Rogers, Rhonda</option>
+
+
+      <option value="/vs/rumberg-crystal#webster-bronwen">Rumberg, Crystal</option>
+
+
+      <option value="/vs/sabourin-joelle#webster-bronwen">Sabourin, Joelle</option>
+
+
+      <option value="/vs/santos-deb#webster-bronwen">Santos, Deb</option>
+
+
+      <option value="/vs/schneider-kim#webster-bronwen">Schneider, Kim</option>
+
+
+      <option value="/vs/schneider-tammy#webster-bronwen">Schneider, Tammy</option>
+
+
+      <option value="/vs/schraeder-jeanna#webster-bronwen">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/scott-kelly#webster-bronwen">Scott, Kelly</option>
+
+
+      <option value="/vs/seeley-heather#webster-bronwen">Seeley, Heather</option>
+
+
+      <option value="/vs/simmons-cindy#webster-bronwen">Simmons, Cindy</option>
+
+
+      <option value="/vs/simons-renee#webster-bronwen">Simons, Renee</option>
+
+
+      <option value="/vs/singler-sherri#webster-bronwen">Singler, Sherri</option>
+
+
+      <option value="/vs/skinner-julie#webster-bronwen">Skinner, Julie</option>
+
+
+      <option value="/vs/smith-heather#webster-bronwen">Smith, Heather</option>
+
+
+      <option value="/vs/sobey-lianne#webster-bronwen">Sobey, Lianne</option>
+
+
+      <option value="/vs/stricker-joan#webster-bronwen">Stricker, Joan</option>
+
+
+      <option value="/vs/strong-heather#webster-bronwen">Strong, Heather</option>
+
+
+      <option value="/vs/strong-laura#webster-bronwen">Strong, Laura</option>
+
+
+      <option value="/vs/surik-teejay#webster-bronwen">Surik, Teejay</option>
+
+
+      <option value="/vs/thompson-karla#webster-bronwen">Thompson, Karla</option>
+
+
+      <option value="/vs/titheridge-lindsay#webster-bronwen">Titheridge, Lindsay</option>
+
+
+      <option value="/vs/udle-teri#webster-bronwen">Udle, Teri</option>
+
+
+      <option value="/vs/vey-lana#webster-bronwen">Vey, Lana</option>
+
+
+      <option value="/vs/wall-kirsten#webster-bronwen">Wall, Kirsten</option>
+
+
+      <option value="/vs/walsh-heather#webster-bronwen">Walsh, Heather</option>
+
+
+      <option value="/vs/weagle-lisa#webster-bronwen">Weagle, Lisa</option>
+
+
+      <option value="/vs/webster-bronwen#westcott-raunora">Westcott, Raunora</option>
+
+
+      <option value="/vs/webster-bronwen#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/webster-bronwen#whitaker-carol">Whitaker, Carol</option>
+
+
+      <option value="/vs/webster-bronwen#wilson-leslie">Wilson, Leslie</option>
+
+
+      <option value="/vs/webster-bronwen#yardley-janelle">Yardley, Janelle</option>
+
+
+      <option value="/vs/webster-bronwen#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

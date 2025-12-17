@@ -1,0 +1,538 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Eugene Mattatall
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Eugene Mattatall <i class="fe fe-user-plus" data-name="Mattatall, Eugene" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1969">1969</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="NS"><a href="../macdonald-brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>2</td>
+  <td>8</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1973">1973</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="NS"><a href="../macdonald-brier/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>20</td>
+  <td>8</td>
+  <td>12</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/achtymichuk-george#mattatall-eugene">Achtymichuk, George</option>
+
+
+      <option value="/vs/andrews-alexander#mattatall-eugene">Andrews, Alexander</option>
+
+
+      <option value="/vs/armstrong-jim#mattatall-eugene">Armstrong, Jim</option>
+
+
+      <option value="/vs/bell-douglas#mattatall-eugene">Bell, Douglas</option>
+
+
+      <option value="/vs/brennan-michael#mattatall-eugene">Brennan, Michael</option>
+
+
+      <option value="/vs/buchan-kenneth#mattatall-eugene">Buchan, Kenneth</option>
+
+
+      <option value="/vs/cameron-douglas#mattatall-eugene">Cameron, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#mattatall-eugene">Campbell, Garnet</option>
+
+
+      <option value="/vs/carr-patrick#mattatall-eugene">Carr, Patrick</option>
+
+
+      <option value="/vs/carson-earl#mattatall-eugene">Carson, Earl</option>
+
+
+      <option value="/vs/coursol-claude#mattatall-eugene">Coursol, Claude</option>
+
+
+      <option value="/vs/czaja-mitchell#mattatall-eugene">Czaja, Mitchell</option>
+
+
+      <option value="/vs/dillon-robert#mattatall-eugene">Dillon, Robert</option>
+
+
+      <option value="/vs/dugre-louis#mattatall-eugene">Dugre, Louis</option>
+
+
+      <option value="/vs/easton-leonard#mattatall-eugene">Easton, Leonard</option>
+
+
+      <option value="/vs/ellis-kenneth#mattatall-eugene">Ellis, Kenneth</option>
+
+
+      <option value="/vs/emond-andre#mattatall-eugene">Emond, Andre</option>
+
+
+      <option value="/vs/fink-daniel#mattatall-eugene">Fink, Daniel</option>
+
+
+      <option value="/vs/ford-gary#mattatall-eugene">Ford, Gary</option>
+
+
+      <option value="/vs/fortier-john#mattatall-eugene">Fortier, John</option>
+
+
+      <option value="/vs/fox-jim#mattatall-eugene">Fox, Jim</option>
+
+
+      <option value="/vs/gerlach-david#mattatall-eugene">Gerlach, David</option>
+
+
+      <option value="/vs/grahame-kenneth#mattatall-eugene">Grahame, Kenneth</option>
+
+
+      <option value="/vs/green-grant#mattatall-eugene">Green, Grant</option>
+
+
+      <option value="/vs/green-ronald#mattatall-eugene">Green, Ronald</option>
+
+
+      <option value="/vs/guest-ross#mattatall-eugene">Guest, Ross</option>
+
+
+      <option value="/vs/harry-donald#mattatall-eugene">Harry, Donald</option>
+
+
+      <option value="/vs/harry-morley#mattatall-eugene">Harry, Morley</option>
+
+
+      <option value="/vs/hunter-john#mattatall-eugene">Hunter, John</option>
+
+
+      <option value="/vs/hunter-roderick#mattatall-eugene">Hunter, Roderick</option>
+
+
+      <option value="/vs/johnson-terence#mattatall-eugene">Johnson, Terence</option>
+
+
+      <option value="/vs/keith-harold#mattatall-eugene">Keith, Harold</option>
+
+
+      <option value="/vs/klein-joseph#mattatall-eugene">Klein, Joseph</option>
+
+
+      <option value="/vs/klippenstein-daniel#mattatall-eugene">Klippenstein, Daniel</option>
+
+
+      <option value="/vs/lawes-keith#mattatall-eugene">Lawes, Keith</option>
+
+
+      <option value="/vs/mabey-harold-jr#mattatall-eugene">Mabey, Harold Jr.</option>
+
+
+      <option value="/vs/macmellon-grant#mattatall-eugene">MacMellon, Grant</option>
+
+
+      <option value="/vs/martin-william#mattatall-eugene">Martin, William</option>
+
+
+      <option value="/vs/mattatall-eugene#mazinke-harvey">Mazinke, Harvey</option>
+
+
+      <option value="/vs/mattatall-eugene#mcdonald-robert">McDonald, Robert</option>
+
+
+      <option value="/vs/mattatall-eugene#moon-david">Moon, David</option>
+
+
+      <option value="/vs/mattatall-eugene#mousseau-arthur">Mousseau, Arthur</option>
+
+
+      <option value="/vs/mattatall-eugene#narduzzi-richard">Narduzzi, Richard</option>
+
+
+      <option value="/vs/mattatall-eugene#noble-james">Noble, James</option>
+
+
+      <option value="/vs/mattatall-eugene#northcott-ronald">Northcott, Ronald</option>
+
+
+      <option value="/vs/mattatall-eugene#peckham-gerald">Peckham, Gerald</option>
+
+
+      <option value="/vs/mattatall-eugene#peterson-gordon">Peterson, Gordon</option>
+
+
+      <option value="/vs/mattatall-eugene#pettapiece-james">Pettapiece, James</option>
+
+
+      <option value="/vs/mattatall-eugene#pickering-robert">Pickering, Robert</option>
+
+
+      <option value="/vs/mattatall-eugene#piercey-william">Piercey, William</option>
+
+
+      <option value="/vs/mattatall-eugene#robinson-robert">Robinson, Robert</option>
+
+
+      <option value="/vs/mattatall-eugene#romkey-david">Romkey, David</option>
+
+
+      <option value="/vs/mattatall-eugene#savage-paul">Savage, Paul</option>
+
+
+      <option value="/vs/mattatall-eugene#sherba-peter">Sherba, Peter</option>
+
+
+      <option value="/vs/mattatall-eugene#shinfield-allan">Shinfield, Allan</option>
+
+
+      <option value="/vs/mattatall-eugene#smale-kevin">Smale, Kevin</option>
+
+
+      <option value="/vs/mattatall-eugene#smith-alan">Smith, Alan</option>
+
+
+      <option value="/vs/mattatall-eugene#sparkes-bernie">Sparkes, Bernie</option>
+
+
+      <option value="/vs/mattatall-eugene#steeves-edward">Steeves, Edward</option>
+
+
+      <option value="/vs/mattatall-eugene#storey-frederick">Storey, Frederick</option>
+
+
+      <option value="/vs/mattatall-eugene#strange-douglas">Strange, Douglas</option>
+
+
+      <option value="/vs/mattatall-eugene#stuart-douglas">Stuart, Douglas</option>
+
+
+      <option value="/vs/mattatall-eugene#sully-alan">Sully, Alan</option>
+
+
+      <option value="/vs/mattatall-eugene#thomas-robert">Thomas, Robert</option>
+
+
+      <option value="/vs/mattatall-eugene#thompson-jack">Thompson, Jack</option>
+
+
+      <option value="/vs/mattatall-eugene#thompson-robert">Thompson, Robert</option>
+
+
+      <option value="/vs/mattatall-eugene#tucker-jack">Tucker, Jack</option>
+
+
+      <option value="/vs/mattatall-eugene#ward-james">Ward, James</option>
+
+
+      <option value="/vs/mattatall-eugene#watchorn-mel">Watchorn, Mel</option>
+
+
+      <option value="/vs/mattatall-eugene#watchorn-merv">Watchorn, Merv</option>
+
+
+      <option value="/vs/mattatall-eugene#watchorn-terry">Watchorn, Terry</option>
+
+
+      <option value="/vs/mattatall-eugene#weisz-gary">Weisz, Gary</option>
+
+
+      <option value="/vs/mattatall-eugene#werenich-ed">Werenich, Ed</option>
+
+
+      <option value="/vs/mattatall-eugene#wiggington-merrill">Wiggington, Merrill</option>
+
+
+      <option value="/vs/mattatall-eugene#wiggins-douglas">Wiggins, Douglas</option>
+
+
+      <option value="/vs/mattatall-eugene#wong-peter">Wong, Peter</option>
+
+
+      <option value="/vs/mattatall-eugene#wood-edgar">Wood, Edgar</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,5776 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Jeff Lacey Head-to-head
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<div id="pvp">
+
+<div id="laing-brent" class="d-none">
+  <h1>Lacey, Jeff vs Laing, Brent</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>ON 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/laing-brent">Laing, Brent</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="landry-jeremy" class="d-none">
+  <h1>Lacey, Jeff vs Landry, Jeremy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>NB 9 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/landry-jeremy">Landry, Jeremy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Lead</td>
+         <td>67</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>67</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="langdon-dennis" class="d-none">
+  <h1>Lacey, Jeff vs Langdon, Dennis</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 6 - NL 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/langdon-dennis">Langdon, Dennis</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ledrew-ryan" class="d-none">
+  <h1>Lacey, Jeff vs LeDrew, Ryan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ledrew-ryan">LeDrew, Ryan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Third</td>
+         <td>73</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>73</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="lemery-daniel" class="d-none">
+  <h1>Lacey, Jeff vs Lemery, Daniel</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 6 - QC 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/lemery-daniel">Lemery, Daniel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Third</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="loevenmark-phil" class="d-none">
+  <h1>Lacey, Jeff vs Loevenmark, Phil</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 8 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/loevenmark-phil">Loevenmark, Phil</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Third</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="lohnes-bruce" class="d-none">
+  <h1>Lacey, Jeff vs Lohnes, Bruce</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>NS 9 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/lohnes-bruce">Lohnes, Bruce</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ns">NS</a></td>
+         <td>Third</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="lowe-wayne" class="d-none">
+  <h1>Lacey, Jeff vs Lowe, Wayne</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 8 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/lowe-wayne">Lowe, Wayne</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Lead</td>
+         <td>85</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macdonald-blake" class="d-none">
+  <h1>Lacey, Jeff vs MacDonald, Blake</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>NB 9 - AB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macdonald-blake">MacDonald, Blake</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Second</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macdonald-brent" class="d-none">
+  <h1>Lacey, Jeff vs MacDonald, Brent</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>NB 9 - AB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macdonald-brent">MacDonald, Brent</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Third</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>76</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macdonald-peter" class="d-none">
+  <h1>Lacey, Jeff vs MacDonald, Peter</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>96</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>NB 7 - PE 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macdonald-peter">MacDonald, Peter</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Fourth</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macdonald-rod" class="d-none">
+  <h1>Lacey, Jeff vs MacDonald, Rod</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(4)</td>
+         <td>PE 6 - NB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macdonald-rod">MacDonald, Rod</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Fourth</td>
+         <td>53</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>53</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macinnes-david" class="d-none">
+  <h1>Lacey, Jeff vs MacInnes, David</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>NB 9 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macinnes-david">MacInnes, David</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Third</td>
+         <td>56</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>56</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="macleod-kris" class="d-none">
+  <h1>Lacey, Jeff vs MacLeod, Kris</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NS 1 - NB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/macleod-kris">MacLeod, Kris</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ns">NS</a></td>
+         <td>Lead</td>
+         <td>85</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="madden-paul" class="d-none">
+  <h1>Lacey, Jeff vs Madden, Paul</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>NB 5 - ON 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/madden-paul">Madden, Paul</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="martin-kevin" class="d-none">
+  <h1>Lacey, Jeff vs Martin, Kevin</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>AB 6 - NB 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 3 - AB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/martin-kevin">Martin, Kevin</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Fourth</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Fourth</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mccarrel-graeme" class="d-none">
+  <h1>Lacey, Jeff vs McCarrel, Graeme</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>ON 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mccarrel-graeme">McCarrel, Graeme</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Third</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mcclelland-john" class="d-none">
+  <h1>Lacey, Jeff vs McClelland, John</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 8 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mcclelland-john">McClelland, John</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Second</td>
+         <td>95</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>95</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mcgowan-nolin" class="d-none">
+  <h1>Lacey, Jeff vs McGowan, Nolin</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>NB 4 - TR 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mcgowan-nolin">McGowan, Nolin</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mcphee-barry" class="d-none">
+  <h1>Lacey, Jeff vs McPhee, Barry</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>NB 8 - BC 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mcphee-barry">McPhee, Barry</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mead-jon" class="d-none">
+  <h1>Lacey, Jeff vs Mead, Jon</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>MB 7 - NB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>NB 9 - MB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mead-jon">Mead, Jon</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="meakin-rob" class="d-none">
+  <h1>Lacey, Jeff vs Meakin, Rob</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>NB 5 - MB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/meakin-rob">Meakin, Rob</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>71</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="menard-jean-michel" class="d-none">
+  <h1>Lacey, Jeff vs Menard, Jean-Michel</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 9 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/menard-jean-michel">Menard, Jean-Michel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Fourth</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>96</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="middaugh-wayne" class="d-none">
+  <h1>Lacey, Jeff vs Middaugh, Wayne</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>ON 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/middaugh-wayne">Middaugh, Wayne</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Fourth</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="moffatt-rich" class="d-none">
+  <h1>Lacey, Jeff vs Moffatt, Rich</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>NB 5 - ON 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/moffatt-rich">Moffatt, Rich</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Fourth</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>76</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="moshenko-darcy" class="d-none">
+  <h1>Lacey, Jeff vs Moshenko, Darcy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 7 - TR 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/moshenko-darcy">Moshenko, Darcy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>72</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>72</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="moshenko-jaret" class="d-none">
+  <h1>Lacey, Jeff vs Moshenko, Jaret</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 7 - TR 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/moshenko-jaret">Moshenko, Jaret</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mosley-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Mosley, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>77</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>77</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>SK 2 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mosley-jeff">Mosley, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Third</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="moss-steve" class="d-none">
+  <h1>Lacey, Jeff vs Moss, Steve</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 7 - TR 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/moss-steve">Moss, Steve</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Fourth</td>
+         <td>64</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>64</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="nedohin-david" class="d-none">
+  <h1>Lacey, Jeff vs Nedohin, David</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>AB 5 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/nedohin-david">Nedohin, David</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Fourth</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="nelson-randy" class="d-none">
+  <h1>Lacey, Jeff vs Nelson, Randy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(7)</td>
+         <td>NB 10 - BC 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/nelson-randy">Nelson, Randy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Second</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ness-dale" class="d-none">
+  <h1>Lacey, Jeff vs Ness, Dale</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 5 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ness-dale">Ness, Dale</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="neufeld-chris" class="d-none">
+  <h1>Lacey, Jeff vs Neufeld, Chris</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>77</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>MB 7 - NB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Semi-Final(20)</td>
+         <td>NB 5 - MB 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/neufeld-chris">Neufeld, Chris</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="o-rourke-mark" class="d-none">
+  <h1>Lacey, Jeff vs O'Rourke, Mark</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(4)</td>
+         <td>NB 7 - PE 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>NB 7 - PE 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/o-rourke-mark">O'Rourke, Mark</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Second</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="packet-jim" class="d-none">
+  <h1>Lacey, Jeff vs Packet, Jim</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>77</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>77</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>SK 2 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/packet-jim">Packet, Jim</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Fourth</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="paslawski-pat" class="d-none">
+  <h1>Lacey, Jeff vs Paslawski, Pat</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>TR 6 - NB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/paslawski-pat">Paslawski, Pat</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>68</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>68</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="patterson-scott" class="d-none">
+  <h1>Lacey, Jeff vs Patterson, Scott</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 8 - NO 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/patterson-scott">Patterson, Scott</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Fourth</td>
+         <td>73</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>73</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="peddigrew-ken" class="d-none">
+  <h1>Lacey, Jeff vs Peddigrew, Ken</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/peddigrew-ken">Peddigrew, Ken</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Fourth</td>
+         <td>63</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>73</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="peech-orest" class="d-none">
+  <h1>Lacey, Jeff vs Peech, Orest</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>TR 6 - NB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/peech-orest">Peech, Orest</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Fourth</td>
+         <td>73</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>73</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="perroud-pat" class="d-none">
+  <h1>Lacey, Jeff vs Perroud, Pat</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>76</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>ON 6 - NB 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 3-4(18)</td>
+         <td>NB 6 - ON 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/perroud-pat">Perroud, Pat</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>85</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="peters-vic" class="d-none">
+  <h1>Lacey, Jeff vs Peters, Vic</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>77</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>MB 7 - NB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Semi-Final(20)</td>
+         <td>NB 5 - MB 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/peters-vic">Peters, Vic</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td>80</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="pfeifer-scott" class="d-none">
+  <h1>Lacey, Jeff vs Pfeifer, Scott</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>AB 5 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/pfeifer-scott">Pfeifer, Scott</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Second</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="pinsent-garry" class="d-none">
+  <h1>Lacey, Jeff vs Pinsent, Garry</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 6 - NL 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/pinsent-garry">Pinsent, Garry</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Third</td>
+         <td>70</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>70</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="power-humphrey" class="d-none">
+  <h1>Lacey, Jeff vs Power, Humphrey</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>NB 4 - TR 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/power-humphrey">Power, Humphrey</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rajala-howard" class="d-none">
+  <h1>Lacey, Jeff vs Rajala, Howard</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>NB 5 - ON 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rajala-howard">Rajala, Howard</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Third</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ramcharan-rudy" class="d-none">
+  <h1>Lacey, Jeff vs Ramcharan, Rudy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>AB 6 - NB 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ramcharan-rudy">Ramcharan, Rudy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Second</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="reynolds-brett" class="d-none">
+  <h1>Lacey, Jeff vs Reynolds, Brett</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/reynolds-brett">Reynolds, Brett</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>96</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="roberge-francois" class="d-none">
+  <h1>Lacey, Jeff vs Roberge, Francois</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 9 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/roberge-francois">Roberge, Francois</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Third</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="robinson-bill" class="d-none">
+  <h1>Lacey, Jeff vs Robinson, Bill</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NS 1 - NB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/robinson-bill">Robinson, Bill</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ns">NS</a></td>
+         <td>Third</td>
+         <td>57</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>57</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rocque-marcel" class="d-none">
+  <h1>Lacey, Jeff vs Rocque, Marcel</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>AB 5 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rose-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Rose, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rose-jeff">Rose, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>66</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>66</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Ryan, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>NB 5 - MB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-jeff">Ryan, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>76</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>76</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-keith" class="d-none">
+  <h1>Lacey, Jeff vs Ryan, Keith</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 6 - NL 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-keith">Ryan, Keith</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Fourth</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-mike" class="d-none">
+  <h1>Lacey, Jeff vs Ryan, Mike</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NB 6 - NL 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-mike">Ryan, Mike</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rycroft-carter" class="d-none">
+  <h1>Lacey, Jeff vs Rycroft, Carter</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 3 - AB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rycroft-carter">Rycroft, Carter</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Second</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="savill-craig" class="d-none">
+  <h1>Lacey, Jeff vs Savill, Craig</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>ON 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/savill-craig">Savill, Craig</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Lead</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="scharf-joe" class="d-none">
+  <h1>Lacey, Jeff vs Scharf, Joe</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>NB 11 - NO 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/scharf-joe">Scharf, Joe</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Second</td>
+         <td>77</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>77</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="schleppe-dave" class="d-none">
+  <h1>Lacey, Jeff vs Schleppe, Dave</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>NB 8 - BC 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/schleppe-dave">Schleppe, Dave</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sharp-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Sharp, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>SK 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sharp-jeff">Sharp, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Third</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="shymko-gerald" class="d-none">
+  <h1>Lacey, Jeff vs Shymko, Gerald</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>SK 7 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/shymko-gerald">Shymko, Gerald</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Fourth</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="simmons-pat" class="d-none">
+  <h1>Lacey, Jeff vs Simmons, Pat</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>SK 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/simmons-pat">Simmons, Pat</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Fourth</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="stoughton-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Stoughton, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>MB 7 - NB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>NB 9 - MB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/stoughton-jeff">Stoughton, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="stuart-darol" class="d-none">
+  <h1>Lacey, Jeff vs Stuart, Darol</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>NB 4 - TR 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/stuart-darol">Stuart, Darol</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sylvain-eric" class="d-none">
+  <h1>Lacey, Jeff vs Sylvain, Eric</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 9 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sylvain-eric">Sylvain, Eric</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tervo-randy" class="d-none">
+  <h1>Lacey, Jeff vs Tervo, Randy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>BC 2 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tervo-randy">Tervo, Randy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tetley-ian" class="d-none">
+  <h1>Lacey, Jeff vs Tetley, Ian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>ON 8 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tetley-ian">Tetley, Ian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thibaudeau-guy" class="d-none">
+  <h1>Lacey, Jeff vs Thibaudeau, Guy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 5 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thibaudeau-guy">Thibaudeau, Guy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thomas-jeff" class="d-none">
+  <h1>Lacey, Jeff vs Thomas, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(15)</td>
+         <td>NL 3 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thomas-jeff">Thomas, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Fourth</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="turpin-glenn" class="d-none">
+  <h1>Lacey, Jeff vs Turpin, Glenn</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>NB 9 - NL 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/turpin-glenn">Turpin, Glenn</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Third</td>
+         <td>77</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>77</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tuson-jay" class="d-none">
+  <h1>Lacey, Jeff vs Tuson, Jay</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(11)</td>
+         <td>BC 2 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tuson-jay">Tuson, Jay</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="van-den-berghe-garry" class="d-none">
+  <h1>Lacey, Jeff vs Van Den Berghe, Garry</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>MB 7 - NB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>NB 9 - MB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/van-den-berghe-garry">Van Den Berghe, Garry</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="walchuk-don" class="d-none">
+  <h1>Lacey, Jeff vs Walchuk, Don</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>AB 6 - NB 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>NB 3 - AB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/walchuk-don">Walchuk, Don</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Third</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Third</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wasnea-brian" class="d-none">
+  <h1>Lacey, Jeff vs Wasnea, Brian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1999">1999</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>TR 6 - NB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wasnea-brian">Wasnea, Brian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Second</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wempe-brian" class="d-none">
+  <h1>Lacey, Jeff vs Wempe, Brian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>NB 7 - SK 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wempe-brian">Wempe, Brian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>96</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="werenich-ed" class="d-none">
+  <h1>Lacey, Jeff vs Werenich, Ed</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>76</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>ON 6 - NB 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 3-4(18)</td>
+         <td>NB 6 - ON 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/werenich-ed">Werenich, Ed</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Fourth</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Fourth</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="westphal-don" class="d-none">
+  <h1>Lacey, Jeff vs Westphal, Don</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/1997">1997</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>NB 6 - QC 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>QC 5 - NB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/westphal-don">Westphal, Don</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Fourth</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Third</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="whitehead-kevin" class="d-none">
+  <h1>Lacey, Jeff vs Whitehead, Kevin</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>54</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>54</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>NB 6 - TR 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/whitehead-kevin">Whitehead, Kevin</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>78</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>78</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="whitehead-mark" class="d-none">
+  <h1>Lacey, Jeff vs Whitehead, Mark</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>54</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>54</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>NB 6 - TR 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/whitehead-mark">Whitehead, Mark</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Second</td>
+         <td>75</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="windsor-brian" class="d-none">
+  <h1>Lacey, Jeff vs Windsor, Brian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/lacey-jeff">Lacey, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2006">2006</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(7)</td>
+         <td>NB 10 - BC 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/windsor-brian">Windsor, Brian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td>56</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>56</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

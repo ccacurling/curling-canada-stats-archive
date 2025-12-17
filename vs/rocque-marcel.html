@@ -1,0 +1,5557 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Marcel Rocque Head-to-head
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<div id="pvp">
+
+<div id="roy-jean-sebastien" class="d-none">
+  <h1>Rocque, Marcel vs Roy, Jean-Sebastien</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>AB 9 - QC 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/roy-jean-sebastien">Roy, Jean-Sebastien</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-jeff" class="d-none">
+  <h1>Rocque, Marcel vs Ryan, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>87</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>MB 3 - AB 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Final(21)</td>
+         <td>AB 8 - MB 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(5)</td>
+         <td>FER 5 - BUR 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-jeff">Ryan, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>82</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>BUR</td>
+         <td>Third</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>76</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-keith" class="d-none">
+  <h1>Rocque, Marcel vs Ryan, Keith</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>85</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>AB 8 - NL 2</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(3)</td>
+         <td>NL 6 - AB 10</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>Gus 6 - Fer 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-keith">Ryan, Keith</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Fourth</td>
+         <td>58</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Gus</td>
+         <td>Second</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>64</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-mike" class="d-none">
+  <h1>Rocque, Marcel vs Ryan, Mike</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(12)</td>
+         <td>AB 8 - NL 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-mike">Ryan, Mike</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ryan-pat" class="d-none">
+  <h1>Rocque, Marcel vs Ryan, Pat</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>99</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>3</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>93</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>99</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>AB 9 - BC 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>BC 4 - AB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 1-2(19)</td>
+         <td>BC 2 - AB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Ryan 5 - Ferb 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>Fer 5 - Rya 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(16)</td>
+         <td>RYA 5 - FER 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ryan-pat">Ryan, Pat</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td>70</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td>72</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td>64</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Ryan</td>
+         <td>Fourth</td>
+         <td>64</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Rya</td>
+         <td>Third</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>RYA</td>
+         <td>Third</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>0</th><th>3</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>79</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="savill-craig" class="d-none">
+  <h1>Rocque, Marcel vs Savill, Craig</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>99</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>78</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>90</th><th>3</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>91</th><th>3</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>85</th><th>1</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>AB 9 - ON 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 1-2(19)</td>
+         <td>AB 7 - ON 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Final(21)</td>
+         <td>AB 9 - ON 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Playoff(11)</td>
+         <td>Ferb 9 - Morr 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Final(15)</td>
+         <td>Morr 5 - Ferb 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2006">2006</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>Fer 7 - How 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>FERB 5 - HOWA 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>MOR 3 - FER 9</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>FER 4 - HOW 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>FERB 6 - HOWA 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/savill-craig">Savill, Craig</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>92</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Morr</td>
+         <td>Lead</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Morr</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>How</td>
+         <td>Lead</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>HOWA</td>
+         <td>Lead</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>MOR</td>
+         <td>Second</td>
+         <td>82</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>HOW</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>HOWA</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>3</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>88</th><th>1</th><th>3</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>87</th><th>2</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="scales-bob" class="d-none">
+  <h1>Rocque, Marcel vs Scales, Bob</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>AB 9 - MB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/scales-bob">Scales, Bob</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="scales-brent" class="d-none">
+  <h1>Rocque, Marcel vs Scales, Brent</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>MB 4 - AB 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/scales-brent">Scales, Brent</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td>58</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>58</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="scharf-joe" class="d-none">
+  <h1>Rocque, Marcel vs Scharf, Joe</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(4)</td>
+         <td>NO 5 - AB 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/scharf-joe">Scharf, Joe</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Second</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="scoffin-wade" class="d-none">
+  <h1>Rocque, Marcel vs Scoffin, Wade</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>TR 4 - AB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/scoffin-wade">Scoffin, Wade</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>66</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>66</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sharp-jeff" class="d-none">
+  <h1>Rocque, Marcel vs Sharp, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>92</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>AB 9 - SK 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>FERB 10 - SIMM 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>SIMM 4 - FERB 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sharp-jeff">Sharp, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Third</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>SIMM</td>
+         <td>Third</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>SIMM</td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>75</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="simmons-pat" class="d-none">
+  <h1>Rocque, Marcel vs Simmons, Pat</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>87</th><th>3</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>AB 9 - SK 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>Simm 5 - Ferb 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2004">2004</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>FER 10 - SIM 4</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>FERB 10 - SIMM 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>SIMM 4 - FERB 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/simmons-pat">Simmons, Pat</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Fourth</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Simm</td>
+         <td>Fourth</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>SIM</td>
+         <td>Fourth</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>SIMM</td>
+         <td>Fourth</td>
+         <td>65</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>SIMM</td>
+         <td>Fourth</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>74</th><th>0</th><th>3</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>76</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="smith-jeff" class="d-none">
+  <h1>Rocque, Marcel vs Smith, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>PE 3 - AB 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/smith-jeff">Smith, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Lead</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="solberg-jon" class="d-none">
+  <h1>Rocque, Marcel vs Solberg, Jon</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>TR 4 - AB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>AB 11 - NO 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/solberg-jon">Solberg, Jon</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Fourth</td>
+         <td>68</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Third</td>
+         <td>67</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>68</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sosiak-jim" class="d-none">
+  <h1>Rocque, Marcel vs Sosiak, Jim</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>AB 10 - TR 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sosiak-jim">Sosiak, Jim</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="spicer-grant" class="d-none">
+  <h1>Rocque, Marcel vs Spicer, Grant</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>MB 4 - AB 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/spicer-grant">Spicer, Grant</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Second</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="steski-john" class="d-none">
+  <h1>Rocque, Marcel vs Steski, John</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>96</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(13)</td>
+         <td>ON 3 - AB 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/steski-john">Steski, John</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="stuart-darol" class="d-none">
+  <h1>Rocque, Marcel vs Stuart, Darol</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>TR 4 - AB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/stuart-darol">Stuart, Darol</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="suchy-chris" class="d-none">
+  <h1>Rocque, Marcel vs Suchy, Chris</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>AB 9 - MB 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/suchy-chris">Suchy, Chris</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Third</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sullivan-charles-jr" class="d-none">
+  <h1>Rocque, Marcel vs Sullivan, Charles Jr.</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>AB 5 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sullivan-charles-jr">Sullivan, Charles Jr.</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Third</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sullivan-evan" class="d-none">
+  <h1>Rocque, Marcel vs Sullivan, Evan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>AB 6 - PE 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sullivan-evan">Sullivan, Evan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/pe">PE</a></td>
+         <td>Third</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>76</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sullivan-jim" class="d-none">
+  <h1>Rocque, Marcel vs Sullivan, Jim</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(2)</td>
+         <td>AB 5 - NB 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sullivan-jim">Sullivan, Jim</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nb">NB</a></td>
+         <td>Fourth</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sumner-kevin" class="d-none">
+  <h1>Rocque, Marcel vs Sumner, Kevin</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>98</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>TR 6 - AB 12</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sumner-kevin">Sumner, Kevin</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td>63</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>63</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sylvain-eric" class="d-none">
+  <h1>Rocque, Marcel vs Sylvain, Eric</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>1</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>92</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>AB 7 - QC 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>QC 7 - AB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2007">2007</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>Fer 8 - Men 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sylvain-eric">Sylvain, Eric</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Men</td>
+         <td>Second</td>
+         <td>90</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>1</th><th>1</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>90</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tervo-randy" class="d-none">
+  <h1>Rocque, Marcel vs Tervo, Randy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>BC 4 - AB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tervo-randy">Tervo, Randy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tetley-ian" class="d-none">
+  <h1>Rocque, Marcel vs Tetley, Ian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>87</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>87</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(7)</td>
+         <td>AB 9 - ON 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 1-2(19)</td>
+         <td>AB 8 - ON 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>MID 7 - FER 12</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tetley-ian">Tetley, Ian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Second</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>MID</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thibaudeau-guy" class="d-none">
+  <h1>Rocque, Marcel vs Thibaudeau, Guy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>QC 9 - AB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thibaudeau-guy">Thibaudeau, Guy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Second</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thomson-fred" class="d-none">
+  <h1>Rocque, Marcel vs Thomson, Fred</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>85</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>AB 8 - BC 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thomson-fred">Thomson, Fred</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="toner-lee" class="d-none">
+  <h1>Rocque, Marcel vs Toner, Lee</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>98</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(5)</td>
+         <td>AB 11 - NO 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/toner-lee">Toner, Lee</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/no">NO</a></td>
+         <td>Lead</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>83</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="trevellyan-todd" class="d-none">
+  <h1>Rocque, Marcel vs Trevellyan, Todd</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>MB 4 - AB 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/trevellyan-todd">Trevellyan, Todd</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/mb">MB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="turpin-randy" class="d-none">
+  <h1>Rocque, Marcel vs Turpin, Randy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>92</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2002">2002</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(16)</td>
+         <td>NL 8 - AB 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/turpin-randy">Turpin, Randy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Second</td>
+         <td>69</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>69</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tuson-jay" class="d-none">
+  <h1>Rocque, Marcel vs Tuson, Jay</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(1)</td>
+         <td>BC 4 - AB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tuson-jay">Tuson, Jay</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>84</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>84</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ursel-bob" class="d-none">
+  <h1>Rocque, Marcel vs Ursel, Bob</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>98</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>97</th><th>1</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>BC 4 - AB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Page 1-2(19)</td>
+         <td>BC 2 - AB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Ryan 5 - Ferb 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2006">2006</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>Fer 5 - Urs 10</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>GRE 10 - FER 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ursel-bob">Ursel, Bob</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/bc">BC</a></td>
+         <td>Third</td>
+         <td>82</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Ryan</td>
+         <td>Third</td>
+         <td>86</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Urs</td>
+         <td>Fourth</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>GRE</td>
+         <td>Third</td>
+         <td>69</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>77</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>85</th><th>1</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>69</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wall-trevor" class="d-none">
+  <h1>Rocque, Marcel vs Wall, Trevor</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>94</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>AB 7 - ON 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>Har 6 - Fer 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wall-trevor">Wall, Trevor</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/on">ON</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Har</td>
+         <td>Lead</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ward-mark" class="d-none">
+  <h1>Rocque, Marcel vs Ward, Mark</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>AB 5 - NL 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(17)</td>
+         <td>NL 3 - AB 10</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ward-mark">Ward, Mark</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/nl">NL</a></td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>92</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wasnea-brian" class="d-none">
+  <h1>Rocque, Marcel vs Wasnea, Brian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>98</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2004">2004</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(9)</td>
+         <td>TR 6 - AB 12</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wasnea-brian">Wasnea, Brian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Fourth</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>80</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wempe-brian" class="d-none">
+  <h1>Rocque, Marcel vs Wempe, Brian</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>92</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>91</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(6)</td>
+         <td>SK 7 - AB 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(10)</td>
+         <td>AB 8 - SK 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wempe-brian">Wempe, Brian</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Lead</td>
+         <td>82</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/sk">SK</a></td>
+         <td>Lead</td>
+         <td>94</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>89</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="westphal-don" class="d-none">
+  <h1>Rocque, Marcel vs Westphal, Don</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>94</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2001">2001</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>QC 9 - AB 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/2003">2003</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(8)</td>
+         <td>QC 7 - AB 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/westphal-don">Westphal, Don</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Third</td>
+         <td>76</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td><a href="../../brier/team/qc">QC</a></td>
+         <td>Third</td>
+         <td>80</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>78</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="whitehead-mark" class="d-none">
+  <h1>Rocque, Marcel vs Whitehead, Mark</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>97</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/2005">2005</a></td>
+         <td><a href="../../brier">Brier</a></td>
+         <td>Round Robin(14)</td>
+         <td>AB 10 - TR 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/whitehead-mark">Whitehead, Mark</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../brier/team/tr">TR</a></td>
+         <td>Third</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Brier Total</th><th>71</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rycroft-carter" class="d-none">
+  <h1>Rocque, Marcel vs Rycroft, Carter</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>89</th><th>2</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>88</th><th>0</th><th>3</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Playoff(14)</td>
+         <td>Fer 7 - Mar 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Final(16)</td>
+         <td>Mar 6 - Fer 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>KOE 5 - FERB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>FER 6 - MAR 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>FER 5 - MAR 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>FERB 4 - KOE 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rycroft-carter">Rycroft, Carter</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mar</td>
+         <td>Second</td>
+         <td>69</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Mar</td>
+         <td>Second</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>KOE</td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>MAR</td>
+         <td>Second</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>MAR</td>
+         <td>Second</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>KOE</td>
+         <td>Second</td>
+         <td>98</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>80</th><th>1</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>92</th><th>3</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="samagalski-derek" class="d-none">
+  <h1>Rocque, Marcel vs Samagalski, Derek</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>RFE</td>
+         <td>Lead</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2010">2010</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>RFE 7 - RFO 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/samagalski-derek">Samagalski, Derek</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>RFO</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sawatsky-rick" class="d-none">
+  <h1>Rocque, Marcel vs Sawatsky, Rick</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>99</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>99</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>Fer 5 - Rya 3</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(16)</td>
+         <td>RYA 5 - FER 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sawatsky-rick">Sawatsky, Rick</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Rya</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>RYA</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>93</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="schille-chris" class="d-none">
+  <h1>Rocque, Marcel vs Schille, Chris</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>80</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>88</th><th>2</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2007">2007</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>Fer 7 - Gus 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2007">2007</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Semi-Final(15)</td>
+         <td>Gus 5 - Fer 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>FERB 4 - GUSH 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/schille-chris">Schille, Chris</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Gus</td>
+         <td>Second</td>
+         <td>75</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Gus</td>
+         <td>Second</td>
+         <td>90</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>GUSH</td>
+         <td>Second</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>83</th><th>1</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="smith-garth" class="d-none">
+  <h1>Rocque, Marcel vs Smith, Garth</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>94</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>BURT 2 - FERB 9</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>FERB 4 - BURT 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/smith-garth">Smith, Garth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>BURT</td>
+         <td>Lead</td>
+         <td>100</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>BURT</td>
+         <td>Lead</td>
+         <td>85</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>91</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="stoughton-jeff" class="d-none">
+  <h1>Rocque, Marcel vs Stoughton, Jeff</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>99</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>97</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>78</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>96</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>94</th><th>3</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>86</th><th>1</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2004">2004</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(9)</td>
+         <td>STO 7 - FER 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>Fer 9 - Sto 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>FERB 9 - STOU 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(1)</td>
+         <td>STO 3 - FER 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>STO 11 - FER 2</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>FERB 5 - STOU 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/stoughton-jeff">Stoughton, Jeff</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>STO</td>
+         <td>Fourth</td>
+         <td>71</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Sto</td>
+         <td>Fourth</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>STOU</td>
+         <td>Fourth</td>
+         <td>66</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>STO</td>
+         <td>Fourth</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>STO</td>
+         <td>Fourth</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>STOU</td>
+         <td>Fourth</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>73</th><th>0</th><th>3</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>89</th><th>2</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thiessen-nolan" class="d-none">
+  <h1>Rocque, Marcel vs Thiessen, Nolan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>95</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>KOE 5 - FERB 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>FERB 4 - KOE 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thiessen-nolan">Thiessen, Nolan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>KOE</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>KOE</td>
+         <td>Lead</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>91</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="thomas-charley" class="d-none">
+  <h1>Rocque, Marcel vs Thomas, Charley</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>83</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>83</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2008">2008</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(1)</td>
+         <td>CARR 6 - FERB 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/thomas-charley">Thomas, Charley</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>CARR</td>
+         <td>Fourth</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>74</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tuck-wayne" class="d-none">
+  <h1>Rocque, Marcel vs Tuck, Wayne</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>96</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>96</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(9)</td>
+         <td>Fer 5 - Tuc 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tuck-wayne">Tuck, Wayne</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Tuc</td>
+         <td>Fourth</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>83</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="van-den-berghe-garry" class="d-none">
+  <h1>Rocque, Marcel vs Van Den Berghe, Garry</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>99</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>78</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>96</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>93</th><th>2</th><th>0</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>85</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2004">2004</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(9)</td>
+         <td>STO 7 - FER 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>Fer 9 - Sto 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(1)</td>
+         <td>STO 3 - FER 6</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(10)</td>
+         <td>STO 11 - FER 2</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/van-den-berghe-garry">Van Den Berghe, Garry</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>STO</td>
+         <td>Second</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Sto</td>
+         <td>Second</td>
+         <td>83</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>STO</td>
+         <td>Second</td>
+         <td>76</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>STO</td>
+         <td>Second</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>78</th><th>0</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>83</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="villeneuve-steeve" class="d-none">
+  <h1>Rocque, Marcel vs Villeneuve, Steeve</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>RFE</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2010">2010</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>SR 3 - RFE 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/villeneuve-steeve">Villeneuve, Steeve</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>SR</td>
+         <td>Lead</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="walchuk-don" class="d-none">
+  <h1>Rocque, Marcel vs Walchuk, Don</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>93</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>93</th><th>1</th><th>2</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>84</th><th>0</th><th>2</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Playoff(14)</td>
+         <td>Fer 7 - Mar 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2005">2005</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Final(16)</td>
+         <td>Mar 6 - Fer 5</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>FERB 4 - BURT 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>FER 6 - MAR 7</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../trials-men/2005">2005</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(2)</td>
+         <td>FER 5 - MAR 8</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/walchuk-don">Walchuk, Don</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mar</td>
+         <td>Third</td>
+         <td>90</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>Mar</td>
+         <td>Third</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>BURT</td>
+         <td>Third</td>
+         <td>67</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>MAR</td>
+         <td>Third</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>MAR</td>
+         <td>Third</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>83</th><th>2</th><th>1</th></tr>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>86</th><th>2</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="westlund-mike" class="d-none">
+  <h1>Rocque, Marcel vs Westlund, Mike</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Ferb</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2003">2003</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(5)</td>
+         <td>Ferb 7 - KKoe 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/westlund-mike">Westlund, Mike</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>KKoe</td>
+         <td>Lead</td>
+         <td>74</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>74</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="willis-brendan" class="d-none">
+  <h1>Rocque, Marcel vs Willis, Brendan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Fer</td>
+         <td>Lead</td>
+         <td>98</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>98</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2006">2006</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(6)</td>
+         <td>Fer 5 - Urs 10</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/willis-brendan">Willis, Brendan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Urs</td>
+         <td>Lead</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="wozniak-matt" class="d-none">
+  <h1>Rocque, Marcel vs Wozniak, Matt</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        <tr>
+         <td>RFE</td>
+         <td>Lead</td>
+         <td>97</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>93</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2009">2009</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(9)</td>
+         <td>MCEW 7 - FERB 8</td>
+        </tr>
+
+        <tr>
+         <td><a href="../../canada-cup-men/2010">2010</a></td>
+         <td><a href="../../canada-cup-men">Canada Cup (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>MM 8 - RFE 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/wozniak-matt">Wozniak, Matt</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>MCEW</td>
+         <td>Second</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        <tr>
+         <td>MM</td>
+         <td>Second</td>
+         <td>80</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Men) Total</th><th>79</th><th>1</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="stambaugh-doug" class="d-none">
+  <h1>Rocque, Marcel vs Stambaugh, Doug</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>91</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>91</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(8)</td>
+         <td>PAR 7 - FER 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/stambaugh-doug">Stambaugh, Doug</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>PAR</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sveistrup-jody" class="d-none">
+  <h1>Rocque, Marcel vs Sveistrup, Jody</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>91</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>91</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(7)</td>
+         <td>FER 7 - MCA 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sveistrup-jody">Sveistrup, Jody</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>MCA</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="whittle-mark" class="d-none">
+  <h1>Rocque, Marcel vs Whittle, Mark</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FER</td>
+         <td>Lead</td>
+         <td>89</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>89</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../trials-men/2001">2001</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(3)</td>
+         <td>GRE 10 - FER 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/whittle-mark">Whittle, Mark</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>GRE</td>
+         <td>Second</td>
+         <td>86</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>86</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="zawada-braden" class="d-none">
+  <h1>Rocque, Marcel vs Zawada, Braden</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/rocque-marcel">Rocque, Marcel</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>FERB</td>
+         <td>Lead</td>
+         <td>88</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>88</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../trials-men/2009">2009</a></td>
+         <td><a href="../../trials-men">Trials (Men)</a></td>
+         <td>Round Robin(4)</td>
+         <td>FERB 9 - GUNN 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/zawada-braden">Zawada, Braden</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>GUNN</td>
+         <td>Second</td>
+         <td>81</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Trials(Men) Total</th><th>81</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

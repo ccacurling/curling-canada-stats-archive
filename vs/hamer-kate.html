@@ -1,0 +1,1346 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Kate Hamer Head-to-head
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<div id="pvp">
+
+<div id="hodson-kim" class="d-none">
+  <h1>Hamer, Kate vs Hodson, Kim</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(2)</td>
+         <td>Mid 3 - And 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/hodson-kim">Hodson, Kim</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>And</td>
+         <td>Third</td>
+         <td>76</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>76</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="jones-jennifer" class="d-none">
+  <h1>Hamer, Kate vs Jones, Jennifer</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Jon 7 - Mid 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/jones-jennifer">Jones, Jennifer</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Jon</td>
+         <td>Fourth</td>
+         <td>94</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>94</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="jordan-stephanie" class="d-none">
+  <h1>Hamer, Kate vs Jordan, Stephanie</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(5)</td>
+         <td>Mid 7 - Web 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/jordan-stephanie">Jordan, Stephanie</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Web</td>
+         <td>Lead</td>
+         <td>66</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>66</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="kasner-marliese" class="d-none">
+  <h1>Hamer, Kate vs Kasner, Marliese</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>60</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>60</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(4)</td>
+         <td>Law 9 - Mid 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/kasner-marliese">Kasner, Marliese</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Law</td>
+         <td>Third</td>
+         <td>69</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>69</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="keshen-christine" class="d-none">
+  <h1>Hamer, Kate vs Keshen, Christine</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(9)</td>
+         <td>Kle 7 - Mid 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/keshen-christine">Keshen, Christine</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Kle</td>
+         <td>Lead</td>
+         <td>90</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>90</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="kleibrink-shannon" class="d-none">
+  <h1>Hamer, Kate vs Kleibrink, Shannon</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(9)</td>
+         <td>Kle 7 - Mid 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/kleibrink-shannon">Kleibrink, Shannon</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Kle</td>
+         <td>Fourth</td>
+         <td>71</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>71</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="lawton-stefanie" class="d-none">
+  <h1>Hamer, Kate vs Lawton, Stefanie</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>60</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>60</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(4)</td>
+         <td>Law 9 - Mid 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/lawton-stefanie">Lawton, Stefanie</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Law</td>
+         <td>Fourth</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mcewen-dawn" class="d-none">
+  <h1>Hamer, Kate vs McEwen, Dawn</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Jon 7 - Mid 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mcewen-dawn">McEwen, Dawn</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Jon</td>
+         <td>Lead</td>
+         <td>95</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>95</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="nixon-amy" class="d-none">
+  <h1>Hamer, Kate vs Nixon, Amy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(9)</td>
+         <td>Kle 7 - Mid 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/nixon-amy">Nixon, Amy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Kle</td>
+         <td>Third</td>
+         <td>78</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="officer-jill" class="d-none">
+  <h1>Hamer, Kate vs Officer, Jill</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Jon 7 - Mid 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/officer-jill">Officer, Jill</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Jon</td>
+         <td>Second</td>
+         <td>92</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>92</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="overton-clapham-cathy" class="d-none">
+  <h1>Hamer, Kate vs Overton-Clapham, Cathy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(7)</td>
+         <td>Jon 7 - Mid 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/overton-clapham-cathy">Overton-Clapham, Cathy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Jon</td>
+         <td>Third</td>
+         <td>84</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>84</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="preston-samantha" class="d-none">
+  <h1>Hamer, Kate vs Preston, Samantha</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(5)</td>
+         <td>Mid 7 - Web 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/preston-samantha">Preston, Samantha</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Web</td>
+         <td>Second</td>
+         <td>74</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>74</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="robertson-desiree" class="d-none">
+  <h1>Hamer, Kate vs Robertson, Desiree</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(5)</td>
+         <td>Mid 7 - Web 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/robertson-desiree">Robertson, Desiree</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Web</td>
+         <td>Third</td>
+         <td>79</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>79</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="rumberg-crystal" class="d-none">
+  <h1>Hamer, Kate vs Rumberg, Crystal</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>78</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>78</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(5)</td>
+         <td>Mid 7 - Web 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/rumberg-crystal">Rumberg, Crystal</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Web</td>
+         <td>Fourth</td>
+         <td>68</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>68</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="singler-sherri" class="d-none">
+  <h1>Hamer, Kate vs Singler, Sherri</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>60</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>60</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(4)</td>
+         <td>Law 9 - Mid 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/singler-sherri">Singler, Sherri</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Law</td>
+         <td>Second</td>
+         <td>57</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>57</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="walsh-heather" class="d-none">
+  <h1>Hamer, Kate vs Walsh, Heather</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>79</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>79</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(2)</td>
+         <td>Mid 3 - And 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/walsh-heather">Walsh, Heather</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>And</td>
+         <td>Second</td>
+         <td>89</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>89</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="webster-bronwen" class="d-none">
+  <h1>Hamer, Kate vs Webster, Bronwen</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/hamer-kate">Hamer, Kate</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Mid</td>
+         <td>Second</td>
+         <td>88</td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>88</th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canada-cup-women/2007">2007</a></td>
+         <td><a href="../../canada-cup-women">Canada Cup (Women)</a></td>
+         <td>Round Robin(9)</td>
+         <td>Kle 7 - Mid 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/webster-bronwen">Webster, Bronwen</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td>Kle</td>
+         <td>Second</td>
+         <td>81</td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canada Cup (Women) Total</th><th>81</th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

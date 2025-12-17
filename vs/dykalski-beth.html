@@ -1,0 +1,2016 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Beth Dykalski Head-to-head
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<div id="pvp">
+
+<div id="erickson-judy" class="d-none">
+  <h1>Dykalski, Beth vs Erickson, Judy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(8)</td>
+         <td>AB 9 - ON 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/erickson-judy">Erickson, Judy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/ab">AB</a></td>
+         <td>Third</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="gauthier-carmen" class="d-none">
+  <h1>Dykalski, Beth vs Gauthier, Carmen</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(11)</td>
+         <td>ON 10 - QC 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/gauthier-carmen">Gauthier, Carmen</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/qc">QC</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="hastings-sharon" class="d-none">
+  <h1>Dykalski, Beth vs Hastings, Sharon</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(9)</td>
+         <td>BC 4 - ON 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/hastings-sharon">Hastings, Sharon</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/bc">BC</a></td>
+         <td>Third</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="hutton-barb" class="d-none">
+  <h1>Dykalski, Beth vs Hutton, Barb</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(5)</td>
+         <td>ON 7 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/hutton-barb">Hutton, Barb</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/nb">NB</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="hutton-jane" class="d-none">
+  <h1>Dykalski, Beth vs Hutton, Jane</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(5)</td>
+         <td>ON 7 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/hutton-jane">Hutton, Jane</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/nb">NB</a></td>
+         <td>Second</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ingram-joan" class="d-none">
+  <h1>Dykalski, Beth vs Ingram, Joan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(3)</td>
+         <td>MB 7 - ON 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ingram-joan">Ingram, Joan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/mb">MB</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="james-elaine" class="d-none">
+  <h1>Dykalski, Beth vs James, Elaine</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(3)</td>
+         <td>MB 7 - ON 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/james-elaine">James, Elaine</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/mb">MB</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="leach-gloria" class="d-none">
+  <h1>Dykalski, Beth vs Leach, Gloria</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(4)</td>
+         <td>ON 11 - SK 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/leach-gloria">Leach, Gloria</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/sk">SK</a></td>
+         <td>Third</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="lepage-margot" class="d-none">
+  <h1>Dykalski, Beth vs Lepage, Margot</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(11)</td>
+         <td>ON 10 - QC 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/lepage-margot">Lepage, Margot</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/qc">QC</a></td>
+         <td>Second</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mccracken-betty" class="d-none">
+  <h1>Dykalski, Beth vs McCracken, Betty</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(8)</td>
+         <td>AB 9 - ON 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mccracken-betty">McCracken, Betty</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/ab">AB</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mckay-myrna" class="d-none">
+  <h1>Dykalski, Beth vs McKay, Myrna</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(8)</td>
+         <td>AB 9 - ON 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mckay-myrna">McKay, Myrna</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/ab">AB</a></td>
+         <td>Second</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mclean-wanda" class="d-none">
+  <h1>Dykalski, Beth vs McLean, Wanda</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(7)</td>
+         <td>PE 1 - ON 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mclean-wanda">McLean, Wanda</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/pe">PE</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="mellis-sheila" class="d-none">
+  <h1>Dykalski, Beth vs Mellis, Sheila</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(9)</td>
+         <td>BC 4 - ON 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/mellis-sheila">Mellis, Sheila</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/bc">BC</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="miles-elizabeth" class="d-none">
+  <h1>Dykalski, Beth vs Miles, Elizabeth</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(7)</td>
+         <td>PE 1 - ON 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/miles-elizabeth">Miles, Elizabeth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/pe">PE</a></td>
+         <td>Third</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="millar-beverly" class="d-none">
+  <h1>Dykalski, Beth vs Millar, Beverly</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(7)</td>
+         <td>PE 1 - ON 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/millar-beverly">Millar, Beverly</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/pe">PE</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="narduzzi-joyce" class="d-none">
+  <h1>Dykalski, Beth vs Narduzzi, Joyce</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(10)</td>
+         <td>ON 5 - NL 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/narduzzi-joyce">Narduzzi, Joyce</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/nl">NL</a></td>
+         <td>Second</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="paradis-marilyn" class="d-none">
+  <h1>Dykalski, Beth vs Paradis, Marilyn</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(6)</td>
+         <td>ON 5 - TR 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/paradis-marilyn">Paradis, Marilyn</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/tr">TR</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="parker-barbara" class="d-none">
+  <h1>Dykalski, Beth vs Parker, Barbara</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(9)</td>
+         <td>BC 4 - ON 7</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/parker-barbara">Parker, Barbara</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/bc">BC</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="seitz-susan" class="d-none">
+  <h1>Dykalski, Beth vs Seitz, Susan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(8)</td>
+         <td>AB 9 - ON 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/seitz-susan">Seitz, Susan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/ab">AB</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sekulich-doris" class="d-none">
+  <h1>Dykalski, Beth vs Sekulich, Doris</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(6)</td>
+         <td>ON 5 - TR 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sekulich-doris">Sekulich, Doris</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/tr">TR</a></td>
+         <td>Third</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="smith-beth" class="d-none">
+  <h1>Dykalski, Beth vs Smith, Beth</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(2)</td>
+         <td>NS 4 - ON 11</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/smith-beth">Smith, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/ns">NS</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="steele-nancy" class="d-none">
+  <h1>Dykalski, Beth vs Steele, Nancy</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(5)</td>
+         <td>ON 7 - NB 5</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/steele-nancy">Steele, Nancy</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/nb">NB</a></td>
+         <td>Third</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="sweatman-joan" class="d-none">
+  <h1>Dykalski, Beth vs Sweatman, Joan</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(4)</td>
+         <td>ON 11 - SK 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/sweatman-joan">Sweatman, Joan</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/sk">SK</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="syrota-delores" class="d-none">
+  <h1>Dykalski, Beth vs Syrota, Delores</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(4)</td>
+         <td>ON 11 - SK 4</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/syrota-delores">Syrota, Delores</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/sk">SK</a></td>
+         <td>Second</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="tremblay-micheline" class="d-none">
+  <h1>Dykalski, Beth vs Tremblay, Micheline</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(11)</td>
+         <td>ON 10 - QC 3</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/tremblay-micheline">Tremblay, Micheline</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/qc">QC</a></td>
+         <td>Fourth</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="ward-cecille" class="d-none">
+  <h1>Dykalski, Beth vs Ward, Cecille</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(6)</td>
+         <td>ON 5 - TR 6</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/ward-cecille">Ward, Cecille</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/tr">TR</a></td>
+         <td>Second</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="worth-norma" class="d-none">
+  <h1>Dykalski, Beth vs Worth, Norma</h1>
+  <div class="row">
+    <div class="col-sm">
+      <h2><a href="../../players/dykalski-beth">Dykalski, Beth</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/on">ON</a></td>
+         <td>Lead</td>
+         <td></td>
+         <td><i class="fa fa-check" aria-hidden="true"></i></td>
+         <td></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>1</th><th>0</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2>Games</h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Year</th><th>Event</th><th>Draw</th><th>Score</th></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/1981">1981</a></td>
+         <td><a href="../../canadian-women">Canadian Women</a></td>
+         <td>Round Robin(7)</td>
+         <td>PE 1 - ON 9</td>
+        </tr>
+
+        </tbody>
+        <tfoot></tfoot>
+      </table>
+    </div>
+    <div class="col-sm">
+      <h2><a href="../../players/worth-norma">Worth, Norma</a></h2>
+      <table class="table table-striped table-hover">
+        <thead><tr><th>Team</th><th>Position</th><th>Pct</th><th>Win</th><th>Loss</th></tr></thead>
+        <tbody>
+
+        <tr>
+         <td><a href="../../canadian-women/team/pe">PE</a></td>
+         <td>Second</td>
+         <td></td>
+         <td></td>
+         <td><i class="fa fa-times" aria-hidden="true"></i></td>
+        </tr>
+
+        </tbody>
+        <tfoot>
+
+          <tr><th colspan="2">Canadian Women Total</th><th></th><th>0</th><th>1</th></tr>
+
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

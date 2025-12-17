@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Gail Shields
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Gail Shields <i class="fe fe-user-plus" data-name="Shields, Gail" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../hearts/1985">1985</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NB"><a href="../hearts/team/nb">NB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>2</td>
+  <td>8</td>
+  <td>85</td>
+  <td>60</td>
+  <td>97</td>
+  <td>57</td>
+  <td>79</td>
+  <td>49</td>
+  <td>103</td>
+  <td>66</td>
+  <td>182</td>
+  <td>58</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1987">1987</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NB"><a href="../hearts/team/nb">NB</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>4</td>
+  <td>7</td>
+  <td>94</td>
+  <td>63</td>
+  <td>106</td>
+  <td>62</td>
+  <td>78</td>
+  <td>65</td>
+  <td>122</td>
+  <td>61</td>
+  <td>200</td>
+  <td>63</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>21</td>
+  <td>6</td>
+  <td>15</td>
+  <td>179</td>
+  <td>62</td>
+  <td>203</td>
+  <td>59</td>
+  <td>157</td>
+  <td>57</td>
+  <td>225</td>
+  <td>63</td>
+  <td>382</td>
+  <td>61</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/allardyce-kathie#shields-gail">Allardyce, Kathie</option>
+
+
+      <option value="/vs/asham-sandra#shields-gail">Asham, Sandra</option>
+
+
+      <option value="/vs/aucoin-shelley#shields-gail">Aucoin, Shelley</option>
+
+
+      <option value="/vs/augustyn-jan#shields-gail">Augustyn, Jan</option>
+
+
+      <option value="/vs/balderston-marcy#shields-gail">Balderston, Marcy</option>
+
+
+      <option value="/vs/bartlett-sue-ann#shields-gail">Bartlett, Sue Ann</option>
+
+
+      <option value="/vs/beaudin-yvonne#shields-gail">Beaudin, Yvonne</option>
+
+
+      <option value="/vs/bell-mary-susan#shields-gail">Bell, Mary Susan</option>
+
+
+      <option value="/vs/betker-jan#shields-gail">Betker, Jan</option>
+
+
+      <option value="/vs/bildfell-shelly#shields-gail">Bildfell, Shelly</option>
+
+
+      <option value="/vs/bodogh-marilyn#shields-gail">Bodogh, Marilyn</option>
+
+
+      <option value="/vs/bowering-andrea#shields-gail">Bowering, Andrea</option>
+
+
+      <option value="/vs/brousseau-deb#shields-gail">Brousseau, Deb</option>
+
+
+      <option value="/vs/burkitt-maureen#shields-gail">Burkitt, Maureen</option>
+
+
+      <option value="/vs/burry-gail#shields-gail">Burry, Gail</option>
+
+
+      <option value="/vs/cameron-nancy#shields-gail">Cameron, Nancy</option>
+
+
+      <option value="/vs/carney-laurie#shields-gail">Carney, Laurie</option>
+
+
+      <option value="/vs/chapman-kathy#shields-gail">Chapman, Kathy</option>
+
+
+      <option value="/vs/corbin-nicole#shields-gail">Corbin, Nicole</option>
+
+
+      <option value="/vs/crocker-cindy#shields-gail">Crocker, Cindy</option>
+
+
+      <option value="/vs/cutcliffe-margaret#shields-gail">Cutcliffe, Margaret</option>
+
+
+      <option value="/vs/darbyshire-carolyn#shields-gail">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/darbyshire-merline#shields-gail">Darbyshire, Merline</option>
+
+
+      <option value="/vs/dauphinais-josee#shields-gail">Dauphinais, Josee</option>
+
+
+      <option value="/vs/dillon-cathy#shields-gail">Dillon, Cathy</option>
+
+
+      <option value="/vs/dolan-kim#shields-gail">Dolan, Kim</option>
+
+
+      <option value="/vs/duck-kim#shields-gail">Duck, Kim</option>
+
+
+      <option value="/vs/dunn-anne#shields-gail">Dunn, Anne</option>
+
+
+      <option value="/vs/duranceau-mary#shields-gail">Duranceau, Mary</option>
+
+
+      <option value="/vs/dwyer-patricia#shields-gail">Dwyer, Patricia</option>
+
+
+      <option value="/vs/ellwood-laurie#shields-gail">Ellwood, Laurie</option>
+
+
+      <option value="/vs/erickson-judy#shields-gail">Erickson, Judy</option>
+
+
+      <option value="/vs/fahlman-kathy#shields-gail">Fahlman, Kathy</option>
+
+
+      <option value="/vs/ferland-marie#shields-gail">Ferland, Marie</option>
+
+
+      <option value="/vs/filion-nicole#shields-gail">Filion, Nicole</option>
+
+
+      <option value="/vs/gallant-kathie#shields-gail">Gallant, Kathie</option>
+
+
+      <option value="/vs/gould-karen#shields-gail">Gould, Karen</option>
+
+
+      <option value="/vs/graham-julie#shields-gail">Graham, Julie</option>
+
+
+      <option value="/vs/herlinveaux-louise#shields-gail">Herlinveaux, Louise</option>
+
+
+      <option value="/vs/hutchinson-joan#shields-gail">Hutchinson, Joan</option>
+
+
+      <option value="/vs/jackson-sherry#shields-gail">Jackson, Sherry</option>
+
+
+      <option value="/vs/jackson-virginia#shields-gail">Jackson, Virginia</option>
+
+
+      <option value="/vs/jones-karen#shields-gail">Jones, Karen</option>
+
+
+      <option value="/vs/jones-walker-debbie#shields-gail">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/jurgenson-christine#shields-gail">Jurgenson, Christine</option>
+
+
+      <option value="/vs/kerr-kathy#shields-gail">Kerr, Kathy</option>
+
+
+      <option value="/vs/knickle-margie#shields-gail">Knickle, Margie</option>
+
+
+      <option value="/vs/lamarre-june#shields-gail">Lamarre, June</option>
+
+
+      <option value="/vs/leavitt-pam#shields-gail">Leavitt, Pam</option>
+
+
+      <option value="/vs/lukowich-judy#shields-gail">Lukowich, Judy</option>
+
+
+      <option value="/vs/macdonald-karen#shields-gail">MacDonald, Karen</option>
+
+
+      <option value="/vs/maclean-jean#shields-gail">MacLean, Jean</option>
+
+
+      <option value="/vs/mainwaring-bev#shields-gail">Mainwaring, Bev</option>
+
+
+      <option value="/vs/marchuk-lindy#shields-gail">Marchuk, Lindy</option>
+
+
+      <option value="/vs/massullo-deb#shields-gail">Massullo, Deb</option>
+
+
+      <option value="/vs/mccracken-betty#shields-gail">McCracken, Betty</option>
+
+
+      <option value="/vs/mccrae-elizabeth#shields-gail">McCrae, Elizabeth</option>
+
+
+      <option value="/vs/mccrae-louise#shields-gail">McCrae, Louise</option>
+
+
+      <option value="/vs/mcdonald-tina#shields-gail">McDonald, Tina</option>
+
+
+      <option value="/vs/mcedwards-kathy#shields-gail">McEdwards, Kathy</option>
+
+
+      <option value="/vs/moore-linda#shields-gail">Moore, Linda</option>
+
+
+      <option value="/vs/muzika-shelley#shields-gail">Muzika, Shelley</option>
+
+
+      <option value="/vs/porter-debbie#shields-gail">Porter, Debbie</option>
+
+
+      <option value="/vs/rintoul-jacki#shields-gail">Rintoul, Jacki</option>
+
+
+      <option value="/vs/rowan-sheila#shields-gail">Rowan, Sheila</option>
+
+
+      <option value="/vs/sanders-pat#shields-gail">Sanders, Pat</option>
+
+
+      <option value="/vs/savill-jarron#shields-gail">Savill, Jarron</option>
+
+
+      <option value="/vs/schmirler-sandra#shields-gail">Schmirler, Sandra</option>
+
+
+      <option value="/vs/schneider-sheila#shields-gail">Schneider, Sheila</option>
+
+
+      <option value="/vs/scott-donna#shields-gail">Scott, Donna</option>
+
+
+      <option value="/vs/seitz-susan#shields-gail">Seitz, Susan</option>
+
+
+      <option value="/vs/shields-gail#sparkes-lindsay">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/shields-gail#stokes-debbie">Stokes, Debbie</option>
+
+
+      <option value="/vs/shields-gail#thompson-carol">Thompson, Carol</option>
+
+
+      <option value="/vs/shields-gail#tousignant-helene">Tousignant, Helene</option>
+
+
+      <option value="/vs/shields-gail#treloar-cathy">Treloar, Cathy</option>
+
+
+      <option value="/vs/shields-gail#twa-dale">Twa, Dale</option>
+
+
+      <option value="/vs/shields-gail#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/shields-gail#wilson-eileen">Wilson, Eileen</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,820 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Patti Wuthrich
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Patti Wuthrich <i class="fe fe-user-plus" data-name="Wuthrich, Patti" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1978">1978</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="MB"><a href="../canadian-women/team/mb">MB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1979">1979</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="MB"><a href="../canadian-women/team/mb">MB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1980">1980</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="MB"><a href="../canadian-women/team/mb">MB</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>4</td>
+  <td>6</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1983">1983</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>70</td>
+  <td>72</td>
+  <td>128</td>
+  <td>67</td>
+  <td>88</td>
+  <td>72</td>
+  <td>110</td>
+  <td>65</td>
+  <td>198</td>
+  <td>68</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../hearts/1996">1996</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+5
+">
+<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canadian Women Totals</td>
+  <td>33</td>
+  <td>20</td>
+  <td>13</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>70</td>
+  <td>72</td>
+  <td>128</td>
+  <td>67</td>
+  <td>88</td>
+  <td>72</td>
+  <td>110</td>
+  <td>65</td>
+  <td>198</td>
+  <td>68</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+<p><i class="fa fa-asterisk" aria-hidden="true"></i> Alternate on Initial Lineup</p>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-valerie#wuthrich-patti">Adams, Valerie</option>
+
+
+      <option value="/vs/alexander-donna#wuthrich-patti">Alexander, Donna</option>
+
+
+      <option value="/vs/axford-lynne#wuthrich-patti">Axford, Lynne</option>
+
+
+      <option value="/vs/bartlett-sue-ann#wuthrich-patti">Bartlett, Sue Ann</option>
+
+
+      <option value="/vs/basha-gloria#wuthrich-patti">Basha, Gloria</option>
+
+
+      <option value="/vs/basha-marion#wuthrich-patti">Basha, Marion</option>
+
+
+      <option value="/vs/bildfell-shelly#wuthrich-patti">Bildfell, Shelly</option>
+
+
+      <option value="/vs/bint-nancy#wuthrich-patti">Bint, Nancy</option>
+
+
+      <option value="/vs/bodogh-christine#wuthrich-patti">Bodogh, Christine</option>
+
+
+      <option value="/vs/bodogh-marilyn#wuthrich-patti">Bodogh, Marilyn</option>
+
+
+      <option value="/vs/bothwell-myers-connie#wuthrich-patti">Bothwell-Myers, Connie</option>
+
+
+      <option value="/vs/bowes-lorraine#wuthrich-patti">Bowes, Lorraine</option>
+
+
+      <option value="/vs/bowles-lorraine#wuthrich-patti">Bowles, Lorraine</option>
+
+
+      <option value="/vs/brawley-sandra#wuthrich-patti">Brawley, Sandra</option>
+
+
+      <option value="/vs/brooks-lee#wuthrich-patti">Brooks, Lee</option>
+
+
+      <option value="/vs/brown-joan#wuthrich-patti">Brown, Joan</option>
+
+
+      <option value="/vs/butt-joyce#wuthrich-patti">Butt, Joyce</option>
+
+
+      <option value="/vs/chalmers-jane#wuthrich-patti">Chalmers, Jane</option>
+
+
+      <option value="/vs/charette-agnes#wuthrich-patti">Charette, Agnes</option>
+
+
+      <option value="/vs/clifford-marion#wuthrich-patti">Clifford, Marion</option>
+
+
+      <option value="/vs/cole-betty#wuthrich-patti">Cole, Betty</option>
+
+
+      <option value="/vs/conrad-wendy#wuthrich-patti">Conrad, Wendy</option>
+
+
+      <option value="/vs/crocker-rene#wuthrich-patti">Crocker, Rene</option>
+
+
+      <option value="/vs/crocker-ruby#wuthrich-patti">Crocker, Ruby</option>
+
+
+      <option value="/vs/crowe-dorothy#wuthrich-patti">Crowe, Dorothy</option>
+
+
+      <option value="/vs/cutcliffe-ruth#wuthrich-patti">Cutcliffe, Ruth</option>
+
+
+      <option value="/vs/davis-barb#wuthrich-patti">Davis, Barb</option>
+
+
+      <option value="/vs/davison-louise#wuthrich-patti">Davison, Louise</option>
+
+
+      <option value="/vs/delage-ann#wuthrich-patti">Delage, Ann</option>
+
+
+      <option value="/vs/delmage-dora#wuthrich-patti">Delmage, Dora</option>
+
+
+      <option value="/vs/delorenzi-marlene#wuthrich-patti">Delorenzi, Marlene</option>
+
+
+      <option value="/vs/deschatelets-guylaine#wuthrich-patti">Deschatelets, Guylaine</option>
+
+
+      <option value="/vs/despins-barbara#wuthrich-patti">Despins, Barbara</option>
+
+
+      <option value="/vs/dexter-joan#wuthrich-patti">Dexter, Joan</option>
+
+
+      <option value="/vs/dillon-cathy#wuthrich-patti">Dillon, Cathy</option>
+
+
+      <option value="/vs/dolan-kim#wuthrich-patti">Dolan, Kim</option>
+
+
+      <option value="/vs/donald-grace#wuthrich-patti">Donald, Grace</option>
+
+
+      <option value="/vs/donnelly-brenda#wuthrich-patti">Donnelly, Brenda</option>
+
+
+      <option value="/vs/dwyer-patricia#wuthrich-patti">Dwyer, Patricia</option>
+
+
+      <option value="/vs/fairweather-betty#wuthrich-patti">Fairweather, Betty</option>
+
+
+      <option value="/vs/farkas-elaine#wuthrich-patti">Farkas, Elaine</option>
+
+
+      <option value="/vs/fisk-shirley#wuthrich-patti">Fisk, Shirley</option>
+
+
+      <option value="/vs/fuller-lynn#wuthrich-patti">Fuller, Lynn</option>
+
+
+      <option value="/vs/gallant-kathie#wuthrich-patti">Gallant, Kathie</option>
+
+
+      <option value="/vs/gammon-shirley#wuthrich-patti">Gammon, Shirley</option>
+
+
+      <option value="/vs/gardiner-faye#wuthrich-patti">Gardiner, Faye</option>
+
+
+      <option value="/vs/gellard-mary#wuthrich-patti">Gellard, Mary</option>
+
+
+      <option value="/vs/gemmell-liz#wuthrich-patti">Gemmell, Liz</option>
+
+
+      <option value="/vs/goodman-charlene#wuthrich-patti">Goodman, Charlene</option>
+
+
+      <option value="/vs/goodyear-una#wuthrich-patti">Goodyear, Una</option>
+
+
+      <option value="/vs/goule-susan#wuthrich-patti">Goule, Susan</option>
+
+
+      <option value="/vs/haywood-heather#wuthrich-patti">Haywood, Heather</option>
+
+
+      <option value="/vs/horne-sharon#wuthrich-patti">Horne, Sharon</option>
+
+
+      <option value="/vs/jenkins-sandra#wuthrich-patti">Jenkins, Sandra</option>
+
+
+      <option value="/vs/johnston-joan#wuthrich-patti">Johnston, Joan</option>
+
+
+      <option value="/vs/jones-barbara#wuthrich-patti">Jones, Barbara</option>
+
+
+      <option value="/vs/jones-colleen#wuthrich-patti">Jones, Colleen</option>
+
+
+      <option value="/vs/kardash-delaine#wuthrich-patti">Kardash, Delaine</option>
+
+
+      <option value="/vs/keays-stella#wuthrich-patti">Keays, Stella</option>
+
+
+      <option value="/vs/kennah-elvera#wuthrich-patti">Kennah, Elvera</option>
+
+
+      <option value="/vs/kerr-heather#wuthrich-patti">Kerr, Heather</option>
+
+
+      <option value="/vs/kerr-nancy#wuthrich-patti">Kerr, Nancy</option>
+
+
+      <option value="/vs/knickle-margaret#wuthrich-patti">Knickle, Margaret</option>
+
+
+      <option value="/vs/knowles-dawn#wuthrich-patti">Knowles, Dawn</option>
+
+
+      <option value="/vs/labelle-nicole#wuthrich-patti">Labelle, Nicole</option>
+
+
+      <option value="/vs/lang-lorraine#wuthrich-patti">Lang, Lorraine</option>
+
+
+      <option value="/vs/larocque-penny#wuthrich-patti">LaRocque, Penny</option>
+
+
+      <option value="/vs/lavigne-denise#wuthrich-patti">Lavigne, Denise</option>
+
+
+      <option value="/vs/lavigne-lillian#wuthrich-patti">Lavigne, Lillian</option>
+
+
+      <option value="/vs/leach-wendy#wuthrich-patti">Leach, Wendy</option>
+
+
+      <option value="/vs/lecraw-carolyn#wuthrich-patti">LeCraw, Carolyn</option>
+
+
+      <option value="/vs/lethbridge-sherry#wuthrich-patti">Lethbridge, Sherry</option>
+
+
+      <option value="/vs/linton-marlene#wuthrich-patti">Linton, Marlene</option>
+
+
+      <option value="/vs/logan-louise#wuthrich-patti">Logan, Louise</option>
+
+
+      <option value="/vs/lynn-diana#wuthrich-patti">Lynn, Diana</option>
+
+
+      <option value="/vs/macdonald-karen#wuthrich-patti">MacDonald, Karen</option>
+
+
+      <option value="/vs/mackay-carolyn#wuthrich-patti">MacKay, Carolyn</option>
+
+
+      <option value="/vs/maclean-jean#wuthrich-patti">MacLean, Jean</option>
+
+
+      <option value="/vs/maher-pat#wuthrich-patti">Maher, Pat</option>
+
+
+      <option value="/vs/marcotte-nicole#wuthrich-patti">Marcotte, Nicole</option>
+
+
+      <option value="/vs/martin-lillian#wuthrich-patti">Martin, Lillian</option>
+
+
+      <option value="/vs/mccallan-bernice#wuthrich-patti">McCallan, Bernice</option>
+
+
+      <option value="/vs/mccallan-berniece#wuthrich-patti">McCallan, Berniece</option>
+
+
+      <option value="/vs/mccrae-elizabeth#wuthrich-patti">McCrae, Elizabeth</option>
+
+
+      <option value="/vs/mccrae-louise#wuthrich-patti">McCrae, Louise</option>
+
+
+      <option value="/vs/mccubbin-sandy#wuthrich-patti">McCubbin, Sandy</option>
+
+
+      <option value="/vs/mcdermott-karen#wuthrich-patti">McDermott, Karen</option>
+
+
+      <option value="/vs/mcgarvey-anne#wuthrich-patti">McGarvey, Anne</option>
+
+
+      <option value="/vs/mckendry-shirley#wuthrich-patti">McKendry, Shirley</option>
+
+
+      <option value="/vs/mclure-wilma#wuthrich-patti">McLure, Wilma</option>
+
+
+      <option value="/vs/mcquarrie-myrna#wuthrich-patti">McQuarrie, Myrna</option>
+
+
+      <option value="/vs/mitchell-marg#wuthrich-patti">Mitchell, Marg</option>
+
+
+      <option value="/vs/miyashita-joyce#wuthrich-patti">Miyashita, Joyce</option>
+
+
+      <option value="/vs/murray-charmaine#wuthrich-patti">Murray, Charmaine</option>
+
+
+      <option value="/vs/narduzzi-joyce#wuthrich-patti">Narduzzi, Joyce</option>
+
+
+      <option value="/vs/norton-sandi#wuthrich-patti">Norton, Sandi</option>
+
+
+      <option value="/vs/o-malley-carmel#wuthrich-patti">O'Malley, Carmel</option>
+
+
+      <option value="/vs/orser-anne#wuthrich-patti">Orser, Anne</option>
+
+
+      <option value="/vs/paradis-marilyn#wuthrich-patti">Paradis, Marilyn</option>
+
+
+      <option value="/vs/pike-mavis#wuthrich-patti">Pike, Mavis</option>
+
+
+      <option value="/vs/pilling-gayle#wuthrich-patti">Pilling, Gayle</option>
+
+
+      <option value="/vs/pinsent-barbara#wuthrich-patti">Pinsent, Barbara</option>
+
+
+      <option value="/vs/power-marie-anne#wuthrich-patti">Power, Marie-Anne</option>
+
+
+      <option value="/vs/provo-anne#wuthrich-patti">Provo, Anne</option>
+
+
+      <option value="/vs/quesnell-norma#wuthrich-patti">Quesnell, Norma</option>
+
+
+      <option value="/vs/raby-odette#wuthrich-patti">Raby, Odette</option>
+
+
+      <option value="/vs/randall-katherine#wuthrich-patti">Randall, Katherine</option>
+
+
+      <option value="/vs/rayworth-bonnie-anne#wuthrich-patti">Rayworth, Bonnie Anne</option>
+
+
+      <option value="/vs/reid-patricia#wuthrich-patti">Reid, Patricia</option>
+
+
+      <option value="/vs/rempel-jane#wuthrich-patti">Rempel, Jane</option>
+
+
+      <option value="/vs/robinson-julia#wuthrich-patti">Robinson, Julia</option>
+
+
+      <option value="/vs/rowan-sheila#wuthrich-patti">Rowan, Sheila</option>
+
+
+      <option value="/vs/ryan-penny#wuthrich-patti">Ryan, Penny</option>
+
+
+      <option value="/vs/sanford-pamela#wuthrich-patti">Sanford, Pamela</option>
+
+
+      <option value="/vs/saunders-sally-jane#wuthrich-patti">Saunders, Sally Jane</option>
+
+
+      <option value="/vs/schnarr-ilona#wuthrich-patti">Schnarr, Ilona</option>
+
+
+      <option value="/vs/schroter-amber#wuthrich-patti">Schroter, Amber</option>
+
+
+      <option value="/vs/sefton-judy#wuthrich-patti">Sefton, Judy</option>
+
+
+      <option value="/vs/sekulich-doris#wuthrich-patti">Sekulich, Doris</option>
+
+
+      <option value="/vs/seltzer-sheila#wuthrich-patti">Seltzer, Sheila</option>
+
+
+      <option value="/vs/shaw-cathy#wuthrich-patti">Shaw, Cathy</option>
+
+
+      <option value="/vs/shaw-gisele#wuthrich-patti">Shaw, Gisele</option>
+
+
+      <option value="/vs/shutt-brenda#wuthrich-patti">Shutt, Brenda</option>
+
+
+      <option value="/vs/snihur-shirley#wuthrich-patti">Snihur, Shirley</option>
+
+
+      <option value="/vs/sparkes-lindsay#wuthrich-patti">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/stoyka-linda#wuthrich-patti">Stoyka, Linda</option>
+
+
+      <option value="/vs/summach-diana#wuthrich-patti">Summach, Diana</option>
+
+
+      <option value="/vs/sutherland-marilyn#wuthrich-patti">Sutherland, Marilyn</option>
+
+
+      <option value="/vs/thompson-elayne#wuthrich-patti">Thompson, Elayne</option>
+
+
+      <option value="/vs/thompson-louise#wuthrich-patti">Thompson, Louise</option>
+
+
+      <option value="/vs/topp-carole#wuthrich-patti">Topp, Carole</option>
+
+
+      <option value="/vs/turney-nancy#wuthrich-patti">Turney, Nancy</option>
+
+
+      <option value="/vs/twa-dale#wuthrich-patti">Twa, Dale</option>
+
+
+      <option value="/vs/walter-cathy#wuthrich-patti">Walter, Cathy</option>
+
+
+      <option value="/vs/ward-cecille#wuthrich-patti">Ward, Cecille</option>
+
+
+      <option value="/vs/webster-holly#wuthrich-patti">Webster, Holly</option>
+
+
+      <option value="/vs/whitlock-margaret#wuthrich-patti">Whitlock, Margaret</option>
+
+
+      <option value="/vs/whitten-beverley#wuthrich-patti">Whitten, Beverley</option>
+
+
+      <option value="/vs/wilson-robin#wuthrich-patti">Wilson, Robin</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

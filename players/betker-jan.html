@@ -1,0 +1,1537 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Jan Betker
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Jan Betker <i class="fe fe-user-plus" data-name="Betker, Jan" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2005">2005</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Bet">Bet</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>62</td>
+  <td>77</td>
+  <td>76</td>
+  <td>77</td>
+  <td>67</td>
+  <td>74</td>
+  <td>71</td>
+  <td>80</td>
+  <td>138</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2006">2006</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Bet">Bet</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>49</td>
+  <td>76</td>
+  <td>39</td>
+  <td>76</td>
+  <td>40</td>
+  <td>74</td>
+  <td>48</td>
+  <td>77</td>
+  <td>88</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1987">1987</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>109</td>
+  <td>79</td>
+  <td>113</td>
+  <td>79</td>
+  <td>86</td>
+  <td>84</td>
+  <td>136</td>
+  <td>76</td>
+  <td>222</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1991">1991</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>139</td>
+  <td>72</td>
+  <td>107</td>
+  <td>74</td>
+  <td>103</td>
+  <td>65</td>
+  <td>143</td>
+  <td>79</td>
+  <td>246</td>
+  <td>73</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1993">1993</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>140</td>
+  <td>79</td>
+  <td>91</td>
+  <td>77</td>
+  <td>93</td>
+  <td>81</td>
+  <td>138</td>
+  <td>77</td>
+  <td>231</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1994">1994</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>12</td>
+  <td>11</td>
+  <td>1</td>
+  <td>134</td>
+  <td>84</td>
+  <td>88</td>
+  <td>81</td>
+  <td>70</td>
+  <td>77</td>
+  <td>152</td>
+  <td>86</td>
+  <td>222</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1995">1995</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>166</td>
+  <td>83</td>
+  <td>90</td>
+  <td>79</td>
+  <td>93</td>
+  <td>73</td>
+  <td>163</td>
+  <td>86</td>
+  <td>256</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1997">1997</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>132</td>
+  <td>82</td>
+  <td>92</td>
+  <td>85</td>
+  <td>70</td>
+  <td>76</td>
+  <td>154</td>
+  <td>86</td>
+  <td>224</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1998">1998</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>125</td>
+  <td>85</td>
+  <td>101</td>
+  <td>84</td>
+  <td>66</td>
+  <td>80</td>
+  <td>160</td>
+  <td>86</td>
+  <td>226</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2003">2003</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>117</td>
+  <td>77</td>
+  <td>105</td>
+  <td>72</td>
+  <td>82</td>
+  <td>73</td>
+  <td>140</td>
+  <td>75</td>
+  <td>222</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2007">2007</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="SK"><a href="../hearts/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>120</td>
+  <td>80</td>
+  <td>105</td>
+  <td>80</td>
+  <td>105</td>
+  <td>77</td>
+  <td>120</td>
+  <td>83</td>
+  <td>225</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/1997">1997</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="SCHM">SCHM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>117</td>
+  <td>84</td>
+  <td>77</td>
+  <td>82</td>
+  <td>75</td>
+  <td>79</td>
+  <td>119</td>
+  <td>87</td>
+  <td>194</td>
+  <td>84</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../trials-women/2001">2001</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="HOL">HOL</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2005">2005</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="BET">BET</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>4</td>
+  <td>5</td>
+  <td>90</td>
+  <td>74</td>
+  <td>66</td>
+  <td>67</td>
+  <td>76</td>
+  <td>67</td>
+  <td>80</td>
+  <td>75</td>
+  <td>156</td>
+  <td>71</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>12</td>
+  <td>9</td>
+  <td>3</td>
+  <td>111</td>
+  <td>76</td>
+  <td>115</td>
+  <td>77</td>
+  <td>107</td>
+  <td>74</td>
+  <td>119</td>
+  <td>79</td>
+  <td>226</td>
+  <td>77</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>113</td>
+  <td>80</td>
+  <td>33</td>
+  <td>1182</td>
+  <td>80</td>
+  <td>892</td>
+  <td>79</td>
+  <td>768</td>
+  <td>76</td>
+  <td>1306</td>
+  <td>82</td>
+  <td>2074</td>
+  <td>80</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>19</td>
+  <td>12</td>
+  <td>7</td>
+  <td>207</td>
+  <td>80</td>
+  <td>143</td>
+  <td>76</td>
+  <td>151</td>
+  <td>73</td>
+  <td>199</td>
+  <td>82</td>
+  <td>350</td>
+  <td>78</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-diane#betker-jan">Adams, Diane</option>
+
+
+      <option value="/vs/aleksic-shannon#betker-jan">Aleksic, Shannon</option>
+
+
+      <option value="/vs/alexander-diane#betker-jan">Alexander, Diane</option>
+
+
+      <option value="/vs/allardyce-kathie#betker-jan">Allardyce, Kathie</option>
+
+
+      <option value="/vs/allen-laurie#betker-jan">Allen, Laurie</option>
+
+
+      <option value="/vs/anderson-sherry#betker-jan">Anderson, Sherry</option>
+
+
+      <option value="/vs/arnott-janet#betker-jan">Arnott, Janet</option>
+
+
+      <option value="/vs/arsenault-mary-anne#betker-jan">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/arseneau-jane#betker-jan">Arseneau, Jane</option>
+
+
+      <option value="/vs/asham-sandra#betker-jan">Asham, Sandra</option>
+
+
+      <option value="/vs/aucoin-shelley#betker-jan">Aucoin, Shelley</option>
+
+
+      <option value="/vs/augustyn-jan#betker-jan">Augustyn, Jan</option>
+
+
+      <option value="/vs/baker-rose-marie#betker-jan">Baker, Rose-Marie</option>
+
+
+      <option value="/vs/bakker-glenys#betker-jan">Bakker, Glenys</option>
+
+
+      <option value="/vs/balderston-marcy#betker-jan">Balderston, Marcy</option>
+
+
+      <option value="/vs/beever-jocelyn#betker-jan">Beever, Jocelyn</option>
+
+
+      <option value="/vs/bell-allyson#betker-jan">Bell, Allyson</option>
+
+
+      <option value="/vs/bell-chelsey#betker-jan">Bell, Chelsey</option>
+
+
+      <option value="/vs/belley-joelle#betker-jan">Belley, Joelle</option>
+
+
+      <option value="/vs/bernard-cheryl#betker-jan">Bernard, Cheryl</option>
+
+
+      <option value="/vs/betker-jan#beveridge-corie">Beveridge, Corie</option>
+
+
+      <option value="/vs/betker-jan#birt-suzanne">Birt, Suzanne</option>
+
+
+      <option value="/vs/betker-jan#blackburn-julie">Blackburn, Julie</option>
+
+
+      <option value="/vs/betker-jan#blair-diane">Blair, Diane</option>
+
+
+      <option value="/vs/betker-jan#blanchard-judy">Blanchard, Judy</option>
+
+
+      <option value="/vs/betker-jan#bodogh-marilyn">Bodogh, Marilyn</option>
+
+
+      <option value="/vs/betker-jan#bohmer-brenda">Bohmer, Brenda</option>
+
+
+      <option value="/vs/betker-jan#boily-caroline">Boily, Caroline</option>
+
+
+      <option value="/vs/betker-jan#bonar-maureen">Bonar, Maureen</option>
+
+
+      <option value="/vs/betker-jan#bowering-andrea">Bowering, Andrea</option>
+
+
+      <option value="/vs/betker-jan#bowman-mary">Bowman, Mary</option>
+
+
+      <option value="/vs/betker-jan#bradley-shelley">Bradley, Shelley</option>
+
+
+      <option value="/vs/betker-jan#breen-theresa">Breen, Theresa</option>
+
+
+      <option value="/vs/betker-jan#brophy-kathy">Brophy, Kathy</option>
+
+
+      <option value="/vs/betker-jan#brothers-jillian">Brothers, Jillian</option>
+
+
+      <option value="/vs/betker-jan#brown-maureen">Brown, Maureen</option>
+
+
+      <option value="/vs/betker-jan#bruce-twyla">Bruce, Twyla</option>
+
+
+      <option value="/vs/betker-jan#bryant-angie">Bryant, Angie</option>
+
+
+      <option value="/vs/betker-jan#burgess-carey">Burgess, Carey</option>
+
+
+      <option value="/vs/betker-jan#burlington-cheryl">Burlington, Cheryl</option>
+
+
+      <option value="/vs/betker-jan#burry-gail">Burry, Gail</option>
+
+
+      <option value="/vs/betker-jan#bush-tracy">Bush, Tracy</option>
+
+
+      <option value="/vs/betker-jan#byers-denise">Byers, Denise</option>
+
+
+      <option value="/vs/betker-jan#cameron-nancy">Cameron, Nancy</option>
+
+
+      <option value="/vs/betker-jan#campbell-gloria">Campbell, Gloria</option>
+
+
+      <option value="/vs/betker-jan#campbell-june">Campbell, June</option>
+
+
+      <option value="/vs/betker-jan#carlos-marie-claude">Carlos, Marie-Claude</option>
+
+
+      <option value="/vs/betker-jan#carter-sasha">Carter, Sasha</option>
+
+
+      <option value="/vs/betker-jan#chapman-kathy">Chapman, Kathy</option>
+
+
+      <option value="/vs/betker-jan#charette-agnes">Charette, Agnes</option>
+
+
+      <option value="/vs/betker-jan#charette-france">Charette, France</option>
+
+
+      <option value="/vs/betker-jan#clark-stefanie">Clark, Stefanie</option>
+
+
+      <option value="/vs/betker-jan#clarke-hayley">Clarke, Hayley</option>
+
+
+      <option value="/vs/betker-jan#comeau-sandy">Comeau, Sandy</option>
+
+
+      <option value="/vs/betker-jan#copeland-rae-ann">Copeland, Rae Ann</option>
+
+
+      <option value="/vs/betker-jan#corbin-nicole">Corbin, Nicole</option>
+
+
+      <option value="/vs/betker-jan#cordina-sheri">Cordina, Sheri</option>
+
+
+      <option value="/vs/betker-jan#cormier-sharon">Cormier, Sharon</option>
+
+
+      <option value="/vs/betker-jan#couling-betty">Couling, Betty</option>
+
+
+      <option value="/vs/betker-jan#crispo-guylaine">Crispo, Guylaine</option>
+
+
+      <option value="/vs/betker-jan#crocker-cindy">Crocker, Cindy</option>
+
+
+      <option value="/vs/betker-jan#cunningham-cathy">Cunningham, Cathy</option>
+
+
+      <option value="/vs/betker-jan#currie-wendy">Currie, Wendy</option>
+
+
+      <option value="/vs/betker-jan#cutcliffe-margaret">Cutcliffe, Margaret</option>
+
+
+      <option value="/vs/betker-jan#daku-karen">Daku, Karen</option>
+
+
+      <option value="/vs/betker-jan#dalio-diane">Dalio, Diane</option>
+
+
+      <option value="/vs/betker-jan#daniel-sylvie">Daniel, Sylvie</option>
+
+
+      <option value="/vs/betker-jan#darbyshire-carolyn">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/betker-jan#dauphinais-josee">Dauphinais, Josee</option>
+
+
+      <option value="/vs/betker-jan#delahunt-nancy">Delahunt, Nancy</option>
+
+
+      <option value="/vs/betker-jan#derick-catherine">Derick, Catherine</option>
+
+
+      <option value="/vs/betker-jan#dolan-kim">Dolan, Kim</option>
+
+
+      <option value="/vs/betker-jan#duck-kim">Duck, Kim</option>
+
+
+      <option value="/vs/betker-jan#dunn-anne">Dunn, Anne</option>
+
+
+      <option value="/vs/betker-jan#eddy-lori">Eddy, Lori</option>
+
+
+      <option value="/vs/betker-jan#ellwood-laurie">Ellwood, Laurie</option>
+
+
+      <option value="/vs/betker-jan#englot-michelle">Englot, Michelle</option>
+
+
+      <option value="/vs/betker-jan#enright-barb">Enright, Barb</option>
+
+
+      <option value="/vs/betker-jan#farrell-allison">Farrell, Allison</option>
+
+
+      <option value="/vs/betker-jan#ferland-marie">Ferland, Marie</option>
+
+
+      <option value="/vs/betker-jan#fister-teri">Fister, Teri</option>
+
+
+      <option value="/vs/betker-jan#fister-toni">Fister, Toni</option>
+
+
+      <option value="/vs/betker-jan#flannigan-lorraine">Flannigan, Lorraine</option>
+
+
+      <option value="/vs/betker-jan#floyd-kathy">Floyd, Kathy</option>
+
+
+      <option value="/vs/betker-jan#fortin-sylvie">Fortin, Sylvie</option>
+
+
+      <option value="/vs/betker-jan#fowler-lois">Fowler, Lois</option>
+
+
+      <option value="/vs/betker-jan#fowler-rhonda">Fowler, Rhonda</option>
+
+
+      <option value="/vs/betker-jan#fowler-sharon">Fowler, Sharon</option>
+
+
+      <option value="/vs/betker-jan#fraser-sherry">Fraser, Sherry</option>
+
+
+      <option value="/vs/betker-jan#frey-audrey">Frey, Audrey</option>
+
+
+      <option value="/vs/betker-jan#froud-susan">Froud, Susan</option>
+
+
+      <option value="/vs/betker-jan#gagnier-monique">Gagnier, Monique</option>
+
+
+      <option value="/vs/betker-jan#gagnon-karo">Gagnon, Karo</option>
+
+
+      <option value="/vs/betker-jan#gagnon-nathalie">Gagnon, Nathalie</option>
+
+
+      <option value="/vs/betker-jan#galusha-kerry">Galusha, Kerry</option>
+
+
+      <option value="/vs/betker-jan#garvey-sue">Garvey, Sue</option>
+
+
+      <option value="/vs/betker-jan#gatchell-sara">Gatchell, Sara</option>
+
+
+      <option value="/vs/betker-jan#gauthier-cathy">Gauthier, Cathy</option>
+
+
+      <option value="/vs/betker-jan#gellard-kim">Gellard, Kim</option>
+
+
+      <option value="/vs/betker-jan#george-tara">George, Tara</option>
+
+
+      <option value="/vs/betker-jan#gervais-donna">Gervais, Donna</option>
+
+
+      <option value="/vs/betker-jan#gignac-donna">Gignac, Donna</option>
+
+
+      <option value="/vs/betker-jan#gogan-jennifer">Gogan, Jennifer</option>
+
+
+      <option value="/vs/betker-jan#goring-alison">Goring, Alison</option>
+
+
+      <option value="/vs/betker-jan#goss-peg">Goss, Peg</option>
+
+
+      <option value="/vs/betker-jan#gould-karen">Gould, Karen</option>
+
+
+      <option value="/vs/betker-jan#graham-macdonald-bea">Graham-MacDonald, Bea</option>
+
+
+      <option value="/vs/betker-jan#greening-jackie-rae">Greening, Jackie-Rae</option>
+
+
+      <option value="/vs/betker-jan#gregoire-veronique">Gregoire, Veronique</option>
+
+
+      <option value="/vs/betker-jan#gushulak-diane">Gushulak, Diane</option>
+
+
+      <option value="/vs/betker-jan#hanlon-heidi">Hanlon, Heidi</option>
+
+
+      <option value="/vs/betker-jan#harding-mary">Harding, Mary</option>
+
+
+      <option value="/vs/betker-jan#hardy-shelley">Hardy, Shelley</option>
+
+
+      <option value="/vs/betker-jan#harris-susan">Harris, Susan</option>
+
+
+      <option value="/vs/betker-jan#harrison-meredith">Harrison, Meredith</option>
+
+
+      <option value="/vs/betker-jan#harvey-alison">Harvey, Alison</option>
+
+
+      <option value="/vs/betker-jan#harvey-carol">Harvey, Carol</option>
+
+
+      <option value="/vs/betker-jan#harvey-janet">Harvey, Janet</option>
+
+
+      <option value="/vs/betker-jan#henry-lou-ann">Henry, Lou Ann</option>
+
+
+      <option value="/vs/betker-jan#hensley-merna">Hensley, Merna</option>
+
+
+      <option value="/vs/betker-jan#herlinveaux-louise">Herlinveaux, Louise</option>
+
+
+      <option value="/vs/betker-jan#hodson-kim">Hodson, Kim</option>
+
+
+      <option value="/vs/betker-jan#hooper-perroud-jane">Hooper-Perroud, Jane</option>
+
+
+      <option value="/vs/betker-jan#hopkins-heather">Hopkins, Heather</option>
+
+
+      <option value="/vs/betker-jan#horne-kate">Horne, Kate</option>
+
+
+      <option value="/vs/betker-jan#houston-heather">Houston, Heather</option>
+
+
+      <option value="/vs/betker-jan#hutchinson-joan">Hutchinson, Joan</option>
+
+
+      <option value="/vs/betker-jan#jackson-sherry">Jackson, Sherry</option>
+
+
+      <option value="/vs/betker-jan#jackson-virginia">Jackson, Virginia</option>
+
+
+      <option value="/vs/betker-jan#jenkins-sandra">Jenkins, Sandra</option>
+
+
+      <option value="/vs/betker-jan#jennings-tracey">Jennings, Tracey</option>
+
+
+      <option value="/vs/betker-jan#jesty-janet">Jesty, Janet</option>
+
+
+      <option value="/vs/betker-jan#johnstone-loralee">Johnstone, Loralee</option>
+
+
+      <option value="/vs/betker-jan#jones-colleen">Jones, Colleen</option>
+
+
+      <option value="/vs/betker-jan#jones-jennifer">Jones, Jennifer</option>
+
+
+      <option value="/vs/betker-jan#jones-karen">Jones, Karen</option>
+
+
+      <option value="/vs/betker-jan#jones-walker-debbie">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/betker-jan#jurgenson-christine">Jurgenson, Christine</option>
+
+
+      <option value="/vs/betker-jan#kasner-marliese">Kasner, Marliese</option>
+
+
+      <option value="/vs/betker-jan#kaylo-kelly">Kaylo, Kelly</option>
+
+
+      <option value="/vs/betker-jan#kelly-kim">Kelly, Kim</option>
+
+
+      <option value="/vs/betker-jan#kerr-kathy">Kerr, Kathy</option>
+
+
+      <option value="/vs/betker-jan#keshen-christine">Keshen, Christine</option>
+
+
+      <option value="/vs/betker-jan#king-cathy">King, Cathy</option>
+
+
+      <option value="/vs/betker-jan#kleibrink-shannon">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/betker-jan#kyle-linda">Kyle, Linda</option>
+
+
+      <option value="/vs/betker-jan#lacey-stacey">Lacey, Stacey</option>
+
+
+      <option value="/vs/betker-jan#lahucik-val">Lahucik, Val</option>
+
+
+      <option value="/vs/betker-jan#laliberte-connie">Laliberte, Connie</option>
+
+
+      <option value="/vs/betker-jan#lang-lorraine">Lang, Lorraine</option>
+
+
+      <option value="/vs/betker-jan#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/betker-jan#law-kelley">Law, Kelley</option>
+
+
+      <option value="/vs/betker-jan#lawes-andrea">Lawes, Andrea</option>
+
+
+      <option value="/vs/betker-jan#lawrence-margaret">Lawrence, Margaret</option>
+
+
+      <option value="/vs/betker-jan#lawton-stefanie">Lawton, Stefanie</option>
+
+
+      <option value="/vs/betker-jan#leblanc-lisa">Leblanc, Lisa</option>
+
+
+      <option value="/vs/betker-jan#leger-stacey">Leger, Stacey</option>
+
+
+      <option value="/vs/betker-jan#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/betker-jan#leonard-judy">Leonard, Judy</option>
+
+
+      <option value="/vs/betker-jan#lewis-kristy">Lewis, Kristy</option>
+
+
+      <option value="/vs/betker-jan#lidgren-anna">Lidgren, Anna</option>
+
+
+      <option value="/vs/betker-jan#loder-cherie-ann">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/betker-jan#lowther-tammi">Lowther, Tammi</option>
+
+
+      <option value="/vs/betker-jan#macaulay-marion">MacAulay, Marion</option>
+
+
+      <option value="/vs/betker-jan#maccallum-janice">MacCallum, Janice</option>
+
+
+      <option value="/vs/betker-jan#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/betker-jan#macinnes-allison">MacInnes, Allison</option>
+
+
+      <option value="/vs/betker-jan#mackenzie-doris">MacKenzie, Doris</option>
+
+
+      <option value="/vs/betker-jan#macleod-lisa">MacLeod, Lisa</option>
+
+
+      <option value="/vs/betker-jan#macnutt-shelley">MacNutt, Shelley</option>
+
+
+      <option value="/vs/betker-jan#macphee-robyn">MacPhee, Robyn</option>
+
+
+      <option value="/vs/betker-jan#mallett-marla">Mallett, Marla</option>
+
+
+      <option value="/vs/betker-jan#marchand-karine">Marchand, Karine</option>
+
+
+      <option value="/vs/betker-jan#marchuk-lindy">Marchuk, Lindy</option>
+
+
+      <option value="/vs/betker-jan#martin-heather">Martin, Heather</option>
+
+
+      <option value="/vs/betker-jan#massullo-deb">Massullo, Deb</option>
+
+
+      <option value="/vs/betker-jan#mattatall-mary">Mattatall, Mary</option>
+
+
+      <option value="/vs/betker-jan#mccarville-krista">McCarville, Krista</option>
+
+
+      <option value="/vs/betker-jan#mccloy-elaine">McCloy, Elaine</option>
+
+
+      <option value="/vs/betker-jan#mcconnery-nancy">McConnery, Nancy</option>
+
+
+      <option value="/vs/betker-jan#mccrady-christine">McCrady, Christine</option>
+
+
+      <option value="/vs/betker-jan#mccurdy-susan">McCurdy, Susan</option>
+
+
+      <option value="/vs/betker-jan#mcdonald-tina">McDonald, Tina</option>
+
+
+      <option value="/vs/betker-jan#mcedwards-kathy">McEdwards, Kathy</option>
+
+
+      <option value="/vs/betker-jan#mchugh-cindy">McHugh, Cindy</option>
+
+
+      <option value="/vs/betker-jan#mcinnis-susan">McInnis, Susan</option>
+
+
+      <option value="/vs/betker-jan#mcivor-jolene">McIvor, Jolene</option>
+
+
+      <option value="/vs/betker-jan#mcivor-michelle">McIvor, Michelle</option>
+
+
+      <option value="/vs/betker-jan#mcknight-patti">McKnight, Patti</option>
+
+
+      <option value="/vs/betker-jan#mcleod-crystal">McLeod, Crystal</option>
+
+
+      <option value="/vs/betker-jan#mcnabb-jody">McNabb, Jody</option>
+
+
+      <option value="/vs/betker-jan#mcpherson-cheryl">McPherson, Cheryl</option>
+
+
+      <option value="/vs/betker-jan#merklinger-anne">Merklinger, Anne</option>
+
+
+      <option value="/vs/betker-jan#messer-janyce">Messer, Janyce</option>
+
+
+      <option value="/vs/betker-jan#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/betker-jan#montgomery-kay">Montgomery, Kay</option>
+
+
+      <option value="/vs/betker-jan#moore-kim">Moore, Kim</option>
+
+
+      <option value="/vs/betker-jan#morgan-cheryl">Morgan, Cheryl</option>
+
+
+      <option value="/vs/betker-jan#morris-cori">Morris, Cori</option>
+
+
+      <option value="/vs/betker-jan#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/betker-jan#moss-debbie">Moss, Debbie</option>
+
+
+      <option value="/vs/betker-jan#mulroney-sandra">Mulroney, Sandra</option>
+
+
+      <option value="/vs/betker-jan#murphy-jeanette">Murphy, Jeanette</option>
+
+
+      <option value="/vs/betker-jan#muzika-shelley">Muzika, Shelley</option>
+
+
+      <option value="/vs/betker-jan#naugler-tara">Naugler, Tara</option>
+
+
+      <option value="/vs/betker-jan#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/betker-jan#nimmo-shannon">Nimmo, Shannon</option>
+
+
+      <option value="/vs/betker-jan#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/betker-jan#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/betker-jan#o-connor-susan">O'Connor, Susan</option>
+
+
+      <option value="/vs/betker-jan#o-leary-susan">O'Leary, Susan</option>
+
+
+      <option value="/vs/betker-jan#o-rourke-kathy">O'Rourke, Kathy</option>
+
+
+      <option value="/vs/betker-jan#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/betker-jan#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/betker-jan#ondrack-wendy">Ondrack, Wendy</option>
+
+
+      <option value="/vs/betker-jan#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/betker-jan#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/betker-jan#palinkas-gloria">Palinkas, Gloria</option>
+
+
+      <option value="/vs/betker-jan#perron-leanne">Perron, Leanne</option>
+
+
+      <option value="/vs/betker-jan#phillips-laura">Phillips, Laura</option>
+
+
+      <option value="/vs/betker-jan#pinkney-colleen">Pinkney, Colleen</option>
+
+
+      <option value="/vs/betker-jan#poisson-francine">Poisson, Francine</option>
+
+
+      <option value="/vs/betker-jan#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/betker-jan#proctor-jill">Proctor, Jill</option>
+
+
+      <option value="/vs/betker-jan#pross-margaret">Pross, Margaret</option>
+
+
+      <option value="/vs/betker-jan#provencal-darah">Provencal, Darah</option>
+
+
+      <option value="/vs/betker-jan#purdy-karen">Purdy, Karen</option>
+
+
+      <option value="/vs/betker-jan#pushkar-diane">Pushkar, Diane</option>
+
+
+      <option value="/vs/betker-jan#putland-rose">Putland, Rose</option>
+
+
+      <option value="/vs/betker-jan#radford-helen">Radford, Helen</option>
+
+
+      <option value="/vs/betker-jan#rankin-heather">Rankin, Heather</option>
+
+
+      <option value="/vs/betker-jan#reddick-audrey">Reddick, Audrey</option>
+
+
+      <option value="/vs/betker-jan#renouf-michele">Renouf, Michele</option>
+
+
+      <option value="/vs/betker-jan#rizzo-jo-ann">Rizzo, Jo-Ann</option>
+
+
+      <option value="/vs/betker-jan#roberts-angela">Roberts, Angela</option>
+
+
+      <option value="/vs/betker-jan#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/betker-jan#robinson-charlene">Robinson, Charlene</option>
+
+
+      <option value="/vs/betker-jan#rocque-raylene">Rocque, Raylene</option>
+
+
+      <option value="/vs/betker-jan#round-coralee">Round, Coralee</option>
+
+
+      <option value="/vs/betker-jan#ruus-karen">Ruus, Karen</option>
+
+
+      <option value="/vs/betker-jan#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/betker-jan#sanders-pat">Sanders, Pat</option>
+
+
+      <option value="/vs/betker-jan#santos-deb">Santos, Deb</option>
+
+
+      <option value="/vs/betker-jan#savill-jarron">Savill, Jarron</option>
+
+
+      <option value="/vs/betker-jan#scales-julie">Scales, Julie</option>
+
+
+      <option value="/vs/betker-jan#schikowski-keri-lynn">Schikowski, Keri-Lynn</option>
+
+
+      <option value="/vs/betker-jan#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/betker-jan#scott-donna">Scott, Donna</option>
+
+
+      <option value="/vs/betker-jan#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/betker-jan#sharpe-kelli">Sharpe, Kelli</option>
+
+
+      <option value="/vs/betker-jan#shields-deanne">Shields, Deanne</option>
+
+
+      <option value="/vs/betker-jan#shields-gail">Shields, Gail</option>
+
+
+      <option value="/vs/betker-jan#shigehiro-sally">Shigehiro, Sally</option>
+
+
+      <option value="/vs/betker-jan#simmons-cindy">Simmons, Cindy</option>
+
+
+      <option value="/vs/betker-jan#simons-renee">Simons, Renee</option>
+
+
+      <option value="/vs/betker-jan#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/betker-jan#sipka-joanne">Sipka, Joanne</option>
+
+
+      <option value="/vs/betker-jan#skinner-julie">Skinner, Julie</option>
+
+
+      <option value="/vs/betker-jan#smith-nikki">Smith, Nikki</option>
+
+
+      <option value="/vs/betker-jan#soligo-melissa">Soligo, Melissa</option>
+
+
+      <option value="/vs/betker-jan#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/betker-jan#spencer-barb">Spencer, Barb</option>
+
+
+      <option value="/vs/betker-jan#stewart-sheri">Stewart, Sheri</option>
+
+
+      <option value="/vs/betker-jan#stokes-debbie">Stokes, Debbie</option>
+
+
+      <option value="/vs/betker-jan#strachan-angela">Strachan, Angela</option>
+
+
+      <option value="/vs/betker-jan#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/betker-jan#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/betker-jan#stubbings-tiffany">Stubbings, Tiffany</option>
+
+
+      <option value="/vs/betker-jan#sutton-jodie">Sutton, Jodie</option>
+
+
+      <option value="/vs/betker-jan#taylor-candy">Taylor, Candy</option>
+
+
+      <option value="/vs/betker-jan#thomas-karen">Thomas, Karen</option>
+
+
+      <option value="/vs/betker-jan#thomas-maria">Thomas, Maria</option>
+
+
+      <option value="/vs/betker-jan#thompson-carol">Thompson, Carol</option>
+
+
+      <option value="/vs/betker-jan#thurston-jill">Thurston, Jill</option>
+
+
+      <option value="/vs/betker-jan#todd-fran">Todd, Fran</option>
+
+
+      <option value="/vs/betker-jan#tousignant-helene">Tousignant, Helene</option>
+
+
+      <option value="/vs/betker-jan#treloar-cathy">Treloar, Cathy</option>
+
+
+      <option value="/vs/betker-jan#trowell-cathy">Trowell, Cathy</option>
+
+
+      <option value="/vs/betker-jan#tuck-kim">Tuck, Kim</option>
+
+
+      <option value="/vs/betker-jan#tuck-kimberly">Tuck, Kimberly</option>
+
+
+      <option value="/vs/betker-jan#turcotte-kristin">Turcotte, Kristin</option>
+
+
+      <option value="/vs/betker-jan#udle-teri">Udle, Teri</option>
+
+
+      <option value="/vs/betker-jan#unrau-faye">Unrau, Faye</option>
+
+
+      <option value="/vs/betker-jan#usher-leanne">Usher, Leanne</option>
+
+
+      <option value="/vs/betker-jan#wall-kirsten">Wall, Kirsten</option>
+
+
+      <option value="/vs/betker-jan#walsh-heather">Walsh, Heather</option>
+
+
+      <option value="/vs/betker-jan#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/betker-jan#whitaker-carol">Whitaker, Carol</option>
+
+
+      <option value="/vs/betker-jan#willms-karri">Willms, Karri</option>
+
+
+      <option value="/vs/betker-jan#wiltzen-jan">Wiltzen, Jan</option>
+
+
+      <option value="/vs/betker-jan#witt-katie">Witt, Katie</option>
+
+
+      <option value="/vs/betker-jan#wright-joanne">Wright, Joanne</option>
+
+
+      <option value="/vs/betker-jan#wright-susan">Wright, Susan</option>
+
+
+      <option value="/vs/betker-jan#zielke-colleen">Zielke, Colleen</option>
+
+
+      <option value="/vs/betker-jan#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

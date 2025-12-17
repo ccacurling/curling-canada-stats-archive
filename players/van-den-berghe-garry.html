@@ -1,0 +1,1275 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Garry Van Den Berghe
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Garry Van Den Berghe <i class="fe fe-user-plus" data-name="Van Den Berghe, Garry" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1991">1991</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>112</td>
+  <td>82</td>
+  <td>88</td>
+  <td>82</td>
+  <td>101</td>
+  <td>87</td>
+  <td>99</td>
+  <td>77</td>
+  <td>200</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1996">1996</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>146</td>
+  <td>79</td>
+  <td>98</td>
+  <td>81</td>
+  <td>109</td>
+  <td>78</td>
+  <td>135</td>
+  <td>82</td>
+  <td>244</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>101</td>
+  <td>80</td>
+  <td>151</td>
+  <td>83</td>
+  <td>109</td>
+  <td>81</td>
+  <td>143</td>
+  <td>83</td>
+  <td>252</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2000">2000</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>127</td>
+  <td>81</td>
+  <td>119</td>
+  <td>91</td>
+  <td>92</td>
+  <td>85</td>
+  <td>154</td>
+  <td>86</td>
+  <td>246</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2006">2006</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>90</td>
+  <td>79</td>
+  <td>110</td>
+  <td>77</td>
+  <td>95</td>
+  <td>73</td>
+  <td>105</td>
+  <td>82</td>
+  <td>200</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2004">2004</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="STO">STO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>59</td>
+  <td>79</td>
+  <td>39</td>
+  <td>75</td>
+  <td>29</td>
+  <td>76</td>
+  <td>69</td>
+  <td>78</td>
+  <td>98</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2005">2005</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Sto">Sto</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>63</td>
+  <td>82</td>
+  <td>79</td>
+  <td>90</td>
+  <td>41</td>
+  <td>79</td>
+  <td>101</td>
+  <td>89</td>
+  <td>142</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/1997">1997</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="STO">STO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>5</td>
+  <td>4</td>
+  <td>84</td>
+  <td>83</td>
+  <td>84</td>
+  <td>83</td>
+  <td>64</td>
+  <td>80</td>
+  <td>104</td>
+  <td>85</td>
+  <td>168</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2001">2001</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="STO">STO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>5</td>
+  <td>4</td>
+  <td>89</td>
+  <td>82</td>
+  <td>81</td>
+  <td>82</td>
+  <td>80</td>
+  <td>75</td>
+  <td>90</td>
+  <td>88</td>
+  <td>170</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="STO">STO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>8</td>
+  <td>3</td>
+  <td>119</td>
+  <td>79</td>
+  <td>85</td>
+  <td>86</td>
+  <td>84</td>
+  <td>85</td>
+  <td>120</td>
+  <td>80</td>
+  <td>204</td>
+  <td>82</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>61</td>
+  <td>42</td>
+  <td>19</td>
+  <td>576</td>
+  <td>80</td>
+  <td>566</td>
+  <td>83</td>
+  <td>506</td>
+  <td>81</td>
+  <td>636</td>
+  <td>83</td>
+  <td>1142</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>122</td>
+  <td>81</td>
+  <td>118</td>
+  <td>85</td>
+  <td>70</td>
+  <td>78</td>
+  <td>170</td>
+  <td>85</td>
+  <td>240</td>
+  <td>83</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>29</td>
+  <td>18</td>
+  <td>11</td>
+  <td>292</td>
+  <td>81</td>
+  <td>250</td>
+  <td>84</td>
+  <td>228</td>
+  <td>80</td>
+  <td>314</td>
+  <td>84</td>
+  <td>542</td>
+  <td>82</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#van-den-berghe-garry">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-kevin#van-den-berghe-garry">Adams, Kevin</option>
+
+
+      <option value="/vs/adams-shawn#van-den-berghe-garry">Adams, Shawn</option>
+
+
+      <option value="/vs/bailey-scott#van-den-berghe-garry">Bailey, Scott</option>
+
+
+      <option value="/vs/bartlett-don#van-den-berghe-garry">Bartlett, Don</option>
+
+
+      <option value="/vs/base-john#van-den-berghe-garry">Base, John</option>
+
+
+      <option value="/vs/bentley-dan#van-den-berghe-garry">Bentley, Dan</option>
+
+
+      <option value="/vs/bentley-darren#van-den-berghe-garry">Bentley, Darren</option>
+
+
+      <option value="/vs/biron-louis#van-den-berghe-garry">Biron, Louis</option>
+
+
+      <option value="/vs/blanchard-ben#van-den-berghe-garry">Blanchard, Ben</option>
+
+
+      <option value="/vs/blanchard-jason#van-den-berghe-garry">Blanchard, Jason</option>
+
+
+      <option value="/vs/boland-john#van-den-berghe-garry">Boland, John</option>
+
+
+      <option value="/vs/brackett-james#van-den-berghe-garry">Brackett, James</option>
+
+
+      <option value="/vs/brandwood-todd#van-den-berghe-garry">Brandwood, Todd</option>
+
+
+      <option value="/vs/broda-shawn#van-den-berghe-garry">Broda, Shawn</option>
+
+
+      <option value="/vs/brown-ken#van-den-berghe-garry">Brown, Ken</option>
+
+
+      <option value="/vs/bryant-doug#van-den-berghe-garry">Bryant, Doug</option>
+
+
+      <option value="/vs/buck-wyatt#van-den-berghe-garry">Buck, Wyatt</option>
+
+
+      <option value="/vs/burgess-craig#van-den-berghe-garry">Burgess, Craig</option>
+
+
+      <option value="/vs/burnett-steve#van-den-berghe-garry">Burnett, Steve</option>
+
+
+      <option value="/vs/burtnyk-kerry#van-den-berghe-garry">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-marc#van-den-berghe-garry">Butler, Marc</option>
+
+
+      <option value="/vs/butler-mark#van-den-berghe-garry">Butler, Mark</option>
+
+
+      <option value="/vs/butler-mike#van-den-berghe-garry">Butler, Mike</option>
+
+
+      <option value="/vs/campbell-robert#van-den-berghe-garry">Campbell, Robert</option>
+
+
+      <option value="/vs/carter-andrew#van-den-berghe-garry">Carter, Andrew</option>
+
+
+      <option value="/vs/champion-kevin#van-den-berghe-garry">Champion, Kevin</option>
+
+
+      <option value="/vs/charette-pierre#van-den-berghe-garry">Charette, Pierre</option>
+
+
+      <option value="/vs/chorostkowski-brad#van-den-berghe-garry">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/collison-brian#van-den-berghe-garry">Collison, Brian</option>
+
+
+      <option value="/vs/corner-peter#van-den-berghe-garry">Corner, Peter</option>
+
+
+      <option value="/vs/cotter-jim#van-den-berghe-garry">Cotter, Jim</option>
+
+
+      <option value="/vs/cowan-chad#van-den-berghe-garry">Cowan, Chad</option>
+
+
+      <option value="/vs/cursons-neil#van-den-berghe-garry">Cursons, Neil</option>
+
+
+      <option value="/vs/dacey-mark#van-den-berghe-garry">Dacey, Mark</option>
+
+
+      <option value="/vs/dauphinee-andrew#van-den-berghe-garry">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/delmage-ron#van-den-berghe-garry">Delmage, Ron</option>
+
+
+      <option value="/vs/despins-glen#van-den-berghe-garry">Despins, Glen</option>
+
+
+      <option value="/vs/dillon-mike#van-den-berghe-garry">Dillon, Mike</option>
+
+
+      <option value="/vs/dowden-craig#van-den-berghe-garry">Dowden, Craig</option>
+
+
+      <option value="/vs/eberts-tony#van-den-berghe-garry">Eberts, Tony</option>
+
+
+      <option value="/vs/elkin-derek#van-den-berghe-garry">Elkin, Derek</option>
+
+
+      <option value="/vs/ellis-ken-jr#van-den-berghe-garry">Ellis, Ken Jr.</option>
+
+
+      <option value="/vs/elmaleh-maxime#van-den-berghe-garry">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/engel-ron#van-den-berghe-garry">Engel, Ron</option>
+
+
+      <option value="/vs/fenton-brad#van-den-berghe-garry">Fenton, Brad</option>
+
+
+      <option value="/vs/fenton-keith#van-den-berghe-garry">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#van-den-berghe-garry">Ferbey, Randy</option>
+
+
+      <option value="/vs/fetterly-tom#van-den-berghe-garry">Fetterly, Tom</option>
+
+
+      <option value="/vs/flemming-paul#van-den-berghe-garry">Flemming, Paul</option>
+
+
+      <option value="/vs/florence-malcolm#van-den-berghe-garry">Florence, Malcolm</option>
+
+
+      <option value="/vs/forsyth-sandy#van-den-berghe-garry">Forsyth, Sandy</option>
+
+
+      <option value="/vs/fowler-rob#van-den-berghe-garry">Fowler, Rob</option>
+
+
+      <option value="/vs/frans-joseph#van-den-berghe-garry">Frans, Joseph</option>
+
+
+      <option value="/vs/fulton-chris#van-den-berghe-garry">Fulton, Chris</option>
+
+
+      <option value="/vs/gagnon-jean#van-den-berghe-garry">Gagnon, Jean</option>
+
+
+      <option value="/vs/gallant-peter#van-den-berghe-garry">Gallant, Peter</option>
+
+
+      <option value="/vs/geisler-arnie#van-den-berghe-garry">Geisler, Arnie</option>
+
+
+      <option value="/vs/germsheid-tony#van-den-berghe-garry">Germsheid, Tony</option>
+
+
+      <option value="/vs/gibson-andrew#van-den-berghe-garry">Gibson, Andrew</option>
+
+
+      <option value="/vs/golanowski-rory#van-den-berghe-garry">Golanowski, Rory</option>
+
+
+      <option value="/vs/gordon-robbie#van-den-berghe-garry">Gordon, Robbie</option>
+
+
+      <option value="/vs/gorveatt-philip#van-den-berghe-garry">Gorveatt, Philip</option>
+
+
+      <option value="/vs/goss-glenn#van-den-berghe-garry">Goss, Glenn</option>
+
+
+      <option value="/vs/graber-dennis#van-den-berghe-garry">Graber, Dennis</option>
+
+
+      <option value="/vs/grattan-james#van-den-berghe-garry">Grattan, James</option>
+
+
+      <option value="/vs/gretzinger-bert#van-den-berghe-garry">Gretzinger, Bert</option>
+
+
+      <option value="/vs/grundy-john#van-den-berghe-garry">Grundy, John</option>
+
+
+      <option value="/vs/gubbels-will#van-den-berghe-garry">Gubbels, Will</option>
+
+
+      <option value="/vs/gushue-brad#van-den-berghe-garry">Gushue, Brad</option>
+
+
+      <option value="/vs/haichert-chris#van-den-berghe-garry">Haichert, Chris</option>
+
+
+      <option value="/vs/haines-chuck#van-den-berghe-garry">Haines, Chuck</option>
+
+
+      <option value="/vs/hannah-brad#van-den-berghe-garry">Hannah, Brad</option>
+
+
+      <option value="/vs/harris-mike#van-den-berghe-garry">Harris, Mike</option>
+
+
+      <option value="/vs/harris-rob#van-den-berghe-garry">Harris, Rob</option>
+
+
+      <option value="/vs/harrison-neil#van-den-berghe-garry">Harrison, Neil</option>
+
+
+      <option value="/vs/hart-richard#van-den-berghe-garry">Hart, Richard</option>
+
+
+      <option value="/vs/harvey-don#van-den-berghe-garry">Harvey, Don</option>
+
+
+      <option value="/vs/hebert-ben#van-den-berghe-garry">Hebert, Ben</option>
+
+
+      <option value="/vs/hemmings-guy#van-den-berghe-garry">Hemmings, Guy</option>
+
+
+      <option value="/vs/henderson-jeffrey#van-den-berghe-garry">Henderson, Jeffrey</option>
+
+
+      <option value="/vs/henderson-ron#van-den-berghe-garry">Henderson, Ron</option>
+
+
+      <option value="/vs/henderson-scott#van-den-berghe-garry">Henderson, Scott</option>
+
+
+      <option value="/vs/hinch-bert#van-den-berghe-garry">Hinch, Bert</option>
+
+
+      <option value="/vs/hollett-peter#van-den-berghe-garry">Hollett, Peter</option>
+
+
+      <option value="/vs/hopkins-jeff#van-den-berghe-garry">Hopkins, Jeff</option>
+
+
+      <option value="/vs/howard-glenn#van-den-berghe-garry">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#van-den-berghe-garry">Howard, Russ</option>
+
+
+      <option value="/vs/hunka-ken#van-den-berghe-garry">Hunka, Ken</option>
+
+
+      <option value="/vs/ingram-bob#van-den-berghe-garry">Ingram, Bob</option>
+
+
+      <option value="/vs/irwin-don#van-den-berghe-garry">Irwin, Don</option>
+
+
+      <option value="/vs/iskiw-blayne#van-den-berghe-garry">Iskiw, Blayne</option>
+
+
+      <option value="/vs/jewer-keith#van-den-berghe-garry">Jewer, Keith</option>
+
+
+      <option value="/vs/johnson-bill#van-den-berghe-garry">Johnson, Bill</option>
+
+
+      <option value="/vs/johnston-wade#van-den-berghe-garry">Johnston, Wade</option>
+
+
+      <option value="/vs/josephson-glenn#van-den-berghe-garry">Josephson, Glenn</option>
+
+
+      <option value="/vs/karrys-george#van-den-berghe-garry">Karrys, George</option>
+
+
+      <option value="/vs/kawaja-john#van-den-berghe-garry">Kawaja, John</option>
+
+
+      <option value="/vs/kennedy-marc#van-den-berghe-garry">Kennedy, Marc</option>
+
+
+      <option value="/vs/kennedy-mike#van-den-berghe-garry">Kennedy, Mike</option>
+
+
+      <option value="/vs/kent-gerry#van-den-berghe-garry">Kent, Gerry</option>
+
+
+      <option value="/vs/kieley-phil#van-den-berghe-garry">Kieley, Phil</option>
+
+
+      <option value="/vs/kochan-craig#van-den-berghe-garry">Kochan, Craig</option>
+
+
+      <option value="/vs/koe-jamie#van-den-berghe-garry">Koe, Jamie</option>
+
+
+      <option value="/vs/koe-kevin#van-den-berghe-garry">Koe, Kevin</option>
+
+
+      <option value="/vs/korab-jamie#van-den-berghe-garry">Korab, Jamie</option>
+
+
+      <option value="/vs/korte-bruce#van-den-berghe-garry">Korte, Bruce</option>
+
+
+      <option value="/vs/korte-roger#van-den-berghe-garry">Korte, Roger</option>
+
+
+      <option value="/vs/lacey-jeff#van-den-berghe-garry">Lacey, Jeff</option>
+
+
+      <option value="/vs/laing-brent#van-den-berghe-garry">Laing, Brent</option>
+
+
+      <option value="/vs/landry-jeremy#van-den-berghe-garry">Landry, Jeremy</option>
+
+
+      <option value="/vs/lang-rick#van-den-berghe-garry">Lang, Rick</option>
+
+
+      <option value="/vs/lappalainen-art#van-den-berghe-garry">Lappalainen, Art</option>
+
+
+      <option value="/vs/lecocq-marc#van-den-berghe-garry">LeCocq, Marc</option>
+
+
+      <option value="/vs/ledrew-ryan#van-den-berghe-garry">LeDrew, Ryan</option>
+
+
+      <option value="/vs/leech-ron#van-den-berghe-garry">Leech, Ron</option>
+
+
+      <option value="/vs/lemery-daniel#van-den-berghe-garry">Lemery, Daniel</option>
+
+
+      <option value="/vs/loevenmark-phil#van-den-berghe-garry">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lohnes-bruce#van-den-berghe-garry">Lohnes, Bruce</option>
+
+
+      <option value="/vs/lowe-wayne#van-den-berghe-garry">Lowe, Wayne</option>
+
+
+      <option value="/vs/macdonald-blake#van-den-berghe-garry">MacDonald, Blake</option>
+
+
+      <option value="/vs/macdonald-brent#van-den-berghe-garry">MacDonald, Brent</option>
+
+
+      <option value="/vs/macdonald-peter#van-den-berghe-garry">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-rod#van-den-berghe-garry">MacDonald, Rod</option>
+
+
+      <option value="/vs/macinnes-david#van-den-berghe-garry">MacInnes, David</option>
+
+
+      <option value="/vs/mackenzie-kevin#van-den-berghe-garry">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/macklin-drew#van-den-berghe-garry">Macklin, Drew</option>
+
+
+      <option value="/vs/maclean-rob#van-den-berghe-garry">MacLean, Rob</option>
+
+
+      <option value="/vs/madden-paul#van-den-berghe-garry">Madden, Paul</option>
+
+
+      <option value="/vs/martin-kevin#van-den-berghe-garry">Martin, Kevin</option>
+
+
+      <option value="/vs/mayne-dave#van-den-berghe-garry">Mayne, Dave</option>
+
+
+      <option value="/vs/mcaulay-greg#van-den-berghe-garry">McAulay, Greg</option>
+
+
+      <option value="/vs/mccarrel-graeme#van-den-berghe-garry">McCarrel, Graeme</option>
+
+
+      <option value="/vs/mcclelland-john#van-den-berghe-garry">McClelland, John</option>
+
+
+      <option value="/vs/mccusker-brian#van-den-berghe-garry">McCusker, Brian</option>
+
+
+      <option value="/vs/mcdermot-ken#van-den-berghe-garry">McDermot, Ken</option>
+
+
+      <option value="/vs/mchargue-ken#van-den-berghe-garry">McHargue, Ken</option>
+
+
+      <option value="/vs/mckee-darrell#van-den-berghe-garry">McKee, Darrell</option>
+
+
+      <option value="/vs/mcphee-barry#van-den-berghe-garry">McPhee, Barry</option>
+
+
+      <option value="/vs/mead-jon#van-den-berghe-garry">Mead, Jon</option>
+
+
+      <option value="/vs/meakin-rob#van-den-berghe-garry">Meakin, Rob</option>
+
+
+      <option value="/vs/mellof-dave#van-den-berghe-garry">Mellof, Dave</option>
+
+
+      <option value="/vs/mellof-david#van-den-berghe-garry">Mellof, David</option>
+
+
+      <option value="/vs/menard-jean-michel#van-den-berghe-garry">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/middaugh-wayne#van-den-berghe-garry">Middaugh, Wayne</option>
+
+
+      <option value="/vs/mihalicz-dwayne#van-den-berghe-garry">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/miki-bryan#van-den-berghe-garry">Miki, Bryan</option>
+
+
+      <option value="/vs/milward-ross#van-den-berghe-garry">Milward, Ross</option>
+
+
+      <option value="/vs/mitchell-collin#van-den-berghe-garry">Mitchell, Collin</option>
+
+
+      <option value="/vs/mitchell-gary#van-den-berghe-garry">Mitchell, Gary</option>
+
+
+      <option value="/vs/mittelstadt-kelly#van-den-berghe-garry">Mittelstadt, Kelly</option>
+
+
+      <option value="/vs/moffatt-paul#van-den-berghe-garry">Moffatt, Paul</option>
+
+
+      <option value="/vs/moffatt-rich#van-den-berghe-garry">Moffatt, Rich</option>
+
+
+      <option value="/vs/montgomery-rod#van-den-berghe-garry">Montgomery, Rod</option>
+
+
+      <option value="/vs/morris-john#van-den-berghe-garry">Morris, John</option>
+
+
+      <option value="/vs/nedohin-david#van-den-berghe-garry">Nedohin, David</option>
+
+
+      <option value="/vs/nelson-randy#van-den-berghe-garry">Nelson, Randy</option>
+
+
+      <option value="/vs/ness-dale#van-den-berghe-garry">Ness, Dale</option>
+
+
+      <option value="/vs/nicholls-peter#van-den-berghe-garry">Nicholls, Peter</option>
+
+
+      <option value="/vs/nichols-mark#van-den-berghe-garry">Nichols, Mark</option>
+
+
+      <option value="/vs/nolan-jason#van-den-berghe-garry">Nolan, Jason</option>
+
+
+      <option value="/vs/o-driscoll-frank#van-den-berghe-garry">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/o-rourke-mark#van-den-berghe-garry">O'Rourke, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#van-den-berghe-garry">Odishaw, Grant</option>
+
+
+      <option value="/vs/palmer-curt#van-den-berghe-garry">Palmer, Curt</option>
+
+
+      <option value="/vs/park-kerry#van-den-berghe-garry">Park, Kerry</option>
+
+
+      <option value="/vs/park-kevin#van-den-berghe-garry">Park, Kevin</option>
+
+
+      <option value="/vs/park-shane#van-den-berghe-garry">Park, Shane</option>
+
+
+      <option value="/vs/paslawski-pat#van-den-berghe-garry">Paslawski, Pat</option>
+
+
+      <option value="/vs/patterson-scott#van-den-berghe-garry">Patterson, Scott</option>
+
+
+      <option value="/vs/peachey-jay#van-den-berghe-garry">Peachey, Jay</option>
+
+
+      <option value="/vs/peddigrew-ken#van-den-berghe-garry">Peddigrew, Ken</option>
+
+
+      <option value="/vs/peech-orest#van-den-berghe-garry">Peech, Orest</option>
+
+
+      <option value="/vs/perron-rick#van-den-berghe-garry">Perron, Rick</option>
+
+
+      <option value="/vs/perroud-pat#van-den-berghe-garry">Perroud, Pat</option>
+
+
+      <option value="/vs/petryk-dan#van-den-berghe-garry">Petryk, Dan</option>
+
+
+      <option value="/vs/pfeifer-scott#van-den-berghe-garry">Pfeifer, Scott</option>
+
+
+      <option value="/vs/phillips-tim#van-den-berghe-garry">Phillips, Tim</option>
+
+
+      <option value="/vs/pierce-brent#van-den-berghe-garry">Pierce, Brent</option>
+
+
+      <option value="/vs/postma-john#van-den-berghe-garry">Postma, John</option>
+
+
+      <option value="/vs/pritchett-bob#van-den-berghe-garry">Pritchett, Bob</option>
+
+
+      <option value="/vs/pyper-dwayne#van-den-berghe-garry">Pyper, Dwayne</option>
+
+
+      <option value="/vs/rafuse-brian#van-den-berghe-garry">Rafuse, Brian</option>
+
+
+      <option value="/vs/rajala-howard#van-den-berghe-garry">Rajala, Howard</option>
+
+
+      <option value="/vs/ramcharan-rudy#van-den-berghe-garry">Ramcharan, Rudy</option>
+
+
+      <option value="/vs/recksiedler-kevin#van-den-berghe-garry">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/reddick-don#van-den-berghe-garry">Reddick, Don</option>
+
+
+      <option value="/vs/reynolds-brett#van-den-berghe-garry">Reynolds, Brett</option>
+
+
+      <option value="/vs/roberge-francois#van-den-berghe-garry">Roberge, Francois</option>
+
+
+      <option value="/vs/robertson-ian#van-den-berghe-garry">Robertson, Ian</option>
+
+
+      <option value="/vs/robertson-richard#van-den-berghe-garry">Robertson, Richard</option>
+
+
+      <option value="/vs/robinson-andrew#van-den-berghe-garry">Robinson, Andrew</option>
+
+
+      <option value="/vs/rocque-marcel#van-den-berghe-garry">Rocque, Marcel</option>
+
+
+      <option value="/vs/rogers-les#van-den-berghe-garry">Rogers, Les</option>
+
+
+      <option value="/vs/rose-jeff#van-den-berghe-garry">Rose, Jeff</option>
+
+
+      <option value="/vs/rowsell-rick#van-den-berghe-garry">Rowsell, Rick</option>
+
+
+      <option value="/vs/rumfeldt-robert#van-den-berghe-garry">Rumfeldt, Robert</option>
+
+
+      <option value="/vs/ryan-jeff#van-den-berghe-garry">Ryan, Jeff</option>
+
+
+      <option value="/vs/ryan-keith#van-den-berghe-garry">Ryan, Keith</option>
+
+
+      <option value="/vs/ryan-pat#van-den-berghe-garry">Ryan, Pat</option>
+
+
+      <option value="/vs/rycroft-carter#van-den-berghe-garry">Rycroft, Carter</option>
+
+
+      <option value="/vs/sauve-dan#van-den-berghe-garry">Sauve, Dan</option>
+
+
+      <option value="/vs/sauve-paul#van-den-berghe-garry">Sauve, Paul</option>
+
+
+      <option value="/vs/sauve-roger#van-den-berghe-garry">Sauve, Roger</option>
+
+
+      <option value="/vs/savill-craig#van-den-berghe-garry">Savill, Craig</option>
+
+
+      <option value="/vs/sawatsky-rick#van-den-berghe-garry">Sawatsky, Rick</option>
+
+
+      <option value="/vs/scales-brian#van-den-berghe-garry">Scales, Brian</option>
+
+
+      <option value="/vs/semen-jerry#van-den-berghe-garry">Semen, Jerry</option>
+
+
+      <option value="/vs/sharp-jeff#van-den-berghe-garry">Sharp, Jeff</option>
+
+
+      <option value="/vs/shymko-gerald#van-den-berghe-garry">Shymko, Gerald</option>
+
+
+      <option value="/vs/shypitka-tom#van-den-berghe-garry">Shypitka, Tom</option>
+
+
+      <option value="/vs/simmons-pat#van-den-berghe-garry">Simmons, Pat</option>
+
+
+      <option value="/vs/skanes-robert#van-den-berghe-garry">Skanes, Robert</option>
+
+
+      <option value="/vs/slauenwhite-david#van-den-berghe-garry">Slauenwhite, David</option>
+
+
+      <option value="/vs/smith-dave#van-den-berghe-garry">Smith, Dave</option>
+
+
+      <option value="/vs/smyth-larry#van-den-berghe-garry">Smyth, Larry</option>
+
+
+      <option value="/vs/somers-grant#van-den-berghe-garry">Somers, Grant</option>
+
+
+      <option value="/vs/sullivan-evan#van-den-berghe-garry">Sullivan, Evan</option>
+
+
+      <option value="/vs/sveistrup-jody#van-den-berghe-garry">Sveistrup, Jody</option>
+
+
+      <option value="/vs/sylvain-eric#van-den-berghe-garry">Sylvain, Eric</option>
+
+
+      <option value="/vs/tallon-wayne#van-den-berghe-garry">Tallon, Wayne</option>
+
+
+      <option value="/vs/tetley-ian#van-den-berghe-garry">Tetley, Ian</option>
+
+
+      <option value="/vs/tetley-ross#van-den-berghe-garry">Tetley, Ross</option>
+
+
+      <option value="/vs/thibaudeau-guy#van-den-berghe-garry">Thibaudeau, Guy</option>
+
+
+      <option value="/vs/tresoor-ken#van-den-berghe-garry">Tresoor, Ken</option>
+
+
+      <option value="/vs/turpin-glenn#van-den-berghe-garry">Turpin, Glenn</option>
+
+
+      <option value="/vs/tuton-craig#van-den-berghe-garry">Tuton, Craig</option>
+
+
+      <option value="/vs/ursel-bob#van-den-berghe-garry">Ursel, Bob</option>
+
+
+      <option value="/vs/van-den-berghe-garry#van-dine-steve">Van Dine, Steve</option>
+
+
+      <option value="/vs/van-den-berghe-garry#vaughan-jason">Vaughan, Jason</option>
+
+
+      <option value="/vs/van-den-berghe-garry#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/van-den-berghe-garry#wall-trevor">Wall, Trevor</option>
+
+
+      <option value="/vs/van-den-berghe-garry#walsh-jim">Walsh, Jim</option>
+
+
+      <option value="/vs/van-den-berghe-garry#wasnea-brian">Wasnea, Brian</option>
+
+
+      <option value="/vs/van-den-berghe-garry#werenich-ed">Werenich, Ed</option>
+
+
+      <option value="/vs/van-den-berghe-garry#westphal-don">Westphal, Don</option>
+
+
+      <option value="/vs/van-den-berghe-garry#whitehead-kevin">Whitehead, Kevin</option>
+
+
+      <option value="/vs/van-den-berghe-garry#whitehead-mark">Whitehead, Mark</option>
+
+
+      <option value="/vs/van-den-berghe-garry#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/van-den-berghe-garry#windsor-brian">Windsor, Brian</option>
+
+
+      <option value="/vs/van-den-berghe-garry#woytowich-randy">Woytowich, Randy</option>
+
+
+      <option value="/vs/van-den-berghe-garry#xidos-george">Xidos, George</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

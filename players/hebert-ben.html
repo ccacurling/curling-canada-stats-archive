@@ -1,0 +1,2328 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Ben Hebert
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Ben Hebert <i class="fe fe-user-plus" data-name="Hebert, Ben" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/2005">2005</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="SK"><a href="../brier/team/sk">SK</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>81</td>
+  <td>84</td>
+  <td>125</td>
+  <td>85</td>
+  <td>174</td>
+  <td>86</td>
+  <td>32</td>
+  <td>76</td>
+  <td>206</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2006">2006</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="SK"><a href="../brier/team/sk">SK</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>43</td>
+  <td>80</td>
+  <td>151</td>
+  <td>88</td>
+  <td>160</td>
+  <td>87</td>
+  <td>34</td>
+  <td>79</td>
+  <td>194</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2007">2007</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>58</td>
+  <td>84</td>
+  <td>162</td>
+  <td>93</td>
+  <td>190</td>
+  <td>92</td>
+  <td>30</td>
+  <td>79</td>
+  <td>220</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2008">2008</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>13</td>
+  <td>0</td>
+  <td>41</td>
+  <td>79</td>
+  <td>189</td>
+  <td>88</td>
+  <td>197</td>
+  <td>88</td>
+  <td>33</td>
+  <td>75</td>
+  <td>230</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2009">2009</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>13</td>
+  <td>0</td>
+  <td>40</td>
+  <td>86</td>
+  <td>170</td>
+  <td>88</td>
+  <td>191</td>
+  <td>88</td>
+  <td>19</td>
+  <td>84</td>
+  <td>210</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2011">2011</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>9</td>
+  <td>3</td>
+  <td>22</td>
+  <td>85</td>
+  <td>182</td>
+  <td>93</td>
+  <td>176</td>
+  <td>94</td>
+  <td>28</td>
+  <td>78</td>
+  <td>204</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2011">2011</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>5</td>
+  <td>75</td>
+  <td>11</td>
+  <td>80</td>
+  <td>10</td>
+  <td>85</td>
+  <td>6</td>
+  <td>67</td>
+  <td>16</td>
+  <td>78</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2011</td>
+  <td>Brier</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>27</td>
+  <td>83</td>
+  <td>193</td>
+  <td>92</td>
+  <td>186</td>
+  <td>94</td>
+  <td>34</td>
+  <td>76</td>
+  <td>220</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2013">2013</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>7</td>
+  <td>4</td>
+  <td>29</td>
+  <td>82</td>
+  <td>155</td>
+  <td>93</td>
+  <td>166</td>
+  <td>93</td>
+  <td>18</td>
+  <td>72</td>
+  <td>184</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2015">2015</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>29</td>
+  <td>85</td>
+  <td>178</td>
+  <td>94</td>
+  <td>184</td>
+  <td>94</td>
+  <td>23</td>
+  <td>80</td>
+  <td>207</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2016">2016</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>60</td>
+  <td>90</td>
+  <td>195</td>
+  <td>94</td>
+  <td>222</td>
+  <td>96</td>
+  <td>33</td>
+  <td>74</td>
+  <td>255</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2017">2017</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>57</td>
+  <td>89</td>
+  <td>201</td>
+  <td>93</td>
+  <td>228</td>
+  <td>93</td>
+  <td>30</td>
+  <td>88</td>
+  <td>258</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2019">2019</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>12</td>
+  <td>0</td>
+  <td>155</td>
+  <td>92</td>
+  <td>70</td>
+  <td>91</td>
+  <td>201</td>
+  <td>93</td>
+  <td>24</td>
+  <td>79</td>
+  <td>225</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2020">2020</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>19</td>
+  <td>88</td>
+  <td>193</td>
+  <td>94</td>
+  <td>195</td>
+  <td>93</td>
+  <td>17</td>
+  <td>90</td>
+  <td>212</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2021">2021</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="WC"><a href="../brier/team/wc">WC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>57</td>
+  <td>92</td>
+  <td>175</td>
+  <td>92</td>
+  <td>203</td>
+  <td>94</td>
+  <td>29</td>
+  <td>82</td>
+  <td>232</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2022">2022</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>19</td>
+  <td>87</td>
+  <td>187</td>
+  <td>91</td>
+  <td>188</td>
+  <td>92</td>
+  <td>18</td>
+  <td>79</td>
+  <td>206</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2023">2023</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="WC"><a href="../brier/team/wc">WC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>9</td>
+  <td>3</td>
+  <td>40</td>
+  <td>90</td>
+  <td>182</td>
+  <td>96</td>
+  <td>202</td>
+  <td>95</td>
+  <td>20</td>
+  <td>94</td>
+  <td>222</td>
+  <td>95</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2024">2024</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>7</td>
+  <td>4</td>
+  <td>28</td>
+  <td>97</td>
+  <td>164</td>
+  <td>95</td>
+  <td>176</td>
+  <td>96</td>
+  <td>16</td>
+  <td>91</td>
+  <td>192</td>
+  <td>95</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2025">2025</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>83</td>
+  <td>92</td>
+  <td>159</td>
+  <td>94</td>
+  <td>224</td>
+  <td>94</td>
+  <td>18</td>
+  <td>82</td>
+  <td>242</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2004">2004</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="SIM">SIM</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>3</td>
+  <td>0</td>
+  <td>3</td>
+  <td>22</td>
+  <td>89</td>
+  <td>34</td>
+  <td>94</td>
+  <td>50</td>
+  <td>92</td>
+  <td>6</td>
+  <td>92</td>
+  <td>56</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2006">2006</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Mor">Mor</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>39</td>
+  <td>84</td>
+  <td>78</td>
+  <td>96</td>
+  <td>97</td>
+  <td>93</td>
+  <td>20</td>
+  <td>90</td>
+  <td>117</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2007">2007</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Mar">Mar</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>30</td>
+  <td>83</td>
+  <td>101</td>
+  <td>89</td>
+  <td>112</td>
+  <td>90</td>
+  <td>19</td>
+  <td>70</td>
+  <td>131</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2008">2008</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MART">MART</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>42</td>
+  <td>86</td>
+  <td>132</td>
+  <td>89</td>
+  <td>164</td>
+  <td>89</td>
+  <td>10</td>
+  <td>70</td>
+  <td>174</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2009">2009</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MART">MART</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>8</td>
+  <td>6</td>
+  <td>2</td>
+  <td>49</td>
+  <td>85</td>
+  <td>98</td>
+  <td>88</td>
+  <td>136</td>
+  <td>89</td>
+  <td>11</td>
+  <td>64</td>
+  <td>147</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2010">2010</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KM">KM</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>15</td>
+  <td>78</td>
+  <td>96</td>
+  <td>96</td>
+  <td>102</td>
+  <td>93</td>
+  <td>9</td>
+  <td>97</td>
+  <td>111</td>
+  <td>93</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2011">2011</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MAR">MAR</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>7</td>
+  <td>0</td>
+  <td>20</td>
+  <td>84</td>
+  <td>113</td>
+  <td>92</td>
+  <td>120</td>
+  <td>91</td>
+  <td>13</td>
+  <td>92</td>
+  <td>133</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2012">2012</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MAR">MAR</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>6</td>
+  <td>1</td>
+  <td>5</td>
+  <td>27</td>
+  <td>94</td>
+  <td>89</td>
+  <td>89</td>
+  <td>106</td>
+  <td>91</td>
+  <td>10</td>
+  <td>83</td>
+  <td>116</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2014">2014</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>30</td>
+  <td>93</td>
+  <td>82</td>
+  <td>88</td>
+  <td>95</td>
+  <td>92</td>
+  <td>17</td>
+  <td>75</td>
+  <td>112</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2015">2015</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>7</td>
+  <td>2</td>
+  <td>27</td>
+  <td>91</td>
+  <td>150</td>
+  <td>89</td>
+  <td>157</td>
+  <td>91</td>
+  <td>20</td>
+  <td>80</td>
+  <td>177</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2016">2016</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>6</td>
+  <td>2</td>
+  <td>4</td>
+  <td>34</td>
+  <td>91</td>
+  <td>84</td>
+  <td>90</td>
+  <td>104</td>
+  <td>92</td>
+  <td>14</td>
+  <td>80</td>
+  <td>118</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2018">2018</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Koe">Koe</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>50</td>
+  <td>92</td>
+  <td>121</td>
+  <td>90</td>
+  <td>154</td>
+  <td>92</td>
+  <td>17</td>
+  <td>82</td>
+  <td>171</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2019">2019</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Koe">Koe</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>27</td>
+  <td>85</td>
+  <td>103</td>
+  <td>91</td>
+  <td>113</td>
+  <td>92</td>
+  <td>17</td>
+  <td>76</td>
+  <td>130</td>
+  <td>90</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MOR">MOR</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2009">2009</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MART">MART</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>33</td>
+  <td>88</td>
+  <td>120</td>
+  <td>94</td>
+  <td>143</td>
+  <td>93</td>
+  <td>10</td>
+  <td>88</td>
+  <td>153</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2013">2013</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MAR">MAR</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>8</td>
+  <td>6</td>
+  <td>2</td>
+  <td>21</td>
+  <td>93</td>
+  <td>139</td>
+  <td>92</td>
+  <td>139</td>
+  <td>94</td>
+  <td>21</td>
+  <td>79</td>
+  <td>160</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2017">2017</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="Koe">Koe</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>8</td>
+  <td>1</td>
+  <td>15</td>
+  <td>83</td>
+  <td>166</td>
+  <td>93</td>
+  <td>152</td>
+  <td>93</td>
+  <td>29</td>
+  <td>86</td>
+  <td>181</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2021">2021</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="Koe">Koe</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>20</td>
+  <td>94</td>
+  <td>134</td>
+  <td>92</td>
+  <td>130</td>
+  <td>96</td>
+  <td>24</td>
+  <td>71</td>
+  <td>154</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2025">2025</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="JACm">JACm</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>8</td>
+  <td>1</td>
+  <td>55</td>
+  <td>90</td>
+  <td>127</td>
+  <td>93</td>
+  <td>173</td>
+  <td>92</td>
+  <td>9</td>
+  <td>89</td>
+  <td>182</td>
+  <td>92</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>206</td>
+  <td>153</td>
+  <td>53</td>
+  <td>866</td>
+  <td>88</td>
+  <td>2849</td>
+  <td>92</td>
+  <td>3287</td>
+  <td>92</td>
+  <td>428</td>
+  <td>80</td>
+  <td>3715</td>
+  <td>91</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>92</td>
+  <td>59</td>
+  <td>33</td>
+  <td>412</td>
+  <td>88</td>
+  <td>1281</td>
+  <td>91</td>
+  <td>1510</td>
+  <td>91</td>
+  <td>183</td>
+  <td>80</td>
+  <td>1693</td>
+  <td>90</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>43</td>
+  <td>35</td>
+  <td>8</td>
+  <td>144</td>
+  <td>90</td>
+  <td>686</td>
+  <td>93</td>
+  <td>737</td>
+  <td>94</td>
+  <td>93</td>
+  <td>81</td>
+  <td>830</td>
+  <td>92</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abraham-ryan#hebert-ben">Abraham, Ryan</option>
+
+
+      <option value="/vs/adam-gerry#hebert-ben">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-shawn#hebert-ben">Adams, Shawn</option>
+
+
+      <option value="/vs/aho-david#hebert-ben">Aho, David</option>
+
+
+      <option value="/vs/appelman-ted#hebert-ben">Appelman, Ted</option>
+
+
+      <option value="/vs/appelman-tom#hebert-ben">Appelman, Tom</option>
+
+
+      <option value="/vs/ardiel-taylor#hebert-ben">Ardiel, Taylor</option>
+
+
+      <option value="/vs/asselin-emile#hebert-ben">Asselin, Emile</option>
+
+
+      <option value="/vs/asselin-felix#hebert-ben">Asselin, Felix</option>
+
+
+      <option value="/vs/atchison-chris#hebert-ben">Atchison, Chris</option>
+
+
+      <option value="/vs/bailey-scott#hebert-ben">Bailey, Scott</option>
+
+
+      <option value="/vs/barker-richard#hebert-ben">Barker, Richard</option>
+
+
+      <option value="/vs/barry-josh#hebert-ben">Barry, Josh</option>
+
+
+      <option value="/vs/bartlett-don#hebert-ben">Bartlett, Don</option>
+
+
+      <option value="/vs/bartling-aaron#hebert-ben">Bartling, Aaron</option>
+
+
+      <option value="/vs/bawel-brent#hebert-ben">Bawel, Brent</option>
+
+
+      <option value="/vs/berthelot-marco#hebert-ben">Berthelot, Marco</option>
+
+
+      <option value="/vs/beuk-jonathan#hebert-ben">Beuk, Jonathan</option>
+
+
+      <option value="/vs/bezanson-jared#hebert-ben">Bezanson, Jared</option>
+
+
+      <option value="/vs/bilesky-andrew#hebert-ben">Bilesky, Andrew</option>
+
+
+      <option value="/vs/bitz-scott#hebert-ben">Bitz, Scott</option>
+
+
+      <option value="/vs/blanchard-wade#hebert-ben">Blanchard, Wade</option>
+
+
+      <option value="/vs/blyde-greg#hebert-ben">Blyde, Greg</option>
+
+
+      <option value="/vs/bonot-trevor#hebert-ben">Bonot, Trevor</option>
+
+
+      <option value="/vs/borden-robert#hebert-ben">Borden, Robert</option>
+
+
+      <option value="/vs/bottcher-brendan#hebert-ben">Bottcher, Brendan</option>
+
+
+      <option value="/vs/bouchard-christian#hebert-ben">Bouchard, Christian</option>
+
+
+      <option value="/vs/brannen-jamie#hebert-ben">Brannen, Jamie</option>
+
+
+      <option value="/vs/breckon-graham#hebert-ben">Breckon, Graham</option>
+
+
+      <option value="/vs/bryant-doug#hebert-ben">Bryant, Doug</option>
+
+
+      <option value="/vs/burgess-craig#hebert-ben">Burgess, Craig</option>
+
+
+      <option value="/vs/burnett-steve#hebert-ben">Burnett, Steve</option>
+
+
+      <option value="/vs/burtnyk-kerry#hebert-ben">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/buyck-james#hebert-ben">Buyck, James</option>
+
+
+      <option value="/vs/byrd-kurtis#hebert-ben">Byrd, Kurtis</option>
+
+
+      <option value="/vs/camm-mathew#hebert-ben">Camm, Mathew</option>
+
+
+      <option value="/vs/campbell-robert#hebert-ben">Campbell, Robert</option>
+
+
+      <option value="/vs/carmody-anson#hebert-ben">Carmody, Anson</option>
+
+
+      <option value="/vs/carruthers-reid#hebert-ben">Carruthers, Reid</option>
+
+
+      <option value="/vs/case-peter#hebert-ben">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#hebert-ben">Casey, Adam</option>
+
+
+      <option value="/vs/chadwick-scott#hebert-ben">Chadwick, Scott</option>
+
+
+      <option value="/vs/champion-kevin#hebert-ben">Champion, Kevin</option>
+
+
+      <option value="/vs/charette-pierre#hebert-ben">Charette, Pierre</option>
+
+
+      <option value="/vs/chorostkowski-brad#hebert-ben">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/chown-jeff#hebert-ben">Chown, Jeff</option>
+
+
+      <option value="/vs/cocks-adam#hebert-ben">Cocks, Adam</option>
+
+
+      <option value="/vs/codner-nicholas#hebert-ben">Codner, Nicholas</option>
+
+
+      <option value="/vs/collin-simon#hebert-ben">Collin, Simon</option>
+
+
+      <option value="/vs/colter-travis#hebert-ben">Colter, Travis</option>
+
+
+      <option value="/vs/cotter-jim#hebert-ben">Cotter, Jim</option>
+
+
+      <option value="/vs/cowan-chad#hebert-ben">Cowan, Chad</option>
+
+
+      <option value="/vs/crete-martin#hebert-ben">Crete, Martin</option>
+
+
+      <option value="/vs/crowell-phil#hebert-ben">Crowell, Phil</option>
+
+
+      <option value="/vs/dacey-mark#hebert-ben">Dacey, Mark</option>
+
+
+      <option value="/vs/danbrook-jamie#hebert-ben">Danbrook, Jamie</option>
+
+
+      <option value="/vs/daneault-richard#hebert-ben">Daneault, Richard</option>
+
+
+      <option value="/vs/darragh-alan#hebert-ben">Darragh, Alan</option>
+
+
+      <option value="/vs/delorey-d-arcy#hebert-ben">Delorey, D'arcy</option>
+
+
+      <option value="/vs/desjardins-robert#hebert-ben">Desjardins, Robert</option>
+
+
+      <option value="/vs/despins-dale#hebert-ben">Despins, Dale</option>
+
+
+      <option value="/vs/despins-glen#hebert-ben">Despins, Glen</option>
+
+
+      <option value="/vs/despins-wayne#hebert-ben">Despins, Wayne</option>
+
+
+      <option value="/vs/desrosiers-john#hebert-ben">Desrosiers, John</option>
+
+
+      <option value="/vs/dillon-mike#hebert-ben">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-mark#hebert-ben">Dobson, Mark</option>
+
+
+      <option value="/vs/dobson-paul#hebert-ben">Dobson, Paul</option>
+
+
+      <option value="/vs/doering-kyle#hebert-ben">Doering, Kyle</option>
+
+
+      <option value="/vs/doherty-robbie#hebert-ben">Doherty, Robbie</option>
+
+
+      <option value="/vs/drummond-kerr#hebert-ben">Drummond, Kerr</option>
+
+
+      <option value="/vs/dunstone-matt#hebert-ben">Dunstone, Matt</option>
+
+
+      <option value="/vs/dutiaume-randy#hebert-ben">Dutiaume, Randy</option>
+
+
+      <option value="/vs/eldridge-zach#hebert-ben">Eldridge, Zach</option>
+
+
+      <option value="/vs/elias-dave#hebert-ben">Elias, Dave</option>
+
+
+      <option value="/vs/elmaleh-maxime#hebert-ben">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/epping-john#hebert-ben">Epping, John</option>
+
+
+      <option value="/vs/errington-derek#hebert-ben">Errington, Derek</option>
+
+
+      <option value="/vs/ferbey-randy#hebert-ben">Ferbey, Randy</option>
+
+
+      <option value="/vs/ferland-martin#hebert-ben">Ferland, Martin</option>
+
+
+      <option value="/vs/fitzner-leblanc-ian#hebert-ben">Fitzner-LeBlanc, Ian</option>
+
+
+      <option value="/vs/flasch-colton#hebert-ben">Flasch, Colton</option>
+
+
+      <option value="/vs/flaxey-caleb#hebert-ben">Flaxey, Caleb</option>
+
+
+      <option value="/vs/flemming-paul#hebert-ben">Flemming, Paul</option>
+
+
+      <option value="/vs/folk-kevin#hebert-ben">Folk, Kevin</option>
+
+
+      <option value="/vs/follett-sam#hebert-ben">Follett, Sam</option>
+
+
+      <option value="/vs/forget-wesley#hebert-ben">Forget, Wesley</option>
+
+
+      <option value="/vs/forrest-alex#hebert-ben">Forrest, Alex</option>
+
+
+      <option value="/vs/forrest-tyler#hebert-ben">Forrest, Tyler</option>
+
+
+      <option value="/vs/fournier-mike#hebert-ben">Fournier, Mike</option>
+
+
+      <option value="/vs/fowler-rob#hebert-ben">Fowler, Rob</option>
+
+
+      <option value="/vs/frans-joe#hebert-ben">Frans, Joe</option>
+
+
+      <option value="/vs/fraser-pierre#hebert-ben">Fraser, Pierre</option>
+
+
+      <option value="/vs/freschi-don#hebert-ben">Freschi, Don</option>
+
+
+      <option value="/vs/fry-ryan#hebert-ben">Fry, Ryan</option>
+
+
+      <option value="/vs/gagne-francois#hebert-ben">Gagne, Francois</option>
+
+
+      <option value="/vs/gagnon-jean#hebert-ben">Gagnon, Jean</option>
+
+
+      <option value="/vs/gallant-brett#hebert-ben">Gallant, Brett</option>
+
+
+      <option value="/vs/gallant-chris#hebert-ben">Gallant, Chris</option>
+
+
+      <option value="/vs/gallant-peter#hebert-ben">Gallant, Peter</option>
+
+
+      <option value="/vs/gaudet-mike#hebert-ben">Gaudet, Mike</option>
+
+
+      <option value="/vs/gauthier-jacques#hebert-ben">Gauthier, Jacques</option>
+
+
+      <option value="/vs/gavin-martin#hebert-ben">Gavin, Martin</option>
+
+
+      <option value="/vs/geall-sean#hebert-ben">Geall, Sean</option>
+
+
+      <option value="/vs/gedak-brent#hebert-ben">Gedak, Brent</option>
+
+
+      <option value="/vs/gibson-andrew#hebert-ben">Gibson, Andrew</option>
+
+
+      <option value="/vs/ginter-jason#hebert-ben">Ginter, Jason</option>
+
+
+      <option value="/vs/gionest-francois#hebert-ben">Gionest, Francois</option>
+
+
+      <option value="/vs/gordon-robbie#hebert-ben">Gordon, Robbie</option>
+
+
+      <option value="/vs/gorveatt-philip#hebert-ben">Gorveatt, Philip</option>
+
+
+      <option value="/vs/gould-steve#hebert-ben">Gould, Steve</option>
+
+
+      <option value="/vs/graber-dennis#hebert-ben">Graber, Dennis</option>
+
+
+      <option value="/vs/granchelli-kris#hebert-ben">Granchelli, Kris</option>
+
+
+      <option value="/vs/grattan-drew#hebert-ben">Grattan, Drew</option>
+
+
+      <option value="/vs/grattan-james#hebert-ben">Grattan, James</option>
+
+
+      <option value="/vs/griffith-tyrel#hebert-ben">Griffith, Tyrel</option>
+
+
+      <option value="/vs/gunnlaugson-jason#hebert-ben">Gunnlaugson, Jason</option>
+
+
+      <option value="/vs/gushue-brad#hebert-ben">Gushue, Brad</option>
+
+
+      <option value="/vs/hall-matthew#hebert-ben">Hall, Matthew</option>
+
+
+      <option value="/vs/hamilton-andrew#hebert-ben">Hamilton, Andrew</option>
+
+
+      <option value="/vs/harnden-al#hebert-ben">Harnden, Al</option>
+
+
+      <option value="/vs/harnden-e-j#hebert-ben">Harnden, E.J.</option>
+
+
+      <option value="/vs/harnden-ryan#hebert-ben">Harnden, Ryan</option>
+
+
+      <option value="/vs/harris-rob#hebert-ben">Harris, Rob</option>
+
+
+      <option value="/vs/hart-joey#hebert-ben">Hart, Joey</option>
+
+
+      <option value="/vs/hart-richard#hebert-ben">Hart, Richard</option>
+
+
+      <option value="/vs/harvey-don#hebert-ben">Harvey, Don</option>
+
+
+      <option value="/vs/hebert-ben#heidt-brad">Heidt, Brad</option>
+
+
+      <option value="/vs/hebert-ben#heidt-mitch">Heidt, Mitch</option>
+
+
+      <option value="/vs/hebert-ben#herrick-aron">Herrick, Aron</option>
+
+
+      <option value="/vs/hebert-ben#hicke-dean">Hicke, Dean</option>
+
+
+      <option value="/vs/hebert-ben#hodgson-colin">Hodgson, Colin</option>
+
+
+      <option value="/vs/hebert-ben#horgan-jacob">Horgan, Jacob</option>
+
+
+      <option value="/vs/hebert-ben#horgan-tanner">Horgan, Tanner</option>
+
+
+      <option value="/vs/hebert-ben#horning-deane">Horning, Deane</option>
+
+
+      <option value="/vs/hebert-ben#horvath-alex">Horvath, Alex</option>
+
+
+      <option value="/vs/hebert-ben#howard-glenn">Howard, Glenn</option>
+
+
+      <option value="/vs/hebert-ben#howard-greg">Howard, Greg</option>
+
+
+      <option value="/vs/hebert-ben#howard-russ">Howard, Russ</option>
+
+
+      <option value="/vs/hebert-ben#howard-scott">Howard, Scott</option>
+
+
+      <option value="/vs/hebert-ben#howard-steven">Howard, Steven</option>
+
+
+      <option value="/vs/hebert-ben#huminicki-elias">Huminicki, Elias</option>
+
+
+      <option value="/vs/hebert-ben#ireland-clint">Ireland, Clint</option>
+
+
+      <option value="/vs/hebert-ben#jacobs-brad">Jacobs, Brad</option>
+
+
+      <option value="/vs/hebert-ben#jakomait-dusty">Jakomait, Dusty</option>
+
+
+      <option value="/vs/hebert-ben#jakubo-mike">Jakubo, Mike</option>
+
+
+      <option value="/vs/hebert-ben#janssen-patrick">Janssen, Patrick</option>
+
+
+      <option value="/vs/hebert-ben#jantzen-mike">Jantzen, Mike</option>
+
+
+      <option value="/vs/hebert-ben#jeffrey-chris">Jeffrey, Chris</option>
+
+
+      <option value="/vs/hebert-ben#jensen-trygg">Jensen, Trygg</option>
+
+
+      <option value="/vs/hebert-ben#jewer-keith">Jewer, Keith</option>
+
+
+      <option value="/vs/hebert-ben#joanisse-dean">Joanisse, Dean</option>
+
+
+      <option value="/vs/hebert-ben#johnson-bill">Johnson, Bill</option>
+
+
+      <option value="/vs/hebert-ben#johnson-trevor">Johnson, Trevor</option>
+
+
+      <option value="/vs/hebert-ben#jones-brennen">Jones, Brennen</option>
+
+
+      <option value="/vs/hebert-ben#jones-scott">Jones, Scott</option>
+
+
+      <option value="/vs/hebert-ben#jordison-joel">Jordison, Joel</option>
+
+
+      <option value="/vs/hebert-ben#kammerlock-dan">Kammerlock, Dan</option>
+
+
+      <option value="/vs/hebert-ben#kean-mark">Kean, Mark</option>
+
+
+      <option value="/vs/hebert-ben#kehoe-mark">Kehoe, Mark</option>
+
+
+      <option value="/vs/hebert-ben#kennedy-marc">Kennedy, Marc</option>
+
+
+      <option value="/vs/hebert-ben#kennedy-mike">Kennedy, Mike</option>
+
+
+      <option value="/vs/hebert-ben#kidby-dustin">Kidby, Dustin</option>
+
+
+      <option value="/vs/hebert-ben#kilgallen-shane">Kilgallen, Shane</option>
+
+
+      <option value="/vs/hebert-ben#king-brian">King, Brian</option>
+
+
+      <option value="/vs/hebert-ben#klassen-brandon">Klassen, Brandon</option>
+
+
+      <option value="/vs/hebert-ben#kleiter-rylan">Kleiter, Rylan</option>
+
+
+      <option value="/vs/hebert-ben#klitch-tyler">Klitch, Tyler</option>
+
+
+      <option value="/vs/hebert-ben#knapp-kelly">Knapp, Kelly</option>
+
+
+      <option value="/vs/hebert-ben#koe-jamie">Koe, Jamie</option>
+
+
+      <option value="/vs/hebert-ben#koe-kevin">Koe, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#kopf-steve">Kopf, Steve</option>
+
+
+      <option value="/vs/hebert-ben#korab-jamie">Korab, Jamie</option>
+
+
+      <option value="/vs/hebert-ben#krats-joel">Krats, Joel</option>
+
+
+      <option value="/vs/hebert-ben#kuhn-ryan">Kuhn, Ryan</option>
+
+
+      <option value="/vs/hebert-ben#lacey-jeff">Lacey, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#laing-brent">Laing, Brent</option>
+
+
+      <option value="/vs/hebert-ben#landry-jeremy">Landry, Jeremy</option>
+
+
+      <option value="/vs/hebert-ben#latos-evan">Latos, Evan</option>
+
+
+      <option value="/vs/hebert-ben#laycock-steve">Laycock, Steve</option>
+
+
+      <option value="/vs/hebert-ben#lecocq-marc">LeCocq, Marc</option>
+
+
+      <option value="/vs/hebert-ben#ledgerwood-sean">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/hebert-ben#ledrew-ryan">LeDrew, Ryan</option>
+
+
+      <option value="/vs/hebert-ben#lemay-philippe">Lemay, Philippe</option>
+
+
+      <option value="/vs/hebert-ben#lind-j-d">Lind, J.D.</option>
+
+
+      <option value="/vs/hebert-ben#locke-nathan">Locke, Nathan</option>
+
+
+      <option value="/vs/hebert-ben#lohnes-bruce">Lohnes, Bruce</option>
+
+
+      <option value="/vs/hebert-ben#lott-colton">Lott, Colton</option>
+
+
+      <option value="/vs/hebert-ben#lowery-ryan">Lowery, Ryan</option>
+
+
+      <option value="/vs/hebert-ben#macdonald-blake">MacDonald, Blake</option>
+
+
+      <option value="/vs/hebert-ben#macdonald-rod">MacDonald, Rod</option>
+
+
+      <option value="/vs/hebert-ben#macfadyen-alex">MacFadyen, Alex</option>
+
+
+      <option value="/vs/hebert-ben#macinnes-david">MacInnes, David</option>
+
+
+      <option value="/vs/hebert-ben#mackenzie-eddie">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/hebert-ben#mackenzie-kevin">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#mackey-peter">Mackey, Peter</option>
+
+
+      <option value="/vs/hebert-ben#maclean-stuart">MacLean, Stuart</option>
+
+
+      <option value="/vs/hebert-ben#mallais-jeremy">Mallais, Jeremy</option>
+
+
+      <option value="/vs/hebert-ben#march-tim">March, Tim</option>
+
+
+      <option value="/vs/hebert-ben#marsh-dan">Marsh, Dan</option>
+
+
+      <option value="/vs/hebert-ben#marsh-daniel">Marsh, Daniel</option>
+
+
+      <option value="/vs/hebert-ben#marsh-kevin">Marsh, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#martin-karrick">Martin, Karrick</option>
+
+
+      <option value="/vs/hebert-ben#martin-kevin">Martin, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#maskiewich-ken">Maskiewich, Ken</option>
+
+
+      <option value="/vs/hebert-ben#mathers-david">Mathers, David</option>
+
+
+      <option value="/vs/hebert-ben#mattern-joshua">Mattern, Joshua</option>
+
+
+      <option value="/vs/hebert-ben#mawhinney-spencer">Mawhinney, Spencer</option>
+
+
+      <option value="/vs/hebert-ben#mccann-andy">McCann, Andy</option>
+
+
+      <option value="/vs/hebert-ben#mccarrel-graeme">McCarrel, Graeme</option>
+
+
+      <option value="/vs/hebert-ben#mccarville-mike">McCarville, Mike</option>
+
+
+      <option value="/vs/hebert-ben#mcdonah-alex">McDonah, Alex</option>
+
+
+      <option value="/vs/hebert-ben#mcdonah-evan">McDonah, Evan</option>
+
+
+      <option value="/vs/hebert-ben#mcdonald-jordon">McDonald, Jordon</option>
+
+
+      <option value="/vs/hebert-ben#mcdonald-scott">McDonald, Scott</option>
+
+
+      <option value="/vs/hebert-ben#mcewen-mike">McEwen, Mike</option>
+
+
+      <option value="/vs/hebert-ben#mcleod-shadrach">Mcleod, Shadrach</option>
+
+
+      <option value="/vs/hebert-ben#mcmillan-ian">McMillan, Ian</option>
+
+
+      <option value="/vs/hebert-ben#meachem-shaun-myles">Meachem, Shaun Myles</option>
+
+
+      <option value="/vs/hebert-ben#mead-jon">Mead, Jon</option>
+
+
+      <option value="/vs/hebert-ben#melnichuk-greg">Melnichuk, Greg</option>
+
+
+      <option value="/vs/hebert-ben#melnyk-brendan">Melnyk, Brendan</option>
+
+
+      <option value="/vs/hebert-ben#menard-jean-michel">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/hebert-ben#menard-philippe">Menard, Philippe</option>
+
+
+      <option value="/vs/hebert-ben#middaugh-wayne">Middaugh, Wayne</option>
+
+
+      <option value="/vs/hebert-ben#middleton-sterling">Middleton, Sterling</option>
+
+
+      <option value="/vs/hebert-ben#mitchell-collin">Mitchell, Collin</option>
+
+
+      <option value="/vs/hebert-ben#mitchell-scott">Mitchell, Scott</option>
+
+
+      <option value="/vs/hebert-ben#mittelstadt-kelly">Mittelstadt, Kelly</option>
+
+
+      <option value="/vs/hebert-ben#mooibroek-sam">Mooibroek, Sam</option>
+
+
+      <option value="/vs/hebert-ben#morris-john">Morris, John</option>
+
+
+      <option value="/vs/hebert-ben#moshenko-darcy">Moshenko, Darcy</option>
+
+
+      <option value="/vs/hebert-ben#moskowy-braeden">Moskowy, Braeden</option>
+
+
+      <option value="/vs/hebert-ben#moss-steve">Moss, Steve</option>
+
+
+      <option value="/vs/hebert-ben#moulding-darren">Moulding, Darren</option>
+
+
+      <option value="/vs/hebert-ben#muyres-dallan">Muyres, Dallan</option>
+
+
+      <option value="/vs/hebert-ben#muyres-kirk">Muyres, Kirk</option>
+
+
+      <option value="/vs/hebert-ben#nadeau-jeff">Nadeau, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#nantes-dave">Nantes, Dave</option>
+
+
+      <option value="/vs/hebert-ben#naugler-adam">Naugler, Adam</option>
+
+
+      <option value="/vs/hebert-ben#naugler-tom">Naugler, Tom</option>
+
+
+      <option value="/vs/hebert-ben#nedohin-david">Nedohin, David</option>
+
+
+      <option value="/vs/hebert-ben#nelson-randy">Nelson, Randy</option>
+
+
+      <option value="/vs/hebert-ben#nerpin-andrew">Nerpin, Andrew</option>
+
+
+      <option value="/vs/hebert-ben#neufeld-b-j">Neufeld, B.J.</option>
+
+
+      <option value="/vs/hebert-ben#neufeld-denni">Neufeld, Denni</option>
+
+
+      <option value="/vs/hebert-ben#ng-matt">Ng, Matt</option>
+
+
+      <option value="/vs/hebert-ben#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/hebert-ben#njegovan-connor">Njegovan, Connor</option>
+
+
+      <option value="/vs/hebert-ben#nobert-rob">Nobert, Rob</option>
+
+
+      <option value="/vs/hebert-ben#noftall-david">Noftall, David</option>
+
+
+      <option value="/vs/hebert-ben#o-connor-sean">O'Connor, Sean</option>
+
+
+      <option value="/vs/hebert-ben#o-rourke-mark">O'Rourke, Mark</option>
+
+
+      <option value="/vs/hebert-ben#odishaw-grant">Odishaw, Grant</option>
+
+
+      <option value="/vs/hebert-ben#odishaw-terry">Odishaw, Terry</option>
+
+
+      <option value="/vs/hebert-ben#olafson-cameron">Olafson, Cameron</option>
+
+
+      <option value="/vs/hebert-ben#olson-mark-2">Olson, Mark-2</option>
+
+
+      <option value="/vs/hebert-ben#ouimet-luc">Ouimet, Luc</option>
+
+
+      <option value="/vs/hebert-ben#owens-derek">Owens, Derek</option>
+
+
+      <option value="/vs/hebert-ben#palmer-curt">Palmer, Curt</option>
+
+
+      <option value="/vs/hebert-ben#park-kevin">Park, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#parsons-cole">Parsons, Cole</option>
+
+
+      <option value="/vs/hebert-ben#peddigrew-ken">Peddigrew, Ken</option>
+
+
+      <option value="/vs/hebert-ben#perepolkin-t-j">Perepolkin, T.J.</option>
+
+
+      <option value="/vs/hebert-ben#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/hebert-ben#pielak-rod">Pielak, Rod</option>
+
+
+      <option value="/vs/hebert-ben#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/hebert-ben#pinder-jordan">Pinder, Jordan</option>
+
+
+      <option value="/vs/hebert-ben#porter-geoff">Porter, Geoff</option>
+
+
+      <option value="/vs/hebert-ben#porter-ryan">Porter, Ryan</option>
+
+
+      <option value="/vs/hebert-ben#potts-jordan">Potts, Jordan</option>
+
+
+      <option value="/vs/hebert-ben#preston-eric">Preston, Eric</option>
+
+
+      <option value="/vs/hebert-ben#purcell-owen">Purcell, Owen</option>
+
+
+      <option value="/vs/hebert-ben#rafuse-brian">Rafuse, Brian</option>
+
+
+      <option value="/vs/hebert-ben#recksiedler-kevin">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#reid-serge">Reid, Serge</option>
+
+
+      <option value="/vs/hebert-ben#richard-jeff">Richard, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#richter-justin">Richter, Justin</option>
+
+
+      <option value="/vs/hebert-ben#roach-darren">Roach, Darren</option>
+
+
+      <option value="/vs/hebert-ben#roach-jason">Roach, Jason</option>
+
+
+      <option value="/vs/hebert-ben#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/hebert-ben#robinson-andrew">Robinson, Andrew</option>
+
+
+      <option value="/vs/hebert-ben#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/hebert-ben#rose-jeff">Rose, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#ryan-keith">Ryan, Keith</option>
+
+
+      <option value="/vs/hebert-ben#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/hebert-ben#saccary-scott">Saccary, Scott</option>
+
+
+      <option value="/vs/hebert-ben#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/hebert-ben#saunders-luke">Saunders, Luke</option>
+
+
+      <option value="/vs/hebert-ben#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/hebert-ben#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/hebert-ben#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/hebert-ben#schmidt-aryn">Schmidt, Aryn</option>
+
+
+      <option value="/vs/hebert-ben#schneider-catlin">Schneider, Catlin</option>
+
+
+      <option value="/vs/hebert-ben#scoffin-thomas">Scoffin, Thomas</option>
+
+
+      <option value="/vs/hebert-ben#scoffin-wade">Scoffin, Wade</option>
+
+
+      <option value="/vs/hebert-ben#seabrook-matt">Seabrook, Matt</option>
+
+
+      <option value="/vs/hebert-ben#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/hebert-ben#sharp-jeff">Sharp, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/hebert-ben#slauenwhite-david">Slauenwhite, David</option>
+
+
+      <option value="/vs/hebert-ben#sluchinski-aaron">Sluchinski, Aaron</option>
+
+
+      <option value="/vs/hebert-ben#smith-alex">Smith, Alex</option>
+
+
+      <option value="/vs/hebert-ben#smith-garth">Smith, Garth</option>
+
+
+      <option value="/vs/hebert-ben#smith-greg">Smith, Greg</option>
+
+
+      <option value="/vs/hebert-ben#smith-kent">Smith, Kent</option>
+
+
+      <option value="/vs/hebert-ben#smith-tyler">Smith, Tyler</option>
+
+
+      <option value="/vs/hebert-ben#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/hebert-ben#sosiak-jim">Sosiak, Jim</option>
+
+
+      <option value="/vs/hebert-ben#spencer-adam">Spencer, Adam</option>
+
+
+      <option value="/vs/hebert-ben#st-louis-brady">St.Louis, Brady</option>
+
+
+      <option value="/vs/hebert-ben#steele-colten">Steele, Colten</option>
+
+
+      <option value="/vs/hebert-ben#steele-nathan">Steele, Nathan</option>
+
+
+      <option value="/vs/hebert-ben#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/hebert-ben#stringer-ben">Stringer, Ben</option>
+
+
+      <option value="/vs/hebert-ben#sturmay-karsten">Sturmay, Karsten</option>
+
+
+      <option value="/vs/hebert-ben#sulimma-hardi">Sulimma, Hardi</option>
+
+
+      <option value="/vs/hebert-ben#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/hebert-ben#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/hebert-ben#symonds-andrew">Symonds, Andrew</option>
+
+
+      <option value="/vs/hebert-ben#tallon-wayne">Tallon, Wayne</option>
+
+
+      <option value="/vs/hebert-ben#tardi-tyler">Tardi, Tyler</option>
+
+
+      <option value="/vs/hebert-ben#thiessen-brad">Thiessen, Brad</option>
+
+
+      <option value="/vs/hebert-ben#thiessen-nolan">Thiessen, Nolan</option>
+
+
+      <option value="/vs/hebert-ben#thomas-charley">Thomas, Charley</option>
+
+
+      <option value="/vs/hebert-ben#thomas-colin">Thomas, Colin</option>
+
+
+      <option value="/vs/hebert-ben#thompson-stuart">Thompson, Stuart</option>
+
+
+      <option value="/vs/hebert-ben#thomson-fred">Thomson, Fred</option>
+
+
+      <option value="/vs/hebert-ben#toner-lee">Toner, Lee</option>
+
+
+      <option value="/vs/hebert-ben#trepanier-jean-francois">Trepanier, Jean-Francois</option>
+
+
+      <option value="/vs/hebert-ben#trickett-stephen">Trickett, Stephen</option>
+
+
+      <option value="/vs/hebert-ben#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/hebert-ben#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/hebert-ben#vaughan-jason">Vaughan, Jason</option>
+
+
+      <option value="/vs/hebert-ben#venance-glenn">Venance, Glenn</option>
+
+
+      <option value="/vs/hebert-ben#villeneuve-steeve">Villeneuve, Steeve</option>
+
+
+      <option value="/vs/hebert-ben#virtue-brock">Virtue, Brock</option>
+
+
+      <option value="/vs/hebert-ben#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/hebert-ben#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/hebert-ben#wallingham-joe">Wallingham, Joe</option>
+
+
+      <option value="/vs/hebert-ben#watson-aaron">Watson, Aaron</option>
+
+
+      <option value="/vs/hebert-ben#white-edward">White, Edward</option>
+
+
+      <option value="/vs/hebert-ben#whitehead-kevin">Whitehead, Kevin</option>
+
+
+      <option value="/vs/hebert-ben#whitehead-mark">Whitehead, Mark</option>
+
+
+      <option value="/vs/hebert-ben#wiebe-ryan">Wiebe, Ryan</option>
+
+
+      <option value="/vs/hebert-ben#willis-brendan">Willis, Brendan</option>
+
+
+      <option value="/vs/hebert-ben#windsor-brian">Windsor, Brian</option>
+
+
+      <option value="/vs/hebert-ben#winfield-brett">Winfield, Brett</option>
+
+
+      <option value="/vs/hebert-ben#wood-mike">Wood, Mike</option>
+
+
+      <option value="/vs/hebert-ben#wozniak-matt">Wozniak, Matt</option>
+
+
+      <option value="/vs/hebert-ben#young-nathan">Young, Nathan</option>
+
+
+      <option value="/vs/hebert-ben#zawada-braden">Zawada, Braden</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

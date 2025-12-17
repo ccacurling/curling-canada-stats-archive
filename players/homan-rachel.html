@@ -1,0 +1,1690 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Rachel Homan
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Rachel Homan <i class="fe fe-user-plus" data-name="Homan, Rachel" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2011">2011</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>6</td>
+  <td>2</td>
+  <td>4</td>
+  <td>66</td>
+  <td>81</td>
+  <td>50</td>
+  <td>77</td>
+  <td>52</td>
+  <td>80</td>
+  <td>64</td>
+  <td>79</td>
+  <td>116</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2014">2014</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>64</td>
+  <td>78</td>
+  <td>66</td>
+  <td>78</td>
+  <td>55</td>
+  <td>77</td>
+  <td>75</td>
+  <td>79</td>
+  <td>130</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2015">2015</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>64</td>
+  <td>82</td>
+  <td>68</td>
+  <td>82</td>
+  <td>62</td>
+  <td>78</td>
+  <td>70</td>
+  <td>85</td>
+  <td>132</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2016">2016</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>67</td>
+  <td>79</td>
+  <td>80</td>
+  <td>81</td>
+  <td>78</td>
+  <td>76</td>
+  <td>69</td>
+  <td>85</td>
+  <td>147</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2018">2018</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>77</td>
+  <td>78</td>
+  <td>71</td>
+  <td>76</td>
+  <td>76</td>
+  <td>76</td>
+  <td>72</td>
+  <td>78</td>
+  <td>148</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2019">2019</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>67</td>
+  <td>90</td>
+  <td>64</td>
+  <td>82</td>
+  <td>63</td>
+  <td>83</td>
+  <td>68</td>
+  <td>89</td>
+  <td>131</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2011">2011</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>139</td>
+  <td>77</td>
+  <td>109</td>
+  <td>78</td>
+  <td>118</td>
+  <td>71</td>
+  <td>130</td>
+  <td>84</td>
+  <td>248</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2013">2013</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>116</td>
+  <td>84</td>
+  <td>117</td>
+  <td>85</td>
+  <td>93</td>
+  <td>79</td>
+  <td>140</td>
+  <td>88</td>
+  <td>233</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2014">2014</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>13</td>
+  <td>0</td>
+  <td>122</td>
+  <td>90</td>
+  <td>105</td>
+  <td>90</td>
+  <td>78</td>
+  <td>88</td>
+  <td>149</td>
+  <td>91</td>
+  <td>227</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2015">2015</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>145</td>
+  <td>80</td>
+  <td>104</td>
+  <td>81</td>
+  <td>106</td>
+  <td>83</td>
+  <td>143</td>
+  <td>79</td>
+  <td>249</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2017">2017</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>14</td>
+  <td>12</td>
+  <td>2</td>
+  <td>134</td>
+  <td>87</td>
+  <td>128</td>
+  <td>82</td>
+  <td>94</td>
+  <td>81</td>
+  <td>168</td>
+  <td>86</td>
+  <td>262</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2019">2019</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>125</td>
+  <td>84</td>
+  <td>143</td>
+  <td>83</td>
+  <td>126</td>
+  <td>79</td>
+  <td>142</td>
+  <td>88</td>
+  <td>268</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2020">2020</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>114</td>
+  <td>81</td>
+  <td>146</td>
+  <td>88</td>
+  <td>124</td>
+  <td>82</td>
+  <td>136</td>
+  <td>88</td>
+  <td>260</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2021">2021</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>129</td>
+  <td>80</td>
+  <td>111</td>
+  <td>84</td>
+  <td>118</td>
+  <td>76</td>
+  <td>122</td>
+  <td>87</td>
+  <td>240</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2023">2023</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>91</td>
+  <td>83</td>
+  <td>77</td>
+  <td>80</td>
+  <td>69</td>
+  <td>72</td>
+  <td>99</td>
+  <td>88</td>
+  <td>168</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2024">2024</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>11</td>
+  <td>0</td>
+  <td>107</td>
+  <td>89</td>
+  <td>100</td>
+  <td>90</td>
+  <td>70</td>
+  <td>90</td>
+  <td>137</td>
+  <td>89</td>
+  <td>207</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2025">2025</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>11</td>
+  <td>0</td>
+  <td>104</td>
+  <td>85</td>
+  <td>99</td>
+  <td>88</td>
+  <td>79</td>
+  <td>86</td>
+  <td>124</td>
+  <td>86</td>
+  <td>203</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2013">2013</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>88</td>
+  <td>76</td>
+  <td>62</td>
+  <td>81</td>
+  <td>43</td>
+  <td>65</td>
+  <td>107</td>
+  <td>83</td>
+  <td>150</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2017">2017</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>9</td>
+  <td>1</td>
+  <td>100</td>
+  <td>85</td>
+  <td>90</td>
+  <td>88</td>
+  <td>64</td>
+  <td>86</td>
+  <td>126</td>
+  <td>87</td>
+  <td>190</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2021">2021</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>2</td>
+  <td>6</td>
+  <td>92</td>
+  <td>72</td>
+  <td>62</td>
+  <td>72</td>
+  <td>85</td>
+  <td>73</td>
+  <td>69</td>
+  <td>71</td>
+  <td>154</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2025">2025</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="HOMw">HOMw</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>8</td>
+  <td>1</td>
+  <td>83</td>
+  <td>89</td>
+  <td>78</td>
+  <td>81</td>
+  <td>71</td>
+  <td>85</td>
+  <td>90</td>
+  <td>86</td>
+  <td>161</td>
+  <td>85</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>43</td>
+  <td>29</td>
+  <td>14</td>
+  <td>405</td>
+  <td>81</td>
+  <td>399</td>
+  <td>79</td>
+  <td>386</td>
+  <td>78</td>
+  <td>418</td>
+  <td>82</td>
+  <td>804</td>
+  <td>80</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>139</td>
+  <td>113</td>
+  <td>26</td>
+  <td>1326</td>
+  <td>84</td>
+  <td>1239</td>
+  <td>84</td>
+  <td>1075</td>
+  <td>80</td>
+  <td>1490</td>
+  <td>87</td>
+  <td>2565</td>
+  <td>84</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>35</td>
+  <td>23</td>
+  <td>12</td>
+  <td>363</td>
+  <td>81</td>
+  <td>292</td>
+  <td>81</td>
+  <td>263</td>
+  <td>78</td>
+  <td>392</td>
+  <td>83</td>
+  <td>655</td>
+  <td>81</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/ackland-abby#homan-rachel">Ackland, Abby</option>
+
+
+      <option value="/vs/adams-melissa#homan-rachel">Adams, Melissa</option>
+
+
+      <option value="/vs/affleck-tricia#homan-rachel">Affleck, Tricia</option>
+
+
+      <option value="/vs/alcoe-holland-jill#homan-rachel">Alcoe-Holland, Jill</option>
+
+
+      <option value="/vs/aleksic-shannon#homan-rachel">Aleksic, Shannon</option>
+
+
+      <option value="/vs/anderson-sherry#homan-rachel">Anderson, Sherry</option>
+
+
+      <option value="/vs/armstrong-hailey#homan-rachel">Armstrong, Hailey</option>
+
+
+      <option value="/vs/armstrong-jacquie#homan-rachel">Armstrong, Jacquie</option>
+
+
+      <option value="/vs/armstrong-leigh#homan-rachel">Armstrong, Leigh</option>
+
+
+      <option value="/vs/arsenault-mary-anne#homan-rachel">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/atkinson-rebecca#homan-rachel">Atkinson, Rebecca</option>
+
+
+      <option value="/vs/ayrey-jinaye#homan-rachel">Ayrey, Jinaye</option>
+
+
+      <option value="/vs/babin-jillian#homan-rachel">Babin, Jillian</option>
+
+
+      <option value="/vs/baier-stephanie#homan-rachel">Baier, Stephanie</option>
+
+
+      <option value="/vs/barbour-shona#homan-rachel">Barbour, Shona</option>
+
+
+      <option value="/vs/barker-penny#homan-rachel">Barker, Penny</option>
+
+
+      <option value="/vs/barker-shelley#homan-rachel">Barker, Shelley</option>
+
+
+      <option value="/vs/baxter-jennifer#homan-rachel">Baxter, Jennifer</option>
+
+
+      <option value="/vs/beauchamp-sasha#homan-rachel">Beauchamp, Sasha</option>
+
+
+      <option value="/vs/belisle-eve#homan-rachel">Belisle, Eve</option>
+
+
+      <option value="/vs/bell-chelsey#homan-rachel">Bell, Chelsey</option>
+
+
+      <option value="/vs/bernard-cheryl#homan-rachel">Bernard, Cheryl</option>
+
+
+      <option value="/vs/birchard-shannon#homan-rachel">Birchard, Shannon</option>
+
+
+      <option value="/vs/birnie-hailey#homan-rachel">Birnie, Hailey</option>
+
+
+      <option value="/vs/birt-suzanne#homan-rachel">Birt, Suzanne</option>
+
+
+      <option value="/vs/black-christina#homan-rachel">Black, Christina</option>
+
+
+      <option value="/vs/blais-amelie#homan-rachel">Blais, Amelie</option>
+
+
+      <option value="/vs/blaney-jennifer#homan-rachel">Blaney, Jennifer</option>
+
+
+      <option value="/vs/bobbie-tess#homan-rachel">Bobbie, Tess</option>
+
+
+      <option value="/vs/bodner-jenine#homan-rachel">Bodner, Jenine</option>
+
+
+      <option value="/vs/boudreault-patricia#homan-rachel">Boudreault, Patricia</option>
+
+
+      <option value="/vs/boyle-jane#homan-rachel">Boyle, Jane</option>
+
+
+      <option value="/vs/bradley-shelley#homan-rachel">Bradley, Shelley</option>
+
+
+      <option value="/vs/brassard-veronique#homan-rachel">Brassard, Veronique</option>
+
+
+      <option value="/vs/brine-jenn#homan-rachel">Brine, Jenn</option>
+
+
+      <option value="/vs/brothers-jillian#homan-rachel">Brothers, Jillian</option>
+
+
+      <option value="/vs/brown-corryn#homan-rachel">Brown, Corryn</option>
+
+
+      <option value="/vs/brown-rachel#homan-rachel">Brown, Rachel</option>
+
+
+      <option value="/vs/brown-rachelle#homan-rachel">Brown, Rachelle</option>
+
+
+      <option value="/vs/brunton-kira#homan-rachel">Brunton, Kira</option>
+
+
+      <option value="/vs/burgess-karlee#homan-rachel">Burgess, Karlee</option>
+
+
+      <option value="/vs/burns-krysta#homan-rachel">Burns, Krysta</option>
+
+
+      <option value="/vs/burt-camille#homan-rachel">Burt, Camille</option>
+
+
+      <option value="/vs/cameron-kate#homan-rachel">Cameron, Kate</option>
+
+
+      <option value="/vs/camozzi-rhonda#homan-rachel">Camozzi, Rhonda</option>
+
+
+      <option value="/vs/cannon-theresa#homan-rachel">Cannon, Theresa</option>
+
+
+      <option value="/vs/carey-chelsea#homan-rachel">Carey, Chelsea</option>
+
+
+      <option value="/vs/carmody-erin#homan-rachel">Carmody, Erin</option>
+
+
+      <option value="/vs/carter-sasha#homan-rachel">Carter, Sasha</option>
+
+
+      <option value="/vs/cheveldave-amber#homan-rachel">Cheveldave, Amber</option>
+
+
+      <option value="/vs/christianson-marie#homan-rachel">Christianson, Marie</option>
+
+
+      <option value="/vs/clark-stefanie#homan-rachel">Clark, Stefanie</option>
+
+
+      <option value="/vs/collins-katrina#homan-rachel">Collins, Katrina</option>
+
+
+      <option value="/vs/cooper-kathryn#homan-rachel">Cooper, Kathryn</option>
+
+
+      <option value="/vs/cormier-sharon#homan-rachel">Cormier, Sharon</option>
+
+
+      <option value="/vs/cottrill-katie#homan-rachel">Cottrill, Katie</option>
+
+
+      <option value="/vs/court-morgan#homan-rachel">Court, Morgan</option>
+
+
+      <option value="/vs/courtney-joanne#homan-rachel">Courtney, Joanne</option>
+
+
+      <option value="/vs/crandall-jaclyn#homan-rachel">Crandall, Jaclyn</option>
+
+
+      <option value="/vs/crocker-laura#homan-rachel">Crocker, Laura</option>
+
+
+      <option value="/vs/curtis-erica#homan-rachel">Curtis, Erica</option>
+
+
+      <option value="/vs/curtis-stacie#homan-rachel">Curtis, Stacie</option>
+
+
+      <option value="/vs/cutcliffe-margaret#homan-rachel">Cutcliffe, Margaret</option>
+
+
+      <option value="/vs/daigle-julie#homan-rachel">Daigle, Julie</option>
+
+
+      <option value="/vs/daly-calissa#homan-rachel">Daly, Calissa</option>
+
+
+      <option value="/vs/darbyshire-carolyn#homan-rachel">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/degroot-cassandra#homan-rachel">deGroot, Cassandra</option>
+
+
+      <option value="/vs/dejager-blaine#homan-rachel">deJager, Blaine</option>
+
+
+      <option value="/vs/derry-danielle#homan-rachel">Derry, Danielle</option>
+
+
+      <option value="/vs/desolla-jodie#homan-rachel">deSolla, Jodie</option>
+
+
+      <option value="/vs/dicarlo-jane#homan-rachel">DiCarlo, Jane</option>
+
+
+      <option value="/vs/doerksen-katherine#homan-rachel">Doerksen, Katherine</option>
+
+
+      <option value="/vs/doig-deanna#homan-rachel">Doig, Deanna</option>
+
+
+      <option value="/vs/dolan-kim#homan-rachel">Dolan, Kim</option>
+
+
+      <option value="/vs/dubue-lindsay#homan-rachel">Dubue, Lindsay</option>
+
+
+      <option value="/vs/dufresne-audree#homan-rachel">Dufresne, Audree</option>
+
+
+      <option value="/vs/duhaime-chantal#homan-rachel">Duhaime, Chantal</option>
+
+
+      <option value="/vs/duncan-chelsea#homan-rachel">Duncan, Chelsea</option>
+
+
+      <option value="/vs/dykstra-michelle#homan-rachel">Dykstra, Michelle</option>
+
+
+      <option value="/vs/einarson-kerri#homan-rachel">Einarson, Kerri</option>
+
+
+      <option value="/vs/elias-mackenzie#homan-rachel">Elias, Mackenzie</option>
+
+
+      <option value="/vs/enge-jenna#homan-rachel">Enge, Jenna</option>
+
+
+      <option value="/vs/englot-michelle#homan-rachel">Englot, Michelle</option>
+
+
+      <option value="/vs/everist-karlee#homan-rachel">Everist, Karlee</option>
+
+
+      <option value="/vs/eyamie-lisa#homan-rachel">Eyamie, Lisa</option>
+
+
+      <option value="/vs/fallis-karen#homan-rachel">Fallis, Karen</option>
+
+
+      <option value="/vs/ferguson-dana#homan-rachel">Ferguson, Dana</option>
+
+
+      <option value="/vs/filteau-anne-marie#homan-rachel">Filteau, Anne-Marie</option>
+
+
+      <option value="/vs/fisher-samantha#homan-rachel">Fisher, Samantha</option>
+
+
+      <option value="/vs/flaxey-allison#homan-rachel">Flaxey, Allison</option>
+
+
+      <option value="/vs/flemming-margot#homan-rachel">Flemming, Margot</option>
+
+
+      <option value="/vs/fleury-tracy#homan-rachel">Fleury, Tracy</option>
+
+
+      <option value="/vs/forward-katie#homan-rachel">Forward, Katie</option>
+
+
+      <option value="/vs/foster-kerry#homan-rachel">Foster, Kerry</option>
+
+
+      <option value="/vs/foster-kristen#homan-rachel">Foster, Kristen</option>
+
+
+      <option value="/vs/foster-vanessa#homan-rachel">Foster, Vanessa</option>
+
+
+      <option value="/vs/fullerton-sarah#homan-rachel">Fullerton, Sarah</option>
+
+
+      <option value="/vs/fyfe-liz#homan-rachel">Fyfe, Liz</option>
+
+
+      <option value="/vs/galusha-kerry#homan-rachel">Galusha, Kerry</option>
+
+
+      <option value="/vs/gannon-melissa#homan-rachel">Gannon, Melissa</option>
+
+
+      <option value="/vs/gates-amanda#homan-rachel">Gates, Amanda</option>
+
+
+      <option value="/vs/gates-jennifer#homan-rachel">Gates, Jennifer</option>
+
+
+      <option value="/vs/gordon-kristin#homan-rachel">Gordon, Kristin</option>
+
+
+      <option value="/vs/grandy-clancy#homan-rachel">Grandy, Clancy</option>
+
+
+      <option value="/vs/gregoire-veronique#homan-rachel">Gregoire, Veronique</option>
+
+
+      <option value="/vs/griffin-alison#homan-rachel">Griffin, Alison</option>
+
+
+      <option value="/vs/gustafson-leigh#homan-rachel">Gustafson, Leigh</option>
+
+
+      <option value="/vs/guy-sara#homan-rachel">Guy, Sara</option>
+
+
+      <option value="/vs/guzzwell-stephanie#homan-rachel">Guzzwell, Stephanie</option>
+
+
+      <option value="/vs/hamilton-beth#homan-rachel">Hamilton, Beth</option>
+
+
+      <option value="/vs/harris-briane#homan-rachel">Harris, Briane</option>
+
+
+      <option value="/vs/harrison-jacqueline#homan-rachel">Harrison, Jacqueline</option>
+
+
+      <option value="/vs/hastings-julie#homan-rachel">Hastings, Julie</option>
+
+
+      <option value="/vs/haughian-jessie#homan-rachel">Haughian, Jessie</option>
+
+
+      <option value="/vs/hawes-dezaray#homan-rachel">Hawes, Dezaray</option>
+
+
+      <option value="/vs/helston-raelyn#homan-rachel">Helston, Raelyn</option>
+
+
+      <option value="/vs/hickey-laura#homan-rachel">Hickey, Laura</option>
+
+
+      <option value="/vs/hill-trish#homan-rachel">Hill, Trish</option>
+
+
+      <option value="/vs/holland-amber#homan-rachel">Holland, Amber</option>
+
+
+      <option value="/vs/holtby-taryn#homan-rachel">Holtby, Taryn</option>
+
+
+      <option value="/vs/homan-rachel#hughes-meaghan">Hughes, Meaghan</option>
+
+
+      <option value="/vs/homan-rachel#hunkin-jessie">Hunkin, Jessie</option>
+
+
+      <option value="/vs/homan-rachel#hynes-julie">Hynes, Julie</option>
+
+
+      <option value="/vs/homan-rachel#inglis-danielle">Inglis, Danielle</option>
+
+
+      <option value="/vs/homan-rachel#iskiw-beth">Iskiw, Beth</option>
+
+
+      <option value="/vs/homan-rachel#jenkins-whitney">Jenkins, Whitney</option>
+
+
+      <option value="/vs/homan-rachel#johnston-kara">Johnston, Kara</option>
+
+
+      <option value="/vs/homan-rachel#jones-colleen">Jones, Colleen</option>
+
+
+      <option value="/vs/homan-rachel#jones-jennifer">Jones, Jennifer</option>
+
+
+      <option value="/vs/homan-rachel#joyce-blisse">Joyce, Blisse</option>
+
+
+      <option value="/vs/homan-rachel#kalenchuk-heather">Kalenchuk, Heather</option>
+
+
+      <option value="/vs/homan-rachel#karwacki-krysten">Karwacki, Krysten</option>
+
+
+      <option value="/vs/homan-rachel#kasner-marliese">Kasner, Marliese</option>
+
+
+      <option value="/vs/homan-rachel#kelly-andrea">Kelly, Andrea</option>
+
+
+      <option value="/vs/homan-rachel#kelly-kim">Kelly, Kim</option>
+
+
+      <option value="/vs/homan-rachel#kleibrink-shannon">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/homan-rachel#klein-karen">Klein, Karen</option>
+
+
+      <option value="/vs/homan-rachel#klymchuk-ashley">Klymchuk, Ashley</option>
+
+
+      <option value="/vs/homan-rachel#knapp-breanne">Knapp, Breanne</option>
+
+
+      <option value="/vs/homan-rachel#knezevic-patti">Knezevic, Patti</option>
+
+
+      <option value="/vs/homan-rachel#koehler-megan">Koehler, Megan</option>
+
+
+      <option value="/vs/homan-rachel#koltun-sarah">Koltun, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#korab-stephanie">Korab, Stephanie</option>
+
+
+      <option value="/vs/homan-rachel#kreviazuk-lynn">Kreviazuk, Lynn</option>
+
+
+      <option value="/vs/homan-rachel#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/homan-rachel#lavoie-gabrielle">Lavoie, Gabrielle</option>
+
+
+      <option value="/vs/homan-rachel#lawes-kaitlyn">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/homan-rachel#lawton-stefanie">Lawton, Stefanie</option>
+
+
+      <option value="/vs/homan-rachel#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/homan-rachel#lenentine-lauren">Lenentine, Lauren</option>
+
+
+      <option value="/vs/homan-rachel#lilly-kendra">Lilly, Kendra</option>
+
+
+      <option value="/vs/homan-rachel#lister-kendra">Lister, Kendra</option>
+
+
+      <option value="/vs/homan-rachel#loder-jenna">Loder, Jenna</option>
+
+
+      <option value="/vs/homan-rachel#logan-emma">Logan, Emma</option>
+
+
+      <option value="/vs/homan-rachel#loken-sarah">Loken, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#lott-kadriana">Lott, Kadriana</option>
+
+
+      <option value="/vs/homan-rachel#macdonald-lawnie">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/homan-rachel#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/homan-rachel#macdougall-leslie">MacDougall, Leslie</option>
+
+
+      <option value="/vs/homan-rachel#macmillan-kayla">MacMillan, Kayla</option>
+
+
+      <option value="/vs/homan-rachel#macphee-robyn">MacPhee, Robyn</option>
+
+
+      <option value="/vs/homan-rachel#mair-jessica">Mair, Jessica</option>
+
+
+      <option value="/vs/homan-rachel#mallett-marla">Mallett, Marla</option>
+
+
+      <option value="/vs/homan-rachel#mann-lauren">Mann, Lauren</option>
+
+
+      <option value="/vs/homan-rachel#martin-heather">Martin, Heather</option>
+
+
+      <option value="/vs/homan-rachel#martin-nancy">Martin, Nancy</option>
+
+
+      <option value="/vs/homan-rachel#mattatall-mary">Mattatall, Mary</option>
+
+
+      <option value="/vs/homan-rachel#mayne-veronica">Mayne, Veronica</option>
+
+
+      <option value="/vs/homan-rachel#mccarville-krista">McCarville, Krista</option>
+
+
+      <option value="/vs/homan-rachel#mcdonald-kristy">McDonald, Kristy</option>
+
+
+      <option value="/vs/homan-rachel#mcdonald-taylor">McDonald, Taylor</option>
+
+
+      <option value="/vs/homan-rachel#mcewen-dawn">McEwen, Dawn</option>
+
+
+      <option value="/vs/homan-rachel#mcinnis-susan">McInnis, Susan</option>
+
+
+      <option value="/vs/homan-rachel#mctaggart-cary-anne">McTaggart, Cary-Anne</option>
+
+
+      <option value="/vs/homan-rachel#merklinger-lee">Merklinger, Lee</option>
+
+
+      <option value="/vs/homan-rachel#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/homan-rachel#miller-wendy">Miller, Wendy</option>
+
+
+      <option value="/vs/homan-rachel#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/homan-rachel#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/homan-rachel#munroe-anna">Munroe, Anna</option>
+
+
+      <option value="/vs/homan-rachel#murphy-sarah">Murphy, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/homan-rachel#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/homan-rachel#njegovan-selena">Njegovan, Selena</option>
+
+
+      <option value="/vs/homan-rachel#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/homan-rachel#nugent-pamela">Nugent, Pamela</option>
+
+
+      <option value="/vs/homan-rachel#o-rourke-brittany">O'Rourke, Brittany</option>
+
+
+      <option value="/vs/homan-rachel#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/homan-rachel#oliver-sara">Oliver, Sara</option>
+
+
+      <option value="/vs/homan-rachel#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/homan-rachel#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/homan-rachel#papley-paige">Papley, Paige</option>
+
+
+      <option value="/vs/homan-rachel#parsons-danielle">Parsons, Danielle</option>
+
+
+      <option value="/vs/homan-rachel#pasika-rona">Pasika, Rona</option>
+
+
+      <option value="/vs/homan-rachel#paul-sarah">Paul, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#peterman-jocelyn">Peterman, Jocelyn</option>
+
+
+      <option value="/vs/homan-rachel#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/homan-rachel#peterson-beth">Peterson, Beth</option>
+
+
+      <option value="/vs/homan-rachel#pilote-kristen">Pilote, Kristen</option>
+
+
+      <option value="/vs/homan-rachel#pincott-erin">Pincott, Erin</option>
+
+
+      <option value="/vs/homan-rachel#pinksen-sadie">Pinksen, Sadie</option>
+
+
+      <option value="/vs/homan-rachel#plonka-gabrielle">Plonka, Gabrielle</option>
+
+
+      <option value="/vs/homan-rachel#porter-erin">Porter, Erin</option>
+
+
+      <option value="/vs/homan-rachel#potts-sarah">Potts, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#powers-marlee">Powers, Marlee</option>
+
+
+      <option value="/vs/homan-rachel#quillian-sylvie">Quillian, Sylvie</option>
+
+
+      <option value="/vs/homan-rachel#ramsay-geri-lynn">Ramsay, Geri-Lynn</option>
+
+
+      <option value="/vs/homan-rachel#reid-jackie">Reid, Jackie</option>
+
+
+      <option value="/vs/homan-rachel#richard-marie">Richard, Marie</option>
+
+
+      <option value="/vs/homan-rachel#richards-brette">Richards, Brette</option>
+
+
+      <option value="/vs/homan-rachel#riley-emily">Riley, Emily</option>
+
+
+      <option value="/vs/homan-rachel#rizzo-jo-ann">Rizzo, Jo-Ann</option>
+
+
+      <option value="/vs/homan-rachel#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/homan-rachel#robison-michala">Robison, Michala</option>
+
+
+      <option value="/vs/homan-rachel#rocque-kelsey">Rocque, Kelsey</option>
+
+
+      <option value="/vs/homan-rachel#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/homan-rachel#rumberg-crystal">Rumberg, Crystal</option>
+
+
+      <option value="/vs/homan-rachel#rusnell-jen">Rusnell, Jen</option>
+
+
+      <option value="/vs/homan-rachel#russell-kayla">Russell, Kayla</option>
+
+
+      <option value="/vs/homan-rachel#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/homan-rachel#sanderson-jessie">Sanderson, Jessie</option>
+
+
+      <option value="/vs/homan-rachel#sandwith-carley">Sandwith, Carley</option>
+
+
+      <option value="/vs/homan-rachel#saulnier-andrea">Saulnier, Andrea</option>
+
+
+      <option value="/vs/homan-rachel#scheidegger-casey">Scheidegger, Casey</option>
+
+
+      <option value="/vs/homan-rachel#scheidegger-jessie">Scheidegger, Jessie</option>
+
+
+      <option value="/vs/homan-rachel#schmidt-stephanie">Schmidt, Stephanie</option>
+
+
+      <option value="/vs/homan-rachel#schmiemann-danielle">Schmiemann, Danielle</option>
+
+
+      <option value="/vs/homan-rachel#schneider-kim">Schneider, Kim</option>
+
+
+      <option value="/vs/homan-rachel#schneider-lorraine">Schneider, Lorraine</option>
+
+
+      <option value="/vs/homan-rachel#schneider-tammy">Schneider, Tammy</option>
+
+
+      <option value="/vs/homan-rachel#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/homan-rachel#scoffin-bayly">Scoffin, Bayly</option>
+
+
+      <option value="/vs/homan-rachel#scotland-nadine">Scotland, Nadine</option>
+
+
+      <option value="/vs/homan-rachel#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/homan-rachel#shea-michelle">Shea, Michelle</option>
+
+
+      <option value="/vs/homan-rachel#shumay-jill">Shumay, Jill</option>
+
+
+      <option value="/vs/homan-rachel#sicinski-danielle">Sicinski, Danielle</option>
+
+
+      <option value="/vs/homan-rachel#silvernagle-robyn">Silvernagle, Robyn</option>
+
+
+      <option value="/vs/homan-rachel#sinclair-andrea">Sinclair, Andrea</option>
+
+
+      <option value="/vs/homan-rachel#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/homan-rachel#sippala-ashley">Sippala, Ashley</option>
+
+
+      <option value="/vs/homan-rachel#skrlik-ashton">Skrlik, Ashton</option>
+
+
+      <option value="/vs/homan-rachel#skrlik-kayla">Skrlik, Kayla</option>
+
+
+      <option value="/vs/homan-rachel#smith-heather">Smith, Heather</option>
+
+
+      <option value="/vs/homan-rachel#smith-megan">Smith, Megan</option>
+
+
+      <option value="/vs/homan-rachel#smith-sabrina">Smith, Sabrina</option>
+
+
+      <option value="/vs/homan-rachel#smith-stacey">Smith, Stacey</option>
+
+
+      <option value="/vs/homan-rachel#snyder-jane">Snyder, Jane</option>
+
+
+      <option value="/vs/homan-rachel#sobey-lianne">Sobey, Lianne</option>
+
+
+      <option value="/vs/homan-rachel#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/homan-rachel#st-georges-cynthia">St-Georges, Cynthia</option>
+
+
+      <option value="/vs/homan-rachel#st-georges-laurie">St-Georges, Laurie</option>
+
+
+      <option value="/vs/homan-rachel#stewart-chaelynn">Stewart, Chaelynn</option>
+
+
+      <option value="/vs/homan-rachel#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/homan-rachel#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/homan-rachel#sturmay-selena">Sturmay, Selena</option>
+
+
+      <option value="/vs/homan-rachel#sweeting-val">Sweeting, Val</option>
+
+
+      <option value="/vs/homan-rachel#taylor-alison">Taylor, Alison</option>
+
+
+      <option value="/vs/homan-rachel#thevenot-kara">Thevenot, Kara</option>
+
+
+      <option value="/vs/homan-rachel#thiessen-alison">Thiessen, Alison</option>
+
+
+      <option value="/vs/homan-rachel#tippin-julie">Tippin, Julie</option>
+
+
+      <option value="/vs/homan-rachel#titheridge-lindsay">Titheridge, Lindsay</option>
+
+
+      <option value="/vs/homan-rachel#tran-brittany">Tran, Brittany</option>
+
+
+      <option value="/vs/homan-rachel#trombley-christy">Trombley, Christy</option>
+
+
+      <option value="/vs/homan-rachel#tuor-kimberly">Tuor, Kimberly</option>
+
+
+      <option value="/vs/homan-rachel#udle-teri">Udle, Teri</option>
+
+
+      <option value="/vs/homan-rachel#van-osch-kesa">Van Osch, Kesa</option>
+
+
+      <option value="/vs/homan-rachel#vink-rachelle">Vink, Rachelle</option>
+
+
+      <option value="/vs/homan-rachel#walker-laura">Walker, Laura</option>
+
+
+      <option value="/vs/homan-rachel#wallingham-patty">Wallingham, Patty</option>
+
+
+      <option value="/vs/homan-rachel#walter-meghan">Walter, Meghan</option>
+
+
+      <option value="/vs/homan-rachel#ward-molli">Ward, Molli</option>
+
+
+      <option value="/vs/homan-rachel#wark-sarah">Wark, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#wasylkiw-lauren">Wasylkiw, Lauren</option>
+
+
+      <option value="/vs/homan-rachel#wazney-sarah">Wazney, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#weagle-julia">Weagle, Julia</option>
+
+
+      <option value="/vs/homan-rachel#weagle-lisa">Weagle, Lisa</option>
+
+
+      <option value="/vs/homan-rachel#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/homan-rachel#westcott-raunora">Westcott, Raunora</option>
+
+
+      <option value="/vs/homan-rachel#wilkes-sarah">Wilkes, Sarah</option>
+
+
+      <option value="/vs/homan-rachel#wilson-leslie">Wilson, Leslie</option>
+
+
+      <option value="/vs/homan-rachel#wiseman-jessica">Wiseman, Jessica</option>
+
+
+      <option value="/vs/homan-rachel#wylie-jennifer">Wylie, Jennifer</option>
+
+
+      <option value="/vs/homan-rachel#zacharias-emily">Zacharias, Emily</option>
+
+
+      <option value="/vs/homan-rachel#zacharias-mackenzie">Zacharias, Mackenzie</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

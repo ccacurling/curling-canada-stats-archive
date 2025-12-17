@@ -1,0 +1,1221 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Carolyn Darbyshire
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Carolyn Darbyshire <i class="fe fe-user-plus" data-name="Darbyshire, Carolyn" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2004">2004</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="BRY">BRY</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>4</td>
+  <td>1</td>
+  <td>3</td>
+  <td>28</td>
+  <td>71</td>
+  <td>52</td>
+  <td>87</td>
+  <td>38</td>
+  <td>79</td>
+  <td>42</td>
+  <td>83</td>
+  <td>80</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2007">2007</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Ber">Ber</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>5</td>
+  <td>1</td>
+  <td>4</td>
+  <td>53</td>
+  <td>85</td>
+  <td>37</td>
+  <td>87</td>
+  <td>51</td>
+  <td>86</td>
+  <td>39</td>
+  <td>86</td>
+  <td>90</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2008">2008</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>70</td>
+  <td>83</td>
+  <td>68</td>
+  <td>79</td>
+  <td>56</td>
+  <td>80</td>
+  <td>82</td>
+  <td>81</td>
+  <td>138</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2009">2009</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>80</td>
+  <td>82</td>
+  <td>62</td>
+  <td>86</td>
+  <td>33</td>
+  <td>73</td>
+  <td>109</td>
+  <td>87</td>
+  <td>142</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2010">2010</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="CB">CB</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>72</td>
+  <td>79</td>
+  <td>58</td>
+  <td>78</td>
+  <td>42</td>
+  <td>77</td>
+  <td>88</td>
+  <td>80</td>
+  <td>130</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2011">2011</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="KLE">KLE</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>70</td>
+  <td>83</td>
+  <td>73</td>
+  <td>81</td>
+  <td>110</td>
+  <td>85</td>
+  <td>33</td>
+  <td>71</td>
+  <td>143</td>
+  <td>82</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../canada-cup-women/2012">2012</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="OVE">OVE</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1985">1985</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>80</td>
+  <td>65</td>
+  <td>110</td>
+  <td>71</td>
+  <td>83</td>
+  <td>66</td>
+  <td>107</td>
+  <td>70</td>
+  <td>190</td>
+  <td>68</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2007">2007</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>7</td>
+  <td>6</td>
+  <td>122</td>
+  <td>70</td>
+  <td>114</td>
+  <td>84</td>
+  <td>108</td>
+  <td>76</td>
+  <td>128</td>
+  <td>78</td>
+  <td>236</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2009">2009</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>111</td>
+  <td>85</td>
+  <td>101</td>
+  <td>80</td>
+  <td>89</td>
+  <td>80</td>
+  <td>123</td>
+  <td>85</td>
+  <td>212</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2001">2001</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="FOW">FOW</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>9</td>
+  <td>4</td>
+  <td>5</td>
+  <td>88</td>
+  <td>84</td>
+  <td>76</td>
+  <td>73</td>
+  <td>64</td>
+  <td>70</td>
+  <td>100</td>
+  <td>85</td>
+  <td>164</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2009">2009</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>84</td>
+  <td>83</td>
+  <td>76</td>
+  <td>76</td>
+  <td>41</td>
+  <td>71</td>
+  <td>119</td>
+  <td>83</td>
+  <td>160</td>
+  <td>80</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>37</td>
+  <td>21</td>
+  <td>16</td>
+  <td>373</td>
+  <td>81</td>
+  <td>350</td>
+  <td>83</td>
+  <td>330</td>
+  <td>82</td>
+  <td>393</td>
+  <td>82</td>
+  <td>723</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>34</td>
+  <td>18</td>
+  <td>16</td>
+  <td>313</td>
+  <td>74</td>
+  <td>325</td>
+  <td>79</td>
+  <td>280</td>
+  <td>74</td>
+  <td>358</td>
+  <td>78</td>
+  <td>638</td>
+  <td>76</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>17</td>
+  <td>11</td>
+  <td>6</td>
+  <td>172</td>
+  <td>84</td>
+  <td>152</td>
+  <td>74</td>
+  <td>105</td>
+  <td>70</td>
+  <td>219</td>
+  <td>83</td>
+  <td>324</td>
+  <td>79</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/aleksic-shannon#darbyshire-carolyn">Aleksic, Shannon</option>
+
+
+      <option value="/vs/anderson-sherry#darbyshire-carolyn">Anderson, Sherry</option>
+
+
+      <option value="/vs/armstrong-jacquie#darbyshire-carolyn">Armstrong, Jacquie</option>
+
+
+      <option value="/vs/arnott-janet#darbyshire-carolyn">Arnott, Janet</option>
+
+
+      <option value="/vs/arsenault-mary-anne#darbyshire-carolyn">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/bakker-glenys#darbyshire-carolyn">Bakker, Glenys</option>
+
+
+      <option value="/vs/baldwin-nicole#darbyshire-carolyn">Baldwin, Nicole</option>
+
+
+      <option value="/vs/baleja-susan#darbyshire-carolyn">Baleja, Susan</option>
+
+
+      <option value="/vs/barbour-shona#darbyshire-carolyn">Barbour, Shona</option>
+
+
+      <option value="/vs/bartlett-sue-ann#darbyshire-carolyn">Bartlett, Sue Ann</option>
+
+
+      <option value="/vs/belanger-nancy#darbyshire-carolyn">Belanger, Nancy</option>
+
+
+      <option value="/vs/bell-chelsey#darbyshire-carolyn">Bell, Chelsey</option>
+
+
+      <option value="/vs/bell-mary-susan#darbyshire-carolyn">Bell, Mary Susan</option>
+
+
+      <option value="/vs/bell-patty#darbyshire-carolyn">Bell, Patty</option>
+
+
+      <option value="/vs/betker-jan#darbyshire-carolyn">Betker, Jan</option>
+
+
+      <option value="/vs/beveridge-corie#darbyshire-carolyn">Beveridge, Corie</option>
+
+
+      <option value="/vs/bildfell-shelly#darbyshire-carolyn">Bildfell, Shelly</option>
+
+
+      <option value="/vs/birt-suzanne#darbyshire-carolyn">Birt, Suzanne</option>
+
+
+      <option value="/vs/blair-janice#darbyshire-carolyn">Blair, Janice</option>
+
+
+      <option value="/vs/bohmer-brenda#darbyshire-carolyn">Bohmer, Brenda</option>
+
+
+      <option value="/vs/brassard-veronique#darbyshire-carolyn">Brassard, Veronique</option>
+
+
+      <option value="/vs/breen-theresa#darbyshire-carolyn">Breen, Theresa</option>
+
+
+      <option value="/vs/brothers-jillian#darbyshire-carolyn">Brothers, Jillian</option>
+
+
+      <option value="/vs/brousseau-deb#darbyshire-carolyn">Brousseau, Deb</option>
+
+
+      <option value="/vs/brown-jacalyn#darbyshire-carolyn">Brown, Jacalyn</option>
+
+
+      <option value="/vs/brown-janet#darbyshire-carolyn">Brown, Janet</option>
+
+
+      <option value="/vs/burkitt-maureen#darbyshire-carolyn">Burkitt, Maureen</option>
+
+
+      <option value="/vs/bush-tracy#darbyshire-carolyn">Bush, Tracy</option>
+
+
+      <option value="/vs/carey-chelsea#darbyshire-carolyn">Carey, Chelsea</option>
+
+
+      <option value="/vs/carney-laurie#darbyshire-carolyn">Carney, Laurie</option>
+
+
+      <option value="/vs/carter-sasha#darbyshire-carolyn">Carter, Sasha</option>
+
+
+      <option value="/vs/clark-stefanie#darbyshire-carolyn">Clark, Stefanie</option>
+
+
+      <option value="/vs/clarke-hayley#darbyshire-carolyn">Clarke, Hayley</option>
+
+
+      <option value="/vs/comeau-sandy#darbyshire-carolyn">Comeau, Sandy</option>
+
+
+      <option value="/vs/comstock-melanie#darbyshire-carolyn">Comstock, Melanie</option>
+
+
+      <option value="/vs/connor-judy#darbyshire-carolyn">Connor, Judy</option>
+
+
+      <option value="/vs/cordina-sheri#darbyshire-carolyn">Cordina, Sheri</option>
+
+
+      <option value="/vs/crouse-jennifer#darbyshire-carolyn">Crouse, Jennifer</option>
+
+
+      <option value="/vs/cunningham-cathy#darbyshire-carolyn">Cunningham, Cathy</option>
+
+
+      <option value="/vs/cutcliffe-margaret#darbyshire-carolyn">Cutcliffe, Margaret</option>
+
+
+      <option value="/vs/daniel-sylvie#darbyshire-carolyn">Daniel, Sylvie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#dealy-diane">Dealy, Diane</option>
+
+
+      <option value="/vs/darbyshire-carolyn#delahunt-nancy">Delahunt, Nancy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#derick-catherine">Derick, Catherine</option>
+
+
+      <option value="/vs/darbyshire-carolyn#desolla-jodie">deSolla, Jodie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#dezura-diane">Dezura, Diane</option>
+
+
+      <option value="/vs/darbyshire-carolyn#dillon-cathy">Dillon, Cathy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#doig-deanna">Doig, Deanna</option>
+
+
+      <option value="/vs/darbyshire-carolyn#dolan-kim">Dolan, Kim</option>
+
+
+      <option value="/vs/darbyshire-carolyn#duranceau-mary">Duranceau, Mary</option>
+
+
+      <option value="/vs/darbyshire-carolyn#dwyer-patricia">Dwyer, Patricia</option>
+
+
+      <option value="/vs/darbyshire-carolyn#englot-michelle">Englot, Michelle</option>
+
+
+      <option value="/vs/darbyshire-carolyn#enright-barb">Enright, Barb</option>
+
+
+      <option value="/vs/darbyshire-carolyn#erickson-judy">Erickson, Judy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#fallis-karen">Fallis, Karen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#fargey-lisa">Fargey, Lisa</option>
+
+
+      <option value="/vs/darbyshire-carolyn#filion-nicole">Filion, Nicole</option>
+
+
+      <option value="/vs/darbyshire-carolyn#foster-kristen">Foster, Kristen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#fraser-sherry">Fraser, Sherry</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gagnier-monique">Gagnier, Monique</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gallant-kathie">Gallant, Kathie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#galusha-kerry">Galusha, Kerry</option>
+
+
+      <option value="/vs/darbyshire-carolyn#george-tara">George, Tara</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gignac-donna">Gignac, Donna</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gilman-sheena">Gilman, Sheena</option>
+
+
+      <option value="/vs/darbyshire-carolyn#goss-peg">Goss, Peg</option>
+
+
+      <option value="/vs/darbyshire-carolyn#graham-julie">Graham, Julie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#grenier-valerie">Grenier, Valerie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gudereit-marcia">Gudereit, Marcia</option>
+
+
+      <option value="/vs/darbyshire-carolyn#gushulak-diane">Gushulak, Diane</option>
+
+
+      <option value="/vs/darbyshire-carolyn#hardy-shelley">Hardy, Shelley</option>
+
+
+      <option value="/vs/darbyshire-carolyn#harrison-meredith">Harrison, Meredith</option>
+
+
+      <option value="/vs/darbyshire-carolyn#harvey-alison">Harvey, Alison</option>
+
+
+      <option value="/vs/darbyshire-carolyn#harvey-janet">Harvey, Janet</option>
+
+
+      <option value="/vs/darbyshire-carolyn#hodson-kim">Hodson, Kim</option>
+
+
+      <option value="/vs/darbyshire-carolyn#holland-amber">Holland, Amber</option>
+
+
+      <option value="/vs/darbyshire-carolyn#homan-rachel">Homan, Rachel</option>
+
+
+      <option value="/vs/darbyshire-carolyn#horne-kate">Horne, Kate</option>
+
+
+      <option value="/vs/darbyshire-carolyn#hutchinson-joan">Hutchinson, Joan</option>
+
+
+      <option value="/vs/darbyshire-carolyn#inglis-nancy">Inglis, Nancy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#iskiw-beth">Iskiw, Beth</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jackson-sherry">Jackson, Sherry</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jackson-virginia">Jackson, Virginia</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jones-colleen">Jones, Colleen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jones-jennifer">Jones, Jennifer</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jones-walker-debbie">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jordan-stephanie">Jordan, Stephanie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jurgenson-christine">Jurgenson, Christine</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kalenchuk-heather">Kalenchuk, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kasner-marliese">Kasner, Marliese</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kehler-lorie">Kehler, Lorie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kelly-andrea">Kelly, Andrea</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kelly-kim">Kelly, Kim</option>
+
+
+      <option value="/vs/darbyshire-carolyn#king-cathy">King, Cathy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kirby-carey">Kirby, Carey</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kleibrink-shannon">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/darbyshire-carolyn#knickle-margie">Knickle, Margie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#kreviazuk-alison">Kreviazuk, Alison</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lamarre-june">Lamarre, June</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lang-lorraine">Lang, Lorraine</option>
+
+
+      <option value="/vs/darbyshire-carolyn#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/darbyshire-carolyn#law-kelley">Law, Kelley</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lawes-andrea">Lawes, Andrea</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lawes-kaitlyn">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lawton-stefanie">Lawton, Stefanie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#leavitt-pam">Leavitt, Pam</option>
+
+
+      <option value="/vs/darbyshire-carolyn#ledrew-stephanie">LeDrew, Stephanie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lemon-colette">Lemon, Colette</option>
+
+
+      <option value="/vs/darbyshire-carolyn#loder-cherie-ann">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/darbyshire-carolyn#loder-kristin">Loder, Kristin</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lowther-tammi">Lowther, Tammi</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lukowich-judy">Lukowich, Judy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#lynch-pauline">Lynch, Pauline</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macdonald-karen">MacDonald, Karen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macdonald-lawnie">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macinnes-grace">MacInnes, Grace</option>
+
+
+      <option value="/vs/darbyshire-carolyn#maclachlan-kyla">Maclachlan, Kyla</option>
+
+
+      <option value="/vs/darbyshire-carolyn#maclean-jean">MacLean, Jean</option>
+
+
+      <option value="/vs/darbyshire-carolyn#maclean-kari">MacLean, Kari</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macleod-lisa">MacLeod, Lisa</option>
+
+
+      <option value="/vs/darbyshire-carolyn#macphee-robyn">MacPhee, Robyn</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mainwaring-bev">Mainwaring, Bev</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mair-jessica">Mair, Jessica</option>
+
+
+      <option value="/vs/darbyshire-carolyn#malekoff-stephanie">Malekoff, Stephanie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mallett-marla">Mallett, Marla</option>
+
+
+      <option value="/vs/darbyshire-carolyn#marchand-stephanie">Marchand, Stephanie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#materi-roberta">Materi, Roberta</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mccagg-nystrom-heather">McCagg-Nystrom, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mccarville-krista">McCarville, Krista</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mcconnery-nancy">McConnery, Nancy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mccracken-betty">McCracken, Betty</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mccrae-elizabeth">McCrae, Elizabeth</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mccrae-louise">McCrae, Louise</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mcdonald-kristy">McDonald, Kristy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mcewen-dawn">McEwen, Dawn</option>
+
+
+      <option value="/vs/darbyshire-carolyn#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/darbyshire-carolyn#miller-jessica">Miller, Jessica</option>
+
+
+      <option value="/vs/darbyshire-carolyn#miskew-emma">Miskew, Emma</option>
+
+
+      <option value="/vs/darbyshire-carolyn#montgomery-kay">Montgomery, Kay</option>
+
+
+      <option value="/vs/darbyshire-carolyn#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#moore-linda">Moore, Linda</option>
+
+
+      <option value="/vs/darbyshire-carolyn#morgan-cheryl">Morgan, Cheryl</option>
+
+
+      <option value="/vs/darbyshire-carolyn#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/darbyshire-carolyn#moulding-heather">Moulding, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#mulroney-sandra">Mulroney, Sandra</option>
+
+
+      <option value="/vs/darbyshire-carolyn#murphy-jeanette">Murphy, Jeanette</option>
+
+
+      <option value="/vs/darbyshire-carolyn#muzika-shelley">Muzika, Shelley</option>
+
+
+      <option value="/vs/darbyshire-carolyn#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/darbyshire-carolyn#o-leary-susan">O'Leary, Susan</option>
+
+
+      <option value="/vs/darbyshire-carolyn#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/darbyshire-carolyn#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/darbyshire-carolyn#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/darbyshire-carolyn#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/darbyshire-carolyn#porter-debbie">Porter, Debbie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#potts-sarah">Potts, Sarah</option>
+
+
+      <option value="/vs/darbyshire-carolyn#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/darbyshire-carolyn#preston-sam">Preston, Sam</option>
+
+
+      <option value="/vs/darbyshire-carolyn#preston-samantha">Preston, Samantha</option>
+
+
+      <option value="/vs/darbyshire-carolyn#provencal-darah">Provencal, Darah</option>
+
+
+      <option value="/vs/darbyshire-carolyn#purdy-karen">Purdy, Karen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#rankin-heather">Rankin, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#richards-brette">Richards, Brette</option>
+
+
+      <option value="/vs/darbyshire-carolyn#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#robertson-desiree">Robertson, Desiree</option>
+
+
+      <option value="/vs/darbyshire-carolyn#rocque-raylene">Rocque, Raylene</option>
+
+
+      <option value="/vs/darbyshire-carolyn#rogers-rhonda">Rogers, Rhonda</option>
+
+
+      <option value="/vs/darbyshire-carolyn#rowan-sheila">Rowan, Sheila</option>
+
+
+      <option value="/vs/darbyshire-carolyn#rumberg-crystal">Rumberg, Crystal</option>
+
+
+      <option value="/vs/darbyshire-carolyn#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/darbyshire-carolyn#santos-deb">Santos, Deb</option>
+
+
+      <option value="/vs/darbyshire-carolyn#schneider-kim">Schneider, Kim</option>
+
+
+      <option value="/vs/darbyshire-carolyn#schneider-tammy">Schneider, Tammy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/darbyshire-carolyn#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/darbyshire-carolyn#seeley-heather">Seeley, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#seitz-susan">Seitz, Susan</option>
+
+
+      <option value="/vs/darbyshire-carolyn#shields-gail">Shields, Gail</option>
+
+
+      <option value="/vs/darbyshire-carolyn#simmons-cindy">Simmons, Cindy</option>
+
+
+      <option value="/vs/darbyshire-carolyn#simons-renee">Simons, Renee</option>
+
+
+      <option value="/vs/darbyshire-carolyn#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/darbyshire-carolyn#sippala-ashley">Sippala, Ashley</option>
+
+
+      <option value="/vs/darbyshire-carolyn#skinner-julie">Skinner, Julie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#sobey-lianne">Sobey, Lianne</option>
+
+
+      <option value="/vs/darbyshire-carolyn#sparkes-lindsay">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/darbyshire-carolyn#spencer-barb">Spencer, Barb</option>
+
+
+      <option value="/vs/darbyshire-carolyn#stricker-joan">Stricker, Joan</option>
+
+
+      <option value="/vs/darbyshire-carolyn#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/darbyshire-carolyn#stubbings-tiffany">Stubbings, Tiffany</option>
+
+
+      <option value="/vs/darbyshire-carolyn#thomas-jill">Thomas, Jill</option>
+
+
+      <option value="/vs/darbyshire-carolyn#titheridge-lindsay">Titheridge, Lindsay</option>
+
+
+      <option value="/vs/darbyshire-carolyn#twa-dale">Twa, Dale</option>
+
+
+      <option value="/vs/darbyshire-carolyn#udle-teri">Udle, Teri</option>
+
+
+      <option value="/vs/darbyshire-carolyn#vaughan-marlene">Vaughan, Marlene</option>
+
+
+      <option value="/vs/darbyshire-carolyn#vey-lana">Vey, Lana</option>
+
+
+      <option value="/vs/darbyshire-carolyn#walsh-heather">Walsh, Heather</option>
+
+
+      <option value="/vs/darbyshire-carolyn#weagle-lisa">Weagle, Lisa</option>
+
+
+      <option value="/vs/darbyshire-carolyn#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/darbyshire-carolyn#whitaker-carol">Whitaker, Carol</option>
+
+
+      <option value="/vs/darbyshire-carolyn#wilson-eileen">Wilson, Eileen</option>
+
+
+      <option value="/vs/darbyshire-carolyn#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

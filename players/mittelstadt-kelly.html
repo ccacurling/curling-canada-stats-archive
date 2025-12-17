@@ -1,0 +1,733 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Kelly Mittelstadt
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Kelly Mittelstadt <i class="fe fe-user-plus" data-name="Mittelstadt, Kelly" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/2005">2005</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>35</td>
+  <td>85</td>
+  <td>177</td>
+  <td>85</td>
+  <td>179</td>
+  <td>87</td>
+  <td>33</td>
+  <td>74</td>
+  <td>212</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2011">2011</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>39</td>
+  <td>85</td>
+  <td>151</td>
+  <td>84</td>
+  <td>175</td>
+  <td>85</td>
+  <td>15</td>
+  <td>82</td>
+  <td>190</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2013">2013</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>1</td>
+  <td>10</td>
+  <td>76</td>
+  <td>90</td>
+  <td>116</td>
+  <td>85</td>
+  <td>168</td>
+  <td>87</td>
+  <td>24</td>
+  <td>86</td>
+  <td>192</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="ADA">ADA</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>65</td>
+  <td>89</td>
+  <td>111</td>
+  <td>88</td>
+  <td>161</td>
+  <td>89</td>
+  <td>15</td>
+  <td>83</td>
+  <td>176</td>
+  <td>88</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>33</td>
+  <td>15</td>
+  <td>18</td>
+  <td>150</td>
+  <td>88</td>
+  <td>444</td>
+  <td>85</td>
+  <td>522</td>
+  <td>86</td>
+  <td>72</td>
+  <td>80</td>
+  <td>594</td>
+  <td>85</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>65</td>
+  <td>89</td>
+  <td>111</td>
+  <td>88</td>
+  <td>161</td>
+  <td>89</td>
+  <td>15</td>
+  <td>83</td>
+  <td>176</td>
+  <td>88</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/bartlett-don#mittelstadt-kelly">Bartlett, Don</option>
+
+
+      <option value="/vs/bilesky-andrew#mittelstadt-kelly">Bilesky, Andrew</option>
+
+
+      <option value="/vs/blanchard-wade#mittelstadt-kelly">Blanchard, Wade</option>
+
+
+      <option value="/vs/borden-robert#mittelstadt-kelly">Borden, Robert</option>
+
+
+      <option value="/vs/bouchard-christian#mittelstadt-kelly">Bouchard, Christian</option>
+
+
+      <option value="/vs/carmody-anson#mittelstadt-kelly">Carmody, Anson</option>
+
+
+      <option value="/vs/carruthers-reid#mittelstadt-kelly">Carruthers, Reid</option>
+
+
+      <option value="/vs/case-peter#mittelstadt-kelly">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#mittelstadt-kelly">Casey, Adam</option>
+
+
+      <option value="/vs/champion-kevin#mittelstadt-kelly">Champion, Kevin</option>
+
+
+      <option value="/vs/chorostkowski-brad#mittelstadt-kelly">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/cotter-jim#mittelstadt-kelly">Cotter, Jim</option>
+
+
+      <option value="/vs/crete-martin#mittelstadt-kelly">Crete, Martin</option>
+
+
+      <option value="/vs/dacey-mark#mittelstadt-kelly">Dacey, Mark</option>
+
+
+      <option value="/vs/danbrook-jamie#mittelstadt-kelly">Danbrook, Jamie</option>
+
+
+      <option value="/vs/desjardins-robert#mittelstadt-kelly">Desjardins, Robert</option>
+
+
+      <option value="/vs/dillon-mike#mittelstadt-kelly">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-mark#mittelstadt-kelly">Dobson, Mark</option>
+
+
+      <option value="/vs/dobson-paul#mittelstadt-kelly">Dobson, Paul</option>
+
+
+      <option value="/vs/dumontelle-matt#mittelstadt-kelly">Dumontelle, Matt</option>
+
+
+      <option value="/vs/dutiaume-randy#mittelstadt-kelly">Dutiaume, Randy</option>
+
+
+      <option value="/vs/elias-dave#mittelstadt-kelly">Elias, Dave</option>
+
+
+      <option value="/vs/elmaleh-maxime#mittelstadt-kelly">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/errington-derek#mittelstadt-kelly">Errington, Derek</option>
+
+
+      <option value="/vs/fenton-brad#mittelstadt-kelly">Fenton, Brad</option>
+
+
+      <option value="/vs/ferbey-randy#mittelstadt-kelly">Ferbey, Randy</option>
+
+
+      <option value="/vs/folk-kevin#mittelstadt-kelly">Folk, Kevin</option>
+
+
+      <option value="/vs/freschi-don#mittelstadt-kelly">Freschi, Don</option>
+
+
+      <option value="/vs/fry-ryan#mittelstadt-kelly">Fry, Ryan</option>
+
+
+      <option value="/vs/gagne-francois#mittelstadt-kelly">Gagne, Francois</option>
+
+
+      <option value="/vs/gallant-brett#mittelstadt-kelly">Gallant, Brett</option>
+
+
+      <option value="/vs/gaudet-mike#mittelstadt-kelly">Gaudet, Mike</option>
+
+
+      <option value="/vs/gavin-martin#mittelstadt-kelly">Gavin, Martin</option>
+
+
+      <option value="/vs/gibson-andrew#mittelstadt-kelly">Gibson, Andrew</option>
+
+
+      <option value="/vs/gorveatt-philip#mittelstadt-kelly">Gorveatt, Philip</option>
+
+
+      <option value="/vs/gould-steve#mittelstadt-kelly">Gould, Steve</option>
+
+
+      <option value="/vs/grattan-james#mittelstadt-kelly">Grattan, James</option>
+
+
+      <option value="/vs/gushue-brad#mittelstadt-kelly">Gushue, Brad</option>
+
+
+      <option value="/vs/harnden-e-j#mittelstadt-kelly">Harnden, E.J.</option>
+
+
+      <option value="/vs/harnden-ryan#mittelstadt-kelly">Harnden, Ryan</option>
+
+
+      <option value="/vs/harris-rob#mittelstadt-kelly">Harris, Rob</option>
+
+
+      <option value="/vs/hart-richard#mittelstadt-kelly">Hart, Richard</option>
+
+
+      <option value="/vs/hebert-ben#mittelstadt-kelly">Hebert, Ben</option>
+
+
+      <option value="/vs/holowaychuk-dan#mittelstadt-kelly">Holowaychuk, Dan</option>
+
+
+      <option value="/vs/horning-deane#mittelstadt-kelly">Horning, Deane</option>
+
+
+      <option value="/vs/howard-glenn#mittelstadt-kelly">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#mittelstadt-kelly">Howard, Russ</option>
+
+
+      <option value="/vs/howard-scott#mittelstadt-kelly">Howard, Scott</option>
+
+
+      <option value="/vs/howard-steven#mittelstadt-kelly">Howard, Steven</option>
+
+
+      <option value="/vs/jacobs-brad#mittelstadt-kelly">Jacobs, Brad</option>
+
+
+      <option value="/vs/jakubo-mike#mittelstadt-kelly">Jakubo, Mike</option>
+
+
+      <option value="/vs/jones-brennen#mittelstadt-kelly">Jones, Brennen</option>
+
+
+      <option value="/vs/kennedy-marc#mittelstadt-kelly">Kennedy, Marc</option>
+
+
+      <option value="/vs/kidby-dustin#mittelstadt-kelly">Kidby, Dustin</option>
+
+
+      <option value="/vs/kilgallen-shane#mittelstadt-kelly">Kilgallen, Shane</option>
+
+
+      <option value="/vs/koe-jamie#mittelstadt-kelly">Koe, Jamie</option>
+
+
+      <option value="/vs/koe-kevin#mittelstadt-kelly">Koe, Kevin</option>
+
+
+      <option value="/vs/kopf-steve#mittelstadt-kelly">Kopf, Steve</option>
+
+
+      <option value="/vs/korab-jamie#mittelstadt-kelly">Korab, Jamie</option>
+
+
+      <option value="/vs/laing-brent#mittelstadt-kelly">Laing, Brent</option>
+
+
+      <option value="/vs/laycock-steve#mittelstadt-kelly">Laycock, Steve</option>
+
+
+      <option value="/vs/ledgerwood-sean#mittelstadt-kelly">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/leech-ron#mittelstadt-kelly">Leech, Ron</option>
+
+
+      <option value="/vs/lohnes-bruce#mittelstadt-kelly">Lohnes, Bruce</option>
+
+
+      <option value="/vs/macdonald-rod#mittelstadt-kelly">MacDonald, Rod</option>
+
+
+      <option value="/vs/macfadyen-alex#mittelstadt-kelly">MacFadyen, Alex</option>
+
+
+      <option value="/vs/mackenzie-eddie#mittelstadt-kelly">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/mackenzie-kevin#mittelstadt-kelly">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/martin-karrick#mittelstadt-kelly">Martin, Karrick</option>
+
+
+      <option value="/vs/martin-kevin#mittelstadt-kelly">Martin, Kevin</option>
+
+
+      <option value="/vs/maskiewich-ken#mittelstadt-kelly">Maskiewich, Ken</option>
+
+
+      <option value="/vs/mead-jon#mittelstadt-kelly">Mead, Jon</option>
+
+
+      <option value="/vs/melnichuk-greg#mittelstadt-kelly">Melnichuk, Greg</option>
+
+
+      <option value="/vs/menard-jean-michel#mittelstadt-kelly">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/menard-philippe#mittelstadt-kelly">Menard, Philippe</option>
+
+
+      <option value="/vs/middaugh-wayne#mittelstadt-kelly">Middaugh, Wayne</option>
+
+
+      <option value="/vs/millar-colin#mittelstadt-kelly">Millar, Colin</option>
+
+
+      <option value="/vs/mittelstadt-kelly#moffatt-paul">Moffatt, Paul</option>
+
+
+      <option value="/vs/mittelstadt-kelly#morris-john">Morris, John</option>
+
+
+      <option value="/vs/mittelstadt-kelly#moshenko-darcy">Moshenko, Darcy</option>
+
+
+      <option value="/vs/mittelstadt-kelly#moskowy-braeden">Moskowy, Braeden</option>
+
+
+      <option value="/vs/mittelstadt-kelly#moss-steve">Moss, Steve</option>
+
+
+      <option value="/vs/mittelstadt-kelly#muyres-dallan">Muyres, Dallan</option>
+
+
+      <option value="/vs/mittelstadt-kelly#nason-paul">Nason, Paul</option>
+
+
+      <option value="/vs/mittelstadt-kelly#naugler-tom">Naugler, Tom</option>
+
+
+      <option value="/vs/mittelstadt-kelly#nedohin-david">Nedohin, David</option>
+
+
+      <option value="/vs/mittelstadt-kelly#newson-jamie">Newson, Jamie</option>
+
+
+      <option value="/vs/mittelstadt-kelly#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/mittelstadt-kelly#nobert-rob">Nobert, Rob</option>
+
+
+      <option value="/vs/mittelstadt-kelly#ouimet-luc">Ouimet, Luc</option>
+
+
+      <option value="/vs/mittelstadt-kelly#peachey-jay">Peachey, Jay</option>
+
+
+      <option value="/vs/mittelstadt-kelly#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/mittelstadt-kelly#pielak-rod">Pielak, Rod</option>
+
+
+      <option value="/vs/mittelstadt-kelly#porter-geoff">Porter, Geoff</option>
+
+
+      <option value="/vs/mittelstadt-kelly#recksiedler-kevin">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/mittelstadt-kelly#roach-darren">Roach, Darren</option>
+
+
+      <option value="/vs/mittelstadt-kelly#roach-jason">Roach, Jason</option>
+
+
+      <option value="/vs/mittelstadt-kelly#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/mittelstadt-kelly#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/mittelstadt-kelly#ryan-keith">Ryan, Keith</option>
+
+
+      <option value="/vs/mittelstadt-kelly#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/mittelstadt-kelly#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/mittelstadt-kelly#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/mittelstadt-kelly#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/mittelstadt-kelly#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/mittelstadt-kelly#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/mittelstadt-kelly#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/mittelstadt-kelly#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/mittelstadt-kelly#sosiak-jim">Sosiak, Jim</option>
+
+
+      <option value="/vs/mittelstadt-kelly#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/mittelstadt-kelly#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/mittelstadt-kelly#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/mittelstadt-kelly#thomson-fred">Thomson, Fred</option>
+
+
+      <option value="/vs/mittelstadt-kelly#toner-lee">Toner, Lee</option>
+
+
+      <option value="/vs/mittelstadt-kelly#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/mittelstadt-kelly#virtue-brock">Virtue, Brock</option>
+
+
+      <option value="/vs/mittelstadt-kelly#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/mittelstadt-kelly#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/mittelstadt-kelly#watson-aaron">Watson, Aaron</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

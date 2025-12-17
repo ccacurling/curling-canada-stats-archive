@@ -1,0 +1,947 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Cori Morris
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Cori Morris <i class="fe fe-user-plus" data-name="Morris, Cori" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2007">2007</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Ber">Ber</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>5</td>
+  <td>1</td>
+  <td>4</td>
+  <td>52</td>
+  <td>86</td>
+  <td>38</td>
+  <td>84</td>
+  <td>74</td>
+  <td>86</td>
+  <td>16</td>
+  <td>81</td>
+  <td>90</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2008">2008</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>69</td>
+  <td>91</td>
+  <td>64</td>
+  <td>86</td>
+  <td>104</td>
+  <td>90</td>
+  <td>29</td>
+  <td>83</td>
+  <td>133</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2009">2009</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>83</td>
+  <td>80</td>
+  <td>50</td>
+  <td>80</td>
+  <td>109</td>
+  <td>81</td>
+  <td>24</td>
+  <td>77</td>
+  <td>133</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2010">2010</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="CB">CB</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>76</td>
+  <td>85</td>
+  <td>53</td>
+  <td>78</td>
+  <td>104</td>
+  <td>83</td>
+  <td>25</td>
+  <td>79</td>
+  <td>129</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2007">2007</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>7</td>
+  <td>6</td>
+  <td>110</td>
+  <td>80</td>
+  <td>117</td>
+  <td>83</td>
+  <td>199</td>
+  <td>82</td>
+  <td>28</td>
+  <td>79</td>
+  <td>227</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2009">2009</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="AB"><a href="../hearts/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>130</td>
+  <td>85</td>
+  <td>80</td>
+  <td>84</td>
+  <td>172</td>
+  <td>86</td>
+  <td>38</td>
+  <td>79</td>
+  <td>210</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2013">2013</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+3
+
+">
+<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>Lead</td>
+  <td>2</td>
+  <td>2</td>
+  <td>0</td>
+  <td>2</td>
+  <td>13</td>
+  <td>3</td>
+  <td>67</td>
+  <td>2</td>
+  <td>100</td>
+  <td>3</td>
+  <td>8</td>
+  <td>5</td>
+  <td>45</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../trials-women/2013">2013</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="LAW">LAW</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2009">2009</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="BERN">BERN</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>102</td>
+  <td>82</td>
+  <td>53</td>
+  <td>81</td>
+  <td>117</td>
+  <td>84</td>
+  <td>38</td>
+  <td>76</td>
+  <td>155</td>
+  <td>82</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>26</td>
+  <td>15</td>
+  <td>11</td>
+  <td>280</td>
+  <td>85</td>
+  <td>205</td>
+  <td>82</td>
+  <td>391</td>
+  <td>85</td>
+  <td>94</td>
+  <td>80</td>
+  <td>485</td>
+  <td>84</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>26</td>
+  <td>15</td>
+  <td>11</td>
+  <td>242</td>
+  <td>82</td>
+  <td>200</td>
+  <td>83</td>
+  <td>373</td>
+  <td>84</td>
+  <td>69</td>
+  <td>76</td>
+  <td>442</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>102</td>
+  <td>82</td>
+  <td>53</td>
+  <td>81</td>
+  <td>117</td>
+  <td>84</td>
+  <td>38</td>
+  <td>76</td>
+  <td>155</td>
+  <td>82</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+<p><i class="fa fa-asterisk" aria-hidden="true"></i> Alternate on Initial Lineup</p>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/aleksic-shannon#morris-cori">Aleksic, Shannon</option>
+
+
+      <option value="/vs/anderson-sherry#morris-cori">Anderson, Sherry</option>
+
+
+      <option value="/vs/armstrong-jacquie#morris-cori">Armstrong, Jacquie</option>
+
+
+      <option value="/vs/arnott-janet#morris-cori">Arnott, Janet</option>
+
+
+      <option value="/vs/arsenault-mary-anne#morris-cori">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/baldwin-nicole#morris-cori">Baldwin, Nicole</option>
+
+
+      <option value="/vs/baleja-susan#morris-cori">Baleja, Susan</option>
+
+
+      <option value="/vs/barbour-shona#morris-cori">Barbour, Shona</option>
+
+
+      <option value="/vs/beauchamp-sasha#morris-cori">Beauchamp, Sasha</option>
+
+
+      <option value="/vs/belanger-nancy#morris-cori">Belanger, Nancy</option>
+
+
+      <option value="/vs/bell-chelsey#morris-cori">Bell, Chelsey</option>
+
+
+      <option value="/vs/betker-jan#morris-cori">Betker, Jan</option>
+
+
+      <option value="/vs/birt-suzanne#morris-cori">Birt, Suzanne</option>
+
+
+      <option value="/vs/blair-janice#morris-cori">Blair, Janice</option>
+
+
+      <option value="/vs/brassard-veronique#morris-cori">Brassard, Veronique</option>
+
+
+      <option value="/vs/breen-theresa#morris-cori">Breen, Theresa</option>
+
+
+      <option value="/vs/brothers-jillian#morris-cori">Brothers, Jillian</option>
+
+
+      <option value="/vs/brown-jacalyn#morris-cori">Brown, Jacalyn</option>
+
+
+      <option value="/vs/bush-tracy#morris-cori">Bush, Tracy</option>
+
+
+      <option value="/vs/carter-sasha#morris-cori">Carter, Sasha</option>
+
+
+      <option value="/vs/clark-stefanie#morris-cori">Clark, Stefanie</option>
+
+
+      <option value="/vs/clarke-hayley#morris-cori">Clarke, Hayley</option>
+
+
+      <option value="/vs/comeau-sandy#morris-cori">Comeau, Sandy</option>
+
+
+      <option value="/vs/crouse-jennifer#morris-cori">Crouse, Jennifer</option>
+
+
+      <option value="/vs/cunningham-cathy#morris-cori">Cunningham, Cathy</option>
+
+
+      <option value="/vs/curtis-stacie#morris-cori">Curtis, Stacie</option>
+
+
+      <option value="/vs/daniel-sylvie#morris-cori">Daniel, Sylvie</option>
+
+
+      <option value="/vs/dealy-diane#morris-cori">Dealy, Diane</option>
+
+
+      <option value="/vs/derick-catherine#morris-cori">Derick, Catherine</option>
+
+
+      <option value="/vs/desolla-jodie#morris-cori">deSolla, Jodie</option>
+
+
+      <option value="/vs/doig-deanna#morris-cori">Doig, Deanna</option>
+
+
+      <option value="/vs/dufresne-audree#morris-cori">Dufresne, Audree</option>
+
+
+      <option value="/vs/englot-michelle#morris-cori">Englot, Michelle</option>
+
+
+      <option value="/vs/enright-barb#morris-cori">Enright, Barb</option>
+
+
+      <option value="/vs/fallis-karen#morris-cori">Fallis, Karen</option>
+
+
+      <option value="/vs/fargey-lisa#morris-cori">Fargey, Lisa</option>
+
+
+      <option value="/vs/gagnier-monique#morris-cori">Gagnier, Monique</option>
+
+
+      <option value="/vs/galusha-kerry#morris-cori">Galusha, Kerry</option>
+
+
+      <option value="/vs/george-tara#morris-cori">George, Tara</option>
+
+
+      <option value="/vs/gignac-donna#morris-cori">Gignac, Donna</option>
+
+
+      <option value="/vs/gilman-sheena#morris-cori">Gilman, Sheena</option>
+
+
+      <option value="/vs/goss-peg#morris-cori">Goss, Peg</option>
+
+
+      <option value="/vs/gudereit-marcia#morris-cori">Gudereit, Marcia</option>
+
+
+      <option value="/vs/gushulak-diane#morris-cori">Gushulak, Diane</option>
+
+
+      <option value="/vs/hardy-shelley#morris-cori">Hardy, Shelley</option>
+
+
+      <option value="/vs/harrison-meredith#morris-cori">Harrison, Meredith</option>
+
+
+      <option value="/vs/harvey-alison#morris-cori">Harvey, Alison</option>
+
+
+      <option value="/vs/harvey-janet#morris-cori">Harvey, Janet</option>
+
+
+      <option value="/vs/hodson-kim#morris-cori">Hodson, Kim</option>
+
+
+      <option value="/vs/holland-amber#morris-cori">Holland, Amber</option>
+
+
+      <option value="/vs/horne-kate#morris-cori">Horne, Kate</option>
+
+
+      <option value="/vs/inglis-nancy#morris-cori">Inglis, Nancy</option>
+
+
+      <option value="/vs/iskiw-beth#morris-cori">Iskiw, Beth</option>
+
+
+      <option value="/vs/jones-jennifer#morris-cori">Jones, Jennifer</option>
+
+
+      <option value="/vs/jordan-stephanie#morris-cori">Jordan, Stephanie</option>
+
+
+      <option value="/vs/kalenchuk-heather#morris-cori">Kalenchuk, Heather</option>
+
+
+      <option value="/vs/kasner-marliese#morris-cori">Kasner, Marliese</option>
+
+
+      <option value="/vs/kelly-andrea#morris-cori">Kelly, Andrea</option>
+
+
+      <option value="/vs/king-cathy#morris-cori">King, Cathy</option>
+
+
+      <option value="/vs/kirby-carey#morris-cori">Kirby, Carey</option>
+
+
+      <option value="/vs/kleibrink-shannon#morris-cori">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/lang-lorraine#morris-cori">Lang, Lorraine</option>
+
+
+      <option value="/vs/larouche-marie-france#morris-cori">Larouche, Marie-France</option>
+
+
+      <option value="/vs/law-kelley#morris-cori">Law, Kelley</option>
+
+
+      <option value="/vs/lawes-kaitlyn#morris-cori">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/lawton-stefanie#morris-cori">Lawton, Stefanie</option>
+
+
+      <option value="/vs/ledrew-stephanie#morris-cori">LeDrew, Stephanie</option>
+
+
+      <option value="/vs/lemay-annie#morris-cori">Lemay, Annie</option>
+
+
+      <option value="/vs/lemon-colette#morris-cori">Lemon, Colette</option>
+
+
+      <option value="/vs/loder-cherie-ann#morris-cori">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/loder-kristin#morris-cori">Loder, Kristin</option>
+
+
+      <option value="/vs/lowther-tammi#morris-cori">Lowther, Tammi</option>
+
+
+      <option value="/vs/macdonald-rebecca-jean#morris-cori">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/macinnes-grace#morris-cori">MacInnes, Grace</option>
+
+
+      <option value="/vs/maclachlan-kyla#morris-cori">Maclachlan, Kyla</option>
+
+
+      <option value="/vs/maclean-kari#morris-cori">MacLean, Kari</option>
+
+
+      <option value="/vs/macphee-robyn#morris-cori">MacPhee, Robyn</option>
+
+
+      <option value="/vs/malekoff-stephanie#morris-cori">Malekoff, Stephanie</option>
+
+
+      <option value="/vs/mallett-marla#morris-cori">Mallett, Marla</option>
+
+
+      <option value="/vs/martin-heather#morris-cori">Martin, Heather</option>
+
+
+      <option value="/vs/materi-roberta#morris-cori">Materi, Roberta</option>
+
+
+      <option value="/vs/mccagg-nystrom-heather#morris-cori">McCagg-Nystrom, Heather</option>
+
+
+      <option value="/vs/mccarville-krista#morris-cori">McCarville, Krista</option>
+
+
+      <option value="/vs/mcconnery-nancy#morris-cori">McConnery, Nancy</option>
+
+
+      <option value="/vs/mcewen-dawn#morris-cori">McEwen, Dawn</option>
+
+
+      <option value="/vs/miller-jessica#morris-cori">Miller, Jessica</option>
+
+
+      <option value="/vs/moore-kristie#morris-cori">Moore, Kristie</option>
+
+
+      <option value="/vs/morgan-cheryl#morris-cori">Morgan, Cheryl</option>
+
+
+      <option value="/vs/morris-cori#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/morris-cori#moulding-heather">Moulding, Heather</option>
+
+
+      <option value="/vs/morris-cori#murphy-jeanette">Murphy, Jeanette</option>
+
+
+      <option value="/vs/morris-cori#muzika-shelley">Muzika, Shelley</option>
+
+
+      <option value="/vs/morris-cori#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/morris-cori#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/morris-cori#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/morris-cori#o-leary-susan">O'Leary, Susan</option>
+
+
+      <option value="/vs/morris-cori#o-rourke-brittany">O'Rourke, Brittany</option>
+
+
+      <option value="/vs/morris-cori#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/morris-cori#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/morris-cori#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/morris-cori#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/morris-cori#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/morris-cori#porter-erin">Porter, Erin</option>
+
+
+      <option value="/vs/morris-cori#potts-sarah">Potts, Sarah</option>
+
+
+      <option value="/vs/morris-cori#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/morris-cori#preston-sam">Preston, Sam</option>
+
+
+      <option value="/vs/morris-cori#preston-samantha">Preston, Samantha</option>
+
+
+      <option value="/vs/morris-cori#provencal-darah">Provencal, Darah</option>
+
+
+      <option value="/vs/morris-cori#rankin-heather">Rankin, Heather</option>
+
+
+      <option value="/vs/morris-cori#richards-brette">Richards, Brette</option>
+
+
+      <option value="/vs/morris-cori#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/morris-cori#robertson-desiree">Robertson, Desiree</option>
+
+
+      <option value="/vs/morris-cori#rocque-raylene">Rocque, Raylene</option>
+
+
+      <option value="/vs/morris-cori#rogers-rhonda">Rogers, Rhonda</option>
+
+
+      <option value="/vs/morris-cori#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/morris-cori#rumberg-crystal">Rumberg, Crystal</option>
+
+
+      <option value="/vs/morris-cori#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/morris-cori#santos-deb">Santos, Deb</option>
+
+
+      <option value="/vs/morris-cori#schneider-kim">Schneider, Kim</option>
+
+
+      <option value="/vs/morris-cori#schneider-tammy">Schneider, Tammy</option>
+
+
+      <option value="/vs/morris-cori#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/morris-cori#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/morris-cori#seeley-heather">Seeley, Heather</option>
+
+
+      <option value="/vs/morris-cori#simmons-cindy">Simmons, Cindy</option>
+
+
+      <option value="/vs/morris-cori#simons-renee">Simons, Renee</option>
+
+
+      <option value="/vs/morris-cori#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/morris-cori#sippala-ashley">Sippala, Ashley</option>
+
+
+      <option value="/vs/morris-cori#sobey-lianne">Sobey, Lianne</option>
+
+
+      <option value="/vs/morris-cori#spencer-barb">Spencer, Barb</option>
+
+
+      <option value="/vs/morris-cori#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/morris-cori#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/morris-cori#stubbings-tiffany">Stubbings, Tiffany</option>
+
+
+      <option value="/vs/morris-cori#thomas-jill">Thomas, Jill</option>
+
+
+      <option value="/vs/morris-cori#udle-teri">Udle, Teri</option>
+
+
+      <option value="/vs/morris-cori#vey-lana">Vey, Lana</option>
+
+
+      <option value="/vs/morris-cori#walsh-heather">Walsh, Heather</option>
+
+
+      <option value="/vs/morris-cori#wasylkiw-lauren">Wasylkiw, Lauren</option>
+
+
+      <option value="/vs/morris-cori#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/morris-cori#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/morris-cori#whitaker-carol">Whitaker, Carol</option>
+
+
+      <option value="/vs/morris-cori#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,806 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Dale Ness
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Dale Ness <i class="fe fe-user-plus" data-name="Ness, Dale" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1998">1998</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>125</td>
+  <td>84</td>
+  <td>124</td>
+  <td>85</td>
+  <td>179</td>
+  <td>84</td>
+  <td>70</td>
+  <td>84</td>
+  <td>249</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>120</td>
+  <td>88</td>
+  <td>139</td>
+  <td>90</td>
+  <td>189</td>
+  <td>90</td>
+  <td>70</td>
+  <td>85</td>
+  <td>259</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2001">2001</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>142</td>
+  <td>89</td>
+  <td>58</td>
+  <td>94</td>
+  <td>165</td>
+  <td>92</td>
+  <td>35</td>
+  <td>86</td>
+  <td>200</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2003">2003</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>134</td>
+  <td>86</td>
+  <td>61</td>
+  <td>82</td>
+  <td>157</td>
+  <td>86</td>
+  <td>38</td>
+  <td>78</td>
+  <td>195</td>
+  <td>84</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>51</td>
+  <td>32</td>
+  <td>19</td>
+  <td>521</td>
+  <td>87</td>
+  <td>382</td>
+  <td>88</td>
+  <td>690</td>
+  <td>88</td>
+  <td>213</td>
+  <td>84</td>
+  <td>903</td>
+  <td>87</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#ness-dale">Adam, Gerry</option>
+
+
+      <option value="/vs/alderman-dan#ness-dale">Alderman, Dan</option>
+
+
+      <option value="/vs/alexander-scott#ness-dale">Alexander, Scott</option>
+
+
+      <option value="/vs/alexander-trevor#ness-dale">Alexander, Trevor</option>
+
+
+      <option value="/vs/armstrong-doug#ness-dale">Armstrong, Doug</option>
+
+
+      <option value="/vs/assad-mike#ness-dale">Assad, Mike</option>
+
+
+      <option value="/vs/bailey-scott#ness-dale">Bailey, Scott</option>
+
+
+      <option value="/vs/bryant-doug#ness-dale">Bryant, Doug</option>
+
+
+      <option value="/vs/bubbs-john#ness-dale">Bubbs, John</option>
+
+
+      <option value="/vs/burgess-bryan#ness-dale">Burgess, Bryan</option>
+
+
+      <option value="/vs/burtnyk-kerry#ness-dale">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-mark#ness-dale">Butler, Mark</option>
+
+
+      <option value="/vs/buyck-james#ness-dale">Buyck, James</option>
+
+
+      <option value="/vs/campbell-robert#ness-dale">Campbell, Robert</option>
+
+
+      <option value="/vs/champion-kevin#ness-dale">Champion, Kevin</option>
+
+
+      <option value="/vs/chorostkowski-brad#ness-dale">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/chugg-brad#ness-dale">Chugg, Brad</option>
+
+
+      <option value="/vs/cochrane-bryan#ness-dale">Cochrane, Bryan</option>
+
+
+      <option value="/vs/cowan-chad#ness-dale">Cowan, Chad</option>
+
+
+      <option value="/vs/cunningham-geoff#ness-dale">Cunningham, Geoff</option>
+
+
+      <option value="/vs/cursons-neil#ness-dale">Cursons, Neil</option>
+
+
+      <option value="/vs/dacey-mark#ness-dale">Dacey, Mark</option>
+
+
+      <option value="/vs/dauphinee-andrew#ness-dale">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/desilets-mike#ness-dale">Desilets, Mike</option>
+
+
+      <option value="/vs/despins-glen#ness-dale">Despins, Glen</option>
+
+
+      <option value="/vs/dillon-mike#ness-dale">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-mark#ness-dale">Dobson, Mark</option>
+
+
+      <option value="/vs/duguid-dale#ness-dale">Duguid, Dale</option>
+
+
+      <option value="/vs/fenton-darin#ness-dale">Fenton, Darin</option>
+
+
+      <option value="/vs/fenton-keith#ness-dale">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#ness-dale">Ferbey, Randy</option>
+
+
+      <option value="/vs/fetterly-tom#ness-dale">Fetterly, Tom</option>
+
+
+      <option value="/vs/flemming-paul#ness-dale">Flemming, Paul</option>
+
+
+      <option value="/vs/fulton-chris#ness-dale">Fulton, Chris</option>
+
+
+      <option value="/vs/gallant-peter#ness-dale">Gallant, Peter</option>
+
+
+      <option value="/vs/gamble-bill#ness-dale">Gamble, Bill</option>
+
+
+      <option value="/vs/gardeski-larry#ness-dale">Gardeski, Larry</option>
+
+
+      <option value="/vs/geisler-arnie#ness-dale">Geisler, Arnie</option>
+
+
+      <option value="/vs/gibson-andrew#ness-dale">Gibson, Andrew</option>
+
+
+      <option value="/vs/gorveatt-philip#ness-dale">Gorveatt, Philip</option>
+
+
+      <option value="/vs/goss-glenn#ness-dale">Goss, Glenn</option>
+
+
+      <option value="/vs/grattan-james#ness-dale">Grattan, James</option>
+
+
+      <option value="/vs/gretzinger-bert#ness-dale">Gretzinger, Bert</option>
+
+
+      <option value="/vs/gushue-brad#ness-dale">Gushue, Brad</option>
+
+
+      <option value="/vs/hackner-al#ness-dale">Hackner, Al</option>
+
+
+      <option value="/vs/hamilton-wayne#ness-dale">Hamilton, Wayne</option>
+
+
+      <option value="/vs/harcourt-doug#ness-dale">Harcourt, Doug</option>
+
+
+      <option value="/vs/harcourt-greg#ness-dale">Harcourt, Greg</option>
+
+
+      <option value="/vs/harris-rob#ness-dale">Harris, Rob</option>
+
+
+      <option value="/vs/henderson-scott#ness-dale">Henderson, Scott</option>
+
+
+      <option value="/vs/horning-deane#ness-dale">Horning, Deane</option>
+
+
+      <option value="/vs/howard-russ#ness-dale">Howard, Russ</option>
+
+
+      <option value="/vs/hunka-ken#ness-dale">Hunka, Ken</option>
+
+
+      <option value="/vs/irwin-don#ness-dale">Irwin, Don</option>
+
+
+      <option value="/vs/iskiw-blayne#ness-dale">Iskiw, Blayne</option>
+
+
+      <option value="/vs/jackson-glen#ness-dale">Jackson, Glen</option>
+
+
+      <option value="/vs/jenion-bob#ness-dale">Jenion, Bob</option>
+
+
+      <option value="/vs/joanisse-dean#ness-dale">Joanisse, Dean</option>
+
+
+      <option value="/vs/johnston-wade#ness-dale">Johnston, Wade</option>
+
+
+      <option value="/vs/kalthoff-kevin#ness-dale">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/keefe-kevin#ness-dale">Keefe, Kevin</option>
+
+
+      <option value="/vs/kelsch-dan#ness-dale">Kelsch, Dan</option>
+
+
+      <option value="/vs/kirkness-james#ness-dale">Kirkness, James</option>
+
+
+      <option value="/vs/korab-jamie#ness-dale">Korab, Jamie</option>
+
+
+      <option value="/vs/kushnir-warren#ness-dale">Kushnir, Warren</option>
+
+
+      <option value="/vs/lacey-jeff#ness-dale">Lacey, Jeff</option>
+
+
+      <option value="/vs/landry-garry#ness-dale">Landry, Garry</option>
+
+
+      <option value="/vs/langdon-dennis#ness-dale">Langdon, Dennis</option>
+
+
+      <option value="/vs/lappalainen-art#ness-dale">Lappalainen, Art</option>
+
+
+      <option value="/vs/lecocq-marc#ness-dale">LeCocq, Marc</option>
+
+
+      <option value="/vs/lindsay-tim#ness-dale">Lindsay, Tim</option>
+
+
+      <option value="/vs/loevenmark-phil#ness-dale">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lohnes-bruce#ness-dale">Lohnes, Bruce</option>
+
+
+      <option value="/vs/lowe-wayne#ness-dale">Lowe, Wayne</option>
+
+
+      <option value="/vs/macaulay-ian#ness-dale">MacAulay, Ian</option>
+
+
+      <option value="/vs/macdonald-blake#ness-dale">MacDonald, Blake</option>
+
+
+      <option value="/vs/macdonald-brent#ness-dale">MacDonald, Brent</option>
+
+
+      <option value="/vs/macdonald-peter#ness-dale">MacDonald, Peter</option>
+
+
+      <option value="/vs/mackenzie-kevin#ness-dale">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/macleod-glen#ness-dale">MacLeod, Glen</option>
+
+
+      <option value="/vs/madden-paul#ness-dale">Madden, Paul</option>
+
+
+      <option value="/vs/mcaulay-greg#ness-dale">McAulay, Greg</option>
+
+
+      <option value="/vs/mccarrel-graeme#ness-dale">McCarrel, Graeme</option>
+
+
+      <option value="/vs/mcclelland-john#ness-dale">McClelland, John</option>
+
+
+      <option value="/vs/mcdonald-toby#ness-dale">McDonald, Toby</option>
+
+
+      <option value="/vs/mcgregor-ken#ness-dale">McGregor, Ken</option>
+
+
+      <option value="/vs/mcinnis-phillip#ness-dale">McInnis, Phillip</option>
+
+
+      <option value="/vs/mead-jon#ness-dale">Mead, Jon</option>
+
+
+      <option value="/vs/meakin-rob#ness-dale">Meakin, Rob</option>
+
+
+      <option value="/vs/mellof-dave#ness-dale">Mellof, Dave</option>
+
+
+      <option value="/vs/melville-bruce#ness-dale">Melville, Bruce</option>
+
+
+      <option value="/vs/middaugh-wayne#ness-dale">Middaugh, Wayne</option>
+
+
+      <option value="/vs/mihalicz-dwayne#ness-dale">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/miki-bryan#ness-dale">Miki, Bryan</option>
+
+
+      <option value="/vs/milward-ross#ness-dale">Milward, Ross</option>
+
+
+      <option value="/vs/mitchell-garth#ness-dale">Mitchell, Garth</option>
+
+
+      <option value="/vs/moffatt-rich#ness-dale">Moffatt, Rich</option>
+
+
+      <option value="/vs/montgomery-rod#ness-dale">Montgomery, Rod</option>
+
+
+      <option value="/vs/moshenko-darcy#ness-dale">Moshenko, Darcy</option>
+
+
+      <option value="/vs/moshenko-jaret#ness-dale">Moshenko, Jaret</option>
+
+
+      <option value="/vs/moss-steve#ness-dale">Moss, Steve</option>
+
+
+      <option value="/vs/nedohin-david#ness-dale">Nedohin, David</option>
+
+
+      <option value="/vs/ness-dale#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/ness-dale#o-rourke-mark">O'Rourke, Mark</option>
+
+
+      <option value="/vs/ness-dale#odishaw-grant">Odishaw, Grant</option>
+
+
+      <option value="/vs/ness-dale#odishaw-terry">Odishaw, Terry</option>
+
+
+      <option value="/vs/ness-dale#paslawski-pat">Paslawski, Pat</option>
+
+
+      <option value="/vs/ness-dale#patterson-scott">Patterson, Scott</option>
+
+
+      <option value="/vs/ness-dale#peech-orest">Peech, Orest</option>
+
+
+      <option value="/vs/ness-dale#perron-rick">Perron, Rick</option>
+
+
+      <option value="/vs/ness-dale#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/ness-dale#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/ness-dale#pinsent-garry">Pinsent, Garry</option>
+
+
+      <option value="/vs/ness-dale#powell-lloyd">Powell, Lloyd</option>
+
+
+      <option value="/vs/ness-dale#rajala-howard">Rajala, Howard</option>
+
+
+      <option value="/vs/ness-dale#rathje-larry">Rathje, Larry</option>
+
+
+      <option value="/vs/ness-dale#reed-tom">Reed, Tom</option>
+
+
+      <option value="/vs/ness-dale#reynolds-brett">Reynolds, Brett</option>
+
+
+      <option value="/vs/ness-dale#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/ness-dale#ryan-jeff">Ryan, Jeff</option>
+
+
+      <option value="/vs/ness-dale#ryan-keith">Ryan, Keith</option>
+
+
+      <option value="/vs/ness-dale#ryan-mike">Ryan, Mike</option>
+
+
+      <option value="/vs/ness-dale#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/ness-dale#scales-bob">Scales, Bob</option>
+
+
+      <option value="/vs/ness-dale#scharf-joe">Scharf, Joe</option>
+
+
+      <option value="/vs/ness-dale#schoenne-klaus">Schoenne, Klaus</option>
+
+
+      <option value="/vs/ness-dale#shymko-gerald">Shymko, Gerald</option>
+
+
+      <option value="/vs/ness-dale#sinclair-rob">Sinclair, Rob</option>
+
+
+      <option value="/vs/ness-dale#spencer-jim">Spencer, Jim</option>
+
+
+      <option value="/vs/ness-dale#steski-john">Steski, John</option>
+
+
+      <option value="/vs/ness-dale#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/ness-dale#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/ness-dale#sullivan-jim">Sullivan, Jim</option>
+
+
+      <option value="/vs/ness-dale#sullivan-tommy">Sullivan, Tommy</option>
+
+
+      <option value="/vs/ness-dale#surkan-ernie">Surkan, Ernie</option>
+
+
+      <option value="/vs/ness-dale#tait-jeff">Tait, Jeff</option>
+
+
+      <option value="/vs/ness-dale#tallon-wayne">Tallon, Wayne</option>
+
+
+      <option value="/vs/ness-dale#tervo-randy">Tervo, Randy</option>
+
+
+      <option value="/vs/ness-dale#tetley-ian">Tetley, Ian</option>
+
+
+      <option value="/vs/ness-dale#turpin-glenn">Turpin, Glenn</option>
+
+
+      <option value="/vs/ness-dale#tuson-jay">Tuson, Jay</option>
+
+
+      <option value="/vs/ness-dale#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/ness-dale#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/ness-dale#ward-mark">Ward, Mark</option>
+
+
+      <option value="/vs/ness-dale#wasnea-brian">Wasnea, Brian</option>
+
+
+      <option value="/vs/ness-dale#wempe-brian">Wempe, Brian</option>
+
+
+      <option value="/vs/ness-dale#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/ness-dale#wiersema-dale">Wiersema, Dale</option>
+
+
+      <option value="/vs/ness-dale#withers-paul">Withers, Paul</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

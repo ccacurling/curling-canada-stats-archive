@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Yvonne Smith
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Yvonne Smith <i class="fe fe-user-plus" data-name="Smith, Yvonne" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../hearts/1984">1984</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>69</td>
+  <td>75</td>
+  <td>130</td>
+  <td>79</td>
+  <td>94</td>
+  <td>79</td>
+  <td>105</td>
+  <td>76</td>
+  <td>199</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1989">1989</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>4</td>
+  <td>7</td>
+  <td>78</td>
+  <td>66</td>
+  <td>116</td>
+  <td>63</td>
+  <td>99</td>
+  <td>66</td>
+  <td>95</td>
+  <td>62</td>
+  <td>194</td>
+  <td>64</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../hearts/1997">1997</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+5
+">
+<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../trials-women/1997">1997</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="GOR">GOR</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>21</td>
+  <td>9</td>
+  <td>12</td>
+  <td>147</td>
+  <td>70</td>
+  <td>246</td>
+  <td>71</td>
+  <td>193</td>
+  <td>73</td>
+  <td>200</td>
+  <td>70</td>
+  <td>393</td>
+  <td>71</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+<p><i class="fa fa-asterisk" aria-hidden="true"></i> Alternate on Initial Lineup</p>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-diane#smith-yvonne">Adams, Diane</option>
+
+
+      <option value="/vs/alexander-diane#smith-yvonne">Alexander, Diane</option>
+
+
+      <option value="/vs/anderson-kelly#smith-yvonne">Anderson, Kelly</option>
+
+
+      <option value="/vs/arnott-janet#smith-yvonne">Arnott, Janet</option>
+
+
+      <option value="/vs/barker-catherine#smith-yvonne">Barker, Catherine</option>
+
+
+      <option value="/vs/bennet-connie#smith-yvonne">Bennet, Connie</option>
+
+
+      <option value="/vs/blanchard-judy#smith-yvonne">Blanchard, Judy</option>
+
+
+      <option value="/vs/boudreault-tracie#smith-yvonne">Boudreault, Tracie</option>
+
+
+      <option value="/vs/carney-laurie#smith-yvonne">Carney, Laurie</option>
+
+
+      <option value="/vs/carr-judy#smith-yvonne">Carr, Judy</option>
+
+
+      <option value="/vs/carter-linda#smith-yvonne">Carter, Linda</option>
+
+
+      <option value="/vs/charette-agnes#smith-yvonne">Charette, Agnes</option>
+
+
+      <option value="/vs/charette-france#smith-yvonne">Charette, France</option>
+
+
+      <option value="/vs/chicoine-helene#smith-yvonne">Chicoine, Helene</option>
+
+
+      <option value="/vs/clarke-betty#smith-yvonne">Clarke, Betty</option>
+
+
+      <option value="/vs/currie-ann#smith-yvonne">Currie, Ann</option>
+
+
+      <option value="/vs/currie-barbara#smith-yvonne">Currie, Barbara</option>
+
+
+      <option value="/vs/currie-wendy#smith-yvonne">Currie, Wendy</option>
+
+
+      <option value="/vs/deschatelets-guylaine#smith-yvonne">Deschatelets, Guylaine</option>
+
+
+      <option value="/vs/dezura-diane#smith-yvonne">Dezura, Diane</option>
+
+
+      <option value="/vs/earl-allison#smith-yvonne">Earl, Allison</option>
+
+
+      <option value="/vs/englot-michelle#smith-yvonne">Englot, Michelle</option>
+
+
+      <option value="/vs/flesjer-melody#smith-yvonne">Flesjer, Melody</option>
+
+
+      <option value="/vs/floyd-kathy#smith-yvonne">Floyd, Kathy</option>
+
+
+      <option value="/vs/gallant-kathie#smith-yvonne">Gallant, Kathie</option>
+
+
+      <option value="/vs/gervais-chris#smith-yvonne">Gervais, Chris</option>
+
+
+      <option value="/vs/graham-macdonald-bea#smith-yvonne">Graham-MacDonald, Bea</option>
+
+
+      <option value="/vs/hanlon-heidi#smith-yvonne">Hanlon, Heidi</option>
+
+
+      <option value="/vs/haspect-ginette#smith-yvonne">Haspect, Ginette</option>
+
+
+      <option value="/vs/houston-heather#smith-yvonne">Houston, Heather</option>
+
+
+      <option value="/vs/howse-lillian#smith-yvonne">Howse, Lillian</option>
+
+
+      <option value="/vs/hunt-donna#smith-yvonne">Hunt, Donna</option>
+
+
+      <option value="/vs/james-elizabeth#smith-yvonne">James, Elizabeth</option>
+
+
+      <option value="/vs/jones-colleen#smith-yvonne">Jones, Colleen</option>
+
+
+      <option value="/vs/jones-gordon-barb#smith-yvonne">Jones-Gordon, Barb</option>
+
+
+      <option value="/vs/jones-walker-debbie#smith-yvonne">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/kaylo-kelly#smith-yvonne">Kaylo, Kelly</option>
+
+
+      <option value="/vs/kehler-lorie#smith-yvonne">Kehler, Lorie</option>
+
+
+      <option value="/vs/kelly-anita#smith-yvonne">Kelly, Anita</option>
+
+
+      <option value="/vs/kennedy-tracy#smith-yvonne">Kennedy, Tracy</option>
+
+
+      <option value="/vs/king-shirley#smith-yvonne">King, Shirley</option>
+
+
+      <option value="/vs/kuruluk-kristen#smith-yvonne">Kuruluk, Kristen</option>
+
+
+      <option value="/vs/laliberte-connie#smith-yvonne">Laliberte, Connie</option>
+
+
+      <option value="/vs/lang-lorraine#smith-yvonne">Lang, Lorraine</option>
+
+
+      <option value="/vs/leahy-anne#smith-yvonne">Leahy, Anne</option>
+
+
+      <option value="/vs/mackin-marion#smith-yvonne">Mackin, Marion</option>
+
+
+      <option value="/vs/mattatall-mary#smith-yvonne">Mattatall, Mary</option>
+
+
+      <option value="/vs/mccarville-susan#smith-yvonne">McCarville, Susan</option>
+
+
+      <option value="/vs/mcgeary-lori#smith-yvonne">McGeary, Lori</option>
+
+
+      <option value="/vs/mcinnis-susan#smith-yvonne">McInnis, Susan</option>
+
+
+      <option value="/vs/millar-beverley#smith-yvonne">Millar, Beverley</option>
+
+
+      <option value="/vs/miller-maureen#smith-yvonne">Miller, Maureen</option>
+
+
+      <option value="/vs/moore-linda#smith-yvonne">Moore, Linda</option>
+
+
+      <option value="/vs/more-chris#smith-yvonne">More, Chris</option>
+
+
+      <option value="/vs/moriarty-monica#smith-yvonne">Moriarty, Monica</option>
+
+
+      <option value="/vs/noye-marlene#smith-yvonne">Noye, Marlene</option>
+
+
+      <option value="/vs/o-rourke-kathy#smith-yvonne">O'Rourke, Kathy</option>
+
+
+      <option value="/vs/phillips-laura#smith-yvonne">Phillips, Laura</option>
+
+
+      <option value="/vs/pruden-twyla#smith-yvonne">Pruden, Twyla</option>
+
+
+      <option value="/vs/purdy-karen#smith-yvonne">Purdy, Karen</option>
+
+
+      <option value="/vs/raby-odette#smith-yvonne">Raby, Odette</option>
+
+
+      <option value="/vs/roland-mavis#smith-yvonne">Roland, Mavis</option>
+
+
+      <option value="/vs/rudd-colleen#smith-yvonne">Rudd, Colleen</option>
+
+
+      <option value="/vs/ryan-diane#smith-yvonne">Ryan, Diane</option>
+
+
+      <option value="/vs/ryan-penny#smith-yvonne">Ryan, Penny</option>
+
+
+      <option value="/vs/sanders-pat#smith-yvonne">Sanders, Pat</option>
+
+
+      <option value="/vs/santos-deb#smith-yvonne">Santos, Deb</option>
+
+
+      <option value="/vs/skinner-julie#smith-yvonne">Skinner, Julie</option>
+
+
+      <option value="/vs/smith-yvonne#soligo-melissa">Soligo, Melissa</option>
+
+
+      <option value="/vs/smith-yvonne#sparkes-lindsay">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/smith-yvonne#sparrow-sandra">Sparrow, Sandra</option>
+
+
+      <option value="/vs/smith-yvonne#stewart-sheri">Stewart, Sheri</option>
+
+
+      <option value="/vs/smith-yvonne#stricker-joan">Stricker, Joan</option>
+
+
+      <option value="/vs/smith-yvonne#thomas-karen">Thomas, Karen</option>
+
+
+      <option value="/vs/smith-yvonne#thompson-gillian">Thompson, Gillian</option>
+
+
+      <option value="/vs/smith-yvonne#webb-corine">Webb, Corine</option>
+
+
+      <option value="/vs/smith-yvonne#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/smith-yvonne#whitrow-leanne">Whitrow, Leanne</option>
+
+
+      <option value="/vs/smith-yvonne#zeller-lori">Zeller, Lori</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

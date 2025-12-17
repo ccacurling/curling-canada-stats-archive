@@ -1,0 +1,2149 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Mary-Anne Arsenault
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Mary-Anne Arsenault <i class="fe fe-user-plus" data-name="Arsenault, Mary-Anne" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2003">2003</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Jone">Jone</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>4</td>
+  <td>2</td>
+  <td>2</td>
+  <td>42</td>
+  <td>82</td>
+  <td>40</td>
+  <td>84</td>
+  <td>29</td>
+  <td>79</td>
+  <td>53</td>
+  <td>85</td>
+  <td>82</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2004">2004</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="CJO">CJO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>56</td>
+  <td>78</td>
+  <td>82</td>
+  <td>84</td>
+  <td>52</td>
+  <td>77</td>
+  <td>86</td>
+  <td>85</td>
+  <td>138</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2005">2005</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Jon">Jon</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>50</td>
+  <td>75</td>
+  <td>66</td>
+  <td>78</td>
+  <td>62</td>
+  <td>76</td>
+  <td>54</td>
+  <td>77</td>
+  <td>116</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2009">2009</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="M-AA">M-AA</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>47</td>
+  <td>74</td>
+  <td>65</td>
+  <td>74</td>
+  <td>56</td>
+  <td>71</td>
+  <td>56</td>
+  <td>78</td>
+  <td>112</td>
+  <td>74</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1993">1993</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>44</td>
+  <td>73</td>
+  <td>145</td>
+  <td>87</td>
+  <td>109</td>
+  <td>84</td>
+  <td>80</td>
+  <td>84</td>
+  <td>189</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1999">1999</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>112</td>
+  <td>75</td>
+  <td>144</td>
+  <td>78</td>
+  <td>98</td>
+  <td>75</td>
+  <td>158</td>
+  <td>78</td>
+  <td>256</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2000">2000</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>99</td>
+  <td>80</td>
+  <td>121</td>
+  <td>79</td>
+  <td>98</td>
+  <td>80</td>
+  <td>122</td>
+  <td>79</td>
+  <td>220</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2001">2001</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>140</td>
+  <td>79</td>
+  <td>116</td>
+  <td>84</td>
+  <td>91</td>
+  <td>79</td>
+  <td>165</td>
+  <td>82</td>
+  <td>256</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2002">2002</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>123</td>
+  <td>88</td>
+  <td>155</td>
+  <td>85</td>
+  <td>113</td>
+  <td>84</td>
+  <td>165</td>
+  <td>88</td>
+  <td>278</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2003">2003</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>86</td>
+  <td>64</td>
+  <td>134</td>
+  <td>77</td>
+  <td>68</td>
+  <td>66</td>
+  <td>152</td>
+  <td>75</td>
+  <td>220</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2003">2003</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>1</td>
+  <td>1</td>
+  <td>0</td>
+  <td>7</td>
+  <td>96</td>
+  <td>13</td>
+  <td>83</td>
+  <td>6</td>
+  <td>96</td>
+  <td>14</td>
+  <td>84</td>
+  <td>20</td>
+  <td>88</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2003</td>
+  <td>Hearts</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>93</td>
+  <td>67</td>
+  <td>147</td>
+  <td>78</td>
+  <td>74</td>
+  <td>69</td>
+  <td>166</td>
+  <td>76</td>
+  <td>240</td>
+  <td>74</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2004">2004</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>96</td>
+  <td>85</td>
+  <td>148</td>
+  <td>81</td>
+  <td>95</td>
+  <td>80</td>
+  <td>149</td>
+  <td>84</td>
+  <td>244</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2005">2005</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>12</td>
+  <td>6</td>
+  <td>6</td>
+  <td>99</td>
+  <td>81</td>
+  <td>133</td>
+  <td>84</td>
+  <td>103</td>
+  <td>78</td>
+  <td>129</td>
+  <td>86</td>
+  <td>232</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2006">2006</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>109</td>
+  <td>80</td>
+  <td>131</td>
+  <td>85</td>
+  <td>104</td>
+  <td>80</td>
+  <td>136</td>
+  <td>85</td>
+  <td>240</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2008">2008</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>128</td>
+  <td>79</td>
+  <td>84</td>
+  <td>72</td>
+  <td>113</td>
+  <td>75</td>
+  <td>99</td>
+  <td>77</td>
+  <td>212</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2013">2013</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>133</td>
+  <td>75</td>
+  <td>76</td>
+  <td>78</td>
+  <td>107</td>
+  <td>77</td>
+  <td>102</td>
+  <td>75</td>
+  <td>209</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2015">2015</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>133</td>
+  <td>75</td>
+  <td>85</td>
+  <td>72</td>
+  <td>104</td>
+  <td>69</td>
+  <td>114</td>
+  <td>79</td>
+  <td>218</td>
+  <td>74</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2018">2018</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>114</td>
+  <td>83</td>
+  <td>123</td>
+  <td>80</td>
+  <td>99</td>
+  <td>79</td>
+  <td>138</td>
+  <td>84</td>
+  <td>237</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2020">2020</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>77</td>
+  <td>69</td>
+  <td>78</td>
+  <td>78</td>
+  <td>73</td>
+  <td>74</td>
+  <td>82</td>
+  <td>73</td>
+  <td>155</td>
+  <td>73</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2022">2022</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="BC"><a href="../hearts/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>3</td>
+  <td>5</td>
+  <td>76</td>
+  <td>77</td>
+  <td>68</td>
+  <td>74</td>
+  <td>70</td>
+  <td>77</td>
+  <td>74</td>
+  <td>74</td>
+  <td>144</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2001">2001</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="JON">JON</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>93</td>
+  <td>78</td>
+  <td>95</td>
+  <td>88</td>
+  <td>82</td>
+  <td>78</td>
+  <td>106</td>
+  <td>87</td>
+  <td>188</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2005">2005</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="CJO">CJO</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>5</td>
+  <td>2</td>
+  <td>3</td>
+  <td>55</td>
+  <td>85</td>
+  <td>41</td>
+  <td>80</td>
+  <td>33</td>
+  <td>88</td>
+  <td>63</td>
+  <td>80</td>
+  <td>96</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2005">2005</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="CJO">CJO</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>4</td>
+  <td>1</td>
+  <td>3</td>
+  <td>32</td>
+  <td>87</td>
+  <td>46</td>
+  <td>85</td>
+  <td>39</td>
+  <td>85</td>
+  <td>39</td>
+  <td>87</td>
+  <td>78</td>
+  <td>86</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2005</td>
+  <td>Trials (Women)</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>87</td>
+  <td>86</td>
+  <td>87</td>
+  <td>83</td>
+  <td>72</td>
+  <td>86</td>
+  <td>102</td>
+  <td>83</td>
+  <td>174</td>
+  <td>84</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>23</td>
+  <td>13</td>
+  <td>10</td>
+  <td>195</td>
+  <td>77</td>
+  <td>253</td>
+  <td>80</td>
+  <td>199</td>
+  <td>75</td>
+  <td>249</td>
+  <td>81</td>
+  <td>448</td>
+  <td>79</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>174</td>
+  <td>108</td>
+  <td>66</td>
+  <td>1576</td>
+  <td>78</td>
+  <td>1754</td>
+  <td>81</td>
+  <td>1451</td>
+  <td>78</td>
+  <td>1879</td>
+  <td>81</td>
+  <td>3330</td>
+  <td>79</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>19</td>
+  <td>9</td>
+  <td>10</td>
+  <td>180</td>
+  <td>82</td>
+  <td>182</td>
+  <td>85</td>
+  <td>154</td>
+  <td>82</td>
+  <td>208</td>
+  <td>85</td>
+  <td>362</td>
+  <td>84</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-melissa#arsenault-mary-anne">Adams, Melissa</option>
+
+
+      <option value="/vs/affleck-tricia#arsenault-mary-anne">Affleck, Tricia</option>
+
+
+      <option value="/vs/aleksic-shannon#arsenault-mary-anne">Aleksic, Shannon</option>
+
+
+      <option value="/vs/allan-susan#arsenault-mary-anne">Allan, Susan</option>
+
+
+      <option value="/vs/allen-laurie#arsenault-mary-anne">Allen, Laurie</option>
+
+
+      <option value="/vs/allen-michelle#arsenault-mary-anne">Allen, Michelle</option>
+
+
+      <option value="/vs/allerton-dana#arsenault-mary-anne">Allerton, Dana</option>
+
+
+      <option value="/vs/anderson-sherry#arsenault-mary-anne">Anderson, Sherry</option>
+
+
+      <option value="/vs/armstrong-hailey#arsenault-mary-anne">Armstrong, Hailey</option>
+
+
+      <option value="/vs/arnott-janet#arsenault-mary-anne">Arnott, Janet</option>
+
+
+      <option value="/vs/arsenault-bishop-nicole#arsenault-mary-anne">Arsenault-Bishop, Nicole</option>
+
+
+      <option value="/vs/arsenault-mary-anne#arseneau-jane">Arseneau, Jane</option>
+
+
+      <option value="/vs/arsenault-mary-anne#atkinson-rebecca">Atkinson, Rebecca</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ayrey-jinaye">Ayrey, Jinaye</option>
+
+
+      <option value="/vs/arsenault-mary-anne#baker-michelle">Baker, Michelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bakker-glenys">Bakker, Glenys</option>
+
+
+      <option value="/vs/arsenault-mary-anne#balderston-marcy">Balderston, Marcy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#balsdon-megan">Balsdon, Megan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#barbour-shona">Barbour, Shona</option>
+
+
+      <option value="/vs/arsenault-mary-anne#barker-shelley">Barker, Shelley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#barrack-carmen">Barrack, Carmen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#baxter-jennifer">Baxter, Jennifer</option>
+
+
+      <option value="/vs/arsenault-mary-anne#beauchamp-sasha">Beauchamp, Sasha</option>
+
+
+      <option value="/vs/arsenault-mary-anne#belanger-nancy">Belanger, Nancy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#belisle-eve">Belisle, Eve</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bell-allyson">Bell, Allyson</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bell-chelsey">Bell, Chelsey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bell-patty">Bell, Patty</option>
+
+
+      <option value="/vs/arsenault-mary-anne#belley-joelle">Belley, Joelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bernard-cheryl">Bernard, Cheryl</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bernard-krista">Bernard, Krista</option>
+
+
+      <option value="/vs/arsenault-mary-anne#berthelot-janique">Berthelot, Janique</option>
+
+
+      <option value="/vs/arsenault-mary-anne#betker-jan">Betker, Jan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#beveridge-corie">Beveridge, Corie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#birchard-shannon">Birchard, Shannon</option>
+
+
+      <option value="/vs/arsenault-mary-anne#birnie-hailey">Birnie, Hailey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#birt-suzanne">Birt, Suzanne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#black-christina">Black, Christina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#blackburn-julie">Blackburn, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#blais-amelie">Blais, Amelie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#blanchard-judy">Blanchard, Judy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#blashko-denise">Blashko, Denise</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bobbie-tess">Bobbie, Tess</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bohmer-brenda">Bohmer, Brenda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bonar-maureen">Bonar, Maureen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#borne-brandee">Borne, Brandee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#boyle-jane">Boyle, Jane</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bradley-shelley">Bradley, Shelley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#breen-theresa">Breen, Theresa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brennan-amanda">Brennan, Amanda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brophy-kathy">Brophy, Kathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brown-corryn">Brown, Corryn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brown-jacalyn">Brown, Jacalyn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brown-janet">Brown, Janet</option>
+
+
+      <option value="/vs/arsenault-mary-anne#brown-rachelle">Brown, Rachelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#burgess-allyson">Burgess, Allyson</option>
+
+
+      <option value="/vs/arsenault-mary-anne#burgess-carey">Burgess, Carey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#burgess-karlee">Burgess, Karlee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#burlington-cheryl">Burlington, Cheryl</option>
+
+
+      <option value="/vs/arsenault-mary-anne#bush-tracy">Bush, Tracy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#byers-denise">Byers, Denise</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cameron-kate">Cameron, Kate</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cameron-nancy">Cameron, Nancy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#camozzi-rhonda">Camozzi, Rhonda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#campbell-gloria">Campbell, Gloria</option>
+
+
+      <option value="/vs/arsenault-mary-anne#campbell-june">Campbell, June</option>
+
+
+      <option value="/vs/arsenault-mary-anne#carrier-julie">Carrier, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#carter-sasha">Carter, Sasha</option>
+
+
+      <option value="/vs/arsenault-mary-anne#charette-agnes">Charette, Agnes</option>
+
+
+      <option value="/vs/arsenault-mary-anne#charette-france">Charette, France</option>
+
+
+      <option value="/vs/arsenault-mary-anne#chenier-courtney">Chenier, Courtney</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cheveldave-amber">Cheveldave, Amber</option>
+
+
+      <option value="/vs/arsenault-mary-anne#christianson-marie">Christianson, Marie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#clark-stefanie">Clark, Stefanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#collins-katrina">Collins, Katrina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#comeau-martine">Comeau, Martine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#comeau-sandy">Comeau, Sandy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cooke-gerri">Cooke, Gerri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cooper-kathryn">Cooper, Kathryn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cordina-sheri">Cordina, Sheri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cormier-sharon">Cormier, Sharon</option>
+
+
+      <option value="/vs/arsenault-mary-anne#courtney-joanne">Courtney, Joanne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#cunningham-cathy">Cunningham, Cathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#curtis-erica">Curtis, Erica</option>
+
+
+      <option value="/vs/arsenault-mary-anne#curtis-stacie">Curtis, Stacie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#daku-karen">Daku, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#daniel-sylvie">Daniel, Sylvie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#darbyshire-carolyn">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#davis-brandee">Davis, Brandee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dejager-blaine">deJager, Blaine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#derick-catherine">Derick, Catherine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#desolla-jodie">deSolla, Jodie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dezura-diane">Dezura, Diane</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dobson-sue">Dobson, Sue</option>
+
+
+      <option value="/vs/arsenault-mary-anne#doig-deanna">Doig, Deanna</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dolan-kim">Dolan, Kim</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dufresne-audree">Dufresne, Audree</option>
+
+
+      <option value="/vs/arsenault-mary-anne#duncan-chelsea">Duncan, Chelsea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#duncan-hollie">Duncan, Hollie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#duncan-jenna">Duncan, Jenna</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dunn-anne">Dunn, Anne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#dykstra-michelle">Dykstra, Michelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#einarson-kerri">Einarson, Kerri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#enge-jenna">Enge, Jenna</option>
+
+
+      <option value="/vs/arsenault-mary-anne#englot-michelle">Englot, Michelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#enright-barb">Enright, Barb</option>
+
+
+      <option value="/vs/arsenault-mary-anne#everist-karlee">Everist, Karlee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fallis-karen">Fallis, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fallis-kurz-lynn">Fallis-Kurz, Lynn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#farrell-allison">Farrell, Allison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ferguson-dana">Ferguson, Dana</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fesser-kourtney">Fesser, Kourtney</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fesser-krista">Fesser, Krista</option>
+
+
+      <option value="/vs/arsenault-mary-anne#filteau-anne-marie">Filteau, Anne-Marie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fisher-alana">Fisher, Alana</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fister-teri">Fister, Teri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fister-toni">Fister, Toni</option>
+
+
+      <option value="/vs/arsenault-mary-anne#flemming-margot">Flemming, Margot</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fleury-tracy">Fleury, Tracy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#floyd-kathy">Floyd, Kathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fortier-marie-josee">Fortier, Marie-Josee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fortin-sylvie">Fortin, Sylvie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#foster-kerry">Foster, Kerry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fowler-lois">Fowler, Lois</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fowlie-heather">Fowlie, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fraser-sherry">Fraser, Sherry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#freeman-lisa">Freeman, Lisa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#frey-audrey">Frey, Audrey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#froud-susan">Froud, Susan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fullerton-sarah">Fullerton, Sarah</option>
+
+
+      <option value="/vs/arsenault-mary-anne#fyfe-liz">Fyfe, Liz</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gagnier-monique">Gagnier, Monique</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gagnon-karo">Gagnon, Karo</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gagnon-nathalie">Gagnon, Nathalie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#galusha-kerry">Galusha, Kerry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gatchell-sara">Gatchell, Sara</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gates-amanda">Gates, Amanda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gauthier-cathy">Gauthier, Cathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gellard-kim">Gellard, Kim</option>
+
+
+      <option value="/vs/arsenault-mary-anne#george-tara">George, Tara</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gibson-amy">Gibson, Amy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gignac-donna">Gignac, Donna</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gogan-jennifer">Gogan, Jennifer</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gordon-kristin">Gordon, Kristin</option>
+
+
+      <option value="/vs/arsenault-mary-anne#goss-peg">Goss, Peg</option>
+
+
+      <option value="/vs/arsenault-mary-anne#graham-macdonald-bea">Graham-MacDonald, Bea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#greening-jackie-rae">Greening, Jackie-Rae</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gregoire-veronique">Gregoire, Veronique</option>
+
+
+      <option value="/vs/arsenault-mary-anne#grenier-valerie">Grenier, Valerie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gudereit-marcia">Gudereit, Marcia</option>
+
+
+      <option value="/vs/arsenault-mary-anne#gushulak-diane">Gushulak, Diane</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hamilton-beth">Hamilton, Beth</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hanlon-heidi">Hanlon, Heidi</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hanna-jenn">Hanna, Jenn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hanna-stephanie">Hanna, Stephanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hardy-shelley">Hardy, Shelley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#harmark-andra">Harmark, Andra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#harris-briane">Harris, Briane</option>
+
+
+      <option value="/vs/arsenault-mary-anne#harrison-meredith">Harrison, Meredith</option>
+
+
+      <option value="/vs/arsenault-mary-anne#harvey-alison">Harvey, Alison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#harvey-janet">Harvey, Janet</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hastings-julie">Hastings, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hatton-sandra">Hatton, Sandra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hawes-dezaray">Hawes, Dezaray</option>
+
+
+      <option value="/vs/arsenault-mary-anne#henry-lou-ann">Henry, Lou Ann</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hodson-kim">Hodson, Kim</option>
+
+
+      <option value="/vs/arsenault-mary-anne#holland-amber">Holland, Amber</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hollands-saskia">Hollands, Saskia</option>
+
+
+      <option value="/vs/arsenault-mary-anne#holowec-ainsley">Holowec, Ainsley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#holtby-taryn">Holtby, Taryn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#homan-rachel">Homan, Rachel</option>
+
+
+      <option value="/vs/arsenault-mary-anne#horne-kate">Horne, Kate</option>
+
+
+      <option value="/vs/arsenault-mary-anne#horte-rhonda">Horte, Rhonda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hughes-meaghan">Hughes, Meaghan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hunter-lana">Hunter, Lana</option>
+
+
+      <option value="/vs/arsenault-mary-anne#hynes-julie">Hynes, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#iskiw-beth">Iskiw, Beth</option>
+
+
+      <option value="/vs/arsenault-mary-anne#jenkins-sandra">Jenkins, Sandra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#johnston-atina">Johnston, Atina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#johnston-kara">Johnston, Kara</option>
+
+
+      <option value="/vs/arsenault-mary-anne#jones-jennifer">Jones, Jennifer</option>
+
+
+      <option value="/vs/arsenault-mary-anne#jones-walker-debbie">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#jurgenson-christine">Jurgenson, Christine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kallechy-rachelle">Kallechy, Rachelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#karam-sally">Karam, Sally</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kasner-marliese">Kasner, Marliese</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kaylo-kelly">Kaylo, Kelly</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kehler-lorie">Kehler, Lorie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kelly-andrea">Kelly, Andrea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kerr-kathy">Kerr, Kathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#keshen-christine">Keshen, Christine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kidd-darlene">Kidd, Darlene</option>
+
+
+      <option value="/vs/arsenault-mary-anne#king-cathy">King, Cathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kleibrink-shannon">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/arsenault-mary-anne#klymchuk-ashley">Klymchuk, Ashley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#knezevic-patti">Knezevic, Patti</option>
+
+
+      <option value="/vs/arsenault-mary-anne#koehler-megan">Koehler, Megan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#koltun-sarah">Koltun, Sarah</option>
+
+
+      <option value="/vs/arsenault-mary-anne#korab-stephanie">Korab, Stephanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#korchinski-karlee">Korchinski, Karlee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kreviazuk-alison">Kreviazuk, Alison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#kreviazuk-cheryl">Kreviazuk, Cheryl</option>
+
+
+      <option value="/vs/arsenault-mary-anne#laliberte-connie">Laliberte, Connie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lang-lorraine">Lang, Lorraine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lange-ann">Lange, Ann</option>
+
+
+      <option value="/vs/arsenault-mary-anne#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/arsenault-mary-anne#law-kelley">Law, Kelley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lawes-andrea">Lawes, Andrea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lawes-kaitlyn">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lawton-stefanie">Lawton, Stefanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#leclerc-valerie">Leclerc, Valerie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ledrew-stephanie">LeDrew, Stephanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#leger-stacey">Leger, Stacey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lemire-nancy">Lemire, Nancy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lenentine-lauren">Lenentine, Lauren</option>
+
+
+      <option value="/vs/arsenault-mary-anne#letendre-pascale">Letendre, Pascale</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lewis-kristy">Lewis, Kristy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#linton-sherry">Linton, Sherry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#lister-kendra">Lister, Kendra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#loder-cherie-ann">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/arsenault-mary-anne#maccallum-janice">MacCallum, Janice</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macdiarmid-kristen">MacDiarmid, Kristen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macdonald-lawnie">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macdonald-shelley">MacDonald, Shelley</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macdougall-leslie">MacDougall, Leslie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macinnes-allison">MacInnes, Allison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#macphee-robyn">MacPhee, Robyn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mair-jessica">Mair, Jessica</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mann-lauren">Mann, Lauren</option>
+
+
+      <option value="/vs/arsenault-mary-anne#marchand-karine">Marchand, Karine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#marchand-stephanie">Marchand, Stephanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#marchuk-lindy">Marchuk, Lindy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#martin-denise">Martin, Denise</option>
+
+
+      <option value="/vs/arsenault-mary-anne#martin-heather">Martin, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#materi-roberta">Materi, Roberta</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mattatall-mary">Mattatall, Mary</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mccagg-nystrom-heather">McCagg-Nystrom, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mccarville-krista">McCarville, Krista</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcconnery-nancy">McConnery, Nancy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mccusker-joan">McCusker, Joan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcdonald-taylor">McDonald, Taylor</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcdonald-tina">McDonald, Tina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcewen-dawn">McEwen, Dawn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcgregor-rona">McGregor, Rona</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcinnis-susan">McInnis, Susan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcknight-patti">McKnight, Patti</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcnamee-karen">McNamee, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mcpherson-cheryl">McPherson, Cheryl</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mctaggart-cary-anne">McTaggart, Cary-Anne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#merklinger-anne">Merklinger, Anne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#miller-maureen">Miller, Maureen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#miller-wendy">Miller, Wendy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#miskew-emma">Miskew, Emma</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mittelstadt-candice">Mittelstadt, Candice</option>
+
+
+      <option value="/vs/arsenault-mary-anne#montgomery-kay">Montgomery, Kay</option>
+
+
+      <option value="/vs/arsenault-mary-anne#moore-kim">Moore, Kim</option>
+
+
+      <option value="/vs/arsenault-mary-anne#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#moriarty-monica">Moriarty, Monica</option>
+
+
+      <option value="/vs/arsenault-mary-anne#morris-cori">Morris, Cori</option>
+
+
+      <option value="/vs/arsenault-mary-anne#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#moss-debbie">Moss, Debbie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mossman-angela">Mossman, Angela</option>
+
+
+      <option value="/vs/arsenault-mary-anne#muise-morgan">Muise, Morgan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#mulroney-sandra">Mulroney, Sandra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#naugler-tara">Naugler, Tara</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nicholls-brenda">Nicholls, Brenda</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nicholson-danielle">Nicholson, Danielle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#njegovan-selena">Njegovan, Selena</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/arsenault-mary-anne#nugent-pamela">Nugent, Pamela</option>
+
+
+      <option value="/vs/arsenault-mary-anne#o-connor-susan">O'Connor, Susan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#o-leary-susan">O'Leary, Susan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#o-rourke-brittany">O'Rourke, Brittany</option>
+
+
+      <option value="/vs/arsenault-mary-anne#o-rourke-kathy">O'Rourke, Kathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/arsenault-mary-anne#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ondrack-wendy">Ondrack, Wendy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/arsenault-mary-anne#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#parsons-danielle">Parsons, Danielle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#pasika-rona">Pasika, Rona</option>
+
+
+      <option value="/vs/arsenault-mary-anne#perron-leanne">Perron, Leanne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#peterman-jocelyn">Peterman, Jocelyn</option>
+
+
+      <option value="/vs/arsenault-mary-anne#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#pewarchuk-dailene">Pewarchuk, Dailene</option>
+
+
+      <option value="/vs/arsenault-mary-anne#phillips-margaret-lea">Phillips, Margaret Lea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#pilote-kristen">Pilote, Kristen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#pincott-erin">Pincott, Erin</option>
+
+
+      <option value="/vs/arsenault-mary-anne#plonka-gabrielle">Plonka, Gabrielle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#porter-erin">Porter, Erin</option>
+
+
+      <option value="/vs/arsenault-mary-anne#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#price-kara">Price, Kara</option>
+
+
+      <option value="/vs/arsenault-mary-anne#prosser-sandi">Prosser, Sandi</option>
+
+
+      <option value="/vs/arsenault-mary-anne#purdy-karen">Purdy, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#quillian-sylvie">Quillian, Sylvie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#radchenka-tammy">Radchenka, Tammy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#reddick-audrey">Reddick, Audrey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#reed-shellan">Reed, Shellan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#renouf-michele">Renouf, Michele</option>
+
+
+      <option value="/vs/arsenault-mary-anne#richard-marie">Richard, Marie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ridalls-kristen">Ridalls, Kristen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#riley-emily">Riley, Emily</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rizzo-jo-ann">Rizzo, Jo-Ann</option>
+
+
+      <option value="/vs/arsenault-mary-anne#roberts-angela">Roberts, Angela</option>
+
+
+      <option value="/vs/arsenault-mary-anne#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#robinson-lori">Robinson, Lori</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rocheleau-patty">Rocheleau, Patty</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rocque-raylene">Rocque, Raylene</option>
+
+
+      <option value="/vs/arsenault-mary-anne#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rudulier-andrea">Rudulier, Andrea</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rumberg-crystal">Rumberg, Crystal</option>
+
+
+      <option value="/vs/arsenault-mary-anne#rusnell-jen">Rusnell, Jen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sagle-karen">Sagle, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sanders-pat">Sanders, Pat</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sandison-janice">Sandison, Janice</option>
+
+
+      <option value="/vs/arsenault-mary-anne#santos-deb">Santos, Deb</option>
+
+
+      <option value="/vs/arsenault-mary-anne#scales-julie">Scales, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#scheidegger-casey">Scheidegger, Casey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#scheidegger-jessie">Scheidegger, Jessie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#schmidt-stephanie">Schmidt, Stephanie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#schmirler-sandra">Schmirler, Sandra</option>
+
+
+      <option value="/vs/arsenault-mary-anne#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/arsenault-mary-anne#scotland-nadine">Scotland, Nadine</option>
+
+
+      <option value="/vs/arsenault-mary-anne#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sharpe-kelli">Sharpe, Kelli</option>
+
+
+      <option value="/vs/arsenault-mary-anne#shea-michelle">Shea, Michelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#shigehiro-sally">Shigehiro, Sally</option>
+
+
+      <option value="/vs/arsenault-mary-anne#shumay-jill">Shumay, Jill</option>
+
+
+      <option value="/vs/arsenault-mary-anne#simmons-cindy">Simmons, Cindy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#simons-renee">Simons, Renee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#skinner-julie">Skinner, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#smallwood-jody">Smallwood, Jody</option>
+
+
+      <option value="/vs/arsenault-mary-anne#smith-heather">Smith, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#smith-nikki">Smith, Nikki</option>
+
+
+      <option value="/vs/arsenault-mary-anne#smith-stacey">Smith, Stacey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#soligo-melissa">Soligo, Melissa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/arsenault-mary-anne#spencer-barb">Spencer, Barb</option>
+
+
+      <option value="/vs/arsenault-mary-anne#st-georges-cynthia">St-Georges, Cynthia</option>
+
+
+      <option value="/vs/arsenault-mary-anne#st-georges-laurie">St-Georges, Laurie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#stabel-stacey">Stabel, Stacey</option>
+
+
+      <option value="/vs/arsenault-mary-anne#stahl-carrie">Stahl, Carrie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#stewart-sheri">Stewart, Sheri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#strachan-angela">Strachan, Angela</option>
+
+
+      <option value="/vs/arsenault-mary-anne#street-cindy">Street, Cindy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#streifel-tracy">Streifel, Tracy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#stricker-joan">Stricker, Joan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/arsenault-mary-anne#stubbings-tiffany">Stubbings, Tiffany</option>
+
+
+      <option value="/vs/arsenault-mary-anne#surik-teejay">Surik, Teejay</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sutton-jodie">Sutton, Jodie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#sweeting-val">Sweeting, Val</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tanner-allison">Tanner, Allison</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tanner-ros">Tanner, Ros</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tasaka-adina">Tasaka, Adina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#thomas-maria">Thomas, Maria</option>
+
+
+      <option value="/vs/arsenault-mary-anne#thompson-karla">Thompson, Karla</option>
+
+
+      <option value="/vs/arsenault-mary-anne#thurston-jill">Thurston, Jill</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tincher-twyla">Tincher, Twyla</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tippin-julie">Tippin, Julie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#todd-fran">Todd, Fran</option>
+
+
+      <option value="/vs/arsenault-mary-anne#trider-krista">Trider, Krista</option>
+
+
+      <option value="/vs/arsenault-mary-anne#trombley-christy">Trombley, Christy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tuck-kim">Tuck, Kim</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tuck-kimberly">Tuck, Kimberly</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tucker-cindy">Tucker, Cindy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#tuor-kimberly">Tuor, Kimberly</option>
+
+
+      <option value="/vs/arsenault-mary-anne#unrau-faye">Unrau, Faye</option>
+
+
+      <option value="/vs/arsenault-mary-anne#van-osch-kalia">Van Osch, Kalia</option>
+
+
+      <option value="/vs/arsenault-mary-anne#van-osch-kesa">Van Osch, Kesa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#van-osch-marika">Van Osch, Marika</option>
+
+
+      <option value="/vs/arsenault-mary-anne#walker-laura">Walker, Laura</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wall-kirsten">Wall, Kirsten</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wallingham-patty">Wallingham, Patty</option>
+
+
+      <option value="/vs/arsenault-mary-anne#walsh-heather">Walsh, Heather</option>
+
+
+      <option value="/vs/arsenault-mary-anne#walter-cathy">Walter, Cathy</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wasylkiw-lauren">Wasylkiw, Lauren</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wazney-sarah">Wazney, Sarah</option>
+
+
+      <option value="/vs/arsenault-mary-anne#weagle-lisa">Weagle, Lisa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#westcott-raunora">Westcott, Raunora</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/arsenault-mary-anne#whitaker-carol">Whitaker, Carol</option>
+
+
+      <option value="/vs/arsenault-mary-anne#whitaker-lisa">Whitaker, Lisa</option>
+
+
+      <option value="/vs/arsenault-mary-anne#whitrow-leanne">Whitrow, Leanne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#willms-karri">Willms, Karri</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wilson-leslie">Wilson, Leslie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wiseman-jessica">Wiseman, Jessica</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wright-joanne">Wright, Joanne</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wright-susan">Wright, Susan</option>
+
+
+      <option value="/vs/arsenault-mary-anne#wylie-jennifer">Wylie, Jennifer</option>
+
+
+      <option value="/vs/arsenault-mary-anne#yardley-janelle">Yardley, Janelle</option>
+
+
+      <option value="/vs/arsenault-mary-anne#young-karen">Young, Karen</option>
+
+
+      <option value="/vs/arsenault-mary-anne#zacharias-emily">Zacharias, Emily</option>
+
+
+      <option value="/vs/arsenault-mary-anne#zacharias-mackenzie">Zacharias, Mackenzie</option>
+
+
+      <option value="/vs/arsenault-mary-anne#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

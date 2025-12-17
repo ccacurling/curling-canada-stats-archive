@@ -1,0 +1,1778 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Carter Rycroft
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Carter Rycroft <i class="fe fe-user-plus" data-name="Rycroft, Carter" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/2000">2000</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>93</td>
+  <td>83</td>
+  <td>103</td>
+  <td>89</td>
+  <td>99</td>
+  <td>83</td>
+  <td>97</td>
+  <td>90</td>
+  <td>196</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2006">2006</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>123</td>
+  <td>84</td>
+  <td>91</td>
+  <td>87</td>
+  <td>78</td>
+  <td>79</td>
+  <td>136</td>
+  <td>88</td>
+  <td>214</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2010">2010</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>141</td>
+  <td>88</td>
+  <td>119</td>
+  <td>86</td>
+  <td>101</td>
+  <td>85</td>
+  <td>159</td>
+  <td>88</td>
+  <td>260</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2012">2012</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>146</td>
+  <td>89</td>
+  <td>102</td>
+  <td>84</td>
+  <td>112</td>
+  <td>83</td>
+  <td>136</td>
+  <td>90</td>
+  <td>248</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2014">2014</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>129</td>
+  <td>89</td>
+  <td>125</td>
+  <td>85</td>
+  <td>70</td>
+  <td>85</td>
+  <td>184</td>
+  <td>88</td>
+  <td>254</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2015">2015</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>115</td>
+  <td>90</td>
+  <td>165</td>
+  <td>89</td>
+  <td>132</td>
+  <td>90</td>
+  <td>148</td>
+  <td>89</td>
+  <td>280</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2016">2016</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>103</td>
+  <td>86</td>
+  <td>101</td>
+  <td>86</td>
+  <td>92</td>
+  <td>84</td>
+  <td>112</td>
+  <td>88</td>
+  <td>204</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2022">2022</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+3
+
+">
+<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>Lead</td>
+  <td>1</td>
+  <td>1</td>
+  <td>0</td>
+  <td>4</td>
+  <td>69</td>
+  <td></td>
+  <td></td>
+  <td>4</td>
+  <td>69</td>
+  <td></td>
+  <td></td>
+  <td>4</td>
+  <td>69</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2022">2022</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+<span data-toggle="tooltip" data-placement="top" title="Alternate on Initial Lineup"><i class="fa fa-asterisk" aria-hidden="true"></i></span>Second</td>
+  <td>1</td>
+  <td>1</td>
+  <td>0</td>
+  <td>4</td>
+  <td>75</td>
+  <td></td>
+  <td></td>
+  <td>2</td>
+  <td>75</td>
+  <td>2</td>
+  <td>75</td>
+  <td>4</td>
+  <td>75</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2022</td>
+  <td>Brier</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>2</td>
+  <td>2</td>
+  <td>0</td>
+  <td>8</td>
+  <td>72</td>
+  <td></td>
+  <td></td>
+  <td>6</td>
+  <td>71</td>
+  <td>2</td>
+  <td>75</td>
+  <td>8</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2005">2005</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Mar">Mar</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>74</td>
+  <td>81</td>
+  <td>75</td>
+  <td>86</td>
+  <td>64</td>
+  <td>77</td>
+  <td>85</td>
+  <td>88</td>
+  <td>149</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2006">2006</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Mar">Mar</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>77</td>
+  <td>92</td>
+  <td>76</td>
+  <td>90</td>
+  <td>57</td>
+  <td>89</td>
+  <td>96</td>
+  <td>93</td>
+  <td>153</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2007">2007</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Koe">Koe</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>4</td>
+  <td>2</td>
+  <td>53</td>
+  <td>87</td>
+  <td>59</td>
+  <td>85</td>
+  <td>51</td>
+  <td>85</td>
+  <td>61</td>
+  <td>87</td>
+  <td>112</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2008">2008</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>79</td>
+  <td>90</td>
+  <td>53</td>
+  <td>77</td>
+  <td>41</td>
+  <td>81</td>
+  <td>91</td>
+  <td>87</td>
+  <td>132</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2009">2009</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>48</td>
+  <td>81</td>
+  <td>44</td>
+  <td>76</td>
+  <td>44</td>
+  <td>80</td>
+  <td>48</td>
+  <td>77</td>
+  <td>92</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2010">2010</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KK">KK</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>1</td>
+  <td>1</td>
+  <td>0</td>
+  <td>20</td>
+  <td>81</td>
+  <td>13</td>
+  <td>67</td>
+  <td>24</td>
+  <td>75</td>
+  <td>9</td>
+  <td>78</td>
+  <td>33</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2010">2010</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KK">KK</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>65</td>
+  <td>86</td>
+  <td>65</td>
+  <td>88</td>
+  <td>57</td>
+  <td>89</td>
+  <td>73</td>
+  <td>86</td>
+  <td>130</td>
+  <td>87</td>
+</tr>
+
+<tr class="totals">
+
+  <td>2010</td>
+  <td>Canada Cup (Men)</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>85</td>
+  <td>85</td>
+  <td>78</td>
+  <td>85</td>
+  <td>81</td>
+  <td>85</td>
+  <td>82</td>
+  <td>85</td>
+  <td>163</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2011">2011</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>54</td>
+  <td>87</td>
+  <td>66</td>
+  <td>89</td>
+  <td>52</td>
+  <td>87</td>
+  <td>68</td>
+  <td>88</td>
+  <td>120</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2012">2012</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>82</td>
+  <td>84</td>
+  <td>52</td>
+  <td>79</td>
+  <td>69</td>
+  <td>79</td>
+  <td>65</td>
+  <td>86</td>
+  <td>134</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2014">2014</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MOR">MOR</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>1</td>
+  <td>5</td>
+  <td>63</td>
+  <td>88</td>
+  <td>61</td>
+  <td>85</td>
+  <td>77</td>
+  <td>89</td>
+  <td>47</td>
+  <td>82</td>
+  <td>124</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2015">2015</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="SIM">SIM</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>72</td>
+  <td>85</td>
+  <td>84</td>
+  <td>87</td>
+  <td>78</td>
+  <td>82</td>
+  <td>78</td>
+  <td>90</td>
+  <td>156</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2001">2001</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MAR">MAR</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>95</td>
+  <td>86</td>
+  <td>97</td>
+  <td>83</td>
+  <td>78</td>
+  <td>80</td>
+  <td>114</td>
+  <td>88</td>
+  <td>192</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MAR">MAR</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>4</td>
+  <td>5</td>
+  <td>88</td>
+  <td>89</td>
+  <td>78</td>
+  <td>79</td>
+  <td>89</td>
+  <td>87</td>
+  <td>77</td>
+  <td>82</td>
+  <td>166</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2009">2009</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>72</td>
+  <td>91</td>
+  <td>60</td>
+  <td>89</td>
+  <td>52</td>
+  <td>85</td>
+  <td>80</td>
+  <td>93</td>
+  <td>132</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2013">2013</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="KOE">KOE</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>2</td>
+  <td>5</td>
+  <td>64</td>
+  <td>88</td>
+  <td>68</td>
+  <td>83</td>
+  <td>50</td>
+  <td>89</td>
+  <td>82</td>
+  <td>84</td>
+  <td>132</td>
+  <td>86</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>92</td>
+  <td>64</td>
+  <td>28</td>
+  <td>858</td>
+  <td>87</td>
+  <td>806</td>
+  <td>87</td>
+  <td>690</td>
+  <td>85</td>
+  <td>974</td>
+  <td>88</td>
+  <td>1664</td>
+  <td>87</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>69</td>
+  <td>44</td>
+  <td>25</td>
+  <td>687</td>
+  <td>86</td>
+  <td>648</td>
+  <td>85</td>
+  <td>614</td>
+  <td>84</td>
+  <td>721</td>
+  <td>87</td>
+  <td>1335</td>
+  <td>85</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>33</td>
+  <td>18</td>
+  <td>15</td>
+  <td>319</td>
+  <td>89</td>
+  <td>303</td>
+  <td>83</td>
+  <td>269</td>
+  <td>85</td>
+  <td>353</td>
+  <td>87</td>
+  <td>622</td>
+  <td>86</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+<p><i class="fa fa-asterisk" aria-hidden="true"></i> Alternate on Initial Lineup</p>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#rycroft-carter">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-mike#rycroft-carter">Adams, Mike</option>
+
+
+      <option value="/vs/adams-shawn#rycroft-carter">Adams, Shawn</option>
+
+
+      <option value="/vs/anderson-chris#rycroft-carter">Anderson, Chris</option>
+
+
+      <option value="/vs/appelman-ted#rycroft-carter">Appelman, Ted</option>
+
+
+      <option value="/vs/appelman-tom#rycroft-carter">Appelman, Tom</option>
+
+
+      <option value="/vs/armstrong-doug#rycroft-carter">Armstrong, Doug</option>
+
+
+      <option value="/vs/armstrong-mike#rycroft-carter">Armstrong, Mike</option>
+
+
+      <option value="/vs/bailey-scott#rycroft-carter">Bailey, Scott</option>
+
+
+      <option value="/vs/balsdon-greg#rycroft-carter">Balsdon, Greg</option>
+
+
+      <option value="/vs/bardsley-mike#rycroft-carter">Bardsley, Mike</option>
+
+
+      <option value="/vs/barry-josh#rycroft-carter">Barry, Josh</option>
+
+
+      <option value="/vs/base-john#rycroft-carter">Base, John</option>
+
+
+      <option value="/vs/bawel-brent#rycroft-carter">Bawel, Brent</option>
+
+
+      <option value="/vs/bezanson-jared#rycroft-carter">Bezanson, Jared</option>
+
+
+      <option value="/vs/bice-mark#rycroft-carter">Bice, Mark</option>
+
+
+      <option value="/vs/bice-steve#rycroft-carter">Bice, Steve</option>
+
+
+      <option value="/vs/bitz-scott#rycroft-carter">Bitz, Scott</option>
+
+
+      <option value="/vs/blanchard-ben#rycroft-carter">Blanchard, Ben</option>
+
+
+      <option value="/vs/blanchard-jason#rycroft-carter">Blanchard, Jason</option>
+
+
+      <option value="/vs/blaylock-bryan#rycroft-carter">Blaylock, Bryan</option>
+
+
+      <option value="/vs/borden-robert#rycroft-carter">Borden, Robert</option>
+
+
+      <option value="/vs/boyce-jason#rycroft-carter">Boyce, Jason</option>
+
+
+      <option value="/vs/brandwood-todd#rycroft-carter">Brandwood, Todd</option>
+
+
+      <option value="/vs/brannen-jamie#rycroft-carter">Brannen, Jamie</option>
+
+
+      <option value="/vs/bryant-doug#rycroft-carter">Bryant, Doug</option>
+
+
+      <option value="/vs/bucholz-rob#rycroft-carter">Bucholz, Rob</option>
+
+
+      <option value="/vs/burgess-craig#rycroft-carter">Burgess, Craig</option>
+
+
+      <option value="/vs/burnett-steve#rycroft-carter">Burnett, Steve</option>
+
+
+      <option value="/vs/burtnyk-kerry#rycroft-carter">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/camm-mathew#rycroft-carter">Camm, Mathew</option>
+
+
+      <option value="/vs/carmody-anson#rycroft-carter">Carmody, Anson</option>
+
+
+      <option value="/vs/carruthers-reid#rycroft-carter">Carruthers, Reid</option>
+
+
+      <option value="/vs/case-peter#rycroft-carter">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#rycroft-carter">Casey, Adam</option>
+
+
+      <option value="/vs/champion-kevin#rycroft-carter">Champion, Kevin</option>
+
+
+      <option value="/vs/charest-jean-francois#rycroft-carter">Charest, Jean-Francois</option>
+
+
+      <option value="/vs/childs-jamie#rycroft-carter">Childs, Jamie</option>
+
+
+      <option value="/vs/chorostkowski-brad#rycroft-carter">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/clarey-sean#rycroft-carter">Clarey, Sean</option>
+
+
+      <option value="/vs/codner-nicholas#rycroft-carter">Codner, Nicholas</option>
+
+
+      <option value="/vs/collin-simon#rycroft-carter">Collin, Simon</option>
+
+
+      <option value="/vs/corner-peter#rycroft-carter">Corner, Peter</option>
+
+
+      <option value="/vs/cotter-jim#rycroft-carter">Cotter, Jim</option>
+
+
+      <option value="/vs/cowan-chad#rycroft-carter">Cowan, Chad</option>
+
+
+      <option value="/vs/crete-martin#rycroft-carter">Crete, Martin</option>
+
+
+      <option value="/vs/crowell-phil#rycroft-carter">Crowell, Phil</option>
+
+
+      <option value="/vs/currie-jeff#rycroft-carter">Currie, Jeff</option>
+
+
+      <option value="/vs/curtis-jason#rycroft-carter">Curtis, Jason</option>
+
+
+      <option value="/vs/dacey-mark#rycroft-carter">Dacey, Mark</option>
+
+
+      <option value="/vs/daneault-richard#rycroft-carter">Daneault, Richard</option>
+
+
+      <option value="/vs/decap-scott#rycroft-carter">DeCap, Scott</option>
+
+
+      <option value="/vs/deis-ryan#rycroft-carter">Deis, Ryan</option>
+
+
+      <option value="/vs/desjardins-robert#rycroft-carter">Desjardins, Robert</option>
+
+
+      <option value="/vs/dillon-mike#rycroft-carter">Dillon, Mike</option>
+
+
+      <option value="/vs/doherty-robbie#rycroft-carter">Doherty, Robbie</option>
+
+
+      <option value="/vs/dowden-craig#rycroft-carter">Dowden, Craig</option>
+
+
+      <option value="/vs/dutiaume-randy#rycroft-carter">Dutiaume, Randy</option>
+
+
+      <option value="/vs/eldridge-zach#rycroft-carter">Eldridge, Zach</option>
+
+
+      <option value="/vs/ellis-ken-jr#rycroft-carter">Ellis, Ken Jr.</option>
+
+
+      <option value="/vs/elmaleh-maxime#rycroft-carter">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/engel-ron#rycroft-carter">Engel, Ron</option>
+
+
+      <option value="/vs/epping-john#rycroft-carter">Epping, John</option>
+
+
+      <option value="/vs/fenton-brad#rycroft-carter">Fenton, Brad</option>
+
+
+      <option value="/vs/fenton-keith#rycroft-carter">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#rycroft-carter">Ferbey, Randy</option>
+
+
+      <option value="/vs/fitzner-leblanc-ian#rycroft-carter">Fitzner-LeBlanc, Ian</option>
+
+
+      <option value="/vs/flasch-colton#rycroft-carter">Flasch, Colton</option>
+
+
+      <option value="/vs/flaxey-caleb#rycroft-carter">Flaxey, Caleb</option>
+
+
+      <option value="/vs/flemming-paul#rycroft-carter">Flemming, Paul</option>
+
+
+      <option value="/vs/folk-kevin#rycroft-carter">Folk, Kevin</option>
+
+
+      <option value="/vs/follett-sam#rycroft-carter">Follett, Sam</option>
+
+
+      <option value="/vs/forrest-tyler#rycroft-carter">Forrest, Tyler</option>
+
+
+      <option value="/vs/fowler-rob#rycroft-carter">Fowler, Rob</option>
+
+
+      <option value="/vs/frans-joseph#rycroft-carter">Frans, Joseph</option>
+
+
+      <option value="/vs/fry-ryan#rycroft-carter">Fry, Ryan</option>
+
+
+      <option value="/vs/gagnon-jean#rycroft-carter">Gagnon, Jean</option>
+
+
+      <option value="/vs/gallant-brett#rycroft-carter">Gallant, Brett</option>
+
+
+      <option value="/vs/gaudet-mike#rycroft-carter">Gaudet, Mike</option>
+
+
+      <option value="/vs/gavin-martin#rycroft-carter">Gavin, Martin</option>
+
+
+      <option value="/vs/gedak-brent#rycroft-carter">Gedak, Brent</option>
+
+
+      <option value="/vs/germsheid-tony#rycroft-carter">Germsheid, Tony</option>
+
+
+      <option value="/vs/gibson-andrew#rycroft-carter">Gibson, Andrew</option>
+
+
+      <option value="/vs/gionest-francois#rycroft-carter">Gionest, Francois</option>
+
+
+      <option value="/vs/golanowski-rory#rycroft-carter">Golanowski, Rory</option>
+
+
+      <option value="/vs/gordon-robbie#rycroft-carter">Gordon, Robbie</option>
+
+
+      <option value="/vs/gorveatt-philip#rycroft-carter">Gorveatt, Philip</option>
+
+
+      <option value="/vs/gould-steve#rycroft-carter">Gould, Steve</option>
+
+
+      <option value="/vs/graber-dennis#rycroft-carter">Graber, Dennis</option>
+
+
+      <option value="/vs/grattan-james#rycroft-carter">Grattan, James</option>
+
+
+      <option value="/vs/gretzinger-bert#rycroft-carter">Gretzinger, Bert</option>
+
+
+      <option value="/vs/griffith-tyrel#rycroft-carter">Griffith, Tyrel</option>
+
+
+      <option value="/vs/gunnlaugson-jason#rycroft-carter">Gunnlaugson, Jason</option>
+
+
+      <option value="/vs/gushue-brad#rycroft-carter">Gushue, Brad</option>
+
+
+      <option value="/vs/haichert-chris#rycroft-carter">Haichert, Chris</option>
+
+
+      <option value="/vs/harnden-e-j#rycroft-carter">Harnden, E.J.</option>
+
+
+      <option value="/vs/harnden-ryan#rycroft-carter">Harnden, Ryan</option>
+
+
+      <option value="/vs/harris-rob#rycroft-carter">Harris, Rob</option>
+
+
+      <option value="/vs/harris-tyler#rycroft-carter">Harris, Tyler</option>
+
+
+      <option value="/vs/hart-richard#rycroft-carter">Hart, Richard</option>
+
+
+      <option value="/vs/hebert-ben#rycroft-carter">Hebert, Ben</option>
+
+
+      <option value="/vs/heidt-brad#rycroft-carter">Heidt, Brad</option>
+
+
+      <option value="/vs/heidt-mitch#rycroft-carter">Heidt, Mitch</option>
+
+
+      <option value="/vs/henderson-ron#rycroft-carter">Henderson, Ron</option>
+
+
+      <option value="/vs/herrick-aron#rycroft-carter">Herrick, Aron</option>
+
+
+      <option value="/vs/hicke-dean#rycroft-carter">Hicke, Dean</option>
+
+
+      <option value="/vs/hodgson-colin#rycroft-carter">Hodgson, Colin</option>
+
+
+      <option value="/vs/hollett-peter#rycroft-carter">Hollett, Peter</option>
+
+
+      <option value="/vs/hopkins-jeff#rycroft-carter">Hopkins, Jeff</option>
+
+
+      <option value="/vs/howard-glenn#rycroft-carter">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#rycroft-carter">Howard, Russ</option>
+
+
+      <option value="/vs/howard-scott#rycroft-carter">Howard, Scott</option>
+
+
+      <option value="/vs/howard-steven#rycroft-carter">Howard, Steven</option>
+
+
+      <option value="/vs/jacobs-brad#rycroft-carter">Jacobs, Brad</option>
+
+
+      <option value="/vs/janssen-patrick#rycroft-carter">Janssen, Patrick</option>
+
+
+      <option value="/vs/jantzen-mike#rycroft-carter">Jantzen, Mike</option>
+
+
+      <option value="/vs/jeffrey-chris#rycroft-carter">Jeffrey, Chris</option>
+
+
+      <option value="/vs/jensen-trygg#rycroft-carter">Jensen, Trygg</option>
+
+
+      <option value="/vs/jewer-keith#rycroft-carter">Jewer, Keith</option>
+
+
+      <option value="/vs/johnson-bill#rycroft-carter">Johnson, Bill</option>
+
+
+      <option value="/vs/johnson-mark#rycroft-carter">Johnson, Mark</option>
+
+
+      <option value="/vs/jones-brennen#rycroft-carter">Jones, Brennen</option>
+
+
+      <option value="/vs/jones-scott#rycroft-carter">Jones, Scott</option>
+
+
+      <option value="/vs/jordison-joel#rycroft-carter">Jordison, Joel</option>
+
+
+      <option value="/vs/kean-mark#rycroft-carter">Kean, Mark</option>
+
+
+      <option value="/vs/kennedy-glen#rycroft-carter">Kennedy, Glen</option>
+
+
+      <option value="/vs/kennedy-marc#rycroft-carter">Kennedy, Marc</option>
+
+
+      <option value="/vs/kennedy-mike#rycroft-carter">Kennedy, Mike</option>
+
+
+      <option value="/vs/klassen-brandon#rycroft-carter">Klassen, Brandon</option>
+
+
+      <option value="/vs/koe-jamie#rycroft-carter">Koe, Jamie</option>
+
+
+      <option value="/vs/koe-kevin#rycroft-carter">Koe, Kevin</option>
+
+
+      <option value="/vs/koivula-colin#rycroft-carter">Koivula, Colin</option>
+
+
+      <option value="/vs/korab-jamie#rycroft-carter">Korab, Jamie</option>
+
+
+      <option value="/vs/korte-bruce#rycroft-carter">Korte, Bruce</option>
+
+
+      <option value="/vs/korte-roger#rycroft-carter">Korte, Roger</option>
+
+
+      <option value="/vs/kuhn-ryan#rycroft-carter">Kuhn, Ryan</option>
+
+
+      <option value="/vs/lacey-jeff#rycroft-carter">Lacey, Jeff</option>
+
+
+      <option value="/vs/laing-brent#rycroft-carter">Laing, Brent</option>
+
+
+      <option value="/vs/landry-jeremy#rycroft-carter">Landry, Jeremy</option>
+
+
+      <option value="/vs/lang-tyler#rycroft-carter">Lang, Tyler</option>
+
+
+      <option value="/vs/latos-evan#rycroft-carter">Latos, Evan</option>
+
+
+      <option value="/vs/laycock-steve#rycroft-carter">Laycock, Steve</option>
+
+
+      <option value="/vs/lecocq-marc#rycroft-carter">LeCocq, Marc</option>
+
+
+      <option value="/vs/ledgerwood-sean#rycroft-carter">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/ledrew-ryan#rycroft-carter">LeDrew, Ryan</option>
+
+
+      <option value="/vs/leech-ron#rycroft-carter">Leech, Ron</option>
+
+
+      <option value="/vs/locke-nathan#rycroft-carter">Locke, Nathan</option>
+
+
+      <option value="/vs/loevenmark-phil#rycroft-carter">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lohnes-bruce#rycroft-carter">Lohnes, Bruce</option>
+
+
+      <option value="/vs/lyburn-allan#rycroft-carter">Lyburn, Allan</option>
+
+
+      <option value="/vs/macdonald-rod#rycroft-carter">MacDonald, Rod</option>
+
+
+      <option value="/vs/macinnes-david#rycroft-carter">MacInnes, David</option>
+
+
+      <option value="/vs/mackenzie-eddie#rycroft-carter">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/mackenzie-kevin#rycroft-carter">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/mackenzie-tyler#rycroft-carter">MacKenzie, Tyler</option>
+
+
+      <option value="/vs/macklin-drew#rycroft-carter">Macklin, Drew</option>
+
+
+      <option value="/vs/maclean-stuart#rycroft-carter">MacLean, Stuart</option>
+
+
+      <option value="/vs/mallais-jeremy#rycroft-carter">Mallais, Jeremy</option>
+
+
+      <option value="/vs/manners-scott#rycroft-carter">Manners, Scott</option>
+
+
+      <option value="/vs/march-tim#rycroft-carter">March, Tim</option>
+
+
+      <option value="/vs/markowsky-rob#rycroft-carter">Markowsky, Rob</option>
+
+
+      <option value="/vs/martin-kevin#rycroft-carter">Martin, Kevin</option>
+
+
+      <option value="/vs/mathers-david#rycroft-carter">Mathers, David</option>
+
+
+      <option value="/vs/mcaulay-greg#rycroft-carter">McAulay, Greg</option>
+
+
+      <option value="/vs/mccann-andy#rycroft-carter">McCann, Andy</option>
+
+
+      <option value="/vs/mccarrel-graeme#rycroft-carter">McCarrel, Graeme</option>
+
+
+      <option value="/vs/mccarville-mike#rycroft-carter">McCarville, Mike</option>
+
+
+      <option value="/vs/mcdermaid-donald#rycroft-carter">McDermaid, Donald</option>
+
+
+      <option value="/vs/mcewen-mike#rycroft-carter">McEwen, Mike</option>
+
+
+      <option value="/vs/mckee-darrell#rycroft-carter">McKee, Darrell</option>
+
+
+      <option value="/vs/mead-jon#rycroft-carter">Mead, Jon</option>
+
+
+      <option value="/vs/meakin-rob#rycroft-carter">Meakin, Rob</option>
+
+
+      <option value="/vs/mellof-david#rycroft-carter">Mellof, David</option>
+
+
+      <option value="/vs/melnyk-brendan#rycroft-carter">Melnyk, Brendan</option>
+
+
+      <option value="/vs/menard-jean-michel#rycroft-carter">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/menard-philippe#rycroft-carter">Menard, Philippe</option>
+
+
+      <option value="/vs/middaugh-wayne#rycroft-carter">Middaugh, Wayne</option>
+
+
+      <option value="/vs/miki-bryan#rycroft-carter">Miki, Bryan</option>
+
+
+      <option value="/vs/milward-ross#rycroft-carter">Milward, Ross</option>
+
+
+      <option value="/vs/mitchell-collin#rycroft-carter">Mitchell, Collin</option>
+
+
+      <option value="/vs/mittelstadt-kelly#rycroft-carter">Mittelstadt, Kelly</option>
+
+
+      <option value="/vs/moffatt-paul#rycroft-carter">Moffatt, Paul</option>
+
+
+      <option value="/vs/morgan-tyler#rycroft-carter">Morgan, Tyler</option>
+
+
+      <option value="/vs/morris-john#rycroft-carter">Morris, John</option>
+
+
+      <option value="/vs/moskowy-braeden#rycroft-carter">Moskowy, Braeden</option>
+
+
+      <option value="/vs/munroe-steven#rycroft-carter">Munroe, Steven</option>
+
+
+      <option value="/vs/murphy-jamie#rycroft-carter">Murphy, Jamie</option>
+
+
+      <option value="/vs/muyres-dallan#rycroft-carter">Muyres, Dallan</option>
+
+
+      <option value="/vs/muyres-kirk#rycroft-carter">Muyres, Kirk</option>
+
+
+      <option value="/vs/naugler-tom#rycroft-carter">Naugler, Tom</option>
+
+
+      <option value="/vs/nedohin-david#rycroft-carter">Nedohin, David</option>
+
+
+      <option value="/vs/nelson-randy#rycroft-carter">Nelson, Randy</option>
+
+
+      <option value="/vs/neufeld-b-j#rycroft-carter">Neufeld, B.J.</option>
+
+
+      <option value="/vs/neufeld-denni#rycroft-carter">Neufeld, Denni</option>
+
+
+      <option value="/vs/nichols-mark#rycroft-carter">Nichols, Mark</option>
+
+
+      <option value="/vs/noftall-david#rycroft-carter">Noftall, David</option>
+
+
+      <option value="/vs/nolan-jason#rycroft-carter">Nolan, Jason</option>
+
+
+      <option value="/vs/o-connor-sean#rycroft-carter">O'Connor, Sean</option>
+
+
+      <option value="/vs/o-rourke-mark#rycroft-carter">O'Rourke, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#rycroft-carter">Odishaw, Grant</option>
+
+
+      <option value="/vs/odishaw-terry#rycroft-carter">Odishaw, Terry</option>
+
+
+      <option value="/vs/orme-tyler#rycroft-carter">Orme, Tyler</option>
+
+
+      <option value="/vs/owens-derek#rycroft-carter">Owens, Derek</option>
+
+
+      <option value="/vs/park-kevin#rycroft-carter">Park, Kevin</option>
+
+
+      <option value="/vs/paul-matt#rycroft-carter">Paul, Matt</option>
+
+
+      <option value="/vs/peachey-jay#rycroft-carter">Peachey, Jay</option>
+
+
+      <option value="/vs/peddigrew-ken#rycroft-carter">Peddigrew, Ken</option>
+
+
+      <option value="/vs/perepolkin-t-j#rycroft-carter">Perepolkin, T.J.</option>
+
+
+      <option value="/vs/perron-rick#rycroft-carter">Perron, Rick</option>
+
+
+      <option value="/vs/pfeifer-scott#rycroft-carter">Pfeifer, Scott</option>
+
+
+      <option value="/vs/phillips-tim#rycroft-carter">Phillips, Tim</option>
+
+
+      <option value="/vs/pierce-brent#rycroft-carter">Pierce, Brent</option>
+
+
+      <option value="/vs/pinder-jordan#rycroft-carter">Pinder, Jordan</option>
+
+
+      <option value="/vs/pritchett-bob#rycroft-carter">Pritchett, Bob</option>
+
+
+      <option value="/vs/pyper-dwayne#rycroft-carter">Pyper, Dwayne</option>
+
+
+      <option value="/vs/recksiedler-kevin#rycroft-carter">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/reid-serge#rycroft-carter">Reid, Serge</option>
+
+
+      <option value="/vs/richard-jeff#rycroft-carter">Richard, Jeff</option>
+
+
+      <option value="/vs/richter-justin#rycroft-carter">Richter, Justin</option>
+
+
+      <option value="/vs/roach-darren#rycroft-carter">Roach, Darren</option>
+
+
+      <option value="/vs/roach-jason#rycroft-carter">Roach, Jason</option>
+
+
+      <option value="/vs/roberge-francois#rycroft-carter">Roberge, Francois</option>
+
+
+      <option value="/vs/robinson-andrew#rycroft-carter">Robinson, Andrew</option>
+
+
+      <option value="/vs/rocque-marcel#rycroft-carter">Rocque, Marcel</option>
+
+
+      <option value="/vs/rose-jeff#rycroft-carter">Rose, Jeff</option>
+
+
+      <option value="/vs/rowsell-rick#rycroft-carter">Rowsell, Rick</option>
+
+
+      <option value="/vs/roy-jean-sebastien#rycroft-carter">Roy, Jean-Sebastien</option>
+
+
+      <option value="/vs/ryan-jeff#rycroft-carter">Ryan, Jeff</option>
+
+
+      <option value="/vs/ryan-pat#rycroft-carter">Ryan, Pat</option>
+
+
+      <option value="/vs/rycroft-carter#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/rycroft-carter#sauve-dan">Sauve, Dan</option>
+
+
+      <option value="/vs/rycroft-carter#sauve-roger">Sauve, Roger</option>
+
+
+      <option value="/vs/rycroft-carter#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/rycroft-carter#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/rycroft-carter#scales-brian">Scales, Brian</option>
+
+
+      <option value="/vs/rycroft-carter#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/rycroft-carter#scoffin-thomas">Scoffin, Thomas</option>
+
+
+      <option value="/vs/rycroft-carter#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/rycroft-carter#sharp-jeff">Sharp, Jeff</option>
+
+
+      <option value="/vs/rycroft-carter#shypitka-tom">Shypitka, Tom</option>
+
+
+      <option value="/vs/rycroft-carter#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/rycroft-carter#skauge-greg">Skauge, Greg</option>
+
+
+      <option value="/vs/rycroft-carter#smith-garth">Smith, Garth</option>
+
+
+      <option value="/vs/rycroft-carter#smith-kent">Smith, Kent</option>
+
+
+      <option value="/vs/rycroft-carter#spencer-adam">Spencer, Adam</option>
+
+
+      <option value="/vs/rycroft-carter#stambaugh-doug">Stambaugh, Doug</option>
+
+
+      <option value="/vs/rycroft-carter#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/rycroft-carter#stringer-ben">Stringer, Ben</option>
+
+
+      <option value="/vs/rycroft-carter#sulimma-hardi">Sulimma, Hardi</option>
+
+
+      <option value="/vs/rycroft-carter#sullivan-evan">Sullivan, Evan</option>
+
+
+      <option value="/vs/rycroft-carter#sveistrup-jody">Sveistrup, Jody</option>
+
+
+      <option value="/vs/rycroft-carter#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/rycroft-carter#tallon-wayne">Tallon, Wayne</option>
+
+
+      <option value="/vs/rycroft-carter#tetley-ian">Tetley, Ian</option>
+
+
+      <option value="/vs/rycroft-carter#tresoor-ken">Tresoor, Ken</option>
+
+
+      <option value="/vs/rycroft-carter#tuck-wayne">Tuck, Wayne</option>
+
+
+      <option value="/vs/rycroft-carter#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/rycroft-carter#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/rycroft-carter#vaughan-jason">Vaughan, Jason</option>
+
+
+      <option value="/vs/rycroft-carter#villeneuve-steeve">Villeneuve, Steeve</option>
+
+
+      <option value="/vs/rycroft-carter#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/rycroft-carter#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/rycroft-carter#wallingham-joe">Wallingham, Joe</option>
+
+
+      <option value="/vs/rycroft-carter#whitehead-kevin">Whitehead, Kevin</option>
+
+
+      <option value="/vs/rycroft-carter#whitehead-mark">Whitehead, Mark</option>
+
+
+      <option value="/vs/rycroft-carter#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/rycroft-carter#willis-brendan">Willis, Brendan</option>
+
+
+      <option value="/vs/rycroft-carter#windsor-brian">Windsor, Brian</option>
+
+
+      <option value="/vs/rycroft-carter#wozniak-matt">Wozniak, Matt</option>
+
+
+      <option value="/vs/rycroft-carter#young-nathan">Young, Nathan</option>
+
+
+      <option value="/vs/rycroft-carter#zawada-braden">Zawada, Braden</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

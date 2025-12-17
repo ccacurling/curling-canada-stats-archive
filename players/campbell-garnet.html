@@ -1,0 +1,1511 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Garnet Campbell
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Garnet Campbell <i class="fe fe-user-plus" data-name="Campbell, Garnet" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1947">1947</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1954">1954</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1955">1955</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>10</td>
+  <td>0</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1957">1957</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1961">1961</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1966">1966</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1968">1968</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1969">1969</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1970">1970</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1971">1971</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="SK"><a href="../macdonald-brier/team/sk">SK</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>8</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>101</td>
+  <td>76</td>
+  <td>25</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abbis-eugene#campbell-garnet">Abbis, Eugene</option>
+
+
+      <option value="/vs/acorn-frank#campbell-garnet">Acorn, Frank</option>
+
+
+      <option value="/vs/aitken-don#campbell-garnet">Aitken, Don</option>
+
+
+      <option value="/vs/anderson-jim#campbell-garnet">Anderson, Jim</option>
+
+
+      <option value="/vs/andrews-alexander#campbell-garnet">Andrews, Alexander</option>
+
+
+      <option value="/vs/anton-ronald#campbell-garnet">Anton, Ronald</option>
+
+
+      <option value="/vs/arseneau-robert#campbell-garnet">Arseneau, Robert</option>
+
+
+      <option value="/vs/ayer-frank#campbell-garnet">Ayer, Frank</option>
+
+
+      <option value="/vs/ayer-james#campbell-garnet">Ayer, James</option>
+
+
+      <option value="/vs/baldwin-mathew#campbell-garnet">Baldwin, Mathew</option>
+
+
+      <option value="/vs/beattie-thomas#campbell-garnet">Beattie, Thomas</option>
+
+
+      <option value="/vs/beaver-reginald#campbell-garnet">Beaver, Reginald</option>
+
+
+      <option value="/vs/behan-j-a#campbell-garnet">Behan, J.A.</option>
+
+
+      <option value="/vs/bell-douglas#campbell-garnet">Bell, Douglas</option>
+
+
+      <option value="/vs/bell-kenneth#campbell-garnet">Bell, Kenneth</option>
+
+
+      <option value="/vs/berry-roy#campbell-garnet">Berry, Roy</option>
+
+
+      <option value="/vs/best-donald#campbell-garnet">Best, Donald</option>
+
+
+      <option value="/vs/bloom-terrance#campbell-garnet">Bloom, Terrance</option>
+
+
+      <option value="/vs/boivin-gabriel#campbell-garnet">Boivin, Gabriel</option>
+
+
+      <option value="/vs/bordage-paul#campbell-garnet">Bordage, Paul</option>
+
+
+      <option value="/vs/bowering-lester#campbell-garnet">Bowering, Lester</option>
+
+
+      <option value="/vs/brebner-walter#campbell-garnet">Brebner, Walter</option>
+
+
+      <option value="/vs/brown-hugh#campbell-garnet">Brown, Hugh</option>
+
+
+      <option value="/vs/brown-william-f#campbell-garnet">Brown, William F.</option>
+
+
+      <option value="/vs/buchan-kenneth#campbell-garnet">Buchan, Kenneth</option>
+
+
+      <option value="/vs/burge-wesley#campbell-garnet">Burge, Wesley</option>
+
+
+      <option value="/vs/burke-arthur#campbell-garnet">Burke, Arthur</option>
+
+
+      <option value="/vs/burke-lorne#campbell-garnet">Burke, Lorne</option>
+
+
+      <option value="/vs/butt-edwin#campbell-garnet">Butt, Edwin</option>
+
+
+      <option value="/vs/caldwell-thomas#campbell-garnet">Caldwell, Thomas</option>
+
+
+      <option value="/vs/callaghan-thomas#campbell-garnet">Callaghan, Thomas</option>
+
+
+      <option value="/vs/cameron-douglas#campbell-garnet">Cameron, Douglas</option>
+
+
+      <option value="/vs/cameron-james#campbell-garnet">Cameron, James</option>
+
+
+      <option value="/vs/cameron-stuart#campbell-garnet">Cameron, Stuart</option>
+
+
+      <option value="/vs/campbell-garnet#carr-patrick">Carr, Patrick</option>
+
+
+      <option value="/vs/campbell-garnet#carson-earl">Carson, Earl</option>
+
+
+      <option value="/vs/campbell-garnet#carson-james">Carson, James</option>
+
+
+      <option value="/vs/campbell-garnet#carter-douglas">Carter, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#cartmell-elwyn">Cartmell, Elwyn</option>
+
+
+      <option value="/vs/campbell-garnet#charlebois-robert">Charlebois, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#cole-robert">Cole, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#collins-james">Collins, James</option>
+
+
+      <option value="/vs/campbell-garnet#conrad-david">Conrad, David</option>
+
+
+      <option value="/vs/campbell-garnet#cook-raymond">Cook, Raymond</option>
+
+
+      <option value="/vs/campbell-garnet#corkum-peter">Corkum, Peter</option>
+
+
+      <option value="/vs/campbell-garnet#coster-james">Coster, James</option>
+
+
+      <option value="/vs/campbell-garnet#coulter-bruce">Coulter, Bruce</option>
+
+
+      <option value="/vs/campbell-garnet#coward-ross">Coward, Ross</option>
+
+
+      <option value="/vs/campbell-garnet#cream-robert">Cream, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#crombie-john">Crombie, John</option>
+
+
+      <option value="/vs/campbell-garnet#cross-rogert">Cross, Rogert</option>
+
+
+      <option value="/vs/campbell-garnet#cummins-jack">Cummins, Jack</option>
+
+
+      <option value="/vs/campbell-garnet#cunningham-robert">Cunningham, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#cushing-thomas">Cushing, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#cust-richard">Cust, Richard</option>
+
+
+      <option value="/vs/campbell-garnet#czaja-mitchell">Czaja, Mitchell</option>
+
+
+      <option value="/vs/campbell-garnet#d-amour-theophile">D'Amour, Theophile</option>
+
+
+      <option value="/vs/campbell-garnet#dagg-lyall">Dagg, Lyall</option>
+
+
+      <option value="/vs/campbell-garnet#davis-ross">Davis, Ross</option>
+
+
+      <option value="/vs/campbell-garnet#denison-gordon">Denison, Gordon</option>
+
+
+      <option value="/vs/campbell-garnet#derrett-walter">Derrett, Walter</option>
+
+
+      <option value="/vs/campbell-garnet#dewolfe-tomas">DeWolfe, Tomas</option>
+
+
+      <option value="/vs/campbell-garnet#dickson-james">Dickson, James</option>
+
+
+      <option value="/vs/campbell-garnet#dillon-george">Dillon, George</option>
+
+
+      <option value="/vs/campbell-garnet#dillon-robert">Dillon, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#dodd-c-l">Dodd, C.L.</option>
+
+
+      <option value="/vs/campbell-garnet#downer-gerald">Downer, Gerald</option>
+
+
+      <option value="/vs/campbell-garnet#downey-wayne">Downey, Wayne</option>
+
+
+      <option value="/vs/campbell-garnet#dudar-allan">Dudar, Allan</option>
+
+
+      <option value="/vs/campbell-garnet#dudar-robert">Dudar, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#duguid-donald">Duguid, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#duguid-lorne">Duguid, Lorne</option>
+
+
+      <option value="/vs/campbell-garnet#easton-leonard">Easton, Leonard</option>
+
+
+      <option value="/vs/campbell-garnet#eberg-omer">Eberg, Omer</option>
+
+
+      <option value="/vs/campbell-garnet#ellis-kenneth">Ellis, Kenneth</option>
+
+
+      <option value="/vs/campbell-garnet#everett-kenneth">Everett, Kenneth</option>
+
+
+      <option value="/vs/campbell-garnet#eyben-neil">Eyben, Neil</option>
+
+
+      <option value="/vs/campbell-garnet#ferry-john">Ferry, John</option>
+
+
+      <option value="/vs/campbell-garnet#fink-george">Fink, George</option>
+
+
+      <option value="/vs/campbell-garnet#fisher-alexander">Fisher, Alexander</option>
+
+
+      <option value="/vs/campbell-garnet#fisher-thomas">Fisher, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#flemming-don">Flemming, Don</option>
+
+
+      <option value="/vs/campbell-garnet#flinn-jeffrey">Flinn, Jeffrey</option>
+
+
+      <option value="/vs/campbell-garnet#florian-james">Florian, James</option>
+
+
+      <option value="/vs/campbell-garnet#folk-tony">Folk, Tony</option>
+
+
+      <option value="/vs/campbell-garnet#forsythe-roy">Forsythe, Roy</option>
+
+
+      <option value="/vs/campbell-garnet#franklin-ronald">Franklin, Ronald</option>
+
+
+      <option value="/vs/campbell-garnet#fry-reginald">Fry, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#fulton-donald">Fulton, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#gerlach-david">Gerlach, David</option>
+
+
+      <option value="/vs/campbell-garnet#gervais-hector">Gervais, Hector</option>
+
+
+      <option value="/vs/campbell-garnet#gilbert-donald">Gilbert, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#gillard-arthur">Gillard, Arthur</option>
+
+
+      <option value="/vs/campbell-garnet#glinz-gerald">Glinz, Gerald</option>
+
+
+      <option value="/vs/campbell-garnet#goldburg-reginald">Goldburg, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#gordon-ernest">Gordon, Ernest</option>
+
+
+      <option value="/vs/campbell-garnet#grant-andrew">Grant, Andrew</option>
+
+
+      <option value="/vs/campbell-garnet#grant-ray">Grant, Ray</option>
+
+
+      <option value="/vs/campbell-garnet#gray-glenn">Gray, Glenn</option>
+
+
+      <option value="/vs/campbell-garnet#green-donald">Green, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#green-grant">Green, Grant</option>
+
+
+      <option value="/vs/campbell-garnet#groom-donald">Groom, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#grozelle-robert">Grozelle, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#grozelle-william">Grozelle, William</option>
+
+
+      <option value="/vs/campbell-garnet#guest-ross">Guest, Ross</option>
+
+
+      <option value="/vs/campbell-garnet#gullage-john">Gullage, John</option>
+
+
+      <option value="/vs/campbell-garnet#gurowka-joseph">Gurowka, Joseph</option>
+
+
+      <option value="/vs/campbell-garnet#hallinan-william">Hallinan, William</option>
+
+
+      <option value="/vs/campbell-garnet#hammond-john">Hammond, John</option>
+
+
+      <option value="/vs/campbell-garnet#hanley-gerald">Hanley, Gerald</option>
+
+
+      <option value="/vs/campbell-garnet#harley-ralph">Harley, Ralph</option>
+
+
+      <option value="/vs/campbell-garnet#haynes-gordon">Haynes, Gordon</option>
+
+
+      <option value="/vs/campbell-garnet#hebert-leo">Hebert, Leo</option>
+
+
+      <option value="/vs/campbell-garnet#herder-daniel">Herder, Daniel</option>
+
+
+      <option value="/vs/campbell-garnet#herman-leroy">Herman, Leroy</option>
+
+
+      <option value="/vs/campbell-garnet#hewitt-roy">Hewitt, Roy</option>
+
+
+      <option value="/vs/campbell-garnet#hoar-frank">Hoar, Frank</option>
+
+
+      <option value="/vs/campbell-garnet#hodgson-eugene">Hodgson, Eugene</option>
+
+
+      <option value="/vs/campbell-garnet#hooper-temple">Hooper, Temple</option>
+
+
+      <option value="/vs/campbell-garnet#hope-peter">Hope, Peter</option>
+
+
+      <option value="/vs/campbell-garnet#howat-thomas">Howat, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#howatt-arnett">Howatt, Arnett</option>
+
+
+      <option value="/vs/campbell-garnet#howell-wilbert">Howell, Wilbert</option>
+
+
+      <option value="/vs/campbell-garnet#howie-james">Howie, James</option>
+
+
+      <option value="/vs/campbell-garnet#hunter-roderick">Hunter, Roderick</option>
+
+
+      <option value="/vs/campbell-garnet#hushagen-earl">Hushagen, Earl</option>
+
+
+      <option value="/vs/campbell-garnet#hutchingame-arthur">Hutchingame, Arthur</option>
+
+
+      <option value="/vs/campbell-garnet#hutton-robert">Hutton, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#ingo-kenneth">Ingo, Kenneth</option>
+
+
+      <option value="/vs/campbell-garnet#irish-i-o">Irish, I.O.</option>
+
+
+      <option value="/vs/campbell-garnet#issac-keith">Issac, Keith</option>
+
+
+      <option value="/vs/campbell-garnet#issac-william">Issac, William</option>
+
+
+      <option value="/vs/campbell-garnet#jeans-gregory">Jeans, Gregory</option>
+
+
+      <option value="/vs/campbell-garnet#johnson-terence">Johnson, Terence</option>
+
+
+      <option value="/vs/campbell-garnet#kassner-david">Kassner, David</option>
+
+
+      <option value="/vs/campbell-garnet#keith-harold">Keith, Harold</option>
+
+
+      <option value="/vs/campbell-garnet#kelsch-leo">Kelsch, Leo</option>
+
+
+      <option value="/vs/campbell-garnet#kent-robert">Kent, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#kent-william">Kent, William</option>
+
+
+      <option value="/vs/campbell-garnet#ketch-ronald">Ketch, Ronald</option>
+
+
+      <option value="/vs/campbell-garnet#kilburn-james">Kilburn, James</option>
+
+
+      <option value="/vs/campbell-garnet#kitson-leslie">Kitson, Leslie</option>
+
+
+      <option value="/vs/campbell-garnet#kleinmeyer-arthur">Kleinmeyer, Arthur</option>
+
+
+      <option value="/vs/campbell-garnet#klotz-george">Klotz, George</option>
+
+
+      <option value="/vs/campbell-garnet#knudsen-eric">Knudsen, Eric</option>
+
+
+      <option value="/vs/campbell-garnet#kroeger-thomas">Kroeger, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#lamb-earl">Lamb, Earl</option>
+
+
+      <option value="/vs/campbell-garnet#lanaghan-harold">Lanaghan, Harold</option>
+
+
+      <option value="/vs/campbell-garnet#lawes-keith">Lawes, Keith</option>
+
+
+      <option value="/vs/campbell-garnet#leger-murray">Leger, Murray</option>
+
+
+      <option value="/vs/campbell-garnet#lemecha-robert">Lemecha, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#lerner-hersh">Lerner, Hersh</option>
+
+
+      <option value="/vs/campbell-garnet#likely-andrew">Likely, Andrew</option>
+
+
+      <option value="/vs/campbell-garnet#lilly-raymond">Lilly, Raymond</option>
+
+
+      <option value="/vs/campbell-garnet#limerick-arthur">Limerick, Arthur</option>
+
+
+      <option value="/vs/campbell-garnet#limerick-victor">Limerick, Victor</option>
+
+
+      <option value="/vs/campbell-garnet#limerick-walter">Limerick, Walter</option>
+
+
+      <option value="/vs/campbell-garnet#llewellyn-arnold">Llewellyn, Arnold</option>
+
+
+      <option value="/vs/campbell-garnet#lobel-arthur">Lobel, Arthur</option>
+
+
+      <option value="/vs/campbell-garnet#lock-ernest">Lock, Ernest</option>
+
+
+      <option value="/vs/campbell-garnet#lord-donald">Lord, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#loucks-ford">Loucks, Ford</option>
+
+
+      <option value="/vs/campbell-garnet#lyon-john-david">Lyon, John-David</option>
+
+
+      <option value="/vs/campbell-garnet#mabey-harold-jr">Mabey, Harold Jr.</option>
+
+
+      <option value="/vs/campbell-garnet#mabey-roger">Mabey, Roger</option>
+
+
+      <option value="/vs/campbell-garnet#maccharles-george">MacCharles, George</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-barry">MacDonald, Barry</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-clifford">MacDonald, Clifford</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-elmer">MacDonald, Elmer</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-frank">Macdonald, Frank</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-john">MacDonald, John</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-wendell">MacDonald, Wendell</option>
+
+
+      <option value="/vs/campbell-garnet#macdonald-william">MacDonald, William</option>
+
+
+      <option value="/vs/campbell-garnet#macgregor-william">MacGregor, William</option>
+
+
+      <option value="/vs/campbell-garnet#macinnes-earl">MacInnes, Earl</option>
+
+
+      <option value="/vs/campbell-garnet#mackey-donald">Mackey, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#macmellon-grant">MacMellon, Grant</option>
+
+
+      <option value="/vs/campbell-garnet#macneill-norman">MacNeill, Norman</option>
+
+
+      <option value="/vs/campbell-garnet#macnicol-nicol">MacNicol, Nicol</option>
+
+
+      <option value="/vs/campbell-garnet#mann-avard">Mann, Avard</option>
+
+
+      <option value="/vs/campbell-garnet#manning-ralph">Manning, Ralph</option>
+
+
+      <option value="/vs/campbell-garnet#marcoux-guy">Marcoux, Guy</option>
+
+
+      <option value="/vs/campbell-garnet#margeson-robert">Margeson, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#mark-james">Mark, James</option>
+
+
+      <option value="/vs/campbell-garnet#markle-oscar">Markle, Oscar</option>
+
+
+      <option value="/vs/campbell-garnet#marston-thomas">Marston, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#mason-lynn">Mason, Lynn</option>
+
+
+      <option value="/vs/campbell-garnet#mattatall-eugene">Mattatall, Eugene</option>
+
+
+      <option value="/vs/campbell-garnet#mcalpine-thomas">McAlpine, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#mccabe-leslie">McCabe, Leslie</option>
+
+
+      <option value="/vs/campbell-garnet#mccormick-earl">McCormick, Earl</option>
+
+
+      <option value="/vs/campbell-garnet#mccubbin-robert">McCubbin, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#mccully-richard">McCully, Richard</option>
+
+
+      <option value="/vs/campbell-garnet#mcdonald-robert">McDonald, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#mcewen-donald">McEwen, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#mcghie-robert">McGhie, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#mcgibney-douglas">McGibney, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#mcgrath-jim">McGrath, Jim</option>
+
+
+      <option value="/vs/campbell-garnet#mcillwaine-george">McIllwaine, George</option>
+
+
+      <option value="/vs/campbell-garnet#mcinnes-robert">McInnes, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#mckay-hunt">McKay, Hunt</option>
+
+
+      <option value="/vs/campbell-garnet#mclaughlin-malcolm">McLaughlin, Malcolm</option>
+
+
+      <option value="/vs/campbell-garnet#mcmanus-cecil">McManus, Cecil</option>
+
+
+      <option value="/vs/campbell-garnet#mcnabb-harry">McNabb, Harry</option>
+
+
+      <option value="/vs/campbell-garnet#milligan-frank">Milligan, Frank</option>
+
+
+      <option value="/vs/campbell-garnet#mitchell-william">Mitchell, William</option>
+
+
+      <option value="/vs/campbell-garnet#miyashita-herbert">Miyashita, Herbert</option>
+
+
+      <option value="/vs/campbell-garnet#monk-harry-sr">Monk, Harry Sr.</option>
+
+
+      <option value="/vs/campbell-garnet#mooreside-william">Mooreside, William</option>
+
+
+      <option value="/vs/campbell-garnet#muirhead-frank">Muirhead, Frank</option>
+
+
+      <option value="/vs/campbell-garnet#munro-robert">Munro, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#murphy-reginald">Murphy, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#naimark-barry">Naimark, Barry</option>
+
+
+      <option value="/vs/campbell-garnet#neal-douglas">Neal, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#norris-john">Norris, John</option>
+
+
+      <option value="/vs/campbell-garnet#northcott-ronald">Northcott, Ronald</option>
+
+
+      <option value="/vs/campbell-garnet#o-donnell-edmond">O'Donnell, Edmond</option>
+
+
+      <option value="/vs/campbell-garnet#oliver-leonard">Oliver, Leonard</option>
+
+
+      <option value="/vs/campbell-garnet#ott-william">Ott, William</option>
+
+
+      <option value="/vs/campbell-garnet#ouellet-aime">Ouellet, Aime</option>
+
+
+      <option value="/vs/campbell-garnet#oxner-howard">Oxner, Howard</option>
+
+
+      <option value="/vs/campbell-garnet#palmer-howard">Palmer, Howard</option>
+
+
+      <option value="/vs/campbell-garnet#palmer-richard">Palmer, Richard</option>
+
+
+      <option value="/vs/campbell-garnet#parker-burke">Parker, Burke</option>
+
+
+      <option value="/vs/campbell-garnet#paulson-terry">Paulson, Terry</option>
+
+
+      <option value="/vs/campbell-garnet#perry-charles">Perry, Charles</option>
+
+
+      <option value="/vs/campbell-garnet#perry-graham">Perry, Graham</option>
+
+
+      <option value="/vs/campbell-garnet#peters-william">Peters, William</option>
+
+
+      <option value="/vs/campbell-garnet#peterson-gordon">Peterson, Gordon</option>
+
+
+      <option value="/vs/campbell-garnet#pettapiece-james">Pettapiece, James</option>
+
+
+      <option value="/vs/campbell-garnet#phillips-david">Phillips, David</option>
+
+
+      <option value="/vs/campbell-garnet#piercey-reginald">Piercey, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#piercey-william">Piercey, William</option>
+
+
+      <option value="/vs/campbell-garnet#pile-herbert">Pile, Herbert</option>
+
+
+      <option value="/vs/campbell-garnet#piper-charles-jr">Piper, Charles Jr.</option>
+
+
+      <option value="/vs/campbell-garnet#polyblank-john">Polyblank, John</option>
+
+
+      <option value="/vs/campbell-garnet#pounder-norman">Pounder, Norman</option>
+
+
+      <option value="/vs/campbell-garnet#price-william">Price, William</option>
+
+
+      <option value="/vs/campbell-garnet#rafuse-robert">Rafuse, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#ready-clifford">Ready, Clifford</option>
+
+
+      <option value="/vs/campbell-garnet#reid-donald">Reid, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#reid-john">Reid, John</option>
+
+
+      <option value="/vs/campbell-garnet#rhodenizer-lee">Rhodenizer, Lee</option>
+
+
+      <option value="/vs/campbell-garnet#richardson-pennell">Richardson, Pennell</option>
+
+
+      <option value="/vs/campbell-garnet#robinson-robert">Robinson, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#rockwell-carmen">Rockwell, Carmen</option>
+
+
+      <option value="/vs/campbell-garnet#rockwell-norman">Rockwell, Norman</option>
+
+
+      <option value="/vs/campbell-garnet#ronald-dick">Ronald, Dick</option>
+
+
+      <option value="/vs/campbell-garnet#roy-william">Roy, William</option>
+
+
+      <option value="/vs/campbell-garnet#saboe-wayne">Saboe, Wayne</option>
+
+
+      <option value="/vs/campbell-garnet#samson-olivier">Samson, Olivier</option>
+
+
+      <option value="/vs/campbell-garnet#sanford-john">Sanford, John</option>
+
+
+      <option value="/vs/campbell-garnet#sargent-frank-jr">Sargent, Frank Jr.</option>
+
+
+      <option value="/vs/campbell-garnet#sargent-james">Sargent, James</option>
+
+
+      <option value="/vs/campbell-garnet#sarjeant-stanley">Sarjeant, Stanley</option>
+
+
+      <option value="/vs/campbell-garnet#saunders-allison">Saunders, Allison</option>
+
+
+      <option value="/vs/campbell-garnet#savage-paul">Savage, Paul</option>
+
+
+      <option value="/vs/campbell-garnet#sharp-william">Sharp, William</option>
+
+
+      <option value="/vs/campbell-garnet#sherba-peter">Sherba, Peter</option>
+
+
+      <option value="/vs/campbell-garnet#shields-james">Shields, James</option>
+
+
+      <option value="/vs/campbell-garnet#shinfield-allan">Shinfield, Allan</option>
+
+
+      <option value="/vs/campbell-garnet#simmons-ralph">Simmons, Ralph</option>
+
+
+      <option value="/vs/campbell-garnet#simons-herbert">Simons, Herbert</option>
+
+
+      <option value="/vs/campbell-garnet#simpson-james">Simpson, James</option>
+
+
+      <option value="/vs/campbell-garnet#smale-kevin">Smale, Kevin</option>
+
+
+      <option value="/vs/campbell-garnet#smeaton-donald">Smeaton, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#smith-alan">Smith, Alan</option>
+
+
+      <option value="/vs/campbell-garnet#smith-murvin">Smith, Murvin</option>
+
+
+      <option value="/vs/campbell-garnet#snarr-victor">Snarr, Victor</option>
+
+
+      <option value="/vs/campbell-garnet#somers-dale">Somers, Dale</option>
+
+
+      <option value="/vs/campbell-garnet#sparkes-bernie">Sparkes, Bernie</option>
+
+
+      <option value="/vs/campbell-garnet#spencer-adam-f">Spencer, Adam F.</option>
+
+
+      <option value="/vs/campbell-garnet#squarebriggs-john">Squarebriggs, John</option>
+
+
+      <option value="/vs/campbell-garnet#st-pierre-edgar">St.Pierre, Edgar</option>
+
+
+      <option value="/vs/campbell-garnet#stanhope-donald">Stanhope, Donald</option>
+
+
+      <option value="/vs/campbell-garnet#stanley-harry">Stanley, Harry</option>
+
+
+      <option value="/vs/campbell-garnet#staples-owen">Staples, Owen</option>
+
+
+      <option value="/vs/campbell-garnet#steeves-edward">Steeves, Edward</option>
+
+
+      <option value="/vs/campbell-garnet#stent-frank">Stent, Frank</option>
+
+
+      <option value="/vs/campbell-garnet#steski-rudy">Steski, Rudy</option>
+
+
+      <option value="/vs/campbell-garnet#stewart-gordon-w">Stewart, Gordon W.</option>
+
+
+      <option value="/vs/campbell-garnet#stirling-gordon">Stirling, Gordon</option>
+
+
+      <option value="/vs/campbell-garnet#stone-reginald">Stone, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#stone-roy">Stone, Roy</option>
+
+
+      <option value="/vs/campbell-garnet#storey-frederick">Storey, Frederick</option>
+
+
+      <option value="/vs/campbell-garnet#strange-douglas">Strange, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#stuart-douglas">Stuart, Douglas</option>
+
+
+      <option value="/vs/campbell-garnet#sullivan-charlie">Sullivan, Charlie</option>
+
+
+      <option value="/vs/campbell-garnet#sullivan-dave">Sullivan, Dave</option>
+
+
+      <option value="/vs/campbell-garnet#sully-alan">Sully, Alan</option>
+
+
+      <option value="/vs/campbell-garnet#tainsh-william">Tainsh, William</option>
+
+
+      <option value="/vs/campbell-garnet#taite-john">Taite, John</option>
+
+
+      <option value="/vs/campbell-garnet#tarleton-ross">Tarleton, Ross</option>
+
+
+      <option value="/vs/campbell-garnet#taylor-wilfred">Taylor, Wilfred</option>
+
+
+      <option value="/vs/campbell-garnet#tetley-william">Tetley, William</option>
+
+
+      <option value="/vs/campbell-garnet#thompson-jack">Thompson, Jack</option>
+
+
+      <option value="/vs/campbell-garnet#thun-albert">Thun, Albert</option>
+
+
+      <option value="/vs/campbell-garnet#tissington-harry">Tissington, Harry</option>
+
+
+      <option value="/vs/campbell-garnet#tod-thomas">Tod, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#tracy-william">Tracy, William</option>
+
+
+      <option value="/vs/campbell-garnet#tremblay-joseph">Tremblay, Joseph</option>
+
+
+      <option value="/vs/campbell-garnet#trimble-edward">Trimble, Edward</option>
+
+
+      <option value="/vs/campbell-garnet#tucker-jack">Tucker, Jack</option>
+
+
+      <option value="/vs/campbell-garnet#tulley-james">Tulley, James</option>
+
+
+      <option value="/vs/campbell-garnet#ursuliak-wally">Ursuliak, Wally</option>
+
+
+      <option value="/vs/campbell-garnet#van-wassenhove-reginald">Van Wassenhove, Reginald</option>
+
+
+      <option value="/vs/campbell-garnet#waite-james">Waite, James</option>
+
+
+      <option value="/vs/campbell-garnet#wallace-william">Wallace, William</option>
+
+
+      <option value="/vs/campbell-garnet#walling-john">Walling, John</option>
+
+
+      <option value="/vs/campbell-garnet#ward-william">Ward, William</option>
+
+
+      <option value="/vs/campbell-garnet#warren-thomas">Warren, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#watson-william-h">Watson, William H.</option>
+
+
+      <option value="/vs/campbell-garnet#weisz-gary">Weisz, Gary</option>
+
+
+      <option value="/vs/campbell-garnet#welch-thomas">Welch, Thomas</option>
+
+
+      <option value="/vs/campbell-garnet#weldon-kenneth">Weldon, Kenneth</option>
+
+
+      <option value="/vs/campbell-garnet#welsh-alexander">Welsh, Alexander</option>
+
+
+      <option value="/vs/campbell-garnet#welsh-james">Welsh, James</option>
+
+
+      <option value="/vs/campbell-garnet#wendell-frederick">Wendell, Frederick</option>
+
+
+      <option value="/vs/campbell-garnet#werner-raymond">Werner, Raymond</option>
+
+
+      <option value="/vs/campbell-garnet#white-william">White, William</option>
+
+
+      <option value="/vs/campbell-garnet#whitfield-carl">Whitfield, Carl</option>
+
+
+      <option value="/vs/campbell-garnet#wiggington-merrill">Wiggington, Merrill</option>
+
+
+      <option value="/vs/campbell-garnet#williamson-lynn">Williamson, Lynn</option>
+
+
+      <option value="/vs/campbell-garnet#wilson-gordon">Wilson, Gordon</option>
+
+
+      <option value="/vs/campbell-garnet#wood-bryan">Wood, Bryan</option>
+
+
+      <option value="/vs/campbell-garnet#wood-edgar">Wood, Edgar</option>
+
+
+      <option value="/vs/campbell-garnet#wood-howard-jr">Wood, Howard Jr.</option>
+
+
+      <option value="/vs/campbell-garnet#wyatt-robert">Wyatt, Robert</option>
+
+
+      <option value="/vs/campbell-garnet#yerama-lloyd">Yerama, Lloyd</option>
+
+
+      <option value="/vs/campbell-garnet#yuill-jack">Yuill, Jack</option>
+
+
+      <option value="/vs/campbell-garnet#zaporzan-william">Zaporzan, William</option>
+
+
+      <option value="/vs/campbell-garnet#zikman-albert">Zikman, Albert</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

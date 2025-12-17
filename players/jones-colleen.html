@@ -1,0 +1,2590 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Colleen Jones
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Colleen Jones <i class="fe fe-user-plus" data-name="Jones, Colleen" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1979">1979</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="NS"><a href="../canadian-women/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>7</td>
+  <td>4</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1980">1980</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="NS"><a href="../canadian-women/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2003">2003</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Jone">Jone</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>4</td>
+  <td>2</td>
+  <td>2</td>
+  <td>31</td>
+  <td>71</td>
+  <td>48</td>
+  <td>83</td>
+  <td>41</td>
+  <td>77</td>
+  <td>38</td>
+  <td>80</td>
+  <td>79</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2004">2004</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="CJO">CJO</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>47</td>
+  <td>79</td>
+  <td>88</td>
+  <td>74</td>
+  <td>58</td>
+  <td>82</td>
+  <td>77</td>
+  <td>71</td>
+  <td>135</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2005">2005</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Jon">Jon</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>44</td>
+  <td>63</td>
+  <td>68</td>
+  <td>78</td>
+  <td>56</td>
+  <td>66</td>
+  <td>56</td>
+  <td>78</td>
+  <td>112</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1982">1982</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>9</td>
+  <td>3</td>
+  <td>94</td>
+  <td>66</td>
+  <td>125</td>
+  <td>77</td>
+  <td>107</td>
+  <td>71</td>
+  <td>112</td>
+  <td>73</td>
+  <td>219</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1984">1984</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>85</td>
+  <td>69</td>
+  <td>112</td>
+  <td>73</td>
+  <td>80</td>
+  <td>67</td>
+  <td>117</td>
+  <td>74</td>
+  <td>197</td>
+  <td>71</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1986">1986</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>108</td>
+  <td>59</td>
+  <td>110</td>
+  <td>71</td>
+  <td>122</td>
+  <td>61</td>
+  <td>96</td>
+  <td>71</td>
+  <td>218</td>
+  <td>65</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1989">1989</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>88</td>
+  <td>77</td>
+  <td>131</td>
+  <td>71</td>
+  <td>91</td>
+  <td>76</td>
+  <td>128</td>
+  <td>71</td>
+  <td>219</td>
+  <td>73</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1991">1991</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>93</td>
+  <td>66</td>
+  <td>115</td>
+  <td>75</td>
+  <td>88</td>
+  <td>59</td>
+  <td>120</td>
+  <td>80</td>
+  <td>208</td>
+  <td>71</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1992">1992</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>94</td>
+  <td>70</td>
+  <td>113</td>
+  <td>73</td>
+  <td>83</td>
+  <td>61</td>
+  <td>124</td>
+  <td>78</td>
+  <td>207</td>
+  <td>71</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1993">1993</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>86</td>
+  <td>74</td>
+  <td>109</td>
+  <td>72</td>
+  <td>99</td>
+  <td>69</td>
+  <td>96</td>
+  <td>76</td>
+  <td>195</td>
+  <td>73</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1994">1994</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>4</td>
+  <td>7</td>
+  <td>65</td>
+  <td>66</td>
+  <td>152</td>
+  <td>78</td>
+  <td>90</td>
+  <td>69</td>
+  <td>127</td>
+  <td>79</td>
+  <td>217</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1996">1996</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>7</td>
+  <td>6</td>
+  <td>86</td>
+  <td>76</td>
+  <td>154</td>
+  <td>73</td>
+  <td>106</td>
+  <td>69</td>
+  <td>134</td>
+  <td>78</td>
+  <td>240</td>
+  <td>74</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1997">1997</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>4</td>
+  <td>7</td>
+  <td>83</td>
+  <td>73</td>
+  <td>123</td>
+  <td>72</td>
+  <td>110</td>
+  <td>65</td>
+  <td>96</td>
+  <td>80</td>
+  <td>206</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1999">1999</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>108</td>
+  <td>73</td>
+  <td>141</td>
+  <td>76</td>
+  <td>100</td>
+  <td>69</td>
+  <td>149</td>
+  <td>78</td>
+  <td>249</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2000">2000</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>93</td>
+  <td>72</td>
+  <td>121</td>
+  <td>72</td>
+  <td>101</td>
+  <td>68</td>
+  <td>113</td>
+  <td>76</td>
+  <td>214</td>
+  <td>72</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2001">2001</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>114</td>
+  <td>74</td>
+  <td>137</td>
+  <td>78</td>
+  <td>114</td>
+  <td>76</td>
+  <td>137</td>
+  <td>76</td>
+  <td>251</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2002">2002</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>97</td>
+  <td>75</td>
+  <td>170</td>
+  <td>85</td>
+  <td>124</td>
+  <td>78</td>
+  <td>143</td>
+  <td>84</td>
+  <td>267</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2003">2003</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>87</td>
+  <td>80</td>
+  <td>160</td>
+  <td>82</td>
+  <td>96</td>
+  <td>83</td>
+  <td>151</td>
+  <td>80</td>
+  <td>247</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2004">2004</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>76</td>
+  <td>78</td>
+  <td>165</td>
+  <td>83</td>
+  <td>115</td>
+  <td>80</td>
+  <td>126</td>
+  <td>82</td>
+  <td>241</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2005">2005</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>6</td>
+  <td>6</td>
+  <td>94</td>
+  <td>78</td>
+  <td>135</td>
+  <td>76</td>
+  <td>103</td>
+  <td>78</td>
+  <td>126</td>
+  <td>76</td>
+  <td>229</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2006">2006</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>89</td>
+  <td>73</td>
+  <td>155</td>
+  <td>79</td>
+  <td>104</td>
+  <td>80</td>
+  <td>140</td>
+  <td>75</td>
+  <td>244</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2013">2013</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="NS"><a href="../hearts/team/ns">NS</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>95</td>
+  <td>78</td>
+  <td>117</td>
+  <td>81</td>
+  <td>89</td>
+  <td>72</td>
+  <td>123</td>
+  <td>85</td>
+  <td>212</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2001">2001</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="JON">JON</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>85</td>
+  <td>78</td>
+  <td>95</td>
+  <td>79</td>
+  <td>89</td>
+  <td>78</td>
+  <td>91</td>
+  <td>80</td>
+  <td>180</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2005">2005</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="CJO">CJO</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>60</td>
+  <td>70</td>
+  <td>106</td>
+  <td>79</td>
+  <td>81</td>
+  <td>78</td>
+  <td>85</td>
+  <td>73</td>
+  <td>166</td>
+  <td>76</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canadian Women Totals</td>
+  <td>22</td>
+  <td>16</td>
+  <td>6</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>17</td>
+  <td>10</td>
+  <td>7</td>
+  <td>122</td>
+  <td>71</td>
+  <td>204</td>
+  <td>77</td>
+  <td>155</td>
+  <td>75</td>
+  <td>171</td>
+  <td>75</td>
+  <td>326</td>
+  <td>75</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>227</td>
+  <td>136</td>
+  <td>91</td>
+  <td>1735</td>
+  <td>72</td>
+  <td>2545</td>
+  <td>77</td>
+  <td>1922</td>
+  <td>71</td>
+  <td>2358</td>
+  <td>78</td>
+  <td>4280</td>
+  <td>75</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>19</td>
+  <td>9</td>
+  <td>10</td>
+  <td>145</td>
+  <td>75</td>
+  <td>201</td>
+  <td>79</td>
+  <td>170</td>
+  <td>78</td>
+  <td>176</td>
+  <td>76</td>
+  <td>346</td>
+  <td>77</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-diane#jones-colleen">Adams, Diane</option>
+
+
+      <option value="/vs/affleck-tricia#jones-colleen">Affleck, Tricia</option>
+
+
+      <option value="/vs/aleksic-shannon#jones-colleen">Aleksic, Shannon</option>
+
+
+      <option value="/vs/alexander-diane#jones-colleen">Alexander, Diane</option>
+
+
+      <option value="/vs/alexander-donna#jones-colleen">Alexander, Donna</option>
+
+
+      <option value="/vs/allan-susan#jones-colleen">Allan, Susan</option>
+
+
+      <option value="/vs/allardyce-kathie#jones-colleen">Allardyce, Kathie</option>
+
+
+      <option value="/vs/allen-laurie#jones-colleen">Allen, Laurie</option>
+
+
+      <option value="/vs/allen-michelle#jones-colleen">Allen, Michelle</option>
+
+
+      <option value="/vs/allerton-dana#jones-colleen">Allerton, Dana</option>
+
+
+      <option value="/vs/anderson-sherry#jones-colleen">Anderson, Sherry</option>
+
+
+      <option value="/vs/andrews-lynne#jones-colleen">Andrews, Lynne</option>
+
+
+      <option value="/vs/armstrong-iris#jones-colleen">Armstrong, Iris</option>
+
+
+      <option value="/vs/arnott-janet#jones-colleen">Arnott, Janet</option>
+
+
+      <option value="/vs/arseneau-jane#jones-colleen">Arseneau, Jane</option>
+
+
+      <option value="/vs/atkinson-rebecca#jones-colleen">Atkinson, Rebecca</option>
+
+
+      <option value="/vs/aucoin-shelley#jones-colleen">Aucoin, Shelley</option>
+
+
+      <option value="/vs/augustyn-jan#jones-colleen">Augustyn, Jan</option>
+
+
+      <option value="/vs/aulenback-wanda#jones-colleen">Aulenback, Wanda</option>
+
+
+      <option value="/vs/axford-lynne#jones-colleen">Axford, Lynne</option>
+
+
+      <option value="/vs/ayrey-jinaye#jones-colleen">Ayrey, Jinaye</option>
+
+
+      <option value="/vs/baker-michelle#jones-colleen">Baker, Michelle</option>
+
+
+      <option value="/vs/baker-rose-marie#jones-colleen">Baker, Rose-Marie</option>
+
+
+      <option value="/vs/bakker-glenys#jones-colleen">Bakker, Glenys</option>
+
+
+      <option value="/vs/balderston-marcy#jones-colleen">Balderston, Marcy</option>
+
+
+      <option value="/vs/baldwin-laurel#jones-colleen">Baldwin, Laurel</option>
+
+
+      <option value="/vs/barker-catherine#jones-colleen">Barker, Catherine</option>
+
+
+      <option value="/vs/barrack-carmen#jones-colleen">Barrack, Carmen</option>
+
+
+      <option value="/vs/barrette-peggy#jones-colleen">Barrette, Peggy</option>
+
+
+      <option value="/vs/bartlett-sue-ann#jones-colleen">Bartlett, Sue Ann</option>
+
+
+      <option value="/vs/beauchamp-sasha#jones-colleen">Beauchamp, Sasha</option>
+
+
+      <option value="/vs/belanger-nancy#jones-colleen">Belanger, Nancy</option>
+
+
+      <option value="/vs/belisle-eve#jones-colleen">Belisle, Eve</option>
+
+
+      <option value="/vs/bell-allyson#jones-colleen">Bell, Allyson</option>
+
+
+      <option value="/vs/bell-chelsey#jones-colleen">Bell, Chelsey</option>
+
+
+      <option value="/vs/bell-patty#jones-colleen">Bell, Patty</option>
+
+
+      <option value="/vs/belley-joelle#jones-colleen">Belley, Joelle</option>
+
+
+      <option value="/vs/bennet-connie#jones-colleen">Bennet, Connie</option>
+
+
+      <option value="/vs/bernard-cheryl#jones-colleen">Bernard, Cheryl</option>
+
+
+      <option value="/vs/bernard-krista#jones-colleen">Bernard, Krista</option>
+
+
+      <option value="/vs/berthelot-janique#jones-colleen">Berthelot, Janique</option>
+
+
+      <option value="/vs/betker-jan#jones-colleen">Betker, Jan</option>
+
+
+      <option value="/vs/beveridge-corie#jones-colleen">Beveridge, Corie</option>
+
+
+      <option value="/vs/birt-suzanne#jones-colleen">Birt, Suzanne</option>
+
+
+      <option value="/vs/blackburn-julie#jones-colleen">Blackburn, Julie</option>
+
+
+      <option value="/vs/blair-diane#jones-colleen">Blair, Diane</option>
+
+
+      <option value="/vs/blanchard-judy#jones-colleen">Blanchard, Judy</option>
+
+
+      <option value="/vs/blashko-denise#jones-colleen">Blashko, Denise</option>
+
+
+      <option value="/vs/bodogh-christine#jones-colleen">Bodogh, Christine</option>
+
+
+      <option value="/vs/bodogh-marilyn#jones-colleen">Bodogh, Marilyn</option>
+
+
+      <option value="/vs/bohmer-brenda#jones-colleen">Bohmer, Brenda</option>
+
+
+      <option value="/vs/bonar-maureen#jones-colleen">Bonar, Maureen</option>
+
+
+      <option value="/vs/bond-arlene#jones-colleen">Bond, Arlene</option>
+
+
+      <option value="/vs/borne-brandee#jones-colleen">Borne, Brandee</option>
+
+
+      <option value="/vs/bowes-lorraine#jones-colleen">Bowes, Lorraine</option>
+
+
+      <option value="/vs/bowles-lorraine#jones-colleen">Bowles, Lorraine</option>
+
+
+      <option value="/vs/bowman-mary#jones-colleen">Bowman, Mary</option>
+
+
+      <option value="/vs/bradley-diane#jones-colleen">Bradley, Diane</option>
+
+
+      <option value="/vs/bradley-shelley#jones-colleen">Bradley, Shelley</option>
+
+
+      <option value="/vs/breen-theresa#jones-colleen">Breen, Theresa</option>
+
+
+      <option value="/vs/brooks-lee#jones-colleen">Brooks, Lee</option>
+
+
+      <option value="/vs/brophy-kathy#jones-colleen">Brophy, Kathy</option>
+
+
+      <option value="/vs/brown-jacalyn#jones-colleen">Brown, Jacalyn</option>
+
+
+      <option value="/vs/brown-janet#jones-colleen">Brown, Janet</option>
+
+
+      <option value="/vs/brown-joan#jones-colleen">Brown, Joan</option>
+
+
+      <option value="/vs/brown-marcie#jones-colleen">Brown, Marcie</option>
+
+
+      <option value="/vs/brownridge-donna#jones-colleen">Brownridge, Donna</option>
+
+
+      <option value="/vs/buckway-beverly#jones-colleen">Buckway, Beverly</option>
+
+
+      <option value="/vs/burgess-allyson#jones-colleen">Burgess, Allyson</option>
+
+
+      <option value="/vs/burgess-carey#jones-colleen">Burgess, Carey</option>
+
+
+      <option value="/vs/burlington-cheryl#jones-colleen">Burlington, Cheryl</option>
+
+
+      <option value="/vs/burns-shannon#jones-colleen">Burns, Shannon</option>
+
+
+      <option value="/vs/busche-jodi#jones-colleen">Busche, Jodi</option>
+
+
+      <option value="/vs/bush-tracy#jones-colleen">Bush, Tracy</option>
+
+
+      <option value="/vs/bussieres-helene#jones-colleen">Bussieres, Helene</option>
+
+
+      <option value="/vs/byers-denise#jones-colleen">Byers, Denise</option>
+
+
+      <option value="/vs/cameron-nancy#jones-colleen">Cameron, Nancy</option>
+
+
+      <option value="/vs/campbell-gloria#jones-colleen">Campbell, Gloria</option>
+
+
+      <option value="/vs/campbell-june#jones-colleen">Campbell, June</option>
+
+
+      <option value="/vs/carney-laurie#jones-colleen">Carney, Laurie</option>
+
+
+      <option value="/vs/caron-diane#jones-colleen">Caron, Diane</option>
+
+
+      <option value="/vs/carr-judy#jones-colleen">Carr, Judy</option>
+
+
+      <option value="/vs/carter-linda#jones-colleen">Carter, Linda</option>
+
+
+      <option value="/vs/carter-sasha#jones-colleen">Carter, Sasha</option>
+
+
+      <option value="/vs/cey-naomi#jones-colleen">Cey, Naomi</option>
+
+
+      <option value="/vs/chapman-kathy#jones-colleen">Chapman, Kathy</option>
+
+
+      <option value="/vs/charette-agnes#jones-colleen">Charette, Agnes</option>
+
+
+      <option value="/vs/charette-france#jones-colleen">Charette, France</option>
+
+
+      <option value="/vs/cheveldave-amber#jones-colleen">Cheveldave, Amber</option>
+
+
+      <option value="/vs/chicoine-helene#jones-colleen">Chicoine, Helene</option>
+
+
+      <option value="/vs/clark-kim#jones-colleen">Clark, Kim</option>
+
+
+      <option value="/vs/clark-stefanie#jones-colleen">Clark, Stefanie</option>
+
+
+      <option value="/vs/clarke-betty#jones-colleen">Clarke, Betty</option>
+
+
+      <option value="/vs/clifford-marion#jones-colleen">Clifford, Marion</option>
+
+
+      <option value="/vs/combden-cathy#jones-colleen">Combden, Cathy</option>
+
+
+      <option value="/vs/comeau-martine#jones-colleen">Comeau, Martine</option>
+
+
+      <option value="/vs/comeau-sandy#jones-colleen">Comeau, Sandy</option>
+
+
+      <option value="/vs/cooke-gerri#jones-colleen">Cooke, Gerri</option>
+
+
+      <option value="/vs/copeland-rae-ann#jones-colleen">Copeland, Rae Ann</option>
+
+
+      <option value="/vs/cordina-sheri#jones-colleen">Cordina, Sheri</option>
+
+
+      <option value="/vs/cormier-sharon#jones-colleen">Cormier, Sharon</option>
+
+
+      <option value="/vs/cossette-pierrette#jones-colleen">Cossette, Pierrette</option>
+
+
+      <option value="/vs/crass-kim#jones-colleen">Crass, Kim</option>
+
+
+      <option value="/vs/crowe-dorothy#jones-colleen">Crowe, Dorothy</option>
+
+
+      <option value="/vs/cunliffe-donna#jones-colleen">Cunliffe, Donna</option>
+
+
+      <option value="/vs/cunningham-cathy#jones-colleen">Cunningham, Cathy</option>
+
+
+      <option value="/vs/currey-karen#jones-colleen">Currey, Karen</option>
+
+
+      <option value="/vs/currie-ann#jones-colleen">Currie, Ann</option>
+
+
+      <option value="/vs/currie-barbara#jones-colleen">Currie, Barbara</option>
+
+
+      <option value="/vs/currie-wendy#jones-colleen">Currie, Wendy</option>
+
+
+      <option value="/vs/curtis-stacie#jones-colleen">Curtis, Stacie</option>
+
+
+      <option value="/vs/cutcliffe-ruth#jones-colleen">Cutcliffe, Ruth</option>
+
+
+      <option value="/vs/daku-karen#jones-colleen">Daku, Karen</option>
+
+
+      <option value="/vs/dalio-diane#jones-colleen">Dalio, Diane</option>
+
+
+      <option value="/vs/daniel-sylvie#jones-colleen">Daniel, Sylvie</option>
+
+
+      <option value="/vs/darbyshire-carolyn#jones-colleen">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/davis-barb#jones-colleen">Davis, Barb</option>
+
+
+      <option value="/vs/davis-brandee#jones-colleen">Davis, Brandee</option>
+
+
+      <option value="/vs/davis-carol#jones-colleen">Davis, Carol</option>
+
+
+      <option value="/vs/day-arleen#jones-colleen">Day, Arleen</option>
+
+
+      <option value="/vs/dejager-blaine#jones-colleen">deJager, Blaine</option>
+
+
+      <option value="/vs/derick-catherine#jones-colleen">Derick, Catherine</option>
+
+
+      <option value="/vs/deschatelets-guylaine#jones-colleen">Deschatelets, Guylaine</option>
+
+
+      <option value="/vs/desolla-jodie#jones-colleen">deSolla, Jodie</option>
+
+
+      <option value="/vs/despins-barbara#jones-colleen">Despins, Barbara</option>
+
+
+      <option value="/vs/dexter-joan#jones-colleen">Dexter, Joan</option>
+
+
+      <option value="/vs/dezura-diane#jones-colleen">Dezura, Diane</option>
+
+
+      <option value="/vs/dickeson-debbi#jones-colleen">Dickeson, Debbi</option>
+
+
+      <option value="/vs/dobson-sue#jones-colleen">Dobson, Sue</option>
+
+
+      <option value="/vs/dolan-kim#jones-colleen">Dolan, Kim</option>
+
+
+      <option value="/vs/donald-grace#jones-colleen">Donald, Grace</option>
+
+
+      <option value="/vs/donnelly-brenda#jones-colleen">Donnelly, Brenda</option>
+
+
+      <option value="/vs/dorosz-peggy#jones-colleen">Dorosz, Peggy</option>
+
+
+      <option value="/vs/dufresne-audree#jones-colleen">Dufresne, Audree</option>
+
+
+      <option value="/vs/dunn-anne#jones-colleen">Dunn, Anne</option>
+
+
+      <option value="/vs/dwyer-patricia#jones-colleen">Dwyer, Patricia</option>
+
+
+      <option value="/vs/dykstra-michelle#jones-colleen">Dykstra, Michelle</option>
+
+
+      <option value="/vs/earl-allison#jones-colleen">Earl, Allison</option>
+
+
+      <option value="/vs/eddy-lori#jones-colleen">Eddy, Lori</option>
+
+
+      <option value="/vs/ellwood-laurie#jones-colleen">Ellwood, Laurie</option>
+
+
+      <option value="/vs/emond-muriel#jones-colleen">Emond, Muriel</option>
+
+
+      <option value="/vs/englot-michelle#jones-colleen">Englot, Michelle</option>
+
+
+      <option value="/vs/enright-barb#jones-colleen">Enright, Barb</option>
+
+
+      <option value="/vs/fahlman-kathy#jones-colleen">Fahlman, Kathy</option>
+
+
+      <option value="/vs/fallis-karen#jones-colleen">Fallis, Karen</option>
+
+
+      <option value="/vs/fallis-kurz-lynn#jones-colleen">Fallis-Kurz, Lynn</option>
+
+
+      <option value="/vs/farkas-elaine#jones-colleen">Farkas, Elaine</option>
+
+
+      <option value="/vs/farrell-allison#jones-colleen">Farrell, Allison</option>
+
+
+      <option value="/vs/felker-arenlea#jones-colleen">Felker, Arenlea</option>
+
+
+      <option value="/vs/ferland-marie#jones-colleen">Ferland, Marie</option>
+
+
+      <option value="/vs/fisher-alana#jones-colleen">Fisher, Alana</option>
+
+
+      <option value="/vs/fister-teri#jones-colleen">Fister, Teri</option>
+
+
+      <option value="/vs/fister-toni#jones-colleen">Fister, Toni</option>
+
+
+      <option value="/vs/flannigan-lorraine#jones-colleen">Flannigan, Lorraine</option>
+
+
+      <option value="/vs/flesjer-melody#jones-colleen">Flesjer, Melody</option>
+
+
+      <option value="/vs/floyd-kathy#jones-colleen">Floyd, Kathy</option>
+
+
+      <option value="/vs/fortier-marie-josee#jones-colleen">Fortier, Marie-Josee</option>
+
+
+      <option value="/vs/fortin-sylvie#jones-colleen">Fortin, Sylvie</option>
+
+
+      <option value="/vs/fowler-lois#jones-colleen">Fowler, Lois</option>
+
+
+      <option value="/vs/fowlie-heather#jones-colleen">Fowlie, Heather</option>
+
+
+      <option value="/vs/fraser-sherry#jones-colleen">Fraser, Sherry</option>
+
+
+      <option value="/vs/freeman-lisa#jones-colleen">Freeman, Lisa</option>
+
+
+      <option value="/vs/frey-audrey#jones-colleen">Frey, Audrey</option>
+
+
+      <option value="/vs/froud-susan#jones-colleen">Froud, Susan</option>
+
+
+      <option value="/vs/fuller-lynn#jones-colleen">Fuller, Lynn</option>
+
+
+      <option value="/vs/fullerton-sarah#jones-colleen">Fullerton, Sarah</option>
+
+
+      <option value="/vs/gagnier-monique#jones-colleen">Gagnier, Monique</option>
+
+
+      <option value="/vs/gagnon-karo#jones-colleen">Gagnon, Karo</option>
+
+
+      <option value="/vs/gagnon-nathalie#jones-colleen">Gagnon, Nathalie</option>
+
+
+      <option value="/vs/gallant-kathie#jones-colleen">Gallant, Kathie</option>
+
+
+      <option value="/vs/galusha-kerry#jones-colleen">Galusha, Kerry</option>
+
+
+      <option value="/vs/gammon-shirley#jones-colleen">Gammon, Shirley</option>
+
+
+      <option value="/vs/gardiner-faye#jones-colleen">Gardiner, Faye</option>
+
+
+      <option value="/vs/garnett-lorelei#jones-colleen">Garnett, Lorelei</option>
+
+
+      <option value="/vs/gatchell-sara#jones-colleen">Gatchell, Sara</option>
+
+
+      <option value="/vs/gauthier-cathy#jones-colleen">Gauthier, Cathy</option>
+
+
+      <option value="/vs/gellard-kim#jones-colleen">Gellard, Kim</option>
+
+
+      <option value="/vs/gellard-mary#jones-colleen">Gellard, Mary</option>
+
+
+      <option value="/vs/george-tara#jones-colleen">George, Tara</option>
+
+
+      <option value="/vs/gervais-chris#jones-colleen">Gervais, Chris</option>
+
+
+      <option value="/vs/gervais-donna#jones-colleen">Gervais, Donna</option>
+
+
+      <option value="/vs/gignac-donna#jones-colleen">Gignac, Donna</option>
+
+
+      <option value="/vs/gogan-jennifer#jones-colleen">Gogan, Jennifer</option>
+
+
+      <option value="/vs/goring-alison#jones-colleen">Goring, Alison</option>
+
+
+      <option value="/vs/goss-peg#jones-colleen">Goss, Peg</option>
+
+
+      <option value="/vs/goule-susan#jones-colleen">Goule, Susan</option>
+
+
+      <option value="/vs/graham-macdonald-bea#jones-colleen">Graham-MacDonald, Bea</option>
+
+
+      <option value="/vs/grange-denise#jones-colleen">Grange, Denise</option>
+
+
+      <option value="/vs/greening-jackie-rae#jones-colleen">Greening, Jackie-Rae</option>
+
+
+      <option value="/vs/greenwood-jill#jones-colleen">Greenwood, Jill</option>
+
+
+      <option value="/vs/gregoire-veronique#jones-colleen">Gregoire, Veronique</option>
+
+
+      <option value="/vs/grenier-valerie#jones-colleen">Grenier, Valerie</option>
+
+
+      <option value="/vs/gudereit-marcia#jones-colleen">Gudereit, Marcia</option>
+
+
+      <option value="/vs/gushulak-diane#jones-colleen">Gushulak, Diane</option>
+
+
+      <option value="/vs/hall-carolyn#jones-colleen">Hall, Carolyn</option>
+
+
+      <option value="/vs/hamilton-beth#jones-colleen">Hamilton, Beth</option>
+
+
+      <option value="/vs/hanlon-heidi#jones-colleen">Hanlon, Heidi</option>
+
+
+      <option value="/vs/hanna-jenn#jones-colleen">Hanna, Jenn</option>
+
+
+      <option value="/vs/hanna-stephanie#jones-colleen">Hanna, Stephanie</option>
+
+
+      <option value="/vs/harding-mary#jones-colleen">Harding, Mary</option>
+
+
+      <option value="/vs/hardy-shelley#jones-colleen">Hardy, Shelley</option>
+
+
+      <option value="/vs/harrison-meredith#jones-colleen">Harrison, Meredith</option>
+
+
+      <option value="/vs/harvey-alison#jones-colleen">Harvey, Alison</option>
+
+
+      <option value="/vs/harvey-carol#jones-colleen">Harvey, Carol</option>
+
+
+      <option value="/vs/harvey-janet#jones-colleen">Harvey, Janet</option>
+
+
+      <option value="/vs/haspect-ginette#jones-colleen">Haspect, Ginette</option>
+
+
+      <option value="/vs/hastings-sharon#jones-colleen">Hastings, Sharon</option>
+
+
+      <option value="/vs/hatton-sandra#jones-colleen">Hatton, Sandra</option>
+
+
+      <option value="/vs/henry-lou-ann#jones-colleen">Henry, Lou Ann</option>
+
+
+      <option value="/vs/hensley-merna#jones-colleen">Hensley, Merna</option>
+
+
+      <option value="/vs/hepper-dorothy#jones-colleen">Hepper, Dorothy</option>
+
+
+      <option value="/vs/hodson-kim#jones-colleen">Hodson, Kim</option>
+
+
+      <option value="/vs/holland-amber#jones-colleen">Holland, Amber</option>
+
+
+      <option value="/vs/hollands-saskia#jones-colleen">Hollands, Saskia</option>
+
+
+      <option value="/vs/holowec-ainsley#jones-colleen">Holowec, Ainsley</option>
+
+
+      <option value="/vs/holtby-taryn#jones-colleen">Holtby, Taryn</option>
+
+
+      <option value="/vs/homan-rachel#jones-colleen">Homan, Rachel</option>
+
+
+      <option value="/vs/hooper-perroud-jane#jones-colleen">Hooper-Perroud, Jane</option>
+
+
+      <option value="/vs/horne-kate#jones-colleen">Horne, Kate</option>
+
+
+      <option value="/vs/horte-rhonda#jones-colleen">Horte, Rhonda</option>
+
+
+      <option value="/vs/houston-heather#jones-colleen">Houston, Heather</option>
+
+
+      <option value="/vs/howse-lillian#jones-colleen">Howse, Lillian</option>
+
+
+      <option value="/vs/hunt-donna#jones-colleen">Hunt, Donna</option>
+
+
+      <option value="/vs/hunter-lana#jones-colleen">Hunter, Lana</option>
+
+
+      <option value="/vs/hutton-barb#jones-colleen">Hutton, Barb</option>
+
+
+      <option value="/vs/imai-rita#jones-colleen">Imai, Rita</option>
+
+
+      <option value="/vs/inouye-wendy#jones-colleen">Inouye, Wendy</option>
+
+
+      <option value="/vs/iskiw-beth#jones-colleen">Iskiw, Beth</option>
+
+
+      <option value="/vs/james-elizabeth#jones-colleen">James, Elizabeth</option>
+
+
+      <option value="/vs/jenkins-sandra#jones-colleen">Jenkins, Sandra</option>
+
+
+      <option value="/vs/johnston-atina#jones-colleen">Johnston, Atina</option>
+
+
+      <option value="/vs/johnston-joan#jones-colleen">Johnston, Joan</option>
+
+
+      <option value="/vs/johnston-kara#jones-colleen">Johnston, Kara</option>
+
+
+      <option value="/vs/johnstone-loralee#jones-colleen">Johnstone, Loralee</option>
+
+
+      <option value="/vs/jones-colleen#jones-jennifer">Jones, Jennifer</option>
+
+
+      <option value="/vs/jones-colleen#jones-karen">Jones, Karen</option>
+
+
+      <option value="/vs/jones-colleen#jones-walker-debbie">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/jones-colleen#jurgenson-christine">Jurgenson, Christine</option>
+
+
+      <option value="/vs/jones-colleen#kane-cynthia">Kane, Cynthia</option>
+
+
+      <option value="/vs/jones-colleen#karam-sally">Karam, Sally</option>
+
+
+      <option value="/vs/jones-colleen#kardash-delaine">Kardash, Delaine</option>
+
+
+      <option value="/vs/jones-colleen#kasner-marliese">Kasner, Marliese</option>
+
+
+      <option value="/vs/jones-colleen#kavanagh-sheila">Kavanagh, Sheila</option>
+
+
+      <option value="/vs/jones-colleen#kaylo-kelly">Kaylo, Kelly</option>
+
+
+      <option value="/vs/jones-colleen#kehler-lorie">Kehler, Lorie</option>
+
+
+      <option value="/vs/jones-colleen#kellerman-bev">Kellerman, Bev</option>
+
+
+      <option value="/vs/jones-colleen#kelly-andrea">Kelly, Andrea</option>
+
+
+      <option value="/vs/jones-colleen#kelly-anita">Kelly, Anita</option>
+
+
+      <option value="/vs/jones-colleen#kennah-elvera">Kennah, Elvera</option>
+
+
+      <option value="/vs/jones-colleen#kennedy-tracy">Kennedy, Tracy</option>
+
+
+      <option value="/vs/jones-colleen#kerr-heather">Kerr, Heather</option>
+
+
+      <option value="/vs/jones-colleen#kerr-kathy">Kerr, Kathy</option>
+
+
+      <option value="/vs/jones-colleen#kerr-nancy">Kerr, Nancy</option>
+
+
+      <option value="/vs/jones-colleen#keshen-christine">Keshen, Christine</option>
+
+
+      <option value="/vs/jones-colleen#king-cathy">King, Cathy</option>
+
+
+      <option value="/vs/jones-colleen#king-shirley">King, Shirley</option>
+
+
+      <option value="/vs/jones-colleen#kleibrink-shannon">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/jones-colleen#knowles-dawn">Knowles, Dawn</option>
+
+
+      <option value="/vs/jones-colleen#koehler-megan">Koehler, Megan</option>
+
+
+      <option value="/vs/jones-colleen#kreviazuk-alison">Kreviazuk, Alison</option>
+
+
+      <option value="/vs/jones-colleen#kuruluk-kristen">Kuruluk, Kristen</option>
+
+
+      <option value="/vs/jones-colleen#laliberte-connie">Laliberte, Connie</option>
+
+
+      <option value="/vs/jones-colleen#lang-lorraine">Lang, Lorraine</option>
+
+
+      <option value="/vs/jones-colleen#lange-ann">Lange, Ann</option>
+
+
+      <option value="/vs/jones-colleen#large-gloria">Large, Gloria</option>
+
+
+      <option value="/vs/jones-colleen#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/jones-colleen#lavigne-denise">Lavigne, Denise</option>
+
+
+      <option value="/vs/jones-colleen#law-kelley">Law, Kelley</option>
+
+
+      <option value="/vs/jones-colleen#lawes-andrea">Lawes, Andrea</option>
+
+
+      <option value="/vs/jones-colleen#lawes-kaitlyn">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/jones-colleen#lawrence-margaret">Lawrence, Margaret</option>
+
+
+      <option value="/vs/jones-colleen#lawton-stefanie">Lawton, Stefanie</option>
+
+
+      <option value="/vs/jones-colleen#leach-wendy">Leach, Wendy</option>
+
+
+      <option value="/vs/jones-colleen#leahy-anne">Leahy, Anne</option>
+
+
+      <option value="/vs/jones-colleen#leblanc-lisa">Leblanc, Lisa</option>
+
+
+      <option value="/vs/jones-colleen#leclerc-valerie">Leclerc, Valerie</option>
+
+
+      <option value="/vs/jones-colleen#lecraw-carolyn">LeCraw, Carolyn</option>
+
+
+      <option value="/vs/jones-colleen#leger-stacey">Leger, Stacey</option>
+
+
+      <option value="/vs/jones-colleen#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/jones-colleen#lemire-nancy">Lemire, Nancy</option>
+
+
+      <option value="/vs/jones-colleen#leonard-judy">Leonard, Judy</option>
+
+
+      <option value="/vs/jones-colleen#letendre-pascale">Letendre, Pascale</option>
+
+
+      <option value="/vs/jones-colleen#lethbridge-sherry">Lethbridge, Sherry</option>
+
+
+      <option value="/vs/jones-colleen#lewis-kristy">Lewis, Kristy</option>
+
+
+      <option value="/vs/jones-colleen#lidgren-anna">Lidgren, Anna</option>
+
+
+      <option value="/vs/jones-colleen#linton-sherry">Linton, Sherry</option>
+
+
+      <option value="/vs/jones-colleen#loder-cherie-ann">Loder, Cherie-Ann</option>
+
+
+      <option value="/vs/jones-colleen#logan-louise">Logan, Louise</option>
+
+
+      <option value="/vs/jones-colleen#london-debra">London, Debra</option>
+
+
+      <option value="/vs/jones-colleen#lynn-diana">Lynn, Diana</option>
+
+
+      <option value="/vs/jones-colleen#macaulay-marion">MacAulay, Marion</option>
+
+
+      <option value="/vs/jones-colleen#maccallum-janice">MacCallum, Janice</option>
+
+
+      <option value="/vs/jones-colleen#macdiarmid-kristen">MacDiarmid, Kristen</option>
+
+
+      <option value="/vs/jones-colleen#macdonald-irene">MacDonald, Irene</option>
+
+
+      <option value="/vs/jones-colleen#macdonald-lawnie">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/jones-colleen#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/jones-colleen#macdonald-shelley">MacDonald, Shelley</option>
+
+
+      <option value="/vs/jones-colleen#macdougall-leslie">MacDougall, Leslie</option>
+
+
+      <option value="/vs/jones-colleen#mackay-carolyn">MacKay, Carolyn</option>
+
+
+      <option value="/vs/jones-colleen#mackenzie-doris">MacKenzie, Doris</option>
+
+
+      <option value="/vs/jones-colleen#macnutt-shelley">MacNutt, Shelley</option>
+
+
+      <option value="/vs/jones-colleen#macphee-robyn">MacPhee, Robyn</option>
+
+
+      <option value="/vs/jones-colleen#maher-pat">Maher, Pat</option>
+
+
+      <option value="/vs/jones-colleen#mair-jessica">Mair, Jessica</option>
+
+
+      <option value="/vs/jones-colleen#mallett-marla">Mallett, Marla</option>
+
+
+      <option value="/vs/jones-colleen#marchand-jessica">Marchand, Jessica</option>
+
+
+      <option value="/vs/jones-colleen#marchand-karine">Marchand, Karine</option>
+
+
+      <option value="/vs/jones-colleen#marchand-stephanie">Marchand, Stephanie</option>
+
+
+      <option value="/vs/jones-colleen#marchuk-lindy">Marchuk, Lindy</option>
+
+
+      <option value="/vs/jones-colleen#marcotte-nicole">Marcotte, Nicole</option>
+
+
+      <option value="/vs/jones-colleen#martin-denise">Martin, Denise</option>
+
+
+      <option value="/vs/jones-colleen#martin-heather">Martin, Heather</option>
+
+
+      <option value="/vs/jones-colleen#martineau-donna">Martineau, Donna</option>
+
+
+      <option value="/vs/jones-colleen#materi-roberta">Materi, Roberta</option>
+
+
+      <option value="/vs/jones-colleen#mattatall-mary">Mattatall, Mary</option>
+
+
+      <option value="/vs/jones-colleen#mcardle-cindy">McArdle, Cindy</option>
+
+
+      <option value="/vs/jones-colleen#mccagg-nystrom-heather">McCagg-Nystrom, Heather</option>
+
+
+      <option value="/vs/jones-colleen#mccallan-berniece">McCallan, Berniece</option>
+
+
+      <option value="/vs/jones-colleen#mccarville-krista">McCarville, Krista</option>
+
+
+      <option value="/vs/jones-colleen#mccarville-susan">McCarville, Susan</option>
+
+
+      <option value="/vs/jones-colleen#mccloy-elaine">McCloy, Elaine</option>
+
+
+      <option value="/vs/jones-colleen#mcconnery-nancy">McConnery, Nancy</option>
+
+
+      <option value="/vs/jones-colleen#mccurdy-susan">McCurdy, Susan</option>
+
+
+      <option value="/vs/jones-colleen#mccusker-joan">McCusker, Joan</option>
+
+
+      <option value="/vs/jones-colleen#mcdonald-tina">McDonald, Tina</option>
+
+
+      <option value="/vs/jones-colleen#mcedwards-kathy">McEdwards, Kathy</option>
+
+
+      <option value="/vs/jones-colleen#mcewen-dawn">McEwen, Dawn</option>
+
+
+      <option value="/vs/jones-colleen#mcgeary-lori">McGeary, Lori</option>
+
+
+      <option value="/vs/jones-colleen#mcgregor-rona">McGregor, Rona</option>
+
+
+      <option value="/vs/jones-colleen#mchugh-cindy">McHugh, Cindy</option>
+
+
+      <option value="/vs/jones-colleen#mcinnis-susan">McInnis, Susan</option>
+
+
+      <option value="/vs/jones-colleen#mcintee-karen">McIntee, Karen</option>
+
+
+      <option value="/vs/jones-colleen#mckendry-shirley">McKendry, Shirley</option>
+
+
+      <option value="/vs/jones-colleen#mcknight-patti">McKnight, Patti</option>
+
+
+      <option value="/vs/jones-colleen#mcleod-crystal">McLeod, Crystal</option>
+
+
+      <option value="/vs/jones-colleen#mcnamee-karen">McNamee, Karen</option>
+
+
+      <option value="/vs/jones-colleen#mcpherson-cheryl">McPherson, Cheryl</option>
+
+
+      <option value="/vs/jones-colleen#mcquarrie-myrna">McQuarrie, Myrna</option>
+
+
+      <option value="/vs/jones-colleen#mellis-sheila">Mellis, Sheila</option>
+
+
+      <option value="/vs/jones-colleen#merklinger-anne">Merklinger, Anne</option>
+
+
+      <option value="/vs/jones-colleen#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/jones-colleen#millar-beverley">Millar, Beverley</option>
+
+
+      <option value="/vs/jones-colleen#miller-maureen">Miller, Maureen</option>
+
+
+      <option value="/vs/jones-colleen#miller-wendy">Miller, Wendy</option>
+
+
+      <option value="/vs/jones-colleen#miskew-emma">Miskew, Emma</option>
+
+
+      <option value="/vs/jones-colleen#mitchell-marg">Mitchell, Marg</option>
+
+
+      <option value="/vs/jones-colleen#mittelstadt-candice">Mittelstadt, Candice</option>
+
+
+      <option value="/vs/jones-colleen#miyashita-joyce">Miyashita, Joyce</option>
+
+
+      <option value="/vs/jones-colleen#montgomery-kay">Montgomery, Kay</option>
+
+
+      <option value="/vs/jones-colleen#moore-kim">Moore, Kim</option>
+
+
+      <option value="/vs/jones-colleen#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/jones-colleen#moore-linda">Moore, Linda</option>
+
+
+      <option value="/vs/jones-colleen#more-chris">More, Chris</option>
+
+
+      <option value="/vs/jones-colleen#moriarty-monica">Moriarty, Monica</option>
+
+
+      <option value="/vs/jones-colleen#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/jones-colleen#moss-debbie">Moss, Debbie</option>
+
+
+      <option value="/vs/jones-colleen#mossman-angela">Mossman, Angela</option>
+
+
+      <option value="/vs/jones-colleen#muise-morgan">Muise, Morgan</option>
+
+
+      <option value="/vs/jones-colleen#mulroney-sandra">Mulroney, Sandra</option>
+
+
+      <option value="/vs/jones-colleen#muzika-shelley">Muzika, Shelley</option>
+
+
+      <option value="/vs/jones-colleen#narduzzi-joyce">Narduzzi, Joyce</option>
+
+
+      <option value="/vs/jones-colleen#naugler-tara">Naugler, Tara</option>
+
+
+      <option value="/vs/jones-colleen#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/jones-colleen#nicholls-brenda">Nicholls, Brenda</option>
+
+
+      <option value="/vs/jones-colleen#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/jones-colleen#nohr-diane">Nohr, Diane</option>
+
+
+      <option value="/vs/jones-colleen#norton-sandi">Norton, Sandi</option>
+
+
+      <option value="/vs/jones-colleen#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/jones-colleen#noye-marlene">Noye, Marlene</option>
+
+
+      <option value="/vs/jones-colleen#nugent-pamela">Nugent, Pamela</option>
+
+
+      <option value="/vs/jones-colleen#o-leary-susan">O'Leary, Susan</option>
+
+
+      <option value="/vs/jones-colleen#o-malley-carmel">O'Malley, Carmel</option>
+
+
+      <option value="/vs/jones-colleen#o-rourke-brittany">O'Rourke, Brittany</option>
+
+
+      <option value="/vs/jones-colleen#o-rourke-kathy">O'Rourke, Kathy</option>
+
+
+      <option value="/vs/jones-colleen#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/jones-colleen#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/jones-colleen#ondrack-wendy">Ondrack, Wendy</option>
+
+
+      <option value="/vs/jones-colleen#orser-anne">Orser, Anne</option>
+
+
+      <option value="/vs/jones-colleen#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/jones-colleen#ouellet-louise">Ouellet, Louise</option>
+
+
+      <option value="/vs/jones-colleen#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/jones-colleen#palinkas-gloria">Palinkas, Gloria</option>
+
+
+      <option value="/vs/jones-colleen#paradis-marilyn">Paradis, Marilyn</option>
+
+
+      <option value="/vs/jones-colleen#parker-barbara">Parker, Barbara</option>
+
+
+      <option value="/vs/jones-colleen#parsons-danielle">Parsons, Danielle</option>
+
+
+      <option value="/vs/jones-colleen#pasika-rona">Pasika, Rona</option>
+
+
+      <option value="/vs/jones-colleen#pendergast-judy">Pendergast, Judy</option>
+
+
+      <option value="/vs/jones-colleen#perron-leanne">Perron, Leanne</option>
+
+
+      <option value="/vs/jones-colleen#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/jones-colleen#phillips-laura">Phillips, Laura</option>
+
+
+      <option value="/vs/jones-colleen#phillips-margaret-lea">Phillips, Margaret Lea</option>
+
+
+      <option value="/vs/jones-colleen#pidzarko-chris">Pidzarko, Chris</option>
+
+
+      <option value="/vs/jones-colleen#pike-mavis">Pike, Mavis</option>
+
+
+      <option value="/vs/jones-colleen#pilling-gayle">Pilling, Gayle</option>
+
+
+      <option value="/vs/jones-colleen#pinkney-colleen">Pinkney, Colleen</option>
+
+
+      <option value="/vs/jones-colleen#porter-debbie">Porter, Debbie</option>
+
+
+      <option value="/vs/jones-colleen#porter-erin">Porter, Erin</option>
+
+
+      <option value="/vs/jones-colleen#potvin-gisele">Potvin, Gisele</option>
+
+
+      <option value="/vs/jones-colleen#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/jones-colleen#proctor-jill">Proctor, Jill</option>
+
+
+      <option value="/vs/jones-colleen#pross-margaret">Pross, Margaret</option>
+
+
+      <option value="/vs/jones-colleen#prosser-sandi">Prosser, Sandi</option>
+
+
+      <option value="/vs/jones-colleen#pruden-twyla">Pruden, Twyla</option>
+
+
+      <option value="/vs/jones-colleen#purdy-karen">Purdy, Karen</option>
+
+
+      <option value="/vs/jones-colleen#pushkar-diane">Pushkar, Diane</option>
+
+
+      <option value="/vs/jones-colleen#putland-rose">Putland, Rose</option>
+
+
+      <option value="/vs/jones-colleen#quesnell-norma">Quesnell, Norma</option>
+
+
+      <option value="/vs/jones-colleen#quinn-lori">Quinn, Lori</option>
+
+
+      <option value="/vs/jones-colleen#raby-odette">Raby, Odette</option>
+
+
+      <option value="/vs/jones-colleen#radchenka-tammy">Radchenka, Tammy</option>
+
+
+      <option value="/vs/jones-colleen#rainville-julie">Rainville, Julie</option>
+
+
+      <option value="/vs/jones-colleen#rayworth-bonnie-anne">Rayworth, Bonnie Anne</option>
+
+
+      <option value="/vs/jones-colleen#reddick-audrey">Reddick, Audrey</option>
+
+
+      <option value="/vs/jones-colleen#reed-shellan">Reed, Shellan</option>
+
+
+      <option value="/vs/jones-colleen#reid-patricia">Reid, Patricia</option>
+
+
+      <option value="/vs/jones-colleen#rempel-jane">Rempel, Jane</option>
+
+
+      <option value="/vs/jones-colleen#renouf-michele">Renouf, Michele</option>
+
+
+      <option value="/vs/jones-colleen#reynolds-lynn">Reynolds, Lynn</option>
+
+
+      <option value="/vs/jones-colleen#ridalls-kristen">Ridalls, Kristen</option>
+
+
+      <option value="/vs/jones-colleen#rizzo-jo-ann">Rizzo, Jo-Ann</option>
+
+
+      <option value="/vs/jones-colleen#roberts-angela">Roberts, Angela</option>
+
+
+      <option value="/vs/jones-colleen#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/jones-colleen#robinson-charlene">Robinson, Charlene</option>
+
+
+      <option value="/vs/jones-colleen#robinson-julia">Robinson, Julia</option>
+
+
+      <option value="/vs/jones-colleen#robinson-lori">Robinson, Lori</option>
+
+
+      <option value="/vs/jones-colleen#rocheleau-patty">Rocheleau, Patty</option>
+
+
+      <option value="/vs/jones-colleen#rocque-raylene">Rocque, Raylene</option>
+
+
+      <option value="/vs/jones-colleen#roland-mavis">Roland, Mavis</option>
+
+
+      <option value="/vs/jones-colleen#rose-dorothy">Rose, Dorothy</option>
+
+
+      <option value="/vs/jones-colleen#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/jones-colleen#rudd-colleen">Rudd, Colleen</option>
+
+
+      <option value="/vs/jones-colleen#rudulier-andrea">Rudulier, Andrea</option>
+
+
+      <option value="/vs/jones-colleen#ruus-karen">Ruus, Karen</option>
+
+
+      <option value="/vs/jones-colleen#ryan-diane">Ryan, Diane</option>
+
+
+      <option value="/vs/jones-colleen#ryan-penny">Ryan, Penny</option>
+
+
+      <option value="/vs/jones-colleen#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/jones-colleen#sanders-pat">Sanders, Pat</option>
+
+
+      <option value="/vs/jones-colleen#sandison-janice">Sandison, Janice</option>
+
+
+      <option value="/vs/jones-colleen#santos-deb">Santos, Deb</option>
+
+
+      <option value="/vs/jones-colleen#sauer-cathy">Sauer, Cathy</option>
+
+
+      <option value="/vs/jones-colleen#scales-julie">Scales, Julie</option>
+
+
+      <option value="/vs/jones-colleen#schmirler-sandra">Schmirler, Sandra</option>
+
+
+      <option value="/vs/jones-colleen#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/jones-colleen#schroter-amber">Schroter, Amber</option>
+
+
+      <option value="/vs/jones-colleen#scott-donna">Scott, Donna</option>
+
+
+      <option value="/vs/jones-colleen#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/jones-colleen#sharpe-kelli">Sharpe, Kelli</option>
+
+
+      <option value="/vs/jones-colleen#shaw-cathy">Shaw, Cathy</option>
+
+
+      <option value="/vs/jones-colleen#shephard-wendy">Shephard, Wendy</option>
+
+
+      <option value="/vs/jones-colleen#sherrington-barb">Sherrington, Barb</option>
+
+
+      <option value="/vs/jones-colleen#shigehiro-sally">Shigehiro, Sally</option>
+
+
+      <option value="/vs/jones-colleen#shumay-jill">Shumay, Jill</option>
+
+
+      <option value="/vs/jones-colleen#simons-renee">Simons, Renee</option>
+
+
+      <option value="/vs/jones-colleen#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/jones-colleen#skinner-julie">Skinner, Julie</option>
+
+
+      <option value="/vs/jones-colleen#slemko-jean">Slemko, Jean</option>
+
+
+      <option value="/vs/jones-colleen#smith-heather">Smith, Heather</option>
+
+
+      <option value="/vs/jones-colleen#smith-martha">Smith, Martha</option>
+
+
+      <option value="/vs/jones-colleen#smith-nikki">Smith, Nikki</option>
+
+
+      <option value="/vs/jones-colleen#smith-yvonne">Smith, Yvonne</option>
+
+
+      <option value="/vs/jones-colleen#snider-shelly">Snider, Shelly</option>
+
+
+      <option value="/vs/jones-colleen#soligo-melissa">Soligo, Melissa</option>
+
+
+      <option value="/vs/jones-colleen#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/jones-colleen#sparkes-lindsay">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/jones-colleen#sparrow-sandra">Sparrow, Sandra</option>
+
+
+      <option value="/vs/jones-colleen#spencer-barb">Spencer, Barb</option>
+
+
+      <option value="/vs/jones-colleen#squire-velva">Squire, Velva</option>
+
+
+      <option value="/vs/jones-colleen#stabel-stacey">Stabel, Stacey</option>
+
+
+      <option value="/vs/jones-colleen#stahl-carrie">Stahl, Carrie</option>
+
+
+      <option value="/vs/jones-colleen#stewart-sheri">Stewart, Sheri</option>
+
+
+      <option value="/vs/jones-colleen#stokes-debbie">Stokes, Debbie</option>
+
+
+      <option value="/vs/jones-colleen#stoyka-linda">Stoyka, Linda</option>
+
+
+      <option value="/vs/jones-colleen#strachan-angela">Strachan, Angela</option>
+
+
+      <option value="/vs/jones-colleen#street-cindy">Street, Cindy</option>
+
+
+      <option value="/vs/jones-colleen#streifel-tracy">Streifel, Tracy</option>
+
+
+      <option value="/vs/jones-colleen#stricker-joan">Stricker, Joan</option>
+
+
+      <option value="/vs/jones-colleen#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/jones-colleen#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/jones-colleen#stubbings-tiffany">Stubbings, Tiffany</option>
+
+
+      <option value="/vs/jones-colleen#summach-diana">Summach, Diana</option>
+
+
+      <option value="/vs/jones-colleen#sutton-jodie">Sutton, Jodie</option>
+
+
+      <option value="/vs/jones-colleen#tanasichuk-rose">Tanasichuk, Rose</option>
+
+
+      <option value="/vs/jones-colleen#tanner-allison">Tanner, Allison</option>
+
+
+      <option value="/vs/jones-colleen#tanner-ros">Tanner, Ros</option>
+
+
+      <option value="/vs/jones-colleen#tasaka-adina">Tasaka, Adina</option>
+
+
+      <option value="/vs/jones-colleen#taylor-candy">Taylor, Candy</option>
+
+
+      <option value="/vs/jones-colleen#thomas-karen">Thomas, Karen</option>
+
+
+      <option value="/vs/jones-colleen#thomas-maria">Thomas, Maria</option>
+
+
+      <option value="/vs/jones-colleen#thompson-carol">Thompson, Carol</option>
+
+
+      <option value="/vs/jones-colleen#thompson-elayne">Thompson, Elayne</option>
+
+
+      <option value="/vs/jones-colleen#thompson-gillian">Thompson, Gillian</option>
+
+
+      <option value="/vs/jones-colleen#thompson-louise">Thompson, Louise</option>
+
+
+      <option value="/vs/jones-colleen#thompson-may">Thompson, May</option>
+
+
+      <option value="/vs/jones-colleen#thurston-jill">Thurston, Jill</option>
+
+
+      <option value="/vs/jones-colleen#tincher-twyla">Tincher, Twyla</option>
+
+
+      <option value="/vs/jones-colleen#todd-fran">Todd, Fran</option>
+
+
+      <option value="/vs/jones-colleen#tousignant-helene">Tousignant, Helene</option>
+
+
+      <option value="/vs/jones-colleen#train-mona">Train, Mona</option>
+
+
+      <option value="/vs/jones-colleen#trider-krista">Trider, Krista</option>
+
+
+      <option value="/vs/jones-colleen#tuck-kim">Tuck, Kim</option>
+
+
+      <option value="/vs/jones-colleen#tuck-kimberly">Tuck, Kimberly</option>
+
+
+      <option value="/vs/jones-colleen#tucker-cindy">Tucker, Cindy</option>
+
+
+      <option value="/vs/jones-colleen#turcotte-kristin">Turcotte, Kristin</option>
+
+
+      <option value="/vs/jones-colleen#turney-nancy">Turney, Nancy</option>
+
+
+      <option value="/vs/jones-colleen#unrau-faye">Unrau, Faye</option>
+
+
+      <option value="/vs/jones-colleen#usher-leanne">Usher, Leanne</option>
+
+
+      <option value="/vs/jones-colleen#vautour-chantel">Vautour, Chantel</option>
+
+
+      <option value="/vs/jones-colleen#walker-lisa">Walker, Lisa</option>
+
+
+      <option value="/vs/jones-colleen#wall-kirsten">Wall, Kirsten</option>
+
+
+      <option value="/vs/jones-colleen#wall-mary-lou">Wall, Mary Lou</option>
+
+
+      <option value="/vs/jones-colleen#walsh-heather">Walsh, Heather</option>
+
+
+      <option value="/vs/jones-colleen#walter-cathy">Walter, Cathy</option>
+
+
+      <option value="/vs/jones-colleen#walter-sheila">Walter, Sheila</option>
+
+
+      <option value="/vs/jones-colleen#wasylkiw-lauren">Wasylkiw, Lauren</option>
+
+
+      <option value="/vs/jones-colleen#wazney-sarah">Wazney, Sarah</option>
+
+
+      <option value="/vs/jones-colleen#weagle-lisa">Weagle, Lisa</option>
+
+
+      <option value="/vs/jones-colleen#webb-corine">Webb, Corine</option>
+
+
+      <option value="/vs/jones-colleen#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/jones-colleen#werenka-lil">Werenka, Lil</option>
+
+
+      <option value="/vs/jones-colleen#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/jones-colleen#whitaker-lisa">Whitaker, Lisa</option>
+
+
+      <option value="/vs/jones-colleen#whitlock-margaret">Whitlock, Margaret</option>
+
+
+      <option value="/vs/jones-colleen#whitrow-leanne">Whitrow, Leanne</option>
+
+
+      <option value="/vs/jones-colleen#whitten-beverley">Whitten, Beverley</option>
+
+
+      <option value="/vs/jones-colleen#wieler-bev">Wieler, Bev</option>
+
+
+      <option value="/vs/jones-colleen#willms-karri">Willms, Karri</option>
+
+
+      <option value="/vs/jones-colleen#wilson-patty">Wilson, Patty</option>
+
+
+      <option value="/vs/jones-colleen#wilson-robin">Wilson, Robin</option>
+
+
+      <option value="/vs/jones-colleen#witt-katie">Witt, Katie</option>
+
+
+      <option value="/vs/jones-colleen#wright-joanne">Wright, Joanne</option>
+
+
+      <option value="/vs/jones-colleen#wright-susan">Wright, Susan</option>
+
+
+      <option value="/vs/jones-colleen#wuthrich-patti">Wuthrich, Patti</option>
+
+
+      <option value="/vs/jones-colleen#young-karen">Young, Karen</option>
+
+
+      <option value="/vs/jones-colleen#zeller-lori">Zeller, Lori</option>
+
+
+      <option value="/vs/jones-colleen#zielke-colleen">Zielke, Colleen</option>
+
+
+      <option value="/vs/jones-colleen#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

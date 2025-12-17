@@ -1,0 +1,1002 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Ed Lukowich
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Ed Lukowich <i class="fe fe-user-plus" data-name="Lukowich, Ed" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1983">1983</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>118</td>
+  <td>82</td>
+  <td>107</td>
+  <td>81</td>
+  <td>105</td>
+  <td>83</td>
+  <td>120</td>
+  <td>80</td>
+  <td>225</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1984">1984</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>107</td>
+  <td>72</td>
+  <td>109</td>
+  <td>80</td>
+  <td>93</td>
+  <td>70</td>
+  <td>123</td>
+  <td>80</td>
+  <td>216</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1986">1986</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>99</td>
+  <td>81</td>
+  <td>131</td>
+  <td>84</td>
+  <td>105</td>
+  <td>80</td>
+  <td>125</td>
+  <td>86</td>
+  <td>230</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1994">1994</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="AB"><a href="../brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>95</td>
+  <td>63</td>
+  <td>121</td>
+  <td>74</td>
+  <td>109</td>
+  <td>68</td>
+  <td>107</td>
+  <td>70</td>
+  <td>216</td>
+  <td>69</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1978">1978</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>47</td>
+  <td>33</td>
+  <td>14</td>
+  <td>419</td>
+  <td>75</td>
+  <td>468</td>
+  <td>80</td>
+  <td>412</td>
+  <td>75</td>
+  <td>475</td>
+  <td>79</td>
+  <td>887</td>
+  <td>77</td>
+</tr>
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abel-clinton#lukowich-ed">Abel, Clinton</option>
+
+
+      <option value="/vs/adams-kevin#lukowich-ed">Adams, Kevin</option>
+
+
+      <option value="/vs/aldridge-glenn#lukowich-ed">Aldridge, Glenn</option>
+
+
+      <option value="/vs/allan-john#lukowich-ed">Allan, John</option>
+
+
+      <option value="/vs/andrews-robert#lukowich-ed">Andrews, Robert</option>
+
+
+      <option value="/vs/armstrong-jim#lukowich-ed">Armstrong, Jim</option>
+
+
+      <option value="/vs/arsenault-craig#lukowich-ed">Arsenault, Craig</option>
+
+
+      <option value="/vs/ballantyne-john#lukowich-ed">Ballantyne, John</option>
+
+
+      <option value="/vs/barrette-yves#lukowich-ed">Barrette, Yves</option>
+
+
+      <option value="/vs/bauer-keiven#lukowich-ed">Bauer, Keiven</option>
+
+
+      <option value="/vs/belcourt-tim#lukowich-ed">Belcourt, Tim</option>
+
+
+      <option value="/vs/belyea-richard#lukowich-ed">Belyea, Richard</option>
+
+
+      <option value="/vs/bernard-mel#lukowich-ed">Bernard, Mel</option>
+
+
+      <option value="/vs/blanchard-wade#lukowich-ed">Blanchard, Wade</option>
+
+
+      <option value="/vs/bothamley-doug#lukowich-ed">Bothamley, Doug</option>
+
+
+      <option value="/vs/bourque-don#lukowich-ed">Bourque, Don</option>
+
+
+      <option value="/vs/bowcock-edward#lukowich-ed">Bowcock, Edward</option>
+
+
+      <option value="/vs/brazeau-howard#lukowich-ed">Brazeau, Howard</option>
+
+
+      <option value="/vs/bryden-gary#lukowich-ed">Bryden, Gary</option>
+
+
+      <option value="/vs/buckle-andrew#lukowich-ed">Buckle, Andrew</option>
+
+
+      <option value="/vs/campbell-bill-jr#lukowich-ed">Campbell, Bill Jr.</option>
+
+
+      <option value="/vs/carr-brian#lukowich-ed">Carr, Brian</option>
+
+
+      <option value="/vs/carstairs-kent#lukowich-ed">Carstairs, Kent</option>
+
+
+      <option value="/vs/casey-ronald#lukowich-ed">Casey, Ronald</option>
+
+
+      <option value="/vs/cecil-denis#lukowich-ed">Cecil, Denis</option>
+
+
+      <option value="/vs/clarke-haylett#lukowich-ed">Clarke, Haylett</option>
+
+
+      <option value="/vs/coady-mike#lukowich-ed">Coady, Mike</option>
+
+
+      <option value="/vs/cook-al#lukowich-ed">Cook, Al</option>
+
+
+      <option value="/vs/cormier-robert#lukowich-ed">Cormier, Robert</option>
+
+
+      <option value="/vs/corner-peter#lukowich-ed">Corner, Peter</option>
+
+
+      <option value="/vs/coulter-mike#lukowich-ed">Coulter, Mike</option>
+
+
+      <option value="/vs/cunningham-geoff#lukowich-ed">Cunningham, Geoff</option>
+
+
+      <option value="/vs/currie-michael#lukowich-ed">Currie, Michael</option>
+
+
+      <option value="/vs/darragh-alan#lukowich-ed">Darragh, Alan</option>
+
+
+      <option value="/vs/dauphinee-andrew#lukowich-ed">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/davidson-robert#lukowich-ed">Davidson, Robert</option>
+
+
+      <option value="/vs/delmage-al#lukowich-ed">Delmage, Al</option>
+
+
+      <option value="/vs/dobson-arnie#lukowich-ed">Dobson, Arnie</option>
+
+
+      <option value="/vs/dobson-brian#lukowich-ed">Dobson, Brian</option>
+
+
+      <option value="/vs/dobson-michael#lukowich-ed">Dobson, Michael</option>
+
+
+      <option value="/vs/doyon-ghislain#lukowich-ed">Doyon, Ghislain</option>
+
+
+      <option value="/vs/ducat-stephen#lukowich-ed">Ducat, Stephen</option>
+
+
+      <option value="/vs/durant-fred#lukowich-ed">Durant, Fred</option>
+
+
+      <option value="/vs/eden-brian#lukowich-ed">Eden, Brian</option>
+
+
+      <option value="/vs/edl-don#lukowich-ed">Edl, Don</option>
+
+
+      <option value="/vs/elliott-rick#lukowich-ed">Elliott, Rick</option>
+
+
+      <option value="/vs/evoy-rich#lukowich-ed">Evoy, Rich</option>
+
+
+      <option value="/vs/feldman-alfred#lukowich-ed">Feldman, Alfred</option>
+
+
+      <option value="/vs/fennimore-charles#lukowich-ed">Fennimore, Charles</option>
+
+
+      <option value="/vs/fizzard-blake#lukowich-ed">Fizzard, Blake</option>
+
+
+      <option value="/vs/folk-rick#lukowich-ed">Folk, Rick</option>
+
+
+      <option value="/vs/foss-wilf#lukowich-ed">Foss, Wilf</option>
+
+
+      <option value="/vs/foy-sandy#lukowich-ed">Foy, Sandy</option>
+
+
+      <option value="/vs/gardner-reg#lukowich-ed">Gardner, Reg</option>
+
+
+      <option value="/vs/gaudet-mike#lukowich-ed">Gaudet, Mike</option>
+
+
+      <option value="/vs/gervais-martin#lukowich-ed">Gervais, Martin</option>
+
+
+      <option value="/vs/giles-roy#lukowich-ed">Giles, Roy</option>
+
+
+      <option value="/vs/goulden-lowell#lukowich-ed">Goulden, Lowell</option>
+
+
+      <option value="/vs/graham-dale#lukowich-ed">Graham, Dale</option>
+
+
+      <option value="/vs/grant-scott#lukowich-ed">Grant, Scott</option>
+
+
+      <option value="/vs/gretzinger-bert#lukowich-ed">Gretzinger, Bert</option>
+
+
+      <option value="/vs/grundy-john#lukowich-ed">Grundy, John</option>
+
+
+      <option value="/vs/guest-ross#lukowich-ed">Guest, Ross</option>
+
+
+      <option value="/vs/gunnlaugson-lloyd#lukowich-ed">Gunnlaugson, Lloyd</option>
+
+
+      <option value="/vs/hale-robert#lukowich-ed">Hale, Robert</option>
+
+
+      <option value="/vs/hamelmann-chris#lukowich-ed">Hamelmann, Chris</option>
+
+
+      <option value="/vs/harcourt-doug#lukowich-ed">Harcourt, Doug</option>
+
+
+      <option value="/vs/harcourt-greg#lukowich-ed">Harcourt, Greg</option>
+
+
+      <option value="/vs/harnden-al#lukowich-ed">Harnden, Al</option>
+
+
+      <option value="/vs/harnden-eric#lukowich-ed">Harnden, Eric</option>
+
+
+      <option value="/vs/harris-tyler#lukowich-ed">Harris, Tyler</option>
+
+
+      <option value="/vs/harrison-doug#lukowich-ed">Harrison, Doug</option>
+
+
+      <option value="/vs/harrison-neil#lukowich-ed">Harrison, Neil</option>
+
+
+      <option value="/vs/heintz-jim#lukowich-ed">Heintz, Jim</option>
+
+
+      <option value="/vs/helston-john#lukowich-ed">Helston, John</option>
+
+
+      <option value="/vs/henry-terry#lukowich-ed">Henry, Terry</option>
+
+
+      <option value="/vs/hess-gordon#lukowich-ed">Hess, Gordon</option>
+
+
+      <option value="/vs/hinks-geoffrey#lukowich-ed">Hinks, Geoffrey</option>
+
+
+      <option value="/vs/hodson-gerry#lukowich-ed">Hodson, Gerry</option>
+
+
+      <option value="/vs/hoffman-richard#lukowich-ed">Hoffman, Richard</option>
+
+
+      <option value="/vs/howard-glenn#lukowich-ed">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#lukowich-ed">Howard, Russ</option>
+
+
+      <option value="/vs/johannesson-harold#lukowich-ed">Johannesson, Harold</option>
+
+
+      <option value="/vs/johnston-bill#lukowich-ed">Johnston, Bill</option>
+
+
+      <option value="/vs/johnston-steve#lukowich-ed">Johnston, Steve</option>
+
+
+      <option value="/vs/kalthoff-kevin#lukowich-ed">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/kamp-ragnar#lukowich-ed">Kamp, Ragnar</option>
+
+
+      <option value="/vs/kapicki-ron#lukowich-ed">Kapicki, Ron</option>
+
+
+      <option value="/vs/kawaja-john#lukowich-ed">Kawaja, John</option>
+
+
+      <option value="/vs/kuroyama-robert#lukowich-ed">Kuroyama, Robert</option>
+
+
+      <option value="/vs/langille-vic#lukowich-ed">Langille, Vic</option>
+
+
+      <option value="/vs/larocque-guy#lukowich-ed">LaRocque, Guy</option>
+
+
+      <option value="/vs/lauziere-claude#lukowich-ed">Lauziere, Claude</option>
+
+
+      <option value="/vs/lawrence-harry#lukowich-ed">Lawrence, Harry</option>
+
+
+      <option value="/vs/ledgerwood-allan#lukowich-ed">Ledgerwood, Allan</option>
+
+
+      <option value="/vs/lemay-jean-yves#lukowich-ed">Lemay, Jean-Yves</option>
+
+
+      <option value="/vs/lewis-wayne#lukowich-ed">Lewis, Wayne</option>
+
+
+      <option value="/vs/loevenmark-phil#lukowich-ed">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lowe-wayne#lukowich-ed">Lowe, Wayne</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-doug">MacDonald, Doug</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-ken">MacDonald, Ken</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-peter">MacDonald, Peter</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-robert">MacDonald, Robert</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-rod">MacDonald, Rod</option>
+
+
+      <option value="/vs/lukowich-ed#macdonald-ronald">MacDonald, Ronald</option>
+
+
+      <option value="/vs/lukowich-ed#maceachern-malcolm">MacEachern, Malcolm</option>
+
+
+      <option value="/vs/lukowich-ed#macfadyen-bill">MacFadyen, Bill</option>
+
+
+      <option value="/vs/lukowich-ed#macfadyen-ted">MacFadyen, Ted</option>
+
+
+      <option value="/vs/lukowich-ed#macfarlane-john">MacFarlane, John</option>
+
+
+      <option value="/vs/lukowich-ed#mackenzie-eddie">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/lukowich-ed#mackinnon-norbert">MacKinnon, Norbert</option>
+
+
+      <option value="/vs/lukowich-ed#macphee-peter">MacPhee, Peter</option>
+
+
+      <option value="/vs/lukowich-ed#macwilliams-john">MacWilliams, John</option>
+
+
+      <option value="/vs/lukowich-ed#marchand-denis">Marchand, Denis</option>
+
+
+      <option value="/vs/lukowich-ed#martin-darrell">Martin, Darrell</option>
+
+
+      <option value="/vs/lukowich-ed#matheson-wayne">Matheson, Wayne</option>
+
+
+      <option value="/vs/lukowich-ed#maurice-jean">Maurice, Jean</option>
+
+
+      <option value="/vs/lukowich-ed#mccarron-rod">McCarron, Rod</option>
+
+
+      <option value="/vs/lukowich-ed#mcclelland-john">McClelland, John</option>
+
+
+      <option value="/vs/lukowich-ed#mcknight-gord">McKnight, Gord</option>
+
+
+      <option value="/vs/lukowich-ed#mclenaghan-ralph">McLenaghan, Ralph</option>
+
+
+      <option value="/vs/lukowich-ed#mcphee-barry">McPhee, Barry</option>
+
+
+      <option value="/vs/lukowich-ed#melnyk-thomas">Melnyk, Thomas</option>
+
+
+      <option value="/vs/lukowich-ed#menard-gerry">Menard, Gerry</option>
+
+
+      <option value="/vs/lukowich-ed#middaugh-wayne">Middaugh, Wayne</option>
+
+
+      <option value="/vs/lukowich-ed#millard-neil">Millard, Neil</option>
+
+
+      <option value="/vs/lukowich-ed#mitchell-kevin">Mitchell, Kevin</option>
+
+
+      <option value="/vs/lukowich-ed#moore-claude">Moore, Claude</option>
+
+
+      <option value="/vs/lukowich-ed#moss-steve">Moss, Steve</option>
+
+
+      <option value="/vs/lukowich-ed#murovic-karl">Murovic, Karl</option>
+
+
+      <option value="/vs/lukowich-ed#murray-peter">Murray, Peter</option>
+
+
+      <option value="/vs/lukowich-ed#mutrie-barry">Mutrie, Barry</option>
+
+
+      <option value="/vs/lukowich-ed#muyres-craig">Muyres, Craig</option>
+
+
+      <option value="/vs/lukowich-ed#muyres-garth">Muyres, Garth</option>
+
+
+      <option value="/vs/lukowich-ed#muyres-lyle">Muyres, Lyle</option>
+
+
+      <option value="/vs/lukowich-ed#muyres-warren">Muyres, Warren</option>
+
+
+      <option value="/vs/lukowich-ed#nicholls-peter">Nicholls, Peter</option>
+
+
+      <option value="/vs/lukowich-ed#noseworthy-mark">Noseworthy, Mark</option>
+
+
+      <option value="/vs/lukowich-ed#o-driscoll-frank">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/lukowich-ed#o-leary-alan">O'Leary, Alan</option>
+
+
+      <option value="/vs/lukowich-ed#ogden-steve">Ogden, Steve</option>
+
+
+      <option value="/vs/lukowich-ed#oke-gary">Oke, Gary</option>
+
+
+      <option value="/vs/lukowich-ed#oliver-bill">Oliver, Bill</option>
+
+
+      <option value="/vs/lukowich-ed#packet-jim">Packet, Jim</option>
+
+
+      <option value="/vs/lukowich-ed#pacquin-rolland">Pacquin, Rolland</option>
+
+
+      <option value="/vs/lukowich-ed#palk-shelly">Palk, Shelly</option>
+
+
+      <option value="/vs/lukowich-ed#paterson-barry">Paterson, Barry</option>
+
+
+      <option value="/vs/lukowich-ed#paterson-gordon">Paterson, Gordon</option>
+
+
+      <option value="/vs/lukowich-ed#patterson-scott">Patterson, Scott</option>
+
+
+      <option value="/vs/lukowich-ed#philip-dan">Philip, Dan</option>
+
+
+      <option value="/vs/lukowich-ed#piggott-steve">Piggott, Steve</option>
+
+
+      <option value="/vs/lukowich-ed#pilling-anthony">Pilling, Anthony</option>
+
+
+      <option value="/vs/lukowich-ed#reddick-don">Reddick, Don</option>
+
+
+      <option value="/vs/lukowich-ed#richard-gerry">Richard, Gerry</option>
+
+
+      <option value="/vs/lukowich-ed#riley-mike">Riley, Mike</option>
+
+
+      <option value="/vs/lukowich-ed#robar-jack">Robar, Jack</option>
+
+
+      <option value="/vs/lukowich-ed#ross-john-k">Ross, John K.</option>
+
+
+      <option value="/vs/lukowich-ed#rowe-robert">Rowe, Robert</option>
+
+
+      <option value="/vs/lukowich-ed#ryan-don">Ryan, Don</option>
+
+
+      <option value="/vs/lukowich-ed#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/lukowich-ed#salina-charlie">Salina, Charlie</option>
+
+
+      <option value="/vs/lukowich-ed#sampson-james">Sampson, James</option>
+
+
+      <option value="/vs/lukowich-ed#savage-paul">Savage, Paul</option>
+
+
+      <option value="/vs/lukowich-ed#schaefer-charles">Schaefer, Charles</option>
+
+
+      <option value="/vs/lukowich-ed#schaefer-james">Schaefer, James</option>
+
+
+      <option value="/vs/lukowich-ed#schleppe-dave">Schleppe, Dave</option>
+
+
+      <option value="/vs/lukowich-ed#schmidt-rodger">Schmidt, Rodger</option>
+
+
+      <option value="/vs/lukowich-ed#schoenne-klaus">Schoenne, Klaus</option>
+
+
+      <option value="/vs/lukowich-ed#smith-dave">Smith, Dave</option>
+
+
+      <option value="/vs/lukowich-ed#somers-grant">Somers, Grant</option>
+
+
+      <option value="/vs/lukowich-ed#sparkes-bernie">Sparkes, Bernie</option>
+
+
+      <option value="/vs/lukowich-ed#strain-bill">Strain, Bill</option>
+
+
+      <option value="/vs/lukowich-ed#strang-don">Strang, Don</option>
+
+
+      <option value="/vs/lukowich-ed#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/lukowich-ed#sullivan-charlie">Sullivan, Charlie</option>
+
+
+      <option value="/vs/lukowich-ed#sullivan-dave">Sullivan, Dave</option>
+
+
+      <option value="/vs/lukowich-ed#sweete-don">Sweete, Don</option>
+
+
+      <option value="/vs/lukowich-ed#thomas-jeff">Thomas, Jeff</option>
+
+
+      <option value="/vs/lukowich-ed#thomas-rob">Thomas, Rob</option>
+
+
+      <option value="/vs/lukowich-ed#thompson-robert">Thompson, Robert</option>
+
+
+      <option value="/vs/lukowich-ed#thompson-ron">Thompson, Ron</option>
+
+
+      <option value="/vs/lukowich-ed#toews-brian">Toews, Brian</option>
+
+
+      <option value="/vs/lukowich-ed#trecartin-douglas">Trecartin, Douglas</option>
+
+
+      <option value="/vs/lukowich-ed#trickett-eugene">Trickett, Eugene</option>
+
+
+      <option value="/vs/lukowich-ed#turner-malcolm">Turner, Malcolm</option>
+
+
+      <option value="/vs/lukowich-ed#victor-mark">Victor, Mark</option>
+
+
+      <option value="/vs/lukowich-ed#walsh-jim">Walsh, Jim</option>
+
+
+      <option value="/vs/lukowich-ed#warren-dave">Warren, Dave</option>
+
+
+      <option value="/vs/lukowich-ed#webster-glenn">Webster, Glenn</option>
+
+
+      <option value="/vs/lukowich-ed#wedge-keith">Wedge, Keith</option>
+
+
+      <option value="/vs/lukowich-ed#wempe-brian">Wempe, Brian</option>
+
+
+      <option value="/vs/lukowich-ed#werenich-ed">Werenich, Ed</option>
+
+
+      <option value="/vs/lukowich-ed#wilson-michael">Wilson, Michael</option>
+
+
+      <option value="/vs/lukowich-ed#wilson-tom">Wilson, Tom</option>
+
+
+      <option value="/vs/lukowich-ed#wood-bryan">Wood, Bryan</option>
+
+
+      <option value="/vs/lukowich-ed#wookey-russ">Wookey, Russ</option>
+
+
+      <option value="/vs/lukowich-ed#young-neil">Young, Neil</option>
+
+
+      <option value="/vs/lukowich-ed#zimmer-jerry">Zimmer, Jerry</option>
+
+
+      <option value="/vs/lukowich-ed#ziola-kirk">Ziola, Kirk</option>
+
+
+      <option value="/vs/lukowich-ed#ziola-monte">Ziola, Monte</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

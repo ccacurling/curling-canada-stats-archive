@@ -1,0 +1,1410 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Paul Flemming
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Paul Flemming <i class="fe fe-user-plus" data-name="Flemming, Paul" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1998">1998</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>81</td>
+  <td>66</td>
+  <td>115</td>
+  <td>75</td>
+  <td>97</td>
+  <td>72</td>
+  <td>99</td>
+  <td>71</td>
+  <td>196</td>
+  <td>71</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>92</td>
+  <td>81</td>
+  <td>131</td>
+  <td>83</td>
+  <td>83</td>
+  <td>83</td>
+  <td>140</td>
+  <td>82</td>
+  <td>223</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2001">2001</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>98</td>
+  <td>84</td>
+  <td>108</td>
+  <td>75</td>
+  <td>94</td>
+  <td>75</td>
+  <td>112</td>
+  <td>83</td>
+  <td>206</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2005">2005</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>126</td>
+  <td>81</td>
+  <td>148</td>
+  <td>86</td>
+  <td>90</td>
+  <td>80</td>
+  <td>184</td>
+  <td>86</td>
+  <td>274</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2011">2011</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>113</td>
+  <td>81</td>
+  <td>79</td>
+  <td>76</td>
+  <td>97</td>
+  <td>78</td>
+  <td>95</td>
+  <td>80</td>
+  <td>192</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2013">2013</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>1</td>
+  <td>10</td>
+  <td>82</td>
+  <td>75</td>
+  <td>110</td>
+  <td>84</td>
+  <td>103</td>
+  <td>79</td>
+  <td>89</td>
+  <td>82</td>
+  <td>192</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2018">2018</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>102</td>
+  <td>87</td>
+  <td>116</td>
+  <td>82</td>
+  <td>77</td>
+  <td>81</td>
+  <td>141</td>
+  <td>86</td>
+  <td>218</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2020">2020</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>7</td>
+  <td>3</td>
+  <td>4</td>
+  <td>59</td>
+  <td>90</td>
+  <td>69</td>
+  <td>79</td>
+  <td>45</td>
+  <td>83</td>
+  <td>83</td>
+  <td>85</td>
+  <td>128</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2021">2021</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>72</td>
+  <td>78</td>
+  <td>68</td>
+  <td>78</td>
+  <td>65</td>
+  <td>79</td>
+  <td>75</td>
+  <td>77</td>
+  <td>140</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2022">2022</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NS"><a href="../brier/team/ns">NS</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>3</td>
+  <td>5</td>
+  <td>75</td>
+  <td>75</td>
+  <td>67</td>
+  <td>71</td>
+  <td>71</td>
+  <td>74</td>
+  <td>71</td>
+  <td>73</td>
+  <td>142</td>
+  <td>73</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="ADA">ADA</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>62</td>
+  <td>77</td>
+  <td>116</td>
+  <td>89</td>
+  <td>79</td>
+  <td>81</td>
+  <td>99</td>
+  <td>88</td>
+  <td>178</td>
+  <td>85</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>104</td>
+  <td>49</td>
+  <td>55</td>
+  <td>900</td>
+  <td>80</td>
+  <td>1011</td>
+  <td>80</td>
+  <td>822</td>
+  <td>78</td>
+  <td>1089</td>
+  <td>81</td>
+  <td>1911</td>
+  <td>80</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>62</td>
+  <td>77</td>
+  <td>116</td>
+  <td>89</td>
+  <td>79</td>
+  <td>81</td>
+  <td>99</td>
+  <td>88</td>
+  <td>178</td>
+  <td>85</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#flemming-paul">Adam, Gerry</option>
+
+
+      <option value="/vs/alderman-dan#flemming-paul">Alderman, Dan</option>
+
+
+      <option value="/vs/alexander-trevor#flemming-paul">Alexander, Trevor</option>
+
+
+      <option value="/vs/appelman-tom#flemming-paul">Appelman, Tom</option>
+
+
+      <option value="/vs/armstrong-doug#flemming-paul">Armstrong, Doug</option>
+
+
+      <option value="/vs/assad-mike#flemming-paul">Assad, Mike</option>
+
+
+      <option value="/vs/asselin-emile#flemming-paul">Asselin, Emile</option>
+
+
+      <option value="/vs/asselin-felix#flemming-paul">Asselin, Felix</option>
+
+
+      <option value="/vs/bailey-scott#flemming-paul">Bailey, Scott</option>
+
+
+      <option value="/vs/bartlett-don#flemming-paul">Bartlett, Don</option>
+
+
+      <option value="/vs/bedard-alek#flemming-paul">Bedard, Alek</option>
+
+
+      <option value="/vs/bilesky-andrew#flemming-paul">Bilesky, Andrew</option>
+
+
+      <option value="/vs/blanchard-wade#flemming-paul">Blanchard, Wade</option>
+
+
+      <option value="/vs/blyde-greg#flemming-paul">Blyde, Greg</option>
+
+
+      <option value="/vs/boland-adam#flemming-paul">Boland, Adam</option>
+
+
+      <option value="/vs/borden-robert#flemming-paul">Borden, Robert</option>
+
+
+      <option value="/vs/bottcher-brendan#flemming-paul">Bottcher, Brendan</option>
+
+
+      <option value="/vs/bouchard-christian#flemming-paul">Bouchard, Christian</option>
+
+
+      <option value="/vs/burgess-bryan#flemming-paul">Burgess, Bryan</option>
+
+
+      <option value="/vs/burtnyk-kerry#flemming-paul">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-mark#flemming-paul">Butler, Mark</option>
+
+
+      <option value="/vs/camm-mathew#flemming-paul">Camm, Mathew</option>
+
+
+      <option value="/vs/campbell-robert#flemming-paul">Campbell, Robert</option>
+
+
+      <option value="/vs/carmody-anson#flemming-paul">Carmody, Anson</option>
+
+
+      <option value="/vs/carruthers-reid#flemming-paul">Carruthers, Reid</option>
+
+
+      <option value="/vs/case-peter#flemming-paul">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#flemming-paul">Casey, Adam</option>
+
+
+      <option value="/vs/champion-kevin#flemming-paul">Champion, Kevin</option>
+
+
+      <option value="/vs/charette-pierre#flemming-paul">Charette, Pierre</option>
+
+
+      <option value="/vs/chorostkowski-brad#flemming-paul">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/chown-jeff#flemming-paul">Chown, Jeff</option>
+
+
+      <option value="/vs/chugg-brad#flemming-paul">Chugg, Brad</option>
+
+
+      <option value="/vs/cochrane-bryan#flemming-paul">Cochrane, Bryan</option>
+
+
+      <option value="/vs/cotter-jim#flemming-paul">Cotter, Jim</option>
+
+
+      <option value="/vs/crete-martin#flemming-paul">Crete, Martin</option>
+
+
+      <option value="/vs/currie-morgan#flemming-paul">Currie, Morgan</option>
+
+
+      <option value="/vs/cursons-neil#flemming-paul">Cursons, Neil</option>
+
+
+      <option value="/vs/dacey-mark#flemming-paul">Dacey, Mark</option>
+
+
+      <option value="/vs/danbrook-jamie#flemming-paul">Danbrook, Jamie</option>
+
+
+      <option value="/vs/desjardins-robert#flemming-paul">Desjardins, Robert</option>
+
+
+      <option value="/vs/despins-glen#flemming-paul">Despins, Glen</option>
+
+
+      <option value="/vs/dillon-mike#flemming-paul">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-mark#flemming-paul">Dobson, Mark</option>
+
+
+      <option value="/vs/dobson-paul#flemming-paul">Dobson, Paul</option>
+
+
+      <option value="/vs/duguid-dale#flemming-paul">Duguid, Dale</option>
+
+
+      <option value="/vs/dumontelle-matt#flemming-paul">Dumontelle, Matt</option>
+
+
+      <option value="/vs/dunstone-matt#flemming-paul">Dunstone, Matt</option>
+
+
+      <option value="/vs/dutiaume-randy#flemming-paul">Dutiaume, Randy</option>
+
+
+      <option value="/vs/elias-dave#flemming-paul">Elias, Dave</option>
+
+
+      <option value="/vs/elmaleh-maxime#flemming-paul">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/epping-john#flemming-paul">Epping, John</option>
+
+
+      <option value="/vs/errington-derek#flemming-paul">Errington, Derek</option>
+
+
+      <option value="/vs/fecteau-steve#flemming-paul">Fecteau, Steve</option>
+
+
+      <option value="/vs/fenton-brad#flemming-paul">Fenton, Brad</option>
+
+
+      <option value="/vs/fenton-darin#flemming-paul">Fenton, Darin</option>
+
+
+      <option value="/vs/fenton-keith#flemming-paul">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#flemming-paul">Ferbey, Randy</option>
+
+
+      <option value="/vs/flemming-paul#folk-kevin">Folk, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#forrest-alex">Forrest, Alex</option>
+
+
+      <option value="/vs/flemming-paul#fournier-mike">Fournier, Mike</option>
+
+
+      <option value="/vs/flemming-paul#frans-joe">Frans, Joe</option>
+
+
+      <option value="/vs/flemming-paul#freschi-don">Freschi, Don</option>
+
+
+      <option value="/vs/flemming-paul#fry-ryan">Fry, Ryan</option>
+
+
+      <option value="/vs/flemming-paul#fulton-chris">Fulton, Chris</option>
+
+
+      <option value="/vs/flemming-paul#gagne-francois">Gagne, Francois</option>
+
+
+      <option value="/vs/flemming-paul#gallant-brett">Gallant, Brett</option>
+
+
+      <option value="/vs/flemming-paul#gallant-peter">Gallant, Peter</option>
+
+
+      <option value="/vs/flemming-paul#gardeski-larry">Gardeski, Larry</option>
+
+
+      <option value="/vs/flemming-paul#gaudet-mike">Gaudet, Mike</option>
+
+
+      <option value="/vs/flemming-paul#gavin-martin">Gavin, Martin</option>
+
+
+      <option value="/vs/flemming-paul#geall-sean">Geall, Sean</option>
+
+
+      <option value="/vs/flemming-paul#geisler-arnie">Geisler, Arnie</option>
+
+
+      <option value="/vs/flemming-paul#gibson-andrew">Gibson, Andrew</option>
+
+
+      <option value="/vs/flemming-paul#gorveatt-philip">Gorveatt, Philip</option>
+
+
+      <option value="/vs/flemming-paul#goss-glenn">Goss, Glenn</option>
+
+
+      <option value="/vs/flemming-paul#gould-steve">Gould, Steve</option>
+
+
+      <option value="/vs/flemming-paul#grattan-james">Grattan, James</option>
+
+
+      <option value="/vs/flemming-paul#gretzinger-bert">Gretzinger, Bert</option>
+
+
+      <option value="/vs/flemming-paul#gunnlaugson-jason">Gunnlaugson, Jason</option>
+
+
+      <option value="/vs/flemming-paul#gushue-brad">Gushue, Brad</option>
+
+
+      <option value="/vs/flemming-paul#hackner-al">Hackner, Al</option>
+
+
+      <option value="/vs/flemming-paul#haichert-chris">Haichert, Chris</option>
+
+
+      <option value="/vs/flemming-paul#hamilton-wayne">Hamilton, Wayne</option>
+
+
+      <option value="/vs/flemming-paul#harcourt-doug">Harcourt, Doug</option>
+
+
+      <option value="/vs/flemming-paul#harcourt-greg">Harcourt, Greg</option>
+
+
+      <option value="/vs/flemming-paul#harnden-e-j">Harnden, E.J.</option>
+
+
+      <option value="/vs/flemming-paul#harnden-ryan">Harnden, Ryan</option>
+
+
+      <option value="/vs/flemming-paul#harris-rob">Harris, Rob</option>
+
+
+      <option value="/vs/flemming-paul#hart-richard">Hart, Richard</option>
+
+
+      <option value="/vs/flemming-paul#hebert-ben">Hebert, Ben</option>
+
+
+      <option value="/vs/flemming-paul#hemmings-guy">Hemmings, Guy</option>
+
+
+      <option value="/vs/flemming-paul#higgs-jake">Higgs, Jake</option>
+
+
+      <option value="/vs/flemming-paul#hodgson-colin">Hodgson, Colin</option>
+
+
+      <option value="/vs/flemming-paul#holowaychuk-dan">Holowaychuk, Dan</option>
+
+
+      <option value="/vs/flemming-paul#horning-deane">Horning, Deane</option>
+
+
+      <option value="/vs/flemming-paul#howard-glenn">Howard, Glenn</option>
+
+
+      <option value="/vs/flemming-paul#howard-greg">Howard, Greg</option>
+
+
+      <option value="/vs/flemming-paul#howard-russ">Howard, Russ</option>
+
+
+      <option value="/vs/flemming-paul#howard-scott">Howard, Scott</option>
+
+
+      <option value="/vs/flemming-paul#howard-steven">Howard, Steven</option>
+
+
+      <option value="/vs/flemming-paul#hunka-ken">Hunka, Ken</option>
+
+
+      <option value="/vs/flemming-paul#hunt-matthew">Hunt, Matthew</option>
+
+
+      <option value="/vs/flemming-paul#irwin-don">Irwin, Don</option>
+
+
+      <option value="/vs/flemming-paul#jackson-glen">Jackson, Glen</option>
+
+
+      <option value="/vs/flemming-paul#jacobs-brad">Jacobs, Brad</option>
+
+
+      <option value="/vs/flemming-paul#jakubo-mike">Jakubo, Mike</option>
+
+
+      <option value="/vs/flemming-paul#janssen-patrick">Janssen, Patrick</option>
+
+
+      <option value="/vs/flemming-paul#joanisse-dean">Joanisse, Dean</option>
+
+
+      <option value="/vs/flemming-paul#johnston-wade">Johnston, Wade</option>
+
+
+      <option value="/vs/flemming-paul#jones-brennen">Jones, Brennen</option>
+
+
+      <option value="/vs/flemming-paul#kalthoff-kevin">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#keefe-kevin">Keefe, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#kennedy-glen">Kennedy, Glen</option>
+
+
+      <option value="/vs/flemming-paul#kennedy-marc">Kennedy, Marc</option>
+
+
+      <option value="/vs/flemming-paul#kidby-dustin">Kidby, Dustin</option>
+
+
+      <option value="/vs/flemming-paul#kilgallen-shane">Kilgallen, Shane</option>
+
+
+      <option value="/vs/flemming-paul#kirkness-james">Kirkness, James</option>
+
+
+      <option value="/vs/flemming-paul#koe-jamie">Koe, Jamie</option>
+
+
+      <option value="/vs/flemming-paul#koe-kevin">Koe, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#kohlenberg-dale">Kohlenberg, Dale</option>
+
+
+      <option value="/vs/flemming-paul#kolomaya-jared">Kolomaya, Jared</option>
+
+
+      <option value="/vs/flemming-paul#kopf-steve">Kopf, Steve</option>
+
+
+      <option value="/vs/flemming-paul#korab-jamie">Korab, Jamie</option>
+
+
+      <option value="/vs/flemming-paul#kushnir-warren">Kushnir, Warren</option>
+
+
+      <option value="/vs/flemming-paul#lacey-jeff">Lacey, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#laing-brent">Laing, Brent</option>
+
+
+      <option value="/vs/flemming-paul#landry-garry">Landry, Garry</option>
+
+
+      <option value="/vs/flemming-paul#langdon-dennis">Langdon, Dennis</option>
+
+
+      <option value="/vs/flemming-paul#laycock-steve">Laycock, Steve</option>
+
+
+      <option value="/vs/flemming-paul#ledgerwood-sean">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/flemming-paul#leech-ron">Leech, Ron</option>
+
+
+      <option value="/vs/flemming-paul#lequin-bradley">Lequin, Bradley</option>
+
+
+      <option value="/vs/flemming-paul#loevenmark-phil">Loevenmark, Phil</option>
+
+
+      <option value="/vs/flemming-paul#lohnes-bruce">Lohnes, Bruce</option>
+
+
+      <option value="/vs/flemming-paul#lott-colton">Lott, Colton</option>
+
+
+      <option value="/vs/flemming-paul#lowe-wayne">Lowe, Wayne</option>
+
+
+      <option value="/vs/flemming-paul#lowery-ryan">Lowery, Ryan</option>
+
+
+      <option value="/vs/flemming-paul#macaulay-ian">MacAulay, Ian</option>
+
+
+      <option value="/vs/flemming-paul#macdonald-blake">MacDonald, Blake</option>
+
+
+      <option value="/vs/flemming-paul#macdonald-brent">MacDonald, Brent</option>
+
+
+      <option value="/vs/flemming-paul#macdonald-edmund">MacDonald, Edmund</option>
+
+
+      <option value="/vs/flemming-paul#macdonald-peter">MacDonald, Peter</option>
+
+
+      <option value="/vs/flemming-paul#macdonald-rod">MacDonald, Rod</option>
+
+
+      <option value="/vs/flemming-paul#macfadyen-alex">MacFadyen, Alex</option>
+
+
+      <option value="/vs/flemming-paul#mackenzie-eddie">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/flemming-paul#mackenzie-kevin">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#mackey-peter">Mackey, Peter</option>
+
+
+      <option value="/vs/flemming-paul#madden-paul">Madden, Paul</option>
+
+
+      <option value="/vs/flemming-paul#march-tim">March, Tim</option>
+
+
+      <option value="/vs/flemming-paul#martin-karrick">Martin, Karrick</option>
+
+
+      <option value="/vs/flemming-paul#martin-kevin">Martin, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#maskiewich-ken">Maskiewich, Ken</option>
+
+
+      <option value="/vs/flemming-paul#mcaulay-greg">McAulay, Greg</option>
+
+
+      <option value="/vs/flemming-paul#mccarrel-graeme">McCarrel, Graeme</option>
+
+
+      <option value="/vs/flemming-paul#mcclelland-john">McClelland, John</option>
+
+
+      <option value="/vs/flemming-paul#mcdonah-alex">McDonah, Alex</option>
+
+
+      <option value="/vs/flemming-paul#mcdonah-evan">McDonah, Evan</option>
+
+
+      <option value="/vs/flemming-paul#mcdonald-toby">McDonald, Toby</option>
+
+
+      <option value="/vs/flemming-paul#mcewen-mike">McEwen, Mike</option>
+
+
+      <option value="/vs/flemming-paul#mcgregor-ken">McGregor, Ken</option>
+
+
+      <option value="/vs/flemming-paul#mcinnis-phillip">McInnis, Phillip</option>
+
+
+      <option value="/vs/flemming-paul#mead-jon">Mead, Jon</option>
+
+
+      <option value="/vs/flemming-paul#meakin-rob">Meakin, Rob</option>
+
+
+      <option value="/vs/flemming-paul#meister-nicholas">Meister, Nicholas</option>
+
+
+      <option value="/vs/flemming-paul#mellof-dave">Mellof, Dave</option>
+
+
+      <option value="/vs/flemming-paul#melnichuk-greg">Melnichuk, Greg</option>
+
+
+      <option value="/vs/flemming-paul#melville-bruce">Melville, Bruce</option>
+
+
+      <option value="/vs/flemming-paul#menard-jean-michel">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/flemming-paul#menard-philippe">Menard, Philippe</option>
+
+
+      <option value="/vs/flemming-paul#middaugh-wayne">Middaugh, Wayne</option>
+
+
+      <option value="/vs/flemming-paul#mihalicz-dwayne">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/flemming-paul#miki-bryan">Miki, Bryan</option>
+
+
+      <option value="/vs/flemming-paul#millar-colin">Millar, Colin</option>
+
+
+      <option value="/vs/flemming-paul#mitchell-garth">Mitchell, Garth</option>
+
+
+      <option value="/vs/flemming-paul#moffatt-paul">Moffatt, Paul</option>
+
+
+      <option value="/vs/flemming-paul#moffatt-rich">Moffatt, Rich</option>
+
+
+      <option value="/vs/flemming-paul#montgomery-rod">Montgomery, Rod</option>
+
+
+      <option value="/vs/flemming-paul#morris-john">Morris, John</option>
+
+
+      <option value="/vs/flemming-paul#moshenko-darcy">Moshenko, Darcy</option>
+
+
+      <option value="/vs/flemming-paul#moshenko-jaret">Moshenko, Jaret</option>
+
+
+      <option value="/vs/flemming-paul#moskowy-braeden">Moskowy, Braeden</option>
+
+
+      <option value="/vs/flemming-paul#moss-steve">Moss, Steve</option>
+
+
+      <option value="/vs/flemming-paul#moulding-darren">Moulding, Darren</option>
+
+
+      <option value="/vs/flemming-paul#muyres-dallan">Muyres, Dallan</option>
+
+
+      <option value="/vs/flemming-paul#muyres-kirk">Muyres, Kirk</option>
+
+
+      <option value="/vs/flemming-paul#nadeau-jeff">Nadeau, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#nason-paul">Nason, Paul</option>
+
+
+      <option value="/vs/flemming-paul#naugler-tom">Naugler, Tom</option>
+
+
+      <option value="/vs/flemming-paul#nedohin-david">Nedohin, David</option>
+
+
+      <option value="/vs/flemming-paul#nerpin-andrew">Nerpin, Andrew</option>
+
+
+      <option value="/vs/flemming-paul#ness-dale">Ness, Dale</option>
+
+
+      <option value="/vs/flemming-paul#neufeld-b-j">Neufeld, B.J.</option>
+
+
+      <option value="/vs/flemming-paul#neufeld-denni">Neufeld, Denni</option>
+
+
+      <option value="/vs/flemming-paul#newson-jamie">Newson, Jamie</option>
+
+
+      <option value="/vs/flemming-paul#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/flemming-paul#njegovan-connor">Njegovan, Connor</option>
+
+
+      <option value="/vs/flemming-paul#nobert-rob">Nobert, Rob</option>
+
+
+      <option value="/vs/flemming-paul#o-rourke-mark">O'Rourke, Mark</option>
+
+
+      <option value="/vs/flemming-paul#odishaw-grant">Odishaw, Grant</option>
+
+
+      <option value="/vs/flemming-paul#odishaw-terry">Odishaw, Terry</option>
+
+
+      <option value="/vs/flemming-paul#ouimet-luc">Ouimet, Luc</option>
+
+
+      <option value="/vs/flemming-paul#parsons-cole">Parsons, Cole</option>
+
+
+      <option value="/vs/flemming-paul#paslawski-pat">Paslawski, Pat</option>
+
+
+      <option value="/vs/flemming-paul#patterson-scott">Patterson, Scott</option>
+
+
+      <option value="/vs/flemming-paul#peachey-jay">Peachey, Jay</option>
+
+
+      <option value="/vs/flemming-paul#peddigrew-ken">Peddigrew, Ken</option>
+
+
+      <option value="/vs/flemming-paul#peech-orest">Peech, Orest</option>
+
+
+      <option value="/vs/flemming-paul#perron-rick">Perron, Rick</option>
+
+
+      <option value="/vs/flemming-paul#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/flemming-paul#pielak-rod">Pielak, Rod</option>
+
+
+      <option value="/vs/flemming-paul#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/flemming-paul#pillsworth-mark">Pillsworth, Mark</option>
+
+
+      <option value="/vs/flemming-paul#pinsent-garry">Pinsent, Garry</option>
+
+
+      <option value="/vs/flemming-paul#porter-geoff">Porter, Geoff</option>
+
+
+      <option value="/vs/flemming-paul#powell-lloyd">Powell, Lloyd</option>
+
+
+      <option value="/vs/flemming-paul#quevillon-louis">Quevillon, Louis</option>
+
+
+      <option value="/vs/flemming-paul#rajala-howard">Rajala, Howard</option>
+
+
+      <option value="/vs/flemming-paul#rathje-larry">Rathje, Larry</option>
+
+
+      <option value="/vs/flemming-paul#recksiedler-kevin">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/flemming-paul#reed-tom">Reed, Tom</option>
+
+
+      <option value="/vs/flemming-paul#reynolds-brett">Reynolds, Brett</option>
+
+
+      <option value="/vs/flemming-paul#richard-jeff">Richard, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#roach-darren">Roach, Darren</option>
+
+
+      <option value="/vs/flemming-paul#roach-jason">Roach, Jason</option>
+
+
+      <option value="/vs/flemming-paul#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/flemming-paul#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/flemming-paul#ryan-jeff">Ryan, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#ryan-keith">Ryan, Keith</option>
+
+
+      <option value="/vs/flemming-paul#ryan-mike">Ryan, Mike</option>
+
+
+      <option value="/vs/flemming-paul#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/flemming-paul#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/flemming-paul#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/flemming-paul#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/flemming-paul#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/flemming-paul#scharf-joe">Scharf, Joe</option>
+
+
+      <option value="/vs/flemming-paul#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/flemming-paul#schoenne-klaus">Schoenne, Klaus</option>
+
+
+      <option value="/vs/flemming-paul#scoffin-thomas">Scoffin, Thomas</option>
+
+
+      <option value="/vs/flemming-paul#scoffin-wade">Scoffin, Wade</option>
+
+
+      <option value="/vs/flemming-paul#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/flemming-paul#sharp-jeff">Sharp, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#shymko-gerald">Shymko, Gerald</option>
+
+
+      <option value="/vs/flemming-paul#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/flemming-paul#sinclair-rob">Sinclair, Rob</option>
+
+
+      <option value="/vs/flemming-paul#smith-greg">Smith, Greg</option>
+
+
+      <option value="/vs/flemming-paul#smith-tyler">Smith, Tyler</option>
+
+
+      <option value="/vs/flemming-paul#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/flemming-paul#sosiak-jim">Sosiak, Jim</option>
+
+
+      <option value="/vs/flemming-paul#spencer-jim">Spencer, Jim</option>
+
+
+      <option value="/vs/flemming-paul#st-louis-brady">St.Louis, Brady</option>
+
+
+      <option value="/vs/flemming-paul#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/flemming-paul#sullivan-jim">Sullivan, Jim</option>
+
+
+      <option value="/vs/flemming-paul#sullivan-tommy">Sullivan, Tommy</option>
+
+
+      <option value="/vs/flemming-paul#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/flemming-paul#tait-jeff">Tait, Jeff</option>
+
+
+      <option value="/vs/flemming-paul#tallon-wayne">Tallon, Wayne</option>
+
+
+      <option value="/vs/flemming-paul#taylor-andrew">Taylor, Andrew</option>
+
+
+      <option value="/vs/flemming-paul#tervo-randy">Tervo, Randy</option>
+
+
+      <option value="/vs/flemming-paul#tetley-ian">Tetley, Ian</option>
+
+
+      <option value="/vs/flemming-paul#thibaudeau-guy">Thibaudeau, Guy</option>
+
+
+      <option value="/vs/flemming-paul#thiessen-brad">Thiessen, Brad</option>
+
+
+      <option value="/vs/flemming-paul#thomson-fred">Thomson, Fred</option>
+
+
+      <option value="/vs/flemming-paul#toner-lee">Toner, Lee</option>
+
+
+      <option value="/vs/flemming-paul#trepanier-jean-francois">Trepanier, Jean-Francois</option>
+
+
+      <option value="/vs/flemming-paul#turpin-glenn">Turpin, Glenn</option>
+
+
+      <option value="/vs/flemming-paul#tuson-jay">Tuson, Jay</option>
+
+
+      <option value="/vs/flemming-paul#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/flemming-paul#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/flemming-paul#virtue-brock">Virtue, Brock</option>
+
+
+      <option value="/vs/flemming-paul#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/flemming-paul#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/flemming-paul#wasnea-brian">Wasnea, Brian</option>
+
+
+      <option value="/vs/flemming-paul#watson-aaron">Watson, Aaron</option>
+
+
+      <option value="/vs/flemming-paul#wempe-brian">Wempe, Brian</option>
+
+
+      <option value="/vs/flemming-paul#westphal-don">Westphal, Don</option>
+
+
+      <option value="/vs/flemming-paul#wettig-sheldon">Wettig, Sheldon</option>
+
+
+      <option value="/vs/flemming-paul#whitehead-mark">Whitehead, Mark</option>
+
+
+      <option value="/vs/flemming-paul#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/flemming-paul#wiersema-dale">Wiersema, Dale</option>
+
+
+      <option value="/vs/flemming-paul#withers-paul">Withers, Paul</option>
+
+
+      <option value="/vs/flemming-paul#withycombe-ian">Withycombe, Ian</option>
+
+
+      <option value="/vs/flemming-paul#wood-brad">Wood, Brad</option>
+
+
+      <option value="/vs/flemming-paul#wozniak-matt">Wozniak, Matt</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

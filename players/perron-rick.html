@@ -1,0 +1,806 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Rick Perron
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Rick Perron <i class="fe fe-user-plus" data-name="Perron, Rick" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1991">1991</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>4</td>
+  <td>7</td>
+  <td>116</td>
+  <td>75</td>
+  <td>88</td>
+  <td>76</td>
+  <td>107</td>
+  <td>80</td>
+  <td>97</td>
+  <td>71</td>
+  <td>204</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1996">1996</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>69</td>
+  <td>82</td>
+  <td>150</td>
+  <td>86</td>
+  <td>159</td>
+  <td>87</td>
+  <td>60</td>
+  <td>80</td>
+  <td>219</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>50</td>
+  <td>73</td>
+  <td>134</td>
+  <td>87</td>
+  <td>73</td>
+  <td>79</td>
+  <td>111</td>
+  <td>86</td>
+  <td>184</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2000">2000</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>94</td>
+  <td>80</td>
+  <td>170</td>
+  <td>84</td>
+  <td>112</td>
+  <td>87</td>
+  <td>152</td>
+  <td>79</td>
+  <td>264</td>
+  <td>83</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>46</td>
+  <td>25</td>
+  <td>21</td>
+  <td>329</td>
+  <td>78</td>
+  <td>542</td>
+  <td>84</td>
+  <td>451</td>
+  <td>84</td>
+  <td>420</td>
+  <td>79</td>
+  <td>871</td>
+  <td>82</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#perron-rick">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-kevin#perron-rick">Adams, Kevin</option>
+
+
+      <option value="/vs/adams-shawn#perron-rick">Adams, Shawn</option>
+
+
+      <option value="/vs/armstrong-doug#perron-rick">Armstrong, Doug</option>
+
+
+      <option value="/vs/bartlett-don#perron-rick">Bartlett, Don</option>
+
+
+      <option value="/vs/bentley-dan#perron-rick">Bentley, Dan</option>
+
+
+      <option value="/vs/bentley-darren#perron-rick">Bentley, Darren</option>
+
+
+      <option value="/vs/biron-louis#perron-rick">Biron, Louis</option>
+
+
+      <option value="/vs/blanchard-ben#perron-rick">Blanchard, Ben</option>
+
+
+      <option value="/vs/blanchard-jason#perron-rick">Blanchard, Jason</option>
+
+
+      <option value="/vs/boland-john#perron-rick">Boland, John</option>
+
+
+      <option value="/vs/brackett-james#perron-rick">Brackett, James</option>
+
+
+      <option value="/vs/brandwood-todd#perron-rick">Brandwood, Todd</option>
+
+
+      <option value="/vs/broda-shawn#perron-rick">Broda, Shawn</option>
+
+
+      <option value="/vs/brown-ken#perron-rick">Brown, Ken</option>
+
+
+      <option value="/vs/bryant-doug#perron-rick">Bryant, Doug</option>
+
+
+      <option value="/vs/buck-wyatt#perron-rick">Buck, Wyatt</option>
+
+
+      <option value="/vs/butler-marc#perron-rick">Butler, Marc</option>
+
+
+      <option value="/vs/butler-mark#perron-rick">Butler, Mark</option>
+
+
+      <option value="/vs/campbell-robert#perron-rick">Campbell, Robert</option>
+
+
+      <option value="/vs/carter-andrew#perron-rick">Carter, Andrew</option>
+
+
+      <option value="/vs/charette-pierre#perron-rick">Charette, Pierre</option>
+
+
+      <option value="/vs/collison-brian#perron-rick">Collison, Brian</option>
+
+
+      <option value="/vs/corner-peter#perron-rick">Corner, Peter</option>
+
+
+      <option value="/vs/cowan-chad#perron-rick">Cowan, Chad</option>
+
+
+      <option value="/vs/cursons-neil#perron-rick">Cursons, Neil</option>
+
+
+      <option value="/vs/dauphinee-andrew#perron-rick">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/delmage-ron#perron-rick">Delmage, Ron</option>
+
+
+      <option value="/vs/despins-glen#perron-rick">Despins, Glen</option>
+
+
+      <option value="/vs/dowden-craig#perron-rick">Dowden, Craig</option>
+
+
+      <option value="/vs/eberts-tony#perron-rick">Eberts, Tony</option>
+
+
+      <option value="/vs/elkin-derek#perron-rick">Elkin, Derek</option>
+
+
+      <option value="/vs/ellis-ken-jr#perron-rick">Ellis, Ken Jr.</option>
+
+
+      <option value="/vs/elmaleh-maxime#perron-rick">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/fetterly-tom#perron-rick">Fetterly, Tom</option>
+
+
+      <option value="/vs/flemming-paul#perron-rick">Flemming, Paul</option>
+
+
+      <option value="/vs/florence-malcolm#perron-rick">Florence, Malcolm</option>
+
+
+      <option value="/vs/forsyth-sandy#perron-rick">Forsyth, Sandy</option>
+
+
+      <option value="/vs/fulton-chris#perron-rick">Fulton, Chris</option>
+
+
+      <option value="/vs/gagnon-jean#perron-rick">Gagnon, Jean</option>
+
+
+      <option value="/vs/gallant-peter#perron-rick">Gallant, Peter</option>
+
+
+      <option value="/vs/geisler-arnie#perron-rick">Geisler, Arnie</option>
+
+
+      <option value="/vs/golanowski-rory#perron-rick">Golanowski, Rory</option>
+
+
+      <option value="/vs/goss-glenn#perron-rick">Goss, Glenn</option>
+
+
+      <option value="/vs/gould-steve#perron-rick">Gould, Steve</option>
+
+
+      <option value="/vs/gretzinger-bert#perron-rick">Gretzinger, Bert</option>
+
+
+      <option value="/vs/grundy-john#perron-rick">Grundy, John</option>
+
+
+      <option value="/vs/gubbels-will#perron-rick">Gubbels, Will</option>
+
+
+      <option value="/vs/haines-chuck#perron-rick">Haines, Chuck</option>
+
+
+      <option value="/vs/hemmings-guy#perron-rick">Hemmings, Guy</option>
+
+
+      <option value="/vs/henderson-jeffrey#perron-rick">Henderson, Jeffrey</option>
+
+
+      <option value="/vs/henderson-ron#perron-rick">Henderson, Ron</option>
+
+
+      <option value="/vs/henderson-scott#perron-rick">Henderson, Scott</option>
+
+
+      <option value="/vs/hinch-bert#perron-rick">Hinch, Bert</option>
+
+
+      <option value="/vs/hollett-peter#perron-rick">Hollett, Peter</option>
+
+
+      <option value="/vs/hopkins-jeff#perron-rick">Hopkins, Jeff</option>
+
+
+      <option value="/vs/howard-glenn#perron-rick">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#perron-rick">Howard, Russ</option>
+
+
+      <option value="/vs/hunka-ken#perron-rick">Hunka, Ken</option>
+
+
+      <option value="/vs/ingram-bob#perron-rick">Ingram, Bob</option>
+
+
+      <option value="/vs/iskiw-blayne#perron-rick">Iskiw, Blayne</option>
+
+
+      <option value="/vs/iverson-dave#perron-rick">Iverson, Dave</option>
+
+
+      <option value="/vs/johnston-wade#perron-rick">Johnston, Wade</option>
+
+
+      <option value="/vs/josephson-glenn#perron-rick">Josephson, Glenn</option>
+
+
+      <option value="/vs/kent-gerry#perron-rick">Kent, Gerry</option>
+
+
+      <option value="/vs/kieley-phil#perron-rick">Kieley, Phil</option>
+
+
+      <option value="/vs/korte-bruce#perron-rick">Korte, Bruce</option>
+
+
+      <option value="/vs/korte-roger#perron-rick">Korte, Roger</option>
+
+
+      <option value="/vs/lang-rick#perron-rick">Lang, Rick</option>
+
+
+      <option value="/vs/lappalainen-art#perron-rick">Lappalainen, Art</option>
+
+
+      <option value="/vs/lemery-daniel#perron-rick">Lemery, Daniel</option>
+
+
+      <option value="/vs/loevenmark-phil#perron-rick">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lowe-wayne#perron-rick">Lowe, Wayne</option>
+
+
+      <option value="/vs/macdonald-blake#perron-rick">MacDonald, Blake</option>
+
+
+      <option value="/vs/macdonald-brent#perron-rick">MacDonald, Brent</option>
+
+
+      <option value="/vs/macdonald-peter#perron-rick">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-rod#perron-rick">MacDonald, Rod</option>
+
+
+      <option value="/vs/macinnes-david#perron-rick">MacInnes, David</option>
+
+
+      <option value="/vs/macklin-drew#perron-rick">Macklin, Drew</option>
+
+
+      <option value="/vs/maclean-rob#perron-rick">MacLean, Rob</option>
+
+
+      <option value="/vs/madden-paul#perron-rick">Madden, Paul</option>
+
+
+      <option value="/vs/martin-kevin#perron-rick">Martin, Kevin</option>
+
+
+      <option value="/vs/mayne-dave#perron-rick">Mayne, Dave</option>
+
+
+      <option value="/vs/mcaulay-greg#perron-rick">McAulay, Greg</option>
+
+
+      <option value="/vs/mcclelland-john#perron-rick">McClelland, John</option>
+
+
+      <option value="/vs/mccusker-brian#perron-rick">McCusker, Brian</option>
+
+
+      <option value="/vs/mchargue-ken#perron-rick">McHargue, Ken</option>
+
+
+      <option value="/vs/mckee-darrell#perron-rick">McKee, Darrell</option>
+
+
+      <option value="/vs/mcphee-barry#perron-rick">McPhee, Barry</option>
+
+
+      <option value="/vs/mead-jon#perron-rick">Mead, Jon</option>
+
+
+      <option value="/vs/mellof-dave#perron-rick">Mellof, Dave</option>
+
+
+      <option value="/vs/middaugh-wayne#perron-rick">Middaugh, Wayne</option>
+
+
+      <option value="/vs/mihalicz-dwayne#perron-rick">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/miki-bryan#perron-rick">Miki, Bryan</option>
+
+
+      <option value="/vs/milward-ross#perron-rick">Milward, Ross</option>
+
+
+      <option value="/vs/moffatt-rich#perron-rick">Moffatt, Rich</option>
+
+
+      <option value="/vs/montgomery-rod#perron-rick">Montgomery, Rod</option>
+
+
+      <option value="/vs/ness-dale#perron-rick">Ness, Dale</option>
+
+
+      <option value="/vs/nolan-jason#perron-rick">Nolan, Jason</option>
+
+
+      <option value="/vs/o-driscoll-frank#perron-rick">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/o-rourke-mark#perron-rick">O'Rourke, Mark</option>
+
+
+      <option value="/vs/palmer-curt#perron-rick">Palmer, Curt</option>
+
+
+      <option value="/vs/park-kevin#perron-rick">Park, Kevin</option>
+
+
+      <option value="/vs/patterson-scott#perron-rick">Patterson, Scott</option>
+
+
+      <option value="/vs/peddigrew-ken#perron-rick">Peddigrew, Ken</option>
+
+
+      <option value="/vs/perron-rick#petryk-dan">Petryk, Dan</option>
+
+
+      <option value="/vs/perron-rick#phillips-tim">Phillips, Tim</option>
+
+
+      <option value="/vs/perron-rick#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/perron-rick#postma-john">Postma, John</option>
+
+
+      <option value="/vs/perron-rick#pritchett-bob">Pritchett, Bob</option>
+
+
+      <option value="/vs/perron-rick#pyper-dwayne">Pyper, Dwayne</option>
+
+
+      <option value="/vs/perron-rick#rafuse-brian">Rafuse, Brian</option>
+
+
+      <option value="/vs/perron-rick#rajala-howard">Rajala, Howard</option>
+
+
+      <option value="/vs/perron-rick#reddick-don">Reddick, Don</option>
+
+
+      <option value="/vs/perron-rick#reynolds-brett">Reynolds, Brett</option>
+
+
+      <option value="/vs/perron-rick#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/perron-rick#robertson-richard">Robertson, Richard</option>
+
+
+      <option value="/vs/perron-rick#robinson-andrew">Robinson, Andrew</option>
+
+
+      <option value="/vs/perron-rick#rowsell-rick">Rowsell, Rick</option>
+
+
+      <option value="/vs/perron-rick#rumfeldt-robert">Rumfeldt, Robert</option>
+
+
+      <option value="/vs/perron-rick#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/perron-rick#sauve-dan">Sauve, Dan</option>
+
+
+      <option value="/vs/perron-rick#sauve-roger">Sauve, Roger</option>
+
+
+      <option value="/vs/perron-rick#scales-brian">Scales, Brian</option>
+
+
+      <option value="/vs/perron-rick#shymko-gerald">Shymko, Gerald</option>
+
+
+      <option value="/vs/perron-rick#shypitka-tom">Shypitka, Tom</option>
+
+
+      <option value="/vs/perron-rick#skanes-robert">Skanes, Robert</option>
+
+
+      <option value="/vs/perron-rick#slauenwhite-david">Slauenwhite, David</option>
+
+
+      <option value="/vs/perron-rick#smyth-larry">Smyth, Larry</option>
+
+
+      <option value="/vs/perron-rick#somers-grant">Somers, Grant</option>
+
+
+      <option value="/vs/perron-rick#stokes-lionel">Stokes, Lionel</option>
+
+
+      <option value="/vs/perron-rick#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/perron-rick#sullivan-evan">Sullivan, Evan</option>
+
+
+      <option value="/vs/perron-rick#sveistrup-jody">Sveistrup, Jody</option>
+
+
+      <option value="/vs/perron-rick#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/perron-rick#tetley-ross">Tetley, Ross</option>
+
+
+      <option value="/vs/perron-rick#thibaudeau-guy">Thibaudeau, Guy</option>
+
+
+      <option value="/vs/perron-rick#tresoor-ken">Tresoor, Ken</option>
+
+
+      <option value="/vs/perron-rick#turpin-glenn">Turpin, Glenn</option>
+
+
+      <option value="/vs/perron-rick#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/perron-rick#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/perron-rick#van-dine-steve">Van Dine, Steve</option>
+
+
+      <option value="/vs/perron-rick#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/perron-rick#walsh-jim">Walsh, Jim</option>
+
+
+      <option value="/vs/perron-rick#westphal-don">Westphal, Don</option>
+
+
+      <option value="/vs/perron-rick#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/perron-rick#woytowich-randy">Woytowich, Randy</option>
+
+
+      <option value="/vs/perron-rick#xidos-george">Xidos, George</option>
+
+
+      <option value="/vs/perron-rick#young-wayne">Young, Wayne</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

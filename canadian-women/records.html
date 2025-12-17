@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Canadian Women Records
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<h1>Canadian Women Records</h1>
+
+<div id="records">
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Game Scoring Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section1-tab1-tab" data-toggle="tab" href="#section1-tab1" role="tab" aria-controls="section1-tab1" aria-selected="true">All Games</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section1-tab1" role="tabpanel" aria-labelledby="section1-tab1-tab">
+CANADIAN WOMEN CURLING CHAMPIONSHIPS SCORING RECORDS - 1961-1981
+ 
+NUMBER OF GAMES PLAYED: 1016
+ 
+NUMBER OF EXTRA END GAMES:   85
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  18
+ 
+          1962 DRAW  6    BC   18  NL    1
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   0
+ 
+          1963 DRAW  5    BC   16  MB    0
+          1970 DRAW  7    BC   13  QC    0
+          1973 DRAW  4    NB   14  NS    0
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  27
+ 
+          1963 DRAW  2    NB   13  ON   14
+          1967 DRAW  1    QC   14  PE   13
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   5
+ 
+          1971 DRAW  5    BC    3  SK    2
+ 
+HIGHEST END SCORE WITH HAMMER:   7
+ 
+          1963 DRAW  5    NS   10  QC   13    QC   SCORED 7 IN THE 6TH END
+          1972 DRAW  6    NS    4  QC   14    QC   SCORED 7 IN THE THIRD END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   6
+ 
+          1961 DRAW  7    NS    7  NB   11    NB   SCORED 6 IN THE FIRST END
+          1963 DRAW  5    SK   12  PE   11    SK   SCORED 6 IN THE 5TH END
+          1966 DRAW  5    QC    6  AB   14    AB   SCORED 6 IN THE FIRST END
+          1980 DRAW  8    NS   12  BC    1    NS   SCORED 6 IN THE 6TH END
+ 
+MOST POINTS SCORED, ONE TEAM, ONE EVENT YEAR: 105
+ 
+          1970 Saskatchewan (Schoenhals) (Dorenda Schoenhais, Cheryl Stirton, Linda Burnham, Joan Anderson)
+ 
+MOST POINTS SCORED, ALL TEAMS, ONE EVENT YEAR: 806
+ 
+          1980 Edmonton, Alberta
+ 
+MOST BLANK ENDS, ONE GAME:   5
+ 
+          1971 DRAW  5    BC    3  SK    2
+          1981 DRAW  5    SK    5  NS    3
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   3
+ 
+          1975 DRAW  4    MB    3  AB    5    BY MB   BEGINNING IN END 2
+          1978 DRAW  2    ON    5  MB    7    BY ON   BEGINNING IN END 5
+ 
+LARGEST COME FROM BEHIND VICTORY:  10
+ 
+          1970 DRAW  8    BC   12  PE   11    BC   WAS DOWN 10 AFTER 6 ENDS
+ 
+MOST EXTRA END GAMES IN ONE EVENT YEAR:  10
+ 
+          1980 Edmonton, Alberta
+ 
+FEWEST EXTRA END GAMES IN ONE EVENT YEAR:   1
+ 
+          1965 Halifax, Nova Scotia
+          1979 Mount Royal, Quebec
+ 
+MOST BLANK ENDS IN ONE EVENT YEAR:  58
+ 
+          1981 Saint John's, NL
+ 
+FEWEST BLANK ENDS IN ONE EVENT YEAR:   6
+ 
+          1961 Ottawa, Ontario
+          1964 Edmonton, Alberta
+ 
+MOST ENDS PLAYED IN ONE GAME:  12
+ 
+          1961 DRAW 10    AB   10  BC    9
+          1981 DRAW  9    AB    9  NS    6
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   6
+ 
+          1970 DRAW  7    BC   13  QC    0
+          1970 DRAW  9    BC   12  NS    3
+          1973 DRAW  4    NB   14  NS    0
+          1973 DRAW  7    QC   13  NL    4
+          1974 DRAW  5    AB    9  MB    1
+          1976 DRAW  1    MB   13  NS    1
+          1977 DRAW  1    MB   11  ON    3
+          1977 DRAW  8    NS    1  SK   10
+          1978 DRAW  3    NL   10  MB    2
+          1979 DRAW  3    NB    2  SK   11
+          1979 DRAW 10    NS    1  AB    9
+          1979 DRAW 11    MB   11  PE    2
+          1980 DRAW  3    PE    1  SK   13
+          1980 DRAW  8    NS   12  BC    1
+          1981 DRAW  1    TR   13  PE    1
+          1981 DRAW  7    PE    1  ON    9
+          1981 DRAW 10    MB    2  AB    9
+          1981 DRAW 11    ON   10  QC    3
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Career Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section2-tab1-tab" data-toggle="tab" href="#section2-tab1" role="tab" aria-controls="section2-tab1" aria-selected="true">Top Career Games Played</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab2-tab" data-toggle="tab" href="#section2-tab2" role="tab" aria-controls="section2-tab2" aria-selected="false">Top Career Wins</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section2-tab1" role="tabpanel" aria-labelledby="section2-tab1-tab">
+CANADIAN WOMEN'S CHAMPIONSHIP - TOP CAREER GAMES PLAYED - 1961-1981
+ 
+RANK PLAYER                         EVENTS LEAD SECOND THIRD FOURTH TOTAL
+ 
+   1 Bartlett, Sue Ann                 8     0      0     0     81    81
+   2 Orser, Anne                       8     0      0    54     19    73
+   3 Pike, Mavis                       7    69      0     0      0    69
+   4 McKee, Joyce                      6     0     30     0     27    57
+   5 Boomhower, Jennie                 6     0     18    36      0    54
+     Dwyer, Patricia                   5     0      0    54      0    54
+     Lenihan, Geraldine                6    54      0     0      0    54
+     Pike, Violet                      6     0      0     0     54    54
+     Pilson, Shirley                   6     0     18     0     36    54
+     Toole, Marie                      6     0      0     9     45    54
+  11 Johnston, Pauline                 5    45      0     0      0    45
+     MacNevin, Barbara                 5     0     18     0     27    45
+  13 Alexander, Donna                  4     0      0    10     30    40
+  14 Bradawaski, Lorraine              4     0     18    21      0    39
+     Ingram, Joan                      4     0      0    18     21    39
+     Morrison, Lenore                  4    30      9     0      0    39
+     Pezer, Vera                       4     0      0     9     30    39
+  18 Calles, Ada                       4     0      0    37      0    37
+     Garneau, Michelle                 4    27     10     0      0    37
+     Hansen, Ina                       4     0      0     0     37    37
+     Maher, Pat                        4     0     18    19      0    37
+     Tobin, Lee                        4     0      0     0     37    37
+  23 Ball, Caroline                    4     0     27     9      0    36
+     Dillon, Cathy                     4     0     27     9      0    36
+     Hiscock, Francis                  4     0     36     0      0    36
+     Shaw, May                         4    27      0     0      9    36
+  27 Mitchell, Marg                    3     0     10     0     23    33
+     Vande, Patti                      3    23      0    10      0    33
+  29 Davis, Barb                       3     0     10    10     11    31
+  30 LaRocque, Penny                   3     0      9     0     21    30
+     Rowan, Sheila                     3     0      0    30      0    30
+     Sekulich, Doris                   3     0      0    30      0    30
+     Ward, Cecille                     3     0     30     0      0    30
+  34 Cutcliffe, Ruth                   3     0      0    29      0    29
+     Lee, Gale                         3     0      0    10     19    29
+     Thompson, Elayne                  3     0      0     0     29    29
+     Thompson, Louise                  3     0     29     0      0    29
+  38 Cole, Betty                       3     0      0     0     28    28
+     Rose, Dorothy                     3    18     10     0      0    28
+  40 Bright, Ann                       3     0      0    27      0    27
+     Carr, Avis                        3    27      0     0      0    27
+     Clarke, Gladys                    3     0      0    27      0    27
+     Coben, Fay                        3     0      0    27      0    27
+     Hill, Florence                    3     0     27     0      0    27
+     Holmgren, Dorothy                 3     9     18     0      0    27
+     Leith, Isabel                     3     0     27     0      0    27
+     MacDonald, Elizabeth              3     0      0     0     27    27
+     May, Elsie                        3     0     18     9      0    27
+     Mitchell, Mabel                   3     0      0     9     18    27
+     Shaw, June                        3     0      0     0     27    27
+     Wiebe, Shirley                    3     0      0    27      0    27
+      </div>
+      <div class="tab-pane fade" id="section2-tab2" role="tabpanel" aria-labelledby="section2-tab2-tab">
+CANADIAN WOMEN'S CHAMPIONSHIP - TOP CAREER WINS - 1961-1981
+ 
+RANK PLAYER                         EVENTS LEAD SECOND THIRD FOURTH TOTAL
+ 
+   1 McKee, Joyce                      6     0     25     0     25    50
+   2 Bartlett, Sue Ann                 8     0      0     0     43    43
+   3 Pike, Mavis                       7    35      0     0      0    35
+   4 MacNevin, Barbara                 5     0     17     0     17    34
+   5 Morrison, Lenore                  4    25      8     0      0    33
+     Pezer, Vera                       4     0      0     8     25    33
+   7 Boomhower, Jennie                 6     0     11    20      0    31
+   8 Bradawaski, Lorraine              4     0     14    16      0    30
+     Calles, Ada                       4     0      0    30      0    30
+     Dwyer, Patricia                   5     0      0    30      0    30
+     Hansen, Ina                       4     0      0     0     30    30
+     Ingram, Joan                      4     0      0    14     16    30
+  13 Shaw, May                         4    24      0     0      5    29
+     Toole, Marie                      6     0      0     2     27    29
+  15 Johnston, Pauline                 5    27      0     0      0    27
+  16 Rowan, Sheila                     3     0      0    25      0    25
+  17 Lee, Gale                         3     0      0     8     16    24
+     Leith, Isabel                     3     0     24     0      0    24
+  19 Garneau, Michelle                 4    15      8     0      0    23
+     Mitchell, Marg                    3     0      7     0     16    23
+     Tobin, Lee                        4     0      0     0     23    23
+  22 Rose, Dorothy                     3    14      8     0      0    22
+  23 Davis, Barb                       3     0      9     6      6    21
+     Dillon, Cathy                     4     0     14     7      0    21
+  25 Orser, Anne                       8     0      0    18      2    20
+     Vande, Patti                      3    16      0     4      0    20
+  27 Lenihan, Geraldine                6    18      0     0      0    18
+     Mitchell, Mabel                   3     0      0     7     11    18
+     Pilson, Shirley                   6     0      6     0     12    18
+  30 Alexander, Donna                  4     0      0     5     12    17
+     Bowles, Lorraine                  2    17      0     0      0    17
+     Carr, Avis                        3    17      0     0      0    17
+     Coben, Fay                        3     0      0    17      0    17
+     Coyle, June                       2    17      0     0      0    17
+     Fedoruk, Sylvia                   2     0      0    17      0    17
+     Hill, Florence                    3     0     17     0      0    17
+     Hiscock, Francis                  4     0     17     0      0    17
+     Holmgren, Dorothy                 3     7     10     0      0    17
+     Jamieson, Hazel                   2     0      0     9      8    17
+     Knowles, Dawn                     2     0      0    17      0    17
+     McFee, Rosa                       2    17      0     0      0    17
+     Narduzzi, Joyce                   2     0     17     0      0    17
+     Shaw, June                        3     0      0     0     17    17
+     Wiebe, Shirley                    3     0      0    17      0    17
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1835 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>E.J. Harnden
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for E.J. Harnden <i class="fe fe-user-plus" data-name="Harnden, E.J." title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/2008">2008</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>3</td>
+  <td>8</td>
+  <td>69</td>
+  <td>80</td>
+  <td>143</td>
+  <td>74</td>
+  <td>92</td>
+  <td>77</td>
+  <td>120</td>
+  <td>76</td>
+  <td>212</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2010">2010</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>84</td>
+  <td>82</td>
+  <td>148</td>
+  <td>85</td>
+  <td>81</td>
+  <td>75</td>
+  <td>151</td>
+  <td>89</td>
+  <td>232</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2011">2011</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>7</td>
+  <td>4</td>
+  <td>66</td>
+  <td>80</td>
+  <td>144</td>
+  <td>81</td>
+  <td>82</td>
+  <td>82</td>
+  <td>128</td>
+  <td>80</td>
+  <td>210</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2012">2012</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>86</td>
+  <td>81</td>
+  <td>122</td>
+  <td>84</td>
+  <td>107</td>
+  <td>83</td>
+  <td>101</td>
+  <td>83</td>
+  <td>208</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2013">2013</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>88</td>
+  <td>87</td>
+  <td>168</td>
+  <td>89</td>
+  <td>101</td>
+  <td>84</td>
+  <td>155</td>
+  <td>91</td>
+  <td>256</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2015">2015</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>76</td>
+  <td>85</td>
+  <td>169</td>
+  <td>88</td>
+  <td>62</td>
+  <td>85</td>
+  <td>183</td>
+  <td>88</td>
+  <td>245</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2016">2016</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>12</td>
+  <td>2</td>
+  <td>129</td>
+  <td>91</td>
+  <td>143</td>
+  <td>92</td>
+  <td>56</td>
+  <td>87</td>
+  <td>216</td>
+  <td>93</td>
+  <td>272</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2017">2017</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>116</td>
+  <td>92</td>
+  <td>138</td>
+  <td>92</td>
+  <td>108</td>
+  <td>92</td>
+  <td>146</td>
+  <td>92</td>
+  <td>254</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2018">2018</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>103</td>
+  <td>87</td>
+  <td>117</td>
+  <td>90</td>
+  <td>73</td>
+  <td>85</td>
+  <td>147</td>
+  <td>90</td>
+  <td>220</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2019">2019</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>101</td>
+  <td>90</td>
+  <td>134</td>
+  <td>91</td>
+  <td>106</td>
+  <td>90</td>
+  <td>129</td>
+  <td>91</td>
+  <td>235</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2020">2020</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>118</td>
+  <td>89</td>
+  <td>135</td>
+  <td>91</td>
+  <td>84</td>
+  <td>93</td>
+  <td>169</td>
+  <td>88</td>
+  <td>253</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2021">2021</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>101</td>
+  <td>86</td>
+  <td>129</td>
+  <td>84</td>
+  <td>102</td>
+  <td>86</td>
+  <td>128</td>
+  <td>85</td>
+  <td>230</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2022">2022</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NO"><a href="../brier/team/no">NO</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>70</td>
+  <td>87</td>
+  <td>80</td>
+  <td>90</td>
+  <td>77</td>
+  <td>86</td>
+  <td>73</td>
+  <td>91</td>
+  <td>150</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2023">2023</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>10</td>
+  <td>1</td>
+  <td>91</td>
+  <td>87</td>
+  <td>117</td>
+  <td>84</td>
+  <td>98</td>
+  <td>86</td>
+  <td>110</td>
+  <td>84</td>
+  <td>208</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2024">2024</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="CA"><a href="../brier/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>86</td>
+  <td>85</td>
+  <td>113</td>
+  <td>93</td>
+  <td>84</td>
+  <td>90</td>
+  <td>115</td>
+  <td>89</td>
+  <td>199</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2025">2025</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="MB"><a href="../brier/team/mb">MB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>87</td>
+  <td>89</td>
+  <td>125</td>
+  <td>88</td>
+  <td>79</td>
+  <td>90</td>
+  <td>133</td>
+  <td>88</td>
+  <td>212</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2011">2011</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="JAC">JAC</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>6</td>
+  <td>1</td>
+  <td>5</td>
+  <td>35</td>
+  <td>86</td>
+  <td>79</td>
+  <td>81</td>
+  <td>45</td>
+  <td>82</td>
+  <td>69</td>
+  <td>84</td>
+  <td>114</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2014">2014</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="JAC">JAC</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>4</td>
+  <td>3</td>
+  <td>59</td>
+  <td>82</td>
+  <td>71</td>
+  <td>85</td>
+  <td>53</td>
+  <td>84</td>
+  <td>77</td>
+  <td>83</td>
+  <td>130</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2015">2015</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="JAC">JAC</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>3</td>
+  <td>4</td>
+  <td>47</td>
+  <td>88</td>
+  <td>87</td>
+  <td>93</td>
+  <td>68</td>
+  <td>93</td>
+  <td>66</td>
+  <td>89</td>
+  <td>134</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2016">2016</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="JAC">JAC</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>3</td>
+  <td>4</td>
+  <td>60</td>
+  <td>91</td>
+  <td>66</td>
+  <td>82</td>
+  <td>47</td>
+  <td>90</td>
+  <td>79</td>
+  <td>84</td>
+  <td>126</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2018">2018</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Jaco">Jaco</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>61</td>
+  <td>94</td>
+  <td>75</td>
+  <td>87</td>
+  <td>63</td>
+  <td>88</td>
+  <td>73</td>
+  <td>92</td>
+  <td>136</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2019">2019</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Jaco">Jaco</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>6</td>
+  <td>2</td>
+  <td>4</td>
+  <td>61</td>
+  <td>86</td>
+  <td>53</td>
+  <td>93</td>
+  <td>57</td>
+  <td>93</td>
+  <td>57</td>
+  <td>86</td>
+  <td>114</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2013">2013</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="JAC">JAC</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>8</td>
+  <td>8</td>
+  <td>0</td>
+  <td>65</td>
+  <td>86</td>
+  <td>89</td>
+  <td>87</td>
+  <td>40</td>
+  <td>82</td>
+  <td>114</td>
+  <td>88</td>
+  <td>154</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2017">2017</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="Jaco">Jaco</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>7</td>
+  <td>3</td>
+  <td>4</td>
+  <td>37</td>
+  <td>87</td>
+  <td>97</td>
+  <td>89</td>
+  <td>42</td>
+  <td>85</td>
+  <td>92</td>
+  <td>90</td>
+  <td>134</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2021">2021</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="Jaco">Jaco</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>8</td>
+  <td>2</td>
+  <td>88</td>
+  <td>89</td>
+  <td>92</td>
+  <td>90</td>
+  <td>66</td>
+  <td>90</td>
+  <td>114</td>
+  <td>89</td>
+  <td>180</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2025">2025</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="DUNm">DUNm</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>97</td>
+  <td>81</td>
+  <td>96</td>
+  <td>89</td>
+  <td>88</td>
+  <td>86</td>
+  <td>105</td>
+  <td>84</td>
+  <td>193</td>
+  <td>85</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>193</td>
+  <td>133</td>
+  <td>60</td>
+  <td>1471</td>
+  <td>87</td>
+  <td>2125</td>
+  <td>87</td>
+  <td>1392</td>
+  <td>86</td>
+  <td>2204</td>
+  <td>88</td>
+  <td>3596</td>
+  <td>87</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>40</td>
+  <td>19</td>
+  <td>21</td>
+  <td>323</td>
+  <td>88</td>
+  <td>431</td>
+  <td>87</td>
+  <td>333</td>
+  <td>89</td>
+  <td>421</td>
+  <td>86</td>
+  <td>754</td>
+  <td>87</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>35</td>
+  <td>24</td>
+  <td>11</td>
+  <td>287</td>
+  <td>85</td>
+  <td>374</td>
+  <td>89</td>
+  <td>236</td>
+  <td>86</td>
+  <td>425</td>
+  <td>88</td>
+  <td>661</td>
+  <td>87</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abel-clinton#harnden-e-j">Abel, Clinton</option>
+
+
+      <option value="/vs/abraham-ryan#harnden-e-j">Abraham, Ryan</option>
+
+
+      <option value="/vs/adam-gerry#harnden-e-j">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-shawn#harnden-e-j">Adams, Shawn</option>
+
+
+      <option value="/vs/anderson-chris#harnden-e-j">Anderson, Chris</option>
+
+
+      <option value="/vs/armstrong-mike#harnden-e-j">Armstrong, Mike</option>
+
+
+      <option value="/vs/arsenault-jean-michel#harnden-e-j">Arsenault, Jean-Michel</option>
+
+
+      <option value="/vs/asselin-emile#harnden-e-j">Asselin, Emile</option>
+
+
+      <option value="/vs/asselin-felix#harnden-e-j">Asselin, Felix</option>
+
+
+      <option value="/vs/bailey-scott#harnden-e-j">Bailey, Scott</option>
+
+
+      <option value="/vs/bardsley-mike#harnden-e-j">Bardsley, Mike</option>
+
+
+      <option value="/vs/barry-josh#harnden-e-j">Barry, Josh</option>
+
+
+      <option value="/vs/bedard-alek#harnden-e-j">Bedard, Alek</option>
+
+
+      <option value="/vs/beuk-jonathan#harnden-e-j">Beuk, Jonathan</option>
+
+
+      <option value="/vs/bezanson-jared#harnden-e-j">Bezanson, Jared</option>
+
+
+      <option value="/vs/bilesky-andrew#harnden-e-j">Bilesky, Andrew</option>
+
+
+      <option value="/vs/boland-adam#harnden-e-j">Boland, Adam</option>
+
+
+      <option value="/vs/borden-robert#harnden-e-j">Borden, Robert</option>
+
+
+      <option value="/vs/bottcher-brendan#harnden-e-j">Bottcher, Brendan</option>
+
+
+      <option value="/vs/bouchard-christian#harnden-e-j">Bouchard, Christian</option>
+
+
+      <option value="/vs/brannen-jamie#harnden-e-j">Brannen, Jamie</option>
+
+
+      <option value="/vs/brassard-philippe#harnden-e-j">Brassard, Philippe</option>
+
+
+      <option value="/vs/breckon-graham#harnden-e-j">Breckon, Graham</option>
+
+
+      <option value="/vs/bruce-daniel#harnden-e-j">Bruce, Daniel</option>
+
+
+      <option value="/vs/burgess-steve#harnden-e-j">Burgess, Steve</option>
+
+
+      <option value="/vs/burtnyk-kerry#harnden-e-j">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/buyck-james#harnden-e-j">Buyck, James</option>
+
+
+      <option value="/vs/camm-mathew#harnden-e-j">Camm, Mathew</option>
+
+
+      <option value="/vs/carmody-anson#harnden-e-j">Carmody, Anson</option>
+
+
+      <option value="/vs/carpenter-brayden#harnden-e-j">Carpenter, Brayden</option>
+
+
+      <option value="/vs/carruthers-reid#harnden-e-j">Carruthers, Reid</option>
+
+
+      <option value="/vs/case-peter#harnden-e-j">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#harnden-e-j">Casey, Adam</option>
+
+
+      <option value="/vs/chadwick-scott#harnden-e-j">Chadwick, Scott</option>
+
+
+      <option value="/vs/champion-kevin#harnden-e-j">Champion, Kevin</option>
+
+
+      <option value="/vs/chester-corey#harnden-e-j">Chester, Corey</option>
+
+
+      <option value="/vs/chorostkowski-brad#harnden-e-j">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/clarey-sean#harnden-e-j">Clarey, Sean</option>
+
+
+      <option value="/vs/cochrane-bryan#harnden-e-j">Cochrane, Bryan</option>
+
+
+      <option value="/vs/cocks-adam#harnden-e-j">Cocks, Adam</option>
+
+
+      <option value="/vs/collin-simon#harnden-e-j">Collin, Simon</option>
+
+
+      <option value="/vs/cotter-jim#harnden-e-j">Cotter, Jim</option>
+
+
+      <option value="/vs/cowan-chad#harnden-e-j">Cowan, Chad</option>
+
+
+      <option value="/vs/crete-martin#harnden-e-j">Crete, Martin</option>
+
+
+      <option value="/vs/crowell-phil#harnden-e-j">Crowell, Phil</option>
+
+
+      <option value="/vs/currie-morgan#harnden-e-j">Currie, Morgan</option>
+
+
+      <option value="/vs/danbrook-jamie#harnden-e-j">Danbrook, Jamie</option>
+
+
+      <option value="/vs/daneault-richard#harnden-e-j">Daneault, Richard</option>
+
+
+      <option value="/vs/darragh-alan#harnden-e-j">Darragh, Alan</option>
+
+
+      <option value="/vs/deis-ryan#harnden-e-j">Deis, Ryan</option>
+
+
+      <option value="/vs/dejong-cameron#harnden-e-j">deJong, Cameron</option>
+
+
+      <option value="/vs/desjardins-robert#harnden-e-j">Desjardins, Robert</option>
+
+
+      <option value="/vs/desrosiers-john#harnden-e-j">Desrosiers, John</option>
+
+
+      <option value="/vs/dilello-ty#harnden-e-j">Dilello, Ty</option>
+
+
+      <option value="/vs/dion-william#harnden-e-j">Dion, William</option>
+
+
+      <option value="/vs/dobson-paul#harnden-e-j">Dobson, Paul</option>
+
+
+      <option value="/vs/doering-kyle#harnden-e-j">Doering, Kyle</option>
+
+
+      <option value="/vs/doherty-robbie#harnden-e-j">Doherty, Robbie</option>
+
+
+      <option value="/vs/drummond-kerr#harnden-e-j">Drummond, Kerr</option>
+
+
+      <option value="/vs/dunstone-matt#harnden-e-j">Dunstone, Matt</option>
+
+
+      <option value="/vs/eldridge-zach#harnden-e-j">Eldridge, Zach</option>
+
+
+      <option value="/vs/epping-john#harnden-e-j">Epping, John</option>
+
+
+      <option value="/vs/errington-derek#harnden-e-j">Errington, Derek</option>
+
+
+      <option value="/vs/feltham-aaron#harnden-e-j">Feltham, Aaron</option>
+
+
+      <option value="/vs/fitzner-leblanc-ian#harnden-e-j">Fitzner-LeBlanc, Ian</option>
+
+
+      <option value="/vs/flasch-colton#harnden-e-j">Flasch, Colton</option>
+
+
+      <option value="/vs/flemming-paul#harnden-e-j">Flemming, Paul</option>
+
+
+      <option value="/vs/folk-kevin#harnden-e-j">Folk, Kevin</option>
+
+
+      <option value="/vs/ford-chris#harnden-e-j">Ford, Chris</option>
+
+
+      <option value="/vs/forget-wesley#harnden-e-j">Forget, Wesley</option>
+
+
+      <option value="/vs/forrest-alex#harnden-e-j">Forrest, Alex</option>
+
+
+      <option value="/vs/fournier-mike#harnden-e-j">Fournier, Mike</option>
+
+
+      <option value="/vs/fowler-rob#harnden-e-j">Fowler, Rob</option>
+
+
+      <option value="/vs/fry-ryan#harnden-e-j">Fry, Ryan</option>
+
+
+      <option value="/vs/gagne-francois#harnden-e-j">Gagne, Francois</option>
+
+
+      <option value="/vs/gagnon-jean#harnden-e-j">Gagnon, Jean</option>
+
+
+      <option value="/vs/gallant-brett#harnden-e-j">Gallant, Brett</option>
+
+
+      <option value="/vs/gallant-chris#harnden-e-j">Gallant, Chris</option>
+
+
+      <option value="/vs/gallant-peter#harnden-e-j">Gallant, Peter</option>
+
+
+      <option value="/vs/gaudet-mike#harnden-e-j">Gaudet, Mike</option>
+
+
+      <option value="/vs/gauthier-jacques#harnden-e-j">Gauthier, Jacques</option>
+
+
+      <option value="/vs/gavin-martin#harnden-e-j">Gavin, Martin</option>
+
+
+      <option value="/vs/gibson-andrew#harnden-e-j">Gibson, Andrew</option>
+
+
+      <option value="/vs/ginter-jason#harnden-e-j">Ginter, Jason</option>
+
+
+      <option value="/vs/gionest-francois#harnden-e-j">Gionest, Francois</option>
+
+
+      <option value="/vs/gould-steve#harnden-e-j">Gould, Steve</option>
+
+
+      <option value="/vs/grattan-james#harnden-e-j">Grattan, James</option>
+
+
+      <option value="/vs/griffith-tyrel#harnden-e-j">Griffith, Tyrel</option>
+
+
+      <option value="/vs/gunnlaugson-jason#harnden-e-j">Gunnlaugson, Jason</option>
+
+
+      <option value="/vs/gushue-brad#harnden-e-j">Gushue, Brad</option>
+
+
+      <option value="/vs/hagen-brandon#harnden-e-j">Hagen, Brandon</option>
+
+
+      <option value="/vs/hall-matthew#harnden-e-j">Hall, Matthew</option>
+
+
+      <option value="/vs/harnden-e-j#harnden-ryan">Harnden, Ryan</option>
+
+
+      <option value="/vs/harnden-e-j#harris-tyler">Harris, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#hart-joey">Hart, Joey</option>
+
+
+      <option value="/vs/harnden-e-j#hart-richard">Hart, Richard</option>
+
+
+      <option value="/vs/harnden-e-j#harty-jeremy">Harty, Jeremy</option>
+
+
+      <option value="/vs/harnden-e-j#hebert-ben">Hebert, Ben</option>
+
+
+      <option value="/vs/harnden-e-j#higgs-jake">Higgs, Jake</option>
+
+
+      <option value="/vs/harnden-e-j#hodgson-colin">Hodgson, Colin</option>
+
+
+      <option value="/vs/harnden-e-j#horgan-jacob">Horgan, Jacob</option>
+
+
+      <option value="/vs/harnden-e-j#horgan-tanner">Horgan, Tanner</option>
+
+
+      <option value="/vs/harnden-e-j#horvath-alex">Horvath, Alex</option>
+
+
+      <option value="/vs/harnden-e-j#howard-glenn">Howard, Glenn</option>
+
+
+      <option value="/vs/harnden-e-j#howard-greg">Howard, Greg</option>
+
+
+      <option value="/vs/harnden-e-j#howard-scott">Howard, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#howard-steven">Howard, Steven</option>
+
+
+      <option value="/vs/harnden-e-j#huminicki-elias">Huminicki, Elias</option>
+
+
+      <option value="/vs/harnden-e-j#ireland-clint">Ireland, Clint</option>
+
+
+      <option value="/vs/harnden-e-j#jacobs-brad">Jacobs, Brad</option>
+
+
+      <option value="/vs/harnden-e-j#janssen-patrick">Janssen, Patrick</option>
+
+
+      <option value="/vs/harnden-e-j#jeffrey-chris">Jeffrey, Chris</option>
+
+
+      <option value="/vs/harnden-e-j#jensen-trygg">Jensen, Trygg</option>
+
+
+      <option value="/vs/harnden-e-j#jewer-keith">Jewer, Keith</option>
+
+
+      <option value="/vs/harnden-e-j#johnson-trevor">Johnson, Trevor</option>
+
+
+      <option value="/vs/harnden-e-j#jones-brennen">Jones, Brennen</option>
+
+
+      <option value="/vs/harnden-e-j#jones-scott">Jones, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#jordison-joel">Jordison, Joel</option>
+
+
+      <option value="/vs/harnden-e-j#kammerlock-dan">Kammerlock, Dan</option>
+
+
+      <option value="/vs/harnden-e-j#kean-mark">Kean, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#kennedy-glen">Kennedy, Glen</option>
+
+
+      <option value="/vs/harnden-e-j#kennedy-marc">Kennedy, Marc</option>
+
+
+      <option value="/vs/harnden-e-j#kennedy-mike">Kennedy, Mike</option>
+
+
+      <option value="/vs/harnden-e-j#kidby-dustin">Kidby, Dustin</option>
+
+
+      <option value="/vs/harnden-e-j#king-brian">King, Brian</option>
+
+
+      <option value="/vs/harnden-e-j#kingdon-wade">Kingdon, Wade</option>
+
+
+      <option value="/vs/harnden-e-j#kleiter-rylan">Kleiter, Rylan</option>
+
+
+      <option value="/vs/harnden-e-j#koe-jamie">Koe, Jamie</option>
+
+
+      <option value="/vs/harnden-e-j#koe-kevin">Koe, Kevin</option>
+
+
+      <option value="/vs/harnden-e-j#kohlenberg-dale">Kohlenberg, Dale</option>
+
+
+      <option value="/vs/harnden-e-j#kolomaya-jared">Kolomaya, Jared</option>
+
+
+      <option value="/vs/harnden-e-j#kopf-steve">Kopf, Steve</option>
+
+
+      <option value="/vs/harnden-e-j#korab-jamie">Korab, Jamie</option>
+
+
+      <option value="/vs/harnden-e-j#korte-bruce">Korte, Bruce</option>
+
+
+      <option value="/vs/harnden-e-j#korte-roger">Korte, Roger</option>
+
+
+      <option value="/vs/harnden-e-j#krats-joel">Krats, Joel</option>
+
+
+      <option value="/vs/harnden-e-j#kuhn-ryan">Kuhn, Ryan</option>
+
+
+      <option value="/vs/harnden-e-j#laing-brent">Laing, Brent</option>
+
+
+      <option value="/vs/harnden-e-j#lang-tyler">Lang, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#latimer-shane">Latimer, Shane</option>
+
+
+      <option value="/vs/harnden-e-j#latos-evan">Latos, Evan</option>
+
+
+      <option value="/vs/harnden-e-j#laycock-steve">Laycock, Steve</option>
+
+
+      <option value="/vs/harnden-e-j#lecocq-marc">LeCocq, Marc</option>
+
+
+      <option value="/vs/harnden-e-j#ledgerwood-sean">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/harnden-e-j#lemay-philippe">Lemay, Philippe</option>
+
+
+      <option value="/vs/harnden-e-j#lequin-bradley">Lequin, Bradley</option>
+
+
+      <option value="/vs/harnden-e-j#likely-john">Likely, John</option>
+
+
+      <option value="/vs/harnden-e-j#lind-j-d">Lind, J.D.</option>
+
+
+      <option value="/vs/harnden-e-j#lott-colton">Lott, Colton</option>
+
+
+      <option value="/vs/harnden-e-j#lyburn-allan">Lyburn, Allan</option>
+
+
+      <option value="/vs/harnden-e-j#macaulay-ian">MacAulay, Ian</option>
+
+
+      <option value="/vs/harnden-e-j#macdonald-blake">MacDonald, Blake</option>
+
+
+      <option value="/vs/harnden-e-j#macdonald-edmund">MacDonald, Edmund</option>
+
+
+      <option value="/vs/harnden-e-j#macdonald-rod">MacDonald, Rod</option>
+
+
+      <option value="/vs/harnden-e-j#macfadyen-alex">MacFadyen, Alex</option>
+
+
+      <option value="/vs/harnden-e-j#mackenzie-eddie">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/harnden-e-j#mackenzie-tyler">MacKenzie, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#mackey-peter">Mackey, Peter</option>
+
+
+      <option value="/vs/harnden-e-j#maclean-stuart">MacLean, Stuart</option>
+
+
+      <option value="/vs/harnden-e-j#mallais-jeremy">Mallais, Jeremy</option>
+
+
+      <option value="/vs/harnden-e-j#manners-scott">Manners, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#manuel-matthew">Manuel, Matthew</option>
+
+
+      <option value="/vs/harnden-e-j#march-tim">March, Tim</option>
+
+
+      <option value="/vs/harnden-e-j#markowsky-rob">Markowsky, Rob</option>
+
+
+      <option value="/vs/harnden-e-j#marsh-dan">Marsh, Dan</option>
+
+
+      <option value="/vs/harnden-e-j#marsh-daniel">Marsh, Daniel</option>
+
+
+      <option value="/vs/harnden-e-j#marsh-kevin">Marsh, Kevin</option>
+
+
+      <option value="/vs/harnden-e-j#martin-karrick">Martin, Karrick</option>
+
+
+      <option value="/vs/harnden-e-j#martin-kevin">Martin, Kevin</option>
+
+
+      <option value="/vs/harnden-e-j#maskiewich-ken">Maskiewich, Ken</option>
+
+
+      <option value="/vs/harnden-e-j#mathers-david">Mathers, David</option>
+
+
+      <option value="/vs/harnden-e-j#mattern-joshua">Mattern, Joshua</option>
+
+
+      <option value="/vs/harnden-e-j#mccann-andy">McCann, Andy</option>
+
+
+      <option value="/vs/harnden-e-j#mcdermaid-donald">McDermaid, Donald</option>
+
+
+      <option value="/vs/harnden-e-j#mcdonald-jordon">McDonald, Jordon</option>
+
+
+      <option value="/vs/harnden-e-j#mcdonald-scott">McDonald, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#mcdonell-justin">McDonell, Justin</option>
+
+
+      <option value="/vs/harnden-e-j#mcewen-mike">McEwen, Mike</option>
+
+
+      <option value="/vs/harnden-e-j#mckee-darrell">McKee, Darrell</option>
+
+
+      <option value="/vs/harnden-e-j#mckinnon-robert">Mckinnon, Robert</option>
+
+
+      <option value="/vs/harnden-e-j#mcleod-shadrach">Mcleod, Shadrach</option>
+
+
+      <option value="/vs/harnden-e-j#mcmillan-ian">McMillan, Ian</option>
+
+
+      <option value="/vs/harnden-e-j#meachem-shaun-myles">Meachem, Shaun Myles</option>
+
+
+      <option value="/vs/harnden-e-j#mead-jon">Mead, Jon</option>
+
+
+      <option value="/vs/harnden-e-j#meagher-jeffrey">Meagher, Jeffrey</option>
+
+
+      <option value="/vs/harnden-e-j#meister-nicholas">Meister, Nicholas</option>
+
+
+      <option value="/vs/harnden-e-j#menard-jean-michel">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/harnden-e-j#menard-philippe">Menard, Philippe</option>
+
+
+      <option value="/vs/harnden-e-j#merklinger-bill">Merklinger, Bill</option>
+
+
+      <option value="/vs/harnden-e-j#middaugh-wayne">Middaugh, Wayne</option>
+
+
+      <option value="/vs/harnden-e-j#middleton-sterling">Middleton, Sterling</option>
+
+
+      <option value="/vs/harnden-e-j#mikkelsen-dustin">Mikkelsen, Dustin</option>
+
+
+      <option value="/vs/harnden-e-j#mitchell-collin">Mitchell, Collin</option>
+
+
+      <option value="/vs/harnden-e-j#mittelstadt-kelly">Mittelstadt, Kelly</option>
+
+
+      <option value="/vs/harnden-e-j#morris-john">Morris, John</option>
+
+
+      <option value="/vs/harnden-e-j#moskowy-braeden">Moskowy, Braeden</option>
+
+
+      <option value="/vs/harnden-e-j#moulding-darren">Moulding, Darren</option>
+
+
+      <option value="/vs/harnden-e-j#mullen-jesse">Mullen, Jesse</option>
+
+
+      <option value="/vs/harnden-e-j#munroe-steven">Munroe, Steven</option>
+
+
+      <option value="/vs/harnden-e-j#murphy-jamie">Murphy, Jamie</option>
+
+
+      <option value="/vs/harnden-e-j#muyres-dallan">Muyres, Dallan</option>
+
+
+      <option value="/vs/harnden-e-j#muyres-kirk">Muyres, Kirk</option>
+
+
+      <option value="/vs/harnden-e-j#nadeau-jeff">Nadeau, Jeff</option>
+
+
+      <option value="/vs/harnden-e-j#nason-paul">Nason, Paul</option>
+
+
+      <option value="/vs/harnden-e-j#naugler-tom">Naugler, Tom</option>
+
+
+      <option value="/vs/harnden-e-j#ncneil-lamswood-ryan">NcNeil-Lamswood, Ryan</option>
+
+
+      <option value="/vs/harnden-e-j#nedohin-david">Nedohin, David</option>
+
+
+      <option value="/vs/harnden-e-j#nerpin-andrew">Nerpin, Andrew</option>
+
+
+      <option value="/vs/harnden-e-j#neufeld-b-j">Neufeld, B.J.</option>
+
+
+      <option value="/vs/harnden-e-j#neufeld-denni">Neufeld, Denni</option>
+
+
+      <option value="/vs/harnden-e-j#newson-jamie">Newson, Jamie</option>
+
+
+      <option value="/vs/harnden-e-j#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#njegovan-connor">Njegovan, Connor</option>
+
+
+      <option value="/vs/harnden-e-j#noftall-david">Noftall, David</option>
+
+
+      <option value="/vs/harnden-e-j#o-rourke-mark">O'Rourke, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#odian-scott">Odian, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#odishaw-grant">Odishaw, Grant</option>
+
+
+      <option value="/vs/harnden-e-j#odishaw-terry">Odishaw, Terry</option>
+
+
+      <option value="/vs/harnden-e-j#olafson-cameron">Olafson, Cameron</option>
+
+
+      <option value="/vs/harnden-e-j#orme-tyler">Orme, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#palmer-curt">Palmer, Curt</option>
+
+
+      <option value="/vs/harnden-e-j#park-kevin">Park, Kevin</option>
+
+
+      <option value="/vs/harnden-e-j#parsons-cole">Parsons, Cole</option>
+
+
+      <option value="/vs/harnden-e-j#patzer-brad">Patzer, Brad</option>
+
+
+      <option value="/vs/harnden-e-j#peech-alexander">Peech, Alexander</option>
+
+
+      <option value="/vs/harnden-e-j#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/harnden-e-j#pillsworth-mark">Pillsworth, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#pinder-jordan">Pinder, Jordan</option>
+
+
+      <option value="/vs/harnden-e-j#quevillon-louis">Quevillon, Louis</option>
+
+
+      <option value="/vs/harnden-e-j#rafuse-brian">Rafuse, Brian</option>
+
+
+      <option value="/vs/harnden-e-j#reid-serge">Reid, Serge</option>
+
+
+      <option value="/vs/harnden-e-j#richard-jeff">Richard, Jeff</option>
+
+
+      <option value="/vs/harnden-e-j#roach-darren">Roach, Darren</option>
+
+
+      <option value="/vs/harnden-e-j#roach-jason">Roach, Jason</option>
+
+
+      <option value="/vs/harnden-e-j#robar-mark">Robar, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#robinson-andrew">Robinson, Andrew</option>
+
+
+      <option value="/vs/harnden-e-j#rowsell-rick">Rowsell, Rick</option>
+
+
+      <option value="/vs/harnden-e-j#roy-jean-sebastien">Roy, Jean-Sebastien</option>
+
+
+      <option value="/vs/harnden-e-j#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/harnden-e-j#saccary-scott">Saccary, Scott</option>
+
+
+      <option value="/vs/harnden-e-j#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/harnden-e-j#saunders-luke">Saunders, Luke</option>
+
+
+      <option value="/vs/harnden-e-j#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/harnden-e-j#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/harnden-e-j#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/harnden-e-j#schneider-catlin">Schneider, Catlin</option>
+
+
+      <option value="/vs/harnden-e-j#scoffin-thomas">Scoffin, Thomas</option>
+
+
+      <option value="/vs/harnden-e-j#scoffin-wade">Scoffin, Wade</option>
+
+
+      <option value="/vs/harnden-e-j#sharp-jeff">Sharp, Jeff</option>
+
+
+      <option value="/vs/harnden-e-j#shypitka-tom">Shypitka, Tom</option>
+
+
+      <option value="/vs/harnden-e-j#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/harnden-e-j#skauge-greg">Skauge, Greg</option>
+
+
+      <option value="/vs/harnden-e-j#slauenwhite-david">Slauenwhite, David</option>
+
+
+      <option value="/vs/harnden-e-j#sluchinski-aaron">Sluchinski, Aaron</option>
+
+
+      <option value="/vs/harnden-e-j#smallwood-robert">Smallwood, Robert</option>
+
+
+      <option value="/vs/harnden-e-j#smith-garth">Smith, Garth</option>
+
+
+      <option value="/vs/harnden-e-j#smith-kent">Smith, Kent</option>
+
+
+      <option value="/vs/harnden-e-j#smith-tyler">Smith, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#smitheram-christian">Smitheram, Christian</option>
+
+
+      <option value="/vs/harnden-e-j#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/harnden-e-j#spencer-adam">Spencer, Adam</option>
+
+
+      <option value="/vs/harnden-e-j#st-louis-brady">St.Louis, Brady</option>
+
+
+      <option value="/vs/harnden-e-j#st-louis-david">St.Louis, David</option>
+
+
+      <option value="/vs/harnden-e-j#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/harnden-e-j#sturmay-karsten">Sturmay, Karsten</option>
+
+
+      <option value="/vs/harnden-e-j#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/harnden-e-j#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/harnden-e-j#symonds-andrew">Symonds, Andrew</option>
+
+
+      <option value="/vs/harnden-e-j#tardi-tyler">Tardi, Tyler</option>
+
+
+      <option value="/vs/harnden-e-j#thiessen-brad">Thiessen, Brad</option>
+
+
+      <option value="/vs/harnden-e-j#thiessen-nolan">Thiessen, Nolan</option>
+
+
+      <option value="/vs/harnden-e-j#thomas-charley">Thomas, Charley</option>
+
+
+      <option value="/vs/harnden-e-j#tremblay-julien">Tremblay, Julien</option>
+
+
+      <option value="/vs/harnden-e-j#trepanier-jean-francois">Trepanier, Jean-Francois</option>
+
+
+      <option value="/vs/harnden-e-j#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/harnden-e-j#van-strien-peter">Van Strien, Peter</option>
+
+
+      <option value="/vs/harnden-e-j#vaughan-jason">Vaughan, Jason</option>
+
+
+      <option value="/vs/harnden-e-j#venance-glenn">Venance, Glenn</option>
+
+
+      <option value="/vs/harnden-e-j#villeneuve-steeve">Villeneuve, Steeve</option>
+
+
+      <option value="/vs/harnden-e-j#virtue-brock">Virtue, Brock</option>
+
+
+      <option value="/vs/harnden-e-j#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/harnden-e-j#watson-aaron">Watson, Aaron</option>
+
+
+      <option value="/vs/harnden-e-j#webster-dylan">Webster, Dylan</option>
+
+
+      <option value="/vs/harnden-e-j#wettig-sheldon">Wettig, Sheldon</option>
+
+
+      <option value="/vs/harnden-e-j#white-edward">White, Edward</option>
+
+
+      <option value="/vs/harnden-e-j#whitehead-kevin">Whitehead, Kevin</option>
+
+
+      <option value="/vs/harnden-e-j#whitehead-mark">Whitehead, Mark</option>
+
+
+      <option value="/vs/harnden-e-j#wood-brad">Wood, Brad</option>
+
+
+      <option value="/vs/harnden-e-j#wozniak-matt">Wozniak, Matt</option>
+
+
+      <option value="/vs/harnden-e-j#zachernuk-nick">Zachernuk, Nick</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,2665 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Brier Records
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<h1>Brier Records</h1>
+
+<div id="records">
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Game Scoring Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section1-tab1-tab" data-toggle="tab" href="#section1-tab1" role="tab" aria-controls="section1-tab1" aria-selected="true">All Games</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section1-tab2-tab" data-toggle="tab" href="#section1-tab2" role="tab" aria-controls="section1-tab2" aria-selected="false">Final Games</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section1-tab3-tab" data-toggle="tab" href="#section1-tab3" role="tab" aria-controls="section1-tab3" aria-selected="false">Semi-Final Games</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section1-tab4-tab" data-toggle="tab" href="#section1-tab4" role="tab" aria-controls="section1-tab4" aria-selected="false">Page-12 Games</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section1-tab5-tab" data-toggle="tab" href="#section1-tab5" role="tab" aria-controls="section1-tab5" aria-selected="false">Page-34 Games</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section1-tab1" role="tabpanel" aria-labelledby="section1-tab1-tab">
+MONTANA'S BRIER SCORING RECORDS - ALL GAMES - 1980-2025
+ 
+NUMBER OF GAMES PLAYED: 3308
+ 
+NUMBER OF EXTRA END GAMES:  351
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  20
+ 
+          2025 DRAW  6    ABJA 20  NTBA  2
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   0
+ 
+          1986 DRAW 10    NFLD  0  ALTA 11
+          1986 DRAW 15    TERR  0  ONT  11
+          1996 DRAW  9    TERR  0  MAN  10
+          1998 DRAW  5    PEI   0  MAN   8
+          2021 DRAW 14    MB    0  NO    3
+          2024 DRAW 20    SK    7  NT    0
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  24
+ 
+          2004 DRAW 11    PEI  10  NL   14
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   3
+ 
+          1990 DRAW 14    N.B.  2  PEI   1
+          1993 DRAW  5    ONT   2  PEI   1
+          2000 DRAW  7    PEI   1  MAN   2
+          2021 DRAW 14    MB    0  NO    3
+ 
+HIGHEST END SCORE WITH HAMMER:   7
+ 
+          2018 DRAW 17    NB   12  BC    5    NB   SCORED 7 IN THE 6TH END
+          2019 DRAW 14    NU    2  CA   11    CA   SCORED 7 IN THE FIRST END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   7
+ 
+          2000 DRAW  5    PEI  12  N.S.  2    PEI  SCORED 7 IN THE 5TH END
+ 
+MOST POINTS SCORED, ONE TEAM, ONE EVENT YEAR: 115
+ 
+          2014 Alberta (K Koe) (Kevin Koe, Pat Simmons, Carter Rycroft, Nolan Thiessen)
+ 
+MOST POINTS SCORED, ALL TEAMS, ONE EVENT YEAR: 1157
+ 
+          2021 Calgary, Alberta
+ 
+MOST BLANK ENDS, ONE GAME:   8
+ 
+          1990 DRAW 14    N.B.  2  PEI   1
+          1993 DRAW  5    ONT   2  PEI   1
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   6
+ 
+          1989 DRAW  7    B.C.  1  ALTA  3    BY B.C. BEGINNING IN END 3
+          1990 DRAW 14    N.B.  2  PEI   1    BY N.B. BEGINNING IN END 5
+ 
+MOST STOLEN ENDS, ONE TEAM, ONE GAME:   6
+ 
+          1983 DRAW  8    N.S. 11  SASK  1
+          1986 DRAW 10    NFLD  0  ALTA 11
+          1994 DRAW 17    TERR  1  SASK  9
+          2024 DRAW 20    SK    7  NT    0
+ 
+MOST POINTS FROM STOLEN ENDS, ONE TEAM, ONE GAME:  11
+ 
+          1986 DRAW 10    NFLD  0  ALTA 11
+          2021 DRAW 18    YT    2  WC1  14
+          2022 DRAW  8    NU    1  MB   18
+ 
+MOST STOLEN ENDS, BOTH TEAMS, ONE GAME:   7
+ 
+          2021 DRAW 17    QC    5  WC2  10
+ 
+MOST CONSECUTIVE STOLEN ENDS, ONE TEAM, ONE GAME:   6
+ 
+          1983 DRAW  8    N.S. 11  SASK  1    BY N.S. BEGINNING IN END 2
+ 
+LARGEST COME FROM BEHIND VICTORY:   5
+ 
+          1980 DRAW  1    N.S.  9  NONT 10    NONT WAS DOWN 5 AFTER 8 ENDS
+          1982 DRAW  5    B.C.  8  TERR  7    B.C. WAS DOWN 5 AFTER 3 ENDS
+          2004 DRAW  8    YNWT  6  B.C.  8    B.C. WAS DOWN 5 AFTER 7 ENDS
+          2019 DRAW  5    Wild  9  MB    8    Wild WAS DOWN 5 AFTER 4 ENDS
+          2023 DRAW  5    BC    8  YT   10    YT   WAS DOWN 5 AFTER 5 ENDS
+          2023 DRAW 11    NT    7  NL    8    NL   WAS DOWN 5 AFTER 2 ENDS
+ 
+MOST EXTRA END GAMES IN ONE EVENT YEAR:  14
+ 
+          1981 Halifax, Nova Scotia
+          1990 SAULT STE MARIE, ONTARIO
+ 
+FEWEST EXTRA END GAMES IN ONE EVENT YEAR:   1
+ 
+          2000 Saskatoon, Saskatchewan
+ 
+MOST BLANK ENDS IN ONE EVENT YEAR: 172
+ 
+          1993 Ottawa, Ontario
+ 
+FEWEST BLANK ENDS IN ONE EVENT YEAR:  60
+ 
+          2009 Pengrowth Saddledome, Calgary, Alberta
+ 
+MOST STOLEN ENDS IN ONE EVENT YEAR: 172
+ 
+          2021 Calgary, Alberta
+ 
+FEWEST STOLEN ENDS IN ONE EVENT YEAR:  85
+ 
+          2016 Ottawa, Ontario
+ 
+MOST ENDS PLAYED IN ONE GAME:  12
+ 
+          1982 DRAW  2    MAN   6  N.B.  5
+          1982 DRAW 12    B.C.  7  NONT  6
+          1986 DRAW  8    QUE   5  SASK  6
+          1986 DRAW  9    N.S.  6  ALTA  7
+          1987 DRAW 12    ALTA  7  NFLD  9
+          1991 DRAW  3    N.S.  4  ALTA  5
+          2008 DRAW 17    QUE   9  NONT  8
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   4
+ 
+          1986 DRAW 15    TERR  0  ONT  11
+          1989 DRAW 10    NFLD  9  PEI   1
+      </div>
+      <div class="tab-pane fade" id="section1-tab2" role="tabpanel" aria-labelledby="section1-tab2-tab">
+MONTANA'S BRIER SCORING RECORDS - FINAL GAMES - 1980-2025
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  11
+ 
+          1987 DRAW 17    ONT  11  B.C.  7
+          2013 DRAW 22    MB    4  NO   11
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   2
+ 
+          1989 DRAW 17    B.C.  2  ALTA  3
+          2021 DRAW 24    AB    4  WC2   2
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  19
+ 
+          2004 DRAW 22    N.S. 10  ALTA  9
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   5
+ 
+          1989 DRAW 17    B.C.  2  ALTA  3
+ 
+HIGHEST END SCORE WITH HAMMER:   5
+ 
+          1987 DRAW 17    ONT  11  B.C.  7    ONT  SCORED 5 IN THE 10TH END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   3
+ 
+          1980 DRAW 17    NONT  6  SASK 10    SASK SCORED 3 IN THE SECOND END
+          2000 DRAW 22    B.C.  9  N.B.  5    B.C. SCORED 3 IN THE 9TH END
+          2006 DRAW 21    QUE   8  ONT   7    QUE  SCORED 3 IN THE SECOND END
+ 
+MOST BLANK ENDS, ONE GAME:   6
+ 
+          1989 DRAW 17    B.C.  2  ALTA  3
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   4
+ 
+          2015 DRAW 22    TC    6  NO    5    BY NO   BEGINNING IN END 1
+          2025 DRAW 24    ABJA  5  MBDU  3    BY MBDU BEGINNING IN END 1
+ 
+MOST STOLEN ENDS, ONE TEAM, ONE GAME:   4
+ 
+          2013 DRAW 22    MB    4  NO   11
+ 
+MOST POINTS FROM STOLEN ENDS, ONE TEAM, ONE GAME:   6
+ 
+          2013 DRAW 22    MB    4  NO   11
+ 
+MOST STOLEN ENDS, BOTH TEAMS, ONE GAME:   4
+ 
+          2013 DRAW 22    MB    4  NO   11
+ 
+MOST CONSECUTIVE STOLEN ENDS, ONE TEAM, ONE GAME:   3
+ 
+          1982 DRAW 19    NONT  7  B.C.  3    BY NONT BEGINNING IN END 6
+ 
+LARGEST COME FROM BEHIND VICTORY:   4
+ 
+          2004 DRAW 22    N.S. 10  ALTA  9    N.S. WAS DOWN 4 AFTER 7 ENDS
+ 
+EXTRA END GAMES:   6
+ 
+          1985 Moncton, New Brunswick
+          1992 Regina, Saskatchewan
+          1996 Kamloops, B.C.
+          2010 Halifax, Nova Scotia
+          2015 Scotiabank Saddledome, Calgary, AB
+          2022 Lethbridge, Alberta
+ 
+MOST ENDS PLAYED IN ONE GAME:  11
+ 
+          1985 DRAW 19    NONT  6  ALTA  5
+          1992 DRAW 19    MAN   4  ONT   3
+          1996 DRAW 22    MAN   8  ALTA  7
+          2010 DRAW 21    AB    6  ON    5
+          2015 DRAW 22    TC    6  NO    5
+          2022 DRAW 25    AB    8  WC1   9
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   9
+ 
+          1982 DRAW 19    NONT  7  B.C.  3
+          1991 DRAW 14    SASK  4  ALTA  8
+          2001 DRAW 21    ALTA  8  MAN   4
+          2002 DRAW 21    ALTA  9  ONT   4
+          2009 DRAW 22    ALTA 10  MAN   4
+          2013 DRAW 22    MB    4  NO   11
+          2014 DRAW 22    B.C.  5  ALTA 10
+          2024 DRAW 24    SK    5  CA    9
+      </div>
+      <div class="tab-pane fade" id="section1-tab3" role="tabpanel" aria-labelledby="section1-tab3-tab">
+MONTANA'S BRIER SCORING RECORDS - SEMI-FINAL GAMES - 1980-2025
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  10
+ 
+          2010 DRAW 20    NO    3  AB   10
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   1
+ 
+          1988 DRAW 16    ONT   1  SASK  6
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  17
+ 
+          1996 DRAW 21    QUE   8  ALTA  9
+          2014 DRAW 20    QUE   8  ALTA  9
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   7
+ 
+          1988 DRAW 16    ONT   1  SASK  6
+          1991 DRAW 13    ALTA  4  B.C.  3
+ 
+HIGHEST END SCORE WITH HAMMER:   4
+ 
+          1987 DRAW 16    NFLD  6  B.C.  8    B.C. SCORED 4 IN THE 8TH END
+          2003 DRAW 20    N.S.  9  B.C.  6    N.S. SCORED 4 IN THE 8TH END
+          2005 DRAW 20    N.S.  8  MAN   7    N.S. SCORED 4 IN THE THIRD END
+          2009 DRAW 21    MAN   8  ONT   6    MAN  SCORED 4 IN THE SECOND END
+          2012 DRAW 20    AB    8  MB    6    AB   SCORED 4 IN THE 8TH END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   3
+ 
+          1995 DRAW 21    MAN   9  ALTA  3    MAN  SCORED 3 IN THE THIRD END
+ 
+MOST BLANK ENDS, ONE GAME:   4
+ 
+          1984 DRAW 18    ALTA  3  ONT   6
+          1991 DRAW 13    ALTA  4  B.C.  3
+          1999 DRAW 21    QUE   6  SASK  5
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   3
+ 
+          2025 DRAW 23    ABJA  7  CAGU  5    BY ABJA BEGINNING IN END 1
+ 
+MOST STOLEN ENDS, ONE TEAM, ONE GAME:   4
+ 
+          1988 DRAW 16    ONT   1  SASK  6
+ 
+MOST POINTS FROM STOLEN ENDS, ONE TEAM, ONE GAME:   5
+ 
+          1988 DRAW 16    ONT   1  SASK  6
+          2010 DRAW 20    NO    3  AB   10
+ 
+MOST STOLEN ENDS, BOTH TEAMS, ONE GAME:   4
+ 
+          1988 DRAW 16    ONT   1  SASK  6
+ 
+MOST CONSECUTIVE STOLEN ENDS, ONE TEAM, ONE GAME:   3
+ 
+          1982 DRAW 18    NONT  8  MAN   6    BY NONT BEGINNING IN END 4
+ 
+LARGEST COME FROM BEHIND VICTORY:   3
+ 
+          2017 DRAW 20    MB    6  CA    7    CA   WAS DOWN 3 AFTER 6 ENDS
+ 
+EXTRA END GAMES:   7
+ 
+          1981 Halifax, Nova Scotia
+          1986 Kitchener/Waterloo, Ontario
+          1997 Calgary, Alberta
+          1999 Edmonton, Alberta
+          2008 MTS Centre, Winnipeg, Manitoba
+          2014 Interior Savings Centre, Kamloops, BC
+          2017 St. John's, NL
+ 
+MOST ENDS PLAYED IN ONE GAME:  11
+ 
+          1981 DRAW 18    MAN   5  SASK  4
+          1986 DRAW 17    B.C.  5  ONT   6
+          1997 DRAW 20    N.B.  5  MAN   6
+          1999 DRAW 21    QUE   6  SASK  5
+          2008 DRAW 21    ONT   8  SASK  7
+          2014 DRAW 20    QUE   8  ALTA  9
+          2017 DRAW 20    MB    6  CA    7
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   7
+ 
+          1995 DRAW 21    MAN   9  ALTA  3
+      </div>
+      <div class="tab-pane fade" id="section1-tab4" role="tabpanel" aria-labelledby="section1-tab4-tab">
+MONTANA'S BRIER SCORING RECORDS - PAGE-12 GAMES - 1995-2025
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  10
+ 
+          1998 DRAW 20    ONT  10  QUE   4
+          2004 DRAW 19    N.S.  6  ALTA 10
+          2021 DRAW 20    ON   10  WC3   8
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   2
+ 
+          2003 DRAW 19    B.C.  2  ALTA  8
+          2018 DRAW 21    CA    6  ON    2
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  18
+ 
+          2021 DRAW 20    ON   10  WC3   8
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   8
+ 
+          2000 DRAW 20    B.C.  5  N.B.  3
+          2018 DRAW 21    CA    6  ON    2
+ 
+HIGHEST END SCORE WITH HAMMER:   4
+ 
+          1998 DRAW 20    ONT  10  QUE   4    ONT  SCORED 4 IN THE 6TH END
+          2004 DRAW 19    N.S.  6  ALTA 10    ALTA SCORED 4 IN THE 7TH END
+          2020 DRAW 20    SK    4  AB    9    AB   SCORED 4 IN THE 10TH END
+          2021 DRAW 20    ON   10  WC3   8    ON   SCORED 4 IN THE 4TH END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   3
+ 
+          2007 DRAW 19    ONT   6  NL    7    NL   SCORED 3 IN THE SECOND END
+          2019 DRAW 20    NO    4  AB    9    AB   SCORED 3 IN THE SECOND END
+ 
+MOST BLANK ENDS, ONE GAME:   3
+ 
+          1997 DRAW 19    ALTA  6  MAN   5
+          1999 DRAW 20    MAN   6  QUE   4
+          2018 DRAW 21    CA    6  ON    2
+          2023 DRAW 22    CA    5  MB    4
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   3
+ 
+          1997 DRAW 19    ALTA  6  MAN   5    BY MAN  BEGINNING IN END 5
+          1999 DRAW 20    MAN   6  QUE   4    BY MAN  BEGINNING IN END 3
+          2023 DRAW 22    CA    5  MB    4    BY MB   BEGINNING IN END 7
+ 
+MOST STOLEN ENDS, ONE TEAM, ONE GAME:   3
+ 
+          2003 DRAW 19    B.C.  2  ALTA  8
+          2008 DRAW 20    ALTA  8  SASK  7
+ 
+MOST POINTS FROM STOLEN ENDS, ONE TEAM, ONE GAME:   4
+ 
+          2003 DRAW 19    B.C.  2  ALTA  8
+          2007 DRAW 19    ONT   6  NL    7
+          2008 DRAW 20    ALTA  8  SASK  7
+ 
+MOST STOLEN ENDS, BOTH TEAMS, ONE GAME:   5
+ 
+          2008 DRAW 20    ALTA  8  SASK  7
+ 
+MOST CONSECUTIVE STOLEN ENDS, ONE TEAM, ONE GAME:   2
+ 
+          2003 DRAW 19    B.C.  2  ALTA  8    BY ALTA BEGINNING IN END 5
+          2007 DRAW 19    ONT   6  NL    7    BY NL   BEGINNING IN END 1
+          2008 DRAW 20    ALTA  8  SASK  7    BY ALTA BEGINNING IN END 9
+          2024 DRAW 22    CA    7  AB-B  3    BY CA   BEGINNING IN END 8
+ 
+LARGEST COME FROM BEHIND VICTORY:   3
+ 
+          2008 DRAW 20    ALTA  8  SASK  7    ALTA WAS DOWN 3 AFTER 5 ENDS
+          2016 DRAW 18    NL    7  NO    6    NL   WAS DOWN 3 AFTER 5 ENDS
+          2021 DRAW 20    ON   10  WC3   8    ON   WAS DOWN 3 AFTER 1 END
+ 
+EXTRA END GAMES:   5
+ 
+          1995 Halifax, NS
+          1997 Calgary, Alberta
+          2009 Pengrowth Saddledome, Calgary, Alberta
+          2011 London, Ontario
+          2016 Ottawa, Ontario
+ 
+MOST ENDS PLAYED IN ONE GAME:  11
+ 
+          1995 DRAW 20    MAN   5  SASK  6
+          1997 DRAW 19    ALTA  6  MAN   5
+          2009 DRAW 19    ALTA  7  ONT   6
+          2011 DRAW 18    NL    6  MB    7
+          2016 DRAW 18    NL    7  NO    6
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   7
+ 
+          2003 DRAW 19    B.C.  2  ALTA  8
+      </div>
+      <div class="tab-pane fade" id="section1-tab5" role="tabpanel" aria-labelledby="section1-tab5-tab">
+MONTANA'S BRIER SCORING RECORDS - PAGE-34 GAMES - 1995-2025
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  10
+ 
+          2012 DRAW 19    AB   10  NT/Y  6
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   2
+ 
+          2017 DRAW 19    CA    6  NO    2
+          2019 DRAW 19    Wild  7  CA    2
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  16
+ 
+          2001 DRAW 18    QUE   7  MAN   9
+          2008 DRAW 19    ONT   9  B.C.  7
+          2012 DRAW 19    AB   10  NT/Y  6
+          2022 DRAW 22    SK    7  WC1   9
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   8
+ 
+          2017 DRAW 19    CA    6  NO    2
+ 
+HIGHEST END SCORE WITH HAMMER:   4
+ 
+          2019 DRAW 19    Wild  7  CA    2    Wild SCORED 4 IN THE 8TH END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   4
+ 
+          2012 DRAW 19    AB   10  NT/Y  6    AB   SCORED 4 IN THE 8TH END
+ 
+MOST BLANK ENDS, ONE GAME:   3
+ 
+          2011 DRAW 19    AB    4  ON    5
+          2017 DRAW 19    CA    6  NO    2
+          2018 DRAW 20    NO    5  AB    6
+          2019 DRAW 19    Wild  7  CA    2
+          2021 DRAW 21    SK    5  NO    4
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   2
+ 
+          1998 DRAW 19    SASK  3  MAN   6    BY MAN  BEGINNING IN END 4
+          2010 DRAW 19    AB    6  NL    5    BY NL   BEGINNING IN END 4
+          2011 DRAW 19    AB    4  ON    5    BY AB   BEGINNING IN END 6
+          2017 DRAW 19    CA    6  NO    2    BY NO   BEGINNING IN END 3
+ 
+MOST STOLEN ENDS, ONE TEAM, ONE GAME:   4
+ 
+          1995 DRAW 19    ALTA  8  ONT   4
+ 
+MOST POINTS FROM STOLEN ENDS, ONE TEAM, ONE GAME:   5
+ 
+          1995 DRAW 19    ALTA  8  ONT   4
+          2012 DRAW 19    AB   10  NT/Y  6
+ 
+MOST STOLEN ENDS, BOTH TEAMS, ONE GAME:   4
+ 
+          1995 DRAW 19    ALTA  8  ONT   4
+          2024 DRAW 21    SK    6  MB-D  5
+ 
+MOST CONSECUTIVE STOLEN ENDS, ONE TEAM, ONE GAME:   3
+ 
+          1995 DRAW 19    ALTA  8  ONT   4    BY ALTA BEGINNING IN END 2
+ 
+LARGEST COME FROM BEHIND VICTORY:   2
+ 
+          1997 DRAW 18    N.B.  6  ONT   4    N.B. WAS DOWN 2 AFTER 4 ENDS
+          2001 DRAW 18    QUE   7  MAN   9    MAN  WAS DOWN 2 AFTER 1 END
+          2014 DRAW 19    MAN   6  QUE   7    QUE  WAS DOWN 2 AFTER 2 ENDS
+          2018 DRAW 20    NO    5  AB    6    AB   WAS DOWN 2 AFTER 8 ENDS
+ 
+EXTRA END GAMES:   3
+ 
+          2013 Edmonton, Alberta
+          2015 Scotiabank Saddledome, Calgary, AB
+          2018 Regina, SK
+ 
+MOST ENDS PLAYED IN ONE GAME:  11
+ 
+          2013 DRAW 19    NL    5  NO    6
+          2015 DRAW 19    SK    7  TC    8
+          2018 DRAW 20    NO    5  AB    6
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   9
+ 
+          1995 DRAW 19    ALTA  8  ONT   4
+          2012 DRAW 19    AB   10  NT/Y  6
+          2017 DRAW 19    CA    6  NO    2
+          2019 DRAW 19    Wild  7  CA    2
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Game Percentages</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section2-tab1-tab" data-toggle="tab" href="#section2-tab1" role="tab" aria-controls="section2-tab1" aria-selected="true">Top Lead Game Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab2-tab" data-toggle="tab" href="#section2-tab2" role="tab" aria-controls="section2-tab2" aria-selected="false">Top Second Game Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab3-tab" data-toggle="tab" href="#section2-tab3" role="tab" aria-controls="section2-tab3" aria-selected="false">Top Third Game Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab4-tab" data-toggle="tab" href="#section2-tab4" role="tab" aria-controls="section2-tab4" aria-selected="false">Top Fourth Game Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab5-tab" data-toggle="tab" href="#section2-tab5" role="tab" aria-controls="section2-tab5" aria-selected="false">Top Team Game Percentages</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section2-tab1" role="tabpanel" aria-labelledby="section2-tab1-tab">
+           MONTANA'S BRIER TOP LEAD PERCENTAGES - 1980-2025
+                      ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  SHOTS  DRAW    ---GAME SCORE---
+ 
+100  Connor Njegovan                           MBCA  2025    16     9     MBCA  3  CAGU  7
+100  TREVOR JOHNSON                            SKKL  2025    20    10     SKKL  3  ABJA  6
+100  Ian McMillan                              NOEP  2025    16    17     NULA  3  NOEP 13
+100  Ryan Abraham                              NSPU  2025    20    20*    NSPU  6  ABJA 10
+100  Andy McCann                               NB    2024    16     2     NO    9  NB    4
+100  Ben Hebert                                AB-B  2024    18     4     AB-B  8  YT    3
+100  Ben Hebert                                AB-B  2024    16     6     ON    2  AB-B  8
+100  Geoff Walker                              CA    2024    16    13     PE    3  CA   11
+100  Tim March                                 ON    2024    22    14     MB-D  8  ON    7
+100  Ryan Harnden                              MB-D  2024    14    18     NL    4  MB-D 12
+100  Geoff Walker                              CA    2024    20    19*    CA    9  MB-C  7
+100  Dan Marsh                                 SK    2024    17    23*    SK    7  AB-B  3
+100  Dan Marsh                                 SK    2024    18    24+    SK    5  CA    9
+100  Ben Hebert                                WC1   2023    14     1     WC1   8  PE    2
+100  Colin Hodgson                             NO    2023    20    19*    NO    5  WC1   8
+100  Karrick Martin                            CA    2022    20     1     ON    4  CA    5
+100  Dan Marsh                                 SK    2022    16    13     SK   12  YT    3
+100  Karrick Martin                            AB    2021    16    16     AB   11  YT    2
+100  Colin Hodgson                             WC    2020    20    15*    WC    4  NO    6
+100  Denni Neufeld                             WC    2018    12    16*    NO    8  WC    1
+100  Denni Neufeld                             WC    2018    14    19*    MB    3  WC    8
+100  Denni Neufeld                             MB    2017    16    16     MB    8  ON    3
+100  Philippe Menard                           QC    2016    18     7     QC    3  SK    7
+100  Scott Howard                              ON    2016    20     9     NT    8  ON    5
+100  Denni Neufeld                             MB    2016    20    10     MB    6  CA    4
+100  Nolan Thiessen                            CA    2016    20    12     NB    4  CA    6
+100  Denni Neufeld                             MB    2016    17    13     MB    8  BC    3
+100  Geoff Walker                              NL    2016    18    22+    NL    5  AB    9
+100  Ryan Harnden                              NO    2015    18     4     NO    7  BC    5
+100  Colin Hodgson                             MB    2015    16    10     MB    2  NO    7
+100  Jamie Childs                              NONT  2014    20     5     NONT  7  PEI  10
+100  Nolan Thiessen                            ALTA  2014    15     5     ALTA  9  NL    4
+100  Nolan Thiessen                            ALTA  2014    16     6     ALTA  8  NWTY  3
+100  Rick Sawatsky                             B.C.  2014    18     7     B.C. 10  PEI   4
+100  Rick Sawatsky                             B.C.  2014    16     9     N.B.  3  B.C.  9
+100  Rick Sawatsky                             B.C.  2014    16    12     ONT   3  B.C.  8
+100  Reid Carruthers                           MAN   2014    10    21*    MAN   9  QUE   5
+100  Mark Nichols                              MB    2013    16     3     NS    4  MB    9
+100  Ryan Harnden                              NO    2013    14     6     AB    1  NO    8
+100  Philippe Menard                           QC    2013    16     9     QC    9  BC    3
+100  Ben Hebert                                AB    2013    10     9     AB    9  NS    3
+100  Craig Savill                              ON    2013    14    11     ON    7  NB    3
+100  Mark Nichols                              MB    2013    18    22+    MB    4  NO   11
+100  Ryan Harnden                              NO    2013    17    22+    MB    4  NO   11
+100  Ben Hebert                                AB    2011    16    14     MB    5  AB    1
+100  Craig Savill                              ON    2011    20    20*    ON    7  NL    6
+100  Nolan Thiessen                            AB    2010    18    10     AB    8  NS   13
+100  Steve Gould                               MAN   2009    18    22+    ALTA 10  MAN   4
+100  Pierre Fraser                             N.B.  2007    12     2     ALTA 10  N.B.  3
+100  Craig Savill                              ONT   2007    10    12     ONT  11  N.B.  1
+100  Jean Gagnon                               QUE   2006    10     6     QUE   8  PEI  10
+100  Craig Savill                              ONT   2006    18    13     NONT  4  ONT   7
+100  Trevor Wall                               ONT   2004    20     2     ONT   6  PEI   4
+100  Brad Fenton                               B.C.  2004    20    17     N.S.  6  B.C.  5
+100  Grant Odishaw                             N.B.  2000    14     6     N.S.  4  N.B. 11
+100  Grant Odishaw                             N.B.  2000    20    11     N.B.  8  ONT   7
+100  Gerry Richard                             B.C.  1994    16    13     B.C.  8  SASK  7
+100  Louis Biron                               QUE   1993    20     7     B.C.  3  QUE   2
+100  Peter Corner                              ONT   1993    20    10     NONT  6  ONT   4
+100  Scott Alexander                           TERR  1993    20    11     TERR  3  ONT   5
+100  John Grundy                               SASK  1993    20    17     NFLD  8  SASK  5
+100  Louis Biron                               QUE   1992    10     9     ALTA  8  QUE   2
+100  Don Harvey                                MAN   1988    20    15     NONT  6  MAN   4
+100  Neil Harrison                             ONT   1988    18    16*    ONT   1  SASK  6
+100  Ron Kapicki                               TERR  1987    18    11     QUE   9  TERR  4
+100  Pat Perroud                               NONT  1985    22    19+    NONT  6  ALTA  5
+ 99  Ian McMillan                              NOEP  2025    20     3     NOEP  9  ABKO  5
+ 99  Daniel Marsh                              SKMC  2025    20    20*    MBCA  6  SKMC  4
+ 99  Ben Hebert                                ABJA  2025    20    21*    ABJA  6  MBCA  5
+ 99  Ben Hebert                                WC1   2023    18    13     WC1  10  YT    6
+ 99  Ben Hebert                                WC1   2023    20    20*    WC1   3  MB    5
+ 99  Dustin Kidby                              WC2   2022    18     5     WC2   9  YT    5
+ 99  Jean-Francois Trepanier                   QC    2021    20     1     QC    7  NL    6
+ 99  Ryan Harnden                              NO    2021    20     6     NO    7  NT    5
+ 99  Connor Njegovan                           MB    2021    20    10     NT    4  MB    7
+ 99  Ryan Harnden                              NO    2021    20    10     BC    7  NO    8
+ 99  Ben Hebert                                WC2   2021    18    17     QC    5  WC2  10
+ 99  Phil Crowell                              NS    2021    20    17     SK    7  NS    5
+ 99  Colin Hodgson                             WC    2020    18    14     NB    4  WC    9
+ 99  Karrick Martin                            AB    2020    20    15*    AB    9  SK    5
+ 99  Connor Njegovan                           MB    2020    18    18*    CA    7  MB    3
+ 99  Ryan Harnden                              NO    2019    20    21*    NO    4  Wild  5
+ 99  Geoff Walker                              CA    2018    20    12     AB   10  CA    7
+ 99  Tim March                                 ON    2018    22    19*    ON    4  CA    5
+ 99  Philippe Menard                           QC    2017    22     4     QC    8  NO    9
+ 99  Dustin Kidby                              SK    2017    18     7     SK    5  NL   10
+ 99  Karrick Martin                            AB    2017    20    10     CA    4  AB    6
+ 99  Dustin Kidby                              SK    2017    20    12     CA    8  SK    7
+ 99  Geoff Walker                              NL    2017    18    13     NL    7  QC    3
+ 99  Geoff Walker                              NL    2016    18     5     NL    6  NT    3
+ 99  Ryan Harnden                              NO    2016    17     7     CA    6  NO   10
+ 99  Robbie Doherty                            PE    2016    18    13     NB    7  PE    4
+ 99  Denni Neufeld                             MB    2016    20    19*    MB    5  AB    7
+ 99  Denni Neufeld                             MB    2016    22    21*    MB    6  NO    7
+ 99  Colin Hodgson                             MB    2015    20     2     MB    4  SK    7
+ 99  Ben Hebert                                AB    2015    20    10     TC    6  AB    3
+ 99  Philippe Menard                           QUE   2014    20     6     QUE   6  PEI   7
+ 99  Rick Sawatsky                             B.C.  2014    18    22+    B.C.  5  ALTA 10
+ 99  Mark Nichols                              MB    2013    17    11     MB    9  NL    5
+ 99  Peter Case                                NB    2013    20    13     NB    5  MB    6
+ 99  Philippe Menard                           QC    2013    18    17     QC    5  SK    8
+ 99  Steve Gould                               MB    2011    20    11     ON    7  MB    4
+ 99  Scott Seabrook                            NO    2011    19    17     SK    3  NO    6
+ 99  Craig Savill                              ON    2011    20    22+    ON    6  MB    8
+ 99  Steve Gould                               MB    2011    18    22+    ON    6  MB    8
+ 99  Craig Savill                              ON    2010    20    18*    NO    6  ON    8
+ 99  Craig Savill                              ONT   2008    22     4     QUE   7  ONT   8
+ 99  Steve Laycock                             SASK  2008    20    13     N.B.  5  SASK  8
+ 99  Steve Laycock                             SASK  2007    20     5     N.B.  5  SASK  6
+ 99  Marco Berthelot                           QUE   2007    19     7     PEI   7  QUE   8
+ 99  Richard Barker                            N.S.  2007    20     8     B.C.  6  N.S.  4
+ 99  Marco Berthelot                           QUE   2007    20     8     QUE   4  MAN   6
+ 99  Mark Ward                                 NFLD  2003    19    11     NFLD  7  ONT   4
+ 99  Keith Fenton                              MAN   2001    17    10     MAN   8  PEI   4
+ 99  Doug Armstrong                            MAN   2000    18    14     MAN   6  SASK  3
+ 99  Dale Ness                                 QUE   1999    20    20*    MAN   6  QUE   4
+ 99  Jeff Tait                                 SASK  1998    17     9     SASK  9  N.B.  6
+ 99  Scott Grant                               MAN   1997    22    20*    N.B.  5  MAN   6
+ 99  Neil Harrison                             ONT   1995    18     7     N.B.  5  ONT   8
+ 99  Peter Corner                              ONT   1993    19     3     B.C.  4  ONT   6
+ 99  Don Rudd                                  MAN   1993    20     5     MAN   5  TERR  3
+ 99  Kerry Gudereit                            SASK  1992    18    14     ONT   5  SASK  2
+ 99  Don Bartlett                              ALTA  1992    18    18*    ONT   7  ALTA  4
+ 99  Pat Perroud                               ONT   1990    19     4     ONT   7  NFLD  2
+ 99  Pat Perroud                               ONT   1990    17     7     SASK  4  ONT   7
+ 99  Paul Power                                N.B.  1990    21    14     N.B.  2  PEI   1
+ 99  Kent Carstairs                            ONT   1989    22    10     QUE   7  ONT   8
+ 99  Doug Smith                                NONT  1988    18    12     N.S.  8  NONT  4
+ 99  Bill Fletcher                             ONT   1985    20     3     ONT   6  MAN   9
+ 
+* - Post-Round Robin Game    + - Final Game
+      </div>
+      <div class="tab-pane fade" id="section2-tab2" role="tabpanel" aria-labelledby="section2-tab2-tab">
+           MONTANA'S BRIER TOP SECOND PERCENTAGES - 1980-2025
+                      ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  SHOTS  DRAW    ---GAME SCORE---
+ 
+100  Scott Mitchell                            ONMO  2025    16     4     ONMO 12  NTBA  2
+100  Brendan Bottcher                          CAGU  2025    16    15     NULA  3  CAGU 12
+100  Brett Gallant                             AB-B  2024    16     6     ON    2  AB-B  8
+100  Stephen Trickett                          NL    2024    16    18     NL    4  MB-D 12
+100  Brett Gallant                             NL    2020    16     1     NL    8  MB    4
+100  E.J. Harnden                              NO    2019    16     7     NO   10  PE    4
+100  Wes Forget                                ON    2019    16     8     NT    2  ON   10
+100  E.J. Harnden                              NO    2017    16     9     NS    3  NO    8
+100  Marc Lecocq                               NB    2016    20     5     MB    6  NB    3
+100  E.J. Harnden                              NO    2016    16    13     NT    2  NO    9
+100  Brett Gallant                             NL    2016    18    15     PE    7  NL   11
+100  Brent Laing                               AB    2016    18    22+    NL    5  AB    9
+100  Brent Laing                               AB    2015    18     3     NO    9  AB    5
+100  Brent Laing                               ON    2013    14    11     ON    7  NB    3
+100  Marc Kennedy                              AB    2013    14    13     PE    2  AB    7
+100  Brent Laing                               ON    2012    16    13     PE    5  ON   10
+100  Marc Kennedy                              AB    2011    14     4     BC    2  AB    8
+100  Andrew Gibson                             NS    2011    14     7     NT/Y  2  NS    9
+100  Brent Laing                               ON    2011    20    11     ON    7  MB    4
+100  Ryan Fry                                  NL    2009    14     9     NL    8  QUE   4
+100  Phil Loevenmark                           ONT   2004    12     4     QUE   2  ONT   8
+100  Scott Pfeifer                             ALTA  2004    12     5     NONT  3  ALTA  9
+100  Ian Tetley                                ONT   2001    16     4     ONT   8  MAN   3
+100  Ken Ellis Jr                              NFLD  1997    20    15     NFLD  3  N.B.  5
+100  Don Walchuk                               ALTA  1988    18    10     NONT  4  ALTA  8
+ 99  Brett Gallant                             CA    2018    20    18*    CA    5  NO    3
+ 99  E.J. Harnden                              NO    2017    22     4     QC    8  NO    9
+ 99  Shaun Myles Meachem                       SK    2017    20    12     CA    8  SK    7
+ 99  E.J. Harnden                              NO    2016    18     7     CA    6  NO   10
+ 99  Matt Wozniak                              MB    2016    18    13     MB    8  BC    3
+ 99  Adam Spencer                              ON    2016    20    14     ON    4  SK    7
+ 99  Eric Sylvain                              QC    2016    20    16     MB    8  QC    6
+ 99  Matt Wozniak                              MB    2016    20    19*    MB    5  AB    7
+ 99  Brent Laing                               AB    2016    20    19*    MB    5  AB    7
+ 99  Tyrel Griffith                            BC    2015    20     9     QC    8  BC    6
+ 99  Carter Rycroft                            ALTA  2014    20    15     PEI   6  ALTA  9
+ 99  E.J. Harnden                              NO    2013    18    22+    MB    4  NO   11
+ 99  Carter Rycroft                            AB    2010    20    19*    AB    6  NL    5
+ 99  Marc Kennedy                              ALTA  2008    20     3     ALTA  8  B.C.  4
+ 99  Marc Kennedy                              ALTA  2008    20     4     N.B.  7  ALTA  8
+ 99  Scott Pfeifer                             ALTA  2004    18    10     ALTA  7  N.B.  3
+ 98  Kevin Marsh                               SKMC  2025    20     4     NSPU  6  SKMC  8
+ 98  Scott Saccary                             NSPU  2025    20    16     NTBA  4  NSPU  7
+ 98  Kevin Marsh                               SKMC  2025    20    20*    MBCA  6  SKMC  4
+ 98  E.J. Harnden                              MBDU  2025    20    24+    ABJA  5  MBDU  3
+ 98  Joseph Wallingham                         YT    2024    10     8     YT    2  MB-D 15
+ 98  Paul Dobson                               NB    2024    20    10     MB-D  9  NB    6
+ 98  E.J. Harnden                              CA    2024    16    17     CA   10  AB-S  4
+ 98  Brett Gallant                             AB-B  2024    20    19*    SK    7  AB-B  9
+ 98  E.J. Harnden                              CA    2023    16    16     CA    8  WC3   3
+ 98  John Morris                               AB    2022    12     3     AB   14  NL    3
+ 98  Brett Gallant                             WC1   2022    16    14     NS    4  WC1  10
+ 98  John Morris                               AB    2022    16    17     PE    3  AB    8
+ 98  E.J. Harnden                              NO    2021    20    21*    SK    5  NO    4
+ 98  E.J. Harnden                              NO    2020    16    10     NO    9  QC    2
+ 98  E.J. Harnden                              NO    2020    20    15*    WC    4  NO    6
+ 98  Brad Thiessen                             AB    2020    16    17*    ON    3  AB   10
+ 98  Derek Samagalski                          WC    2020    20    18*    AB    4  WC    2
+ 98  Dan Marsh                                 SK    2019    20     3     YT    5  SK    6
+ 98  Dan Marsh                                 SK    2019    16     5     PE    2  SK    9
+ 98  Marc Lecocq                               NB    2019    10    14     NT    2  NB    8
+ 98  William Dion                              QC    2018    16     9     QC    8  NU    3
+ 98  E.J. Harnden                              NO    2018    12    16*    NO    8  WC    1
+ 98  Brent Laing                               CA    2017    20     3     CA    6  NO    4
+ 98  E.J. Harnden                              NO    2017    16     7     NO    7  ON    2
+ 98  Marc Lecocq                               NB    2017    20     8     NB    7  MB    9
+ 98  Matt Wozniak                              MB    2017    20    17     MB    5  QC    2
+ 98  Matt Wozniak                              MB    2017    22    21*    MB    7  NO    5
+ 98  E.J. Harnden                              NO    2017    22    21*    MB    7  NO    5
+ 98  Brent Laing                               AB    2016    16     3     AB   10  NB    4
+ 98  Brent Laing                               AB    2016    16    10     AB    3  NO    8
+ 98  Tyrel Griffith                            BC    2016    16    11     BC    2  AB    7
+ 98  Brent Laing                               AB    2016    16    11     BC    2  AB    7
+ 98  Adam Spencer                              ON    2016    14    11     ON    9  PE    4
+ 98  E.J. Harnden                              NO    2016    22    21*    MB    6  NO    7
+ 98  Carter Rycroft                            TC    2015    20    14     QC    5  TC    7
+ 98  Carter Rycroft                            TC    2015    20    16     NO    6  TC    3
+ 98  Colton Flasch                             SASK  2014    20     8     SASK  7  NL    6
+ 98  Mark Nichols                              MAN   2014    20    16     MAN   8  ONT   6
+ 98  Brad Chorostkowski                        NWTY  2013    14     5     PE    3  NWTY  8
+ 98  Derek Errington                           BC    2013    20    14     BC    6  NS    9
+ 98  Brent Laing                               ON    2013    16    15     PE    1  ON    6
+ 98  E.J. Harnden                              NO    2013    22    19*    NL    5  NO    6
+ 98  Reid Carruthers                           MB    2011    20    22+    ON    6  MB    8
+ 98  Carter Rycroft                            AB    2010    16     4     PEI   4  AB    9
+ 98  Marc Kennedy                              ALTA  2009    20     3     ALTA  7  QUE   5
+ 98  Marc Kennedy                              ALTA  2009    12    10     ALTA 11  PEI   4
+ 98  Marc Kennedy                              ALTA  2008    14     7     ALTA  9  PEI   4
+ 98  Chris Schille                             NL    2007    16    13     NL    7  NWTY  2
+ 98  Scott Pfeifer                             ALTA  2002    12     5     ALTA  9  SASK  2
+ 98  Brian McCusker                            SASK  2002    22    16     NONT  5  SASK  6
+ 98  Rob Meakin                                MAN   2001    16     4     ONT   8  MAN   3
+ 98  Bryan Miki                                B.C.  2000    20    22+    B.C.  9  N.B.  5
+ 98  Wayne Charteris                           SASK  1995    20     1     QUE   5  SASK  4
+ 98  Greg Harcourt                             SASK  1994    20     5     SASK  5  NONT  8
+ 98  Don Westphal                              QUE   1993    12    11     QUE   3  ALTA  8
+ 98  Wayne Middaugh                            ONT   1993    20    19*    B.C.  1  ONT   3
+ 98  Don Reddick                               QUE   1991    20     6     QUE   4  TERR  8
+ 98  Dan Petryk                                ALTA  1991    20     8     NONT  6  ALTA  8
+ 98  Don Walchuk                               ALTA  1987    20     8     B.C.  5  ALTA  8
+ 98  Don Walchuk                               ALTA  1987    10    15     ALTA  8  SASK  2
+ 
+* - Post-Round Robin Game    + - Final Game
+      </div>
+      <div class="tab-pane fade" id="section2-tab3" role="tabpanel" aria-labelledby="section2-tab3-tab">
+           MONTANA'S BRIER TOP THIRD PERCENTAGES - 1980-2025
+                      ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  SHOTS  DRAW    ---GAME SCORE---
+ 
+100  Mark Nichols                              WC1   2022    16     4     WC1   8  NU    1
+100  Braeden Moskowy                           SK    2021    16    22*    SK    9  MB    6
+100  Marc Kennedy                              NO    2020    12    13     NO   10  NU    3
+100  Darren Moulding                           AB    2020    16    17*    ON    3  AB   10
+100  B.J. Neufeld                              WC    2018    16    10     NT    3  WC   10
+100  Marc Kennedy                              CA    2017    22    20*    MB    6  CA    7
+100  Marc Kennedy                              AB    2016    16     4     AB   10  PE    4
+100  Mark Nichols                              NL    2016    18    11     NL    7  CA    3
+100  Ryan Fry                                  NO    2015    18     7     ON    3  NO    7
+100  John Morris                               ALTA  2009    12     9     B.C.  2  ALTA  8
+100  Don Walchuk                               ALTA  2000    16     6     B.C.  8  ALTA  3
+100  Grant Odishaw                             N.B.  1999    10     6     N.B.  8  NONT  2
+100  Pierre Charette                           QUE   1999    18    15     N.B.  4  QUE   8
+100  Pierre Charette                           QUE   1998    12    12     QUE  10  NFLD  1
+100  Glenn Howard                              ONT   1993    20    19*    B.C.  1  ONT   3
+100  Glenn Howard                              ONT   1992    18    14     ONT   5  SASK  2
+ 99  Alex Horvath                              BCDE  2025    20     3     CAGU  5  BCDE  3
+ 99  Marc Kennedy                              ABJA  2025    20    21*    ABJA  6  MBCA  5
+ 99  Mark Nichols                              CA    2024    20     1     NS    4  CA    7
+ 99  Marc Kennedy                              AB-B  2024    18     4     AB-B  8  YT    3
+ 99  Reid Carruthers                           MB    2019    18     3     MB    8  QC    3
+ 99  Ryan Fry                                  NO    2019    20    21*    NO    4  Wild  5
+ 99  Marc Kennedy                              CA    2017    20    17     NB    6  CA    7
+ 99  John Morris                               CA    2016    20     4     NT    3  CA    6
+ 99  Mark Nichols                              NL    2016    18    15     PE    7  NL   11
+ 99  Kirk Muyres                               SK    2015    20     2     MB    4  SK    7
+ 99  Brett Gallant                             NL    2014    18    16     NL    9  NWTY  2
+ 99  Brett Gallant                             NL    2013    20    16     NL    5  QC    4
+ 99  Richard Hart                              ON    2011    20     4     ON    7  NS    4
+ 99  Mark Nichols                              NL    2009    20     5     NONT  5  NL    8
+ 99  Craig Burgess                             N.S.  2002    20     9     NONT  3  N.S.  5
+ 99  Joe Frans                                 ONT   2002    20    10     N.B.  6  ONT   7
+ 99  Maxime Elmaleh                            QUE   2000    18     4     QUE   8  PEI   4
+ 99  Dave Iverson                              MAN   1991    20    11     ALTA  3  MAN   2
+ 98  Marc Kennedy                              AB-B  2024    20     8     AB-B  5  NO    6
+ 98  Catlin Schneider                          SK    2022    16     7     NB    4  SK    8
+ 98  Braeden Moskowy                           SK    2020    20    11     CA    4  SK    5
+ 98  Ryan Fry                                  NO    2019    16     3     NL    2  NO    8
+ 98  Marc Kennedy                              CA    2017    20    12     CA    8  SK    7
+ 98  Richard Hart                              ON    2017    20    13     ON    8  NB    6
+ 98  B.J. Neufeld                              MB    2017    22    21*    MB    7  NO    5
+ 98  Marc Kennedy                              AB    2016    22     6     NT    7  AB    8
+ 98  Richard Hart                              ON    2016    20     7     NB    6  ON    9
+ 98  Marc Kennedy                              AB    2015    20    10     TC    6  AB    3
+ 98  John Morris                               TC    2015    20    12     ON    4  TC    7
+ 98  Jason Roach                               N.B.  2014    20    15     N.B.  6  N.S.  5
+ 98  Jon Mead                                  MB    2013    16     3     NS    4  MB    9
+ 98  Jason Roach                               NB    2013    14    11     ON    7  NB    3
+ 98  Jon Mead                                  MB    2013    20    13     NB    5  MB    6
+ 98  Wayne Middaugh                            ON    2012    20    22+    ON    7  AB    6
+ 98  John Morris                               ALTA  2008    14     7     ALTA  9  PEI   4
+ 98  Kevin Whitehead                           NWTY  2007    12    17     NWTY  2  ONT   7
+ 98  Paul Flemming                             N.S.  2005    16    13     N.S.  8  N.B.  2
+ 98  John Base                                 ONT   2004    12     4     QUE   2  ONT   8
+ 98  Mark Nichols                              NL    2004    14     5     YNWT  2  NL    9
+ 98  Mark Nichols                              NL    2004    22     9     NL    5  SASK  4
+ 98  Scott Pfeifer                             ALTA  2004    12    16     ALTA  9  QUE   2
+ 98  Randy Ferbey (S)                          ALTA  2003    20    17     PEI   8  ALTA  9
+ 98  Garry Pinsent                             NFLD  2001    20     2     NFLD  5  MAN   7
+ 98  Graeme McCarrel                           ONT   2001    10     2     QUE   2  ONT   9
+ 98  Graeme McCarrel                           ONT   2001    20    14     B.C.  3  ONT   4
+ 98  Kevin Park                                ALTA  1991    20    11     ALTA  3  MAN   2
+ 98  Rick Schneider                            SASK  1990    20    13     N.B.  7  SASK  5
+ 98  Brian Toews                               MAN   1984    20    19+    MAN   7  ONT   4
+ 97  Jacob Horgan                              NOEP  2025    16    17     NULA  3  NOEP 13
+ 97  David Mathers                             ON    2024    18     8     ON    7  NL    3
+ 97  Mark Nichols                              CA    2024    16    11     NU    3  CA    8
+ 97  B.J. Neufeld                              MB    2023    16     4     MB   14  NU    2
+ 97  B.J. Neufeld                              MB    2023    18    10     MB    8  NS    4
+ 97  Scott Howard                              ON    2022    16    17     YT    2  ON   10
+ 97  Ryan Fry                                  ON    2021    16     7     ON   16  NU    1
+ 97  B.J. Neufeld                              WC2   2021    16    21*    MB    4  WC2  12
+ 97  Reid Carruthers                           WC    2020    18     6     NT    2  WC    6
+ 97  Kevin Marsh                               SK    2019    16    11     SK    9  NL    5
+ 97  B.J. Neufeld                              AB    2019    16    17*    AB    9  SK    3
+ 97  Mark Nichols                              CA    2018    16     4     CA    8  YT    3
+ 97  Steve Laycock                             SK    2018    16     5     NB    4  SK    9
+ 97  Chris Schille                             NT    2018    16    14     YT    2  NT    8
+ 97  B.J. Neufeld                              MB    2017    22    20*    MB    6  CA    7
+ 97  Richard Hart                              ON    2016    22     4     NL    3  ON    4
+ 97  Ryan Fry                                  NO    2016    18     7     CA    6  NO   10
+ 97  Marc Kennedy                              AB    2016    16     7     AB    9  MB    4
+ 97  Marc Kennedy                              AB    2016    16    11     BC    2  AB    7
+ 97  Ryan Fry                                  NO    2015    16    10     MB    2  NO    7
+ 97  John Morris (S)                           B.C.  2014    16    12     ONT   3  B.C.  8
+ 97  Jason Roach                               N.B.  2014    16    13     NWTY  3  N.B.  8
+ 97  Wayne Middaugh                            ON    2012    16    18*    ON    9  MB    3
+ 97  Jon Mead                                  MB    2011    16    14     MB    5  AB    1
+ 97  Kevin Park                                MAN   2009    18     1     N.S.  3  MAN   8
+ 97  Randy Ferbey (S)                          ALTA  2002    16    13     PEI   3  ALTA  9
+ 97  Graeme McCarrel                           ONT   1998    16     6     ONT  10  N.S.  3
+ 97  Glenn Howard                              ONT   1993    16     4     ONT   7  QUE   2
+ 97  John Kawaja                               ONT   1990    18     1     N.B.  3  ONT   8
+ 97  Guy LaRocque                              N.S.  1986    18    14     PEI   3  N.S.  7
+ 96  Jean-Michel Arsenault                     QC    2024    18     3     QC   11  NU    4
+ 96  Trygg Jensen                              YT    2024    18     4     AB-B  8  YT    3
+ 96  Reid Carruthers                           MB-C  2024    20    19*    CA    9  MB-C  7
+ 96  B.J. Neufeld                              MB-D  2024    18    20*    MB-D  6  MB-C  2
+ 96  Marc Kennedy                              AB-B  2024    18    23*    SK    7  AB-B  3
+ 96  Ryan Fry                                  ON    2023    14     1     ON   13  QC    2
+ 96  Darren Moulding                           NO    2023    18    13     SK    3  NO    9
+ 96  Brett Gallant                             WC1   2022    24    24*    CA    3  WC1   9
+ 96  Braeden Moskowy                           SK    2021    20    19*    WC3   9  SK    5
+ 96  Ryan Fry                                  ON    2020    20     1     ON    5  CA    3
+ 96  Marc Kennedy                              NO    2020    18    20*    ON    4  NO    8
+ 96  Ryan Fry                                  NO    2019    20     9     SK    5  NO    7
+ 96  Ryan Fry                                  NO    2019    18    11     NO    9  MB    5
+ 96  Ryan Fry                                  NO    2018    20    13     MB    3  NO    6
+ 96  Mark Nichols                              CA    2018    18    21*    CA    6  ON    2
+ 96  Catlin Schneider                          SK    2017    20     1     SK    5  MB    6
+ 96  John Morris (S)                           BC    2017    20    14     AB    2  BC    5
+ 96  Mark Nichols                              NL    2017    20    18*    NL    7  MB    5
+ 96  Ryan Fry                                  NO    2016    20     5     NO    5  BC    3
+ 96  John Morris                               CA    2016    18     9     BC    4  CA    8
+ 96  Mark Nichols                              NL    2016    20     9     NL    4  AB    3
+ 96  Marc Kennedy                              AB    2016    18    14     CA    3  AB    8
+ 96  B.J. Neufeld                              MB    2016    20    16     MB    8  QC    6
+ 96  Ryan Fry                                  NO    2016    20    17     NO    4  NL    1
+ 96  Braeden Moskowy                           MB    2015    20     7     MB    8  NL    5
+ 96  Ryan Fry                                  NO    2015    20    12     SK    3  NO    4
+ 96  Jon Mead                                  MAN   2014    20     9     MAN   8  N.S.  6
+ 96  John Morris (S)                           B.C.  2014    20    16     B.C.  6  SASK  3
+ 96  Martin Crete                              QC    2013    18     3     QC    8  AB    4
+ 96  Wayne Middaugh                            ON    2013    14    11     ON    7  NB    3
+ 96  Martin Crete                              QC    2013    20    12     NS    5  QC    8
+ 96  Ryan Fry                                  NO    2013    20    17     NS    2  NO    5
+ 96  Pat Simmons                               AB    2012    14     4     QC    2  AB    9
+ 96  Jon Mead                                  MB    2011    14     1     MB   10  BC    4
+ 96  E.J. Harnden                              NO    2010    18    15     NL    4  NO    8
+ 96  John Morris                               ALTA  2008    20     2     ALTA  6  QUE   5
+ 96  Ryan Fry                                  MAN   2007    12     7     MAN   7  NWTY  1
+ 96  Richard Hart                              ONT   2007    12    12     ONT  11  N.B.  1
+ 96  Steeve Gagnon                             QUE   2004    18     1     QUE   9  PEI   4
+ 96  Deane Horning                             B.C.  2002    12    15     B.C. 10  NFLD  3
+ 96  Graeme McCarrel                           ONT   2001    18    11     PEI   4  ONT   8
+ 96  Charles Sullivan                          N.B.  2001    20    12     ONT   8  N.B.  5
+ 96  Don Walchuk                               ALTA  2000    12     7     ALTA 10  QUE   3
+ 96  Don Walchuk                               ALTA  2000    20    14     NFLD  3  ALTA  7
+ 96  Graeme McCarrel                           ONT   1998    14     5     ONT   8  NONT  2
+ 96  James Kirkness                            MAN   1998    20    16     N.B.  5  MAN   7
+ 96  Jean-Yves Lemay                           QUE   1994    20    13     QUE   6  TERR  5
+ 96  Scott Henderson                           NONT  1993    20     4     NONT  7  N.S.  4
+ 96  Pat Ryan                                  B.C.  1993    12     8     TERR  2  B.C.  7
+ 96  Pat Ryan                                  B.C.  1993    20    16     B.C.  9  SASK  7
+ 96  Bob Miller                                SASK  1985    14    16*    PEI   1  SASK  8
+ 
+* - Post-Round Robin Game    + - Final Game
+      </div>
+      <div class="tab-pane fade" id="section2-tab4" role="tabpanel" aria-labelledby="section2-tab4-tab">
+           MONTANA'S BRIER TOP FOURTH PERCENTAGES - 1980-2025
+                      ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  SHOTS  DRAW    ---GAME SCORE---
+ 
+100  Brad Gushue                               CA    2024    16    13     PE    3  CA   11
+100  Brad Gushue                               CA    2021    18     1     ON    2  CA    6
+100  John Epping                               ON    2021    16     7     ON   16  NU    1
+100  Brad Gushue                               CA    2021    16    17     CA    9  NU    2
+100  Kevin Koe                                 CA    2020    16     5     NB    4  CA    8
+100  Brendan Bottcher                          AB    2020    18     5     AB    3  NL    2
+100  Brendan Bottcher                          AB    2020    15    10     AB    6  NS    2
+100  Matt Dunstone                             SK    2020    18    10     SK    6  ON    4
+100  Matt Dunstone                             SK    2020    20    11     CA    4  SK    5
+100  Brad Gushue                               NL    2020    20    17*    WC    3  NL    5
+100  Brad Gushue                               CA    2018    16     4     CA    8  YT    3
+100  Brad Gushue                               CA    2018    18    21*    CA    6  ON    2
+100  Brad Gushue                               NL    2017    19     1     NL    8  AB    6
+100  Glenn Howard                              ON    2016    16    11     ON    9  PE    4
+100  Kevin Koe                                 AB    2016    18    14     CA    3  AB    8
+100  Brad Jacobs                               NO    2013    14     6     AB    1  NO    8
+100  Kevin Koe                                 AB    2012    14     4     QC    2  AB    9
+100  Jeff Stoughton                            MB    2011    15    14     MB    5  AB    1
+100  Kevin Martin                              ALTA  2009    12    13     NONT  2  ALTA  8
+100  Glenn Howard                              ONT   2008    12    14     PEI   3  ONT  10
+100  Glenn Howard                              ONT   2006    14    17     MAN   2  ONT   8
+100  Wayne Middaugh                            ONT   2001    10     2     QUE   2  ONT   9
+100  Wayne Middaugh                            ONT   2001    16     4     ONT   8  MAN   3
+100  Kerry Burtnyk                             MAN   1995    14    17     MAN   8  NONT  2
+100  Kevin Martin                              ALTA  1992    10     9     ALTA  8  QUE   2
+ 99  Brendan Bottcher                          AB    2021    19     8     AB    5  WC3   3
+ 99  Pat Simmons                               CA    2016    18     1     CA    7  QC    2
+ 99  Jean-Michel Menard                        QC    2016    20     5     PE    2  QC    4
+ 99  Brad Jacobs                               NO    2016    18     8     PE    2  NO    6
+ 99  Brad Gushue                               NL    2016    20     9     NL    4  AB    3
+ 99  John Morris                               ONT   2002    18     6     N.S.  4  ONT   8
+ 99  Kerry Burtnyk                             MAN   2001    18    10     MAN   8  PEI   4
+ 99  Doug Harcourt                             SASK  2001    19    16     SASK  7  TERR  5
+ 99  Russ Howard                               N.B.  1999    20    18*    N.B.  5  N.S.  4
+ 99  Rick Folk                                 B.C.  1993    18    17     N.S.  3  B.C.  7
+ 99  Ted MacFadyen                             PEI   1992    18     4     ONT   2  PEI   5
+ 99  Pat Ryan                                  ALTA  1988    19     2     ALTA  5  MAN   3
+ 98  Brad Gushue                               CAGU  2025    20    19*    ABJA  4  CAGU  7
+ 98  Brendan Bottcher                          AB-B  2024    16     2     NL    3  AB-B 11
+ 98  Matt Dunstone                             MB-D  2024    15     8     YT    2  MB-D 15
+ 98  Brad Gushue                               CA    2023    16    18     YT    3  CA    8
+ 98  Kevin Koe                                 AB    2022    16    17     PE    3  AB    8
+ 98  Brad Gushue                               CA    2021    16    15     CA   11  NL    3
+ 98  Kevin Koe                                 WC2   2021    16    21*    MB    4  WC2  12
+ 98  Brendan Bottcher                          AB    2020    16     2     NO    2  AB    7
+ 98  Matt Dunstone                             SK    2020    16    14     YT    3  SK   12
+ 98  Brad Jacobs                               NO    2020    16    17*    NO    7  CA    3
+ 98  Brendan Bottcher                          AB    2020    15    17*    ON    3  AB   10
+ 98  Martin Crete                              QC    2019    16     1     YT    2  QC   11
+ 98  Jim Cotter                                BC    2019    15     4     BC   10  NU    4
+ 98  Brad Gushue                               CA    2019    16    14     NU    2  CA   11
+ 98  Brad Gushue                               CA    2018    22    19*    ON    4  CA    5
+ 98  Glenn Howard                              ON    2016    21     1     ON    5  AB    4
+ 98  Mike McEwen                               MB    2016    20     5     MB    6  NB    3
+ 98  Brad Jacobs                               NO    2016    15    10     AB    3  NO    8
+ 98  Brad Jacobs                               NO    2016    16    13     NT    2  NO    9
+ 98  Brad Jacobs                               NO    2016    20    17     NO    4  NL    1
+ 98  Brock Virtue                              SK    2013    16    10     SK    7  NS    2
+ 98  Darrell McKee                             SK    2010    20     2     PEI   6  SK    7
+ 98  Brad Jacobs                               NO    2010    14    13     NS    2  NO    7
+ 98  Brad Gushue                               NL    2010    14    17     NL    8  QC    2
+ 98  Kevin Martin                              ALTA  2009    12     9     B.C.  2  ALTA  8
+ 98  Kevin Martin                              ALTA  2006    20    10     ONT   4  ALTA  7
+ 98  David Nedohin                             ALTA  2005    16    14     ALTA 10  NWTY  3
+ 98  Pat Ryan                                  B.C.  2003    12    15     NFLD  1  B.C.  9
+ 98  John Morris                               ONT   2002    12    12     ONT   8  PEI   2
+ 98  Wayne Middaugh                            ONT   2001    12    16     ONT   6  NONT  1
+ 98  Dale Duguid                               MAN   1998    12     5     PEI   0  MAN   8
+ 98  Russ Howard                               ONT   1993    16     9     ONT   5  NFLD  2
+ 98  Kevin Martin                              ALTA  1991    20    11     ALTA  3  MAN   2
+ 97  Reid Carruthers                           MBCA  2025    16     3     NLDI  2  MBCA 14
+ 97  Brad Jacobs                               ABJA  2025    16     6     ABJA 20  NTBA  2
+ 97  Brad Jacobs                               ABJA  2025    18    10     SKKL  3  ABJA  6
+ 97  Brad Gushue                               CA    2024    18    24+    SK    5  CA    9
+ 97  Tanner Horgan                             NO    2023    16     9     NO   10  NT    6
+ 97  Brad Gushue                               CA    2023    16    16     CA    8  WC3   3
+ 97  Matt Dunstone                             MB    2023    16    17     NO    2  MB    9
+ 97  Kevin Koe                                 AB    2022    16     3     AB   14  NL    3
+ 97  Brad Jacobs                               NO    2022    15    12     NU    2  NO   12
+ 97  Kevin Koe                                 WC2   2021    16     9     NU    3  WC2  11
+ 97  Kevin Koe                                 WC2   2021    16    13     SK    2  WC2   9
+ 97  Brendan Bottcher                          AB    2021    18    24+    AB    4  WC2   2
+ 97  Matt Dunstone                             SK    2020    16     7     SK    6  NT    2
+ 97  Brad Jacobs                               NO    2020    18    11     NS    2  NO    6
+ 97  Brad Jacobs                               NO    2020    16    13     NO   10  NU    3
+ 97  Mike McEwen                               WC    2020    18    14     NB    4  WC    9
+ 97  Brad Gushue                               NL    2020    19    23+    NL    7  AB    3
+ 97  Brad Jacobs                               NO    2019    15     3     NL    2  NO    8
+ 97  Brad Jacobs                               NO    2019    16     5     NO    7  QC    3
+ 97  Mike McEwen                               MB    2019    16     9     MB   13  NL    4
+ 97  Brendan Bottcher                          Wild  2019    19    17*    ON    4  Wild  6
+ 97  Mike McEwen                               WC    2018    15    19*    MB    3  WC    8
+ 97  Jean-Michel Menard                        QC    2017    22     8     ON    6  QC    7
+ 97  Mike McEwen                               MB    2016    16     3     ON    2  MB    6
+ 97  Steve Laycock                             SK    2016    16     4     SK    8  BC    4
+ 97  Kevin Koe                                 AB    2016    15    11     BC    2  AB    7
+ 97  Brad Gushue                               NL    2016    18    15     PE    7  NL   11
+ 97  Kevin Koe                                 ALTA  2014    16     5     ALTA  9  NL    4
+ 97  Brad Jacobs                               NO    2013    19    16     NO    7  NB    4
+ 97  Terry Odishaw                             NB    2012    15     7     NB    8  NO    3
+ 97  Brad Gushue                               NL    2012    18     7     NS    5  NL   10
+ 97  James Grattan                             NB    2010    15    14     NB    7  QC    2
+ 97  Kevin Martin                              ALTA  2009    17    22+    ALTA 10  MAN   4
+ 97  Kevin Martin                              ALTA  2008    18    14     ALTA  8  NONT  4
+ 97  Russ Howard                               N.B.  2000    17    13     PEI   3  N.B.  9
+ 97  Wayne Middaugh                            ONT   1998    16    13     PEI   2  ONT   8
+ 97  Ed Werenich                               ONT   1997    18     4     NONT  6  ONT  10
+ 97  Al Hackner                                NONT  1995    16    13     NONT  8  NFLD  2
+ 97  Vic Peters                                MAN   1992    18     2     NFLD  3  MAN   6
+ 97  Trevor Alexander                          TERR  1990    19    11     N.S.  5  TERR  6
+ 97  Pat Ryan                                  ALTA  1989    19     7     B.C.  1  ALTA  3
+ 97  Russ Howard                               ONT   1989    18     8     ONT   6  SASK  2
+ 97  Brian Fowler                              MAN   1987    15     6     MAN   9  TERR  4
+ 97  John Bubbs                                MAN   1985    15    14     B.C.  3  MAN  11
+ 
+* - Post-Round Robin Game    + - Final Game
+      </div>
+      <div class="tab-pane fade" id="section2-tab5" role="tabpanel" aria-labelledby="section2-tab5-tab">
+           MONTANA'S BRIER TOP TEAM PERCENTAGES - 1980-2025
+                      ALL GAMES (1982 EXCLUDED)
+ 
+     TEAM                                      YEAR  SHOTS  DRAW    ---GAME SCORE---
+ 
+ 97  Canada (Gushue)                           2024    63    13     PE    3  CA   11
+ 97  Saskatchewan (McEwen)                     2024    71    23*    SK    7  AB-B  3
+ 97  Alberta (Koe)                             2022    64    17     PE    3  AB    8
+ 97  Northern Ontario                          2019    63     3     NL    2  NO    8
+ 97  Alberta (Koe)                             2016    63    11     BC    2  AB    7
+ 97  Northern Ontario (Jacobs)                 2016    61    13     NT    2  NO    9
+ 97  Manitoba (Stoughton)                      2011    62    14     MB    5  AB    1
+ 97  Ontario (Middaugh)                        2001    61     4     ONT   8  MAN   3
+ 96  Alberta (Bottcher)                        2024    64     2     NL    3  AB-B 11
+ 96  Alberta (Bottcher)                        2024    63     6     ON    2  AB-B  8
+ 96  Northern Ontario (Jacobs)                 2022    63    12     NU    2  NO   12
+ 96  Alberta                                   2020    63    10     AB    6  NS    2
+ 96  Alberta                                   2020    63    17*    ON    3  AB   10
+ 96  Saskatchewan                              2019    63    11     SK    9  NL    5
+ 96  Canada                                    2018    64     4     CA    8  YT    3
+ 96  Alberta (Koe)                             2016    64     3     AB   10  NB    4
+ 96  Newfoundland and Labrador (Gushue)        2016    80     9     NL    4  AB    3
+ 96  Ontario (Howard)                          2016    64    11     ON    9  PE    4
+ 96  Newfoundland and Labrador (Gushue)        2016    71    15     PE    7  NL   11
+ 96  NO (Jacobs)                               2013    56     6     AB    1  NO    8
+ 96  ON (Howard)                               2013    55    11     ON    7  NB    3
+ 96  Manitoba (Stoughton)                      2011    77    22+    ON    6  MB    8
+ 96  Alberta (Martin)                          2008    56     7     ALTA  9  PEI   4
+ 96  Ontario (Middaugh)                        2001    40     2     QUE   2  ONT   9
+ 96  Manitoba (Burtnyk)                        2001    71    10     MAN   8  PEI   4
+ 96  Alberta (Martin)                          1991    76    11     ALTA  3  MAN   2
+ 95  Alberta (Jacobs)                          2025    80    21*    ABJA  6  MBCA  5
+ 95  Saskatchewan (McEwen)                     2024    64    11     AB-S  6  SK   11
+ 95  Canada (Gushue)                           2023    64    18     YT    3  CA    8
+ 95  Wild Card #1 (Gushue)                     2022    64     4     WC1   8  NU    1
+ 95  Wild Card #1 (Gushue)                     2022    64    14     NS    4  WC1  10
+ 95  Wild Card #1 (Gushue)                     2022    64    24*    CA    3  WC1   9
+ 95  Canada                                    2020    63     5     NB    4  CA    8
+ 95  NL (Gushue)                               2017    71     7     SK    5  NL   10
+ 95  BC (Morris)                               2017    79    14     AB    2  BC    5
+ 95  Manitoba (McEwen)                         2016    62     3     ON    2  MB    6
+ 95  Canada (Simmons)                          2016    78     4     NT    3  CA    6
+ 95  Ontario (Howard)                          2016    88     4     NL    3  ON    4
+ 95  Northern Ontario (Jacobs)                 2016    71     7     CA    6  NO   10
+ 95  Northern Ontario (Jacobs)                 2016    62    16     NO   10  NB    5
+ 95  Manitoba (Stoughton)                      2014    80     9     MAN   8  N.S.  6
+ 95  N.B. (Grattan)                            2014    80    15     N.B.  6  N.S.  5
+ 95  MB (Stoughton)                            2013    64     3     NS    4  MB    9
+ 95  ON (Howard)                               2013    64    15     PE    1  ON    6
+ 95  NO (Jacobs)                               2013    71    22+    MB    4  NO   11
+ 95  NL (Gushue)                               2010    55    17     NL    8  QC    2
+ 95  Alberta (Martin)                          2009    48     9     B.C.  2  ALTA  8
+ 95  Ontario (Howard)                          2008    48    14     PEI   3  ONT  10
+ 95  Ontario (Howard)                          2007    48    12     ONT  11  N.B.  1
+ 95  Alberta (Ferbey)                          2004    48    16     ALTA  9  QUE   2
+ 95  Manitoba (Stoughton)                      2000    78    14     MAN   6  SASK  3
+ 95  Ontario (Werenich)                        1990    76     7     SASK  4  ONT   7
+ 94  Alberta (Jacobs)                          2025    78    10     SKKL  3  ABJA  6
+ 94  Canada (Gushue)                           2025    63    15     NULA  3  CAGU 12
+ 94  Northern Ontario (Epping)                 2025    64    17     NULA  3  NOEP 13
+ 94  Canada (Gushue)                           2025    80    19*    ABJA  4  CAGU  7
+ 94  Alberta (Jacobs)                          2025    80    24+    ABJA  5  MBDU  3
+ 94  Canada (Gushue)                           2024    80     1     NS    4  CA    7
+ 94  Alberta (Bottcher)                        2024    71     4     AB-B  8  YT    3
+ 94  Canada (Gushue)                           2024    80    19*    CA    9  MB-C  7
+ 94  Northern Ontario (Horgan)                 2023    71    13     SK    3  NO    9
+ 94  Northern Ontario (Jacobs)                 2021    63     2     YT    3  NO   11
+ 94  Wild Card 3 (Howard)                      2021    80    19*    WC3   9  SK    5
+ 94  Wild Card 2 (Koe)                         2021    64    21*    MB    4  WC2  12
+ 94  Wild Card 2 (Koe)                         2021    80    22*    WC2   7  WC3   6
+ 94  Northern Ontario                          2020    71     3     PE    2  NO    6
+ 94  Wild Card                                 2020    72    14     NB    4  WC    9
+ 94  Northern Ontario                          2020    72    20*    ON    4  NO    8
+ 94  Canada                                    2018    78    18*    CA    5  NO    3
+ 94  Saskatchewan (Casey)                      2017    80    12     CA    8  SK    7
+ 94  NL (Gushue)                               2017    78    18*    NL    7  MB    5
+ 94  Alberta (Koe)                             2016    72    14     CA    3  AB    8
+ 94  Northern Ontario (Jacobs)                 2016    80    17     NO    4  NL    1
+ 94  Northern Ontario (Jacobs)                 2016    88    21*    MB    6  NO    7
+ 94  Alberta (Koe)                             2016    72    22+    NL    5  AB    9
+ 94  Sask. (Laycock)                           2015    62     5     NT    6  SK   10
+ 94  N.Ontario (Jacobs)                        2015    79    16     NO    6  TC    3
+ 94  Alberta (K Koe)                           2014    63     5     ALTA  9  NL    4
+ 94  Alberta (K Koe)                           2014    63     6     ALTA  8  NWTY  3
+ 94  B.C. (Morris)                             2014    72     7     B.C. 10  PEI   4
+ 94  B.C. (Morris)                             2014    64     9     N.B.  3  B.C.  9
+ 94  B.C. (Morris)                             2014    64    12     ONT   3  B.C.  8
+ 94  B.C. (Morris)                             2014    77    16     B.C.  6  SASK  3
+ 94  NT/YT (Koe)                               2013    63     5     PE    3  NWTY  8
+ 94  BC (Bilesky)                              2013    80    14     BC    6  NS    9
+ 94  Ontario (Howard)                          2012    63    18*    ON    9  MB    3
+ 94  Alberta (K.Koe)                           2010    64     4     PEI   4  AB    9
+ 94  Sask (Simmons)                            2008    80    13     N.B.  5  SASK  8
+ 94  Manitoba(Stoughton)                       2007    79    12     SASK 10  MAN   7
+ 94  Alberta (Ferbey)                          2003    71    13     ONT   3  ALTA  7
+ 94  Ontario (Middaugh)                        2001    80    14     B.C.  3  ONT   4
+ 94  Ontario (Howard)                          1993    76    19*    B.C.  1  ONT   3
+ 94  Ontario (Howard)                          1992    67    14     ONT   5  SASK  2
+ 94  Man (Stoughton)                           1991    80    11     ALTA  3  MAN   2
+ 94  N.B. (Sullivan)                           1990    86    14     N.B.  2  PEI   1
+ 93  Alberta (Jacobs)                          2025    64     2     YTSC  3  ABJA 10
+ 93  Manitoba (Carruthers)                     2025    64     3     NLDI  2  MBCA 14
+ 93  Québec  (Asselin)                        2025    79     6     QCAS  7  PESM  5
+ 93  Alberta (Jacobs)                          2025    64     6     ABJA 20  NTBA  2
+ 93  Alberta (Koe)                             2025    80     7     BCDE  5  ABKO  8
+ 93  Alberta (Jacobs)                          2025    64     8     PESM  3  ABJA 10
+ 93  Saskatchewan (McEwen)                     2025    64    12     NTBA  2  SKMC 14
+ 93  Alberta (Koe)                             2025    64    15     NBGR  4  ABKO 10
+ 93  Alberta (Jacobs)                          2025    79    16     ABJA  6  QCAS  4
+ 93  Manitoba (Dunstone)                       2025    80    19*    SKMC  5  MBDU  6
+ 93  Manitoba (Dunstone)                       2025    79    24+    ABJA  5  MBDU  3
+ 93  Saskatchewan (McEwen)                     2024    80     5     SK    6  AB-K  5
+ 93  Ontario (Howard)                          2024    71     8     ON    7  NL    3
+ 93  Canada (Gushue)                           2024    64    11     NU    3  CA    8
+ 93  Manitoba (Dunstone)                       2024    72    20*    MB-D  6  MB-C  2
+ 93  Saskatchewan (McEwen)                     2024    80    21*    SK    6  MB-D  5
+ 93  Prince Edward Island (Smith)              2023    80     7     PE    8  ON    7
+ 93  Canada (Gushue)                           2023    64    16     CA    8  WC3   3
+ 93  Wild Card #1 (Bottcher)                   2023    80    20*    WC1   3  MB    5
+ 93  Canada (Bottcher)                         2022    78     1     ON    4  CA    5
+ 93  Alberta (Koe)                             2022    80    11     AB    5  NB    2
+ 93  Canada (Bottcher)                         2022    64    11     CA   10  YT    4
+ 93  Canada (Gushue)                           2021    80    13     CA    8  PE    4
+ 93  Canada (Gushue)                           2021    63    15     CA   11  NL    3
+ 93  Northern Ontario (Jacobs)                 2021    64    19*    CA    2  NO    7
+ 93  Northern Ontario                          2020    63    10     NO    9  QC    2
+ 93  Newfoundland and Labrador                 2020    64    13     QC    4  NL   10
+ 93  Northern Ontario                          2020    63    13     NO   10  NU    3
+ 93  Newfoundland and Labrador                 2020    78    15*    NL    7  CA    4
+ 93  Northern Ontario                          2020    80    16*    SK    4  NO    7
+ 93  Wild Card                                 2020    79    17*    WC    3  NL    5
+ 93  Newfoundland and Labrador                 2020    80    17*    WC    3  NL    5
+ 93  Northern Ontario                          2020    63    17*    NO    7  CA    3
+ 93  Northern Ontario                          2019    63     1     Wild  2  NO   10
+ 93  Wild Card                                 2019    78    17*    ON    4  Wild  6
+ 93  Northern Ontario                          2019    80    21*    NO    4  Wild  5
+ 93  Alberta                                   2019    80    22+    Wild  3  AB    4
+ 93  Northern Ontario                          2018    44    16*    NO    8  WC    1
+ 93  Saskatchewan                              2018    87    16*    SK    4  CA    5
+ 93  Canada                                    2018    88    19*    ON    4  CA    5
+ 93  NL (Gushue)                               2017    77     1     NL    8  AB    6
+ 93  NO (Jacobs)                               2017    87     4     QC    8  NO    9
+ 93  Quebec (Menard)                           2017    88     8     ON    6  QC    7
+ 93  Manitoba (McEwen)                         2017    78    17     MB    5  QC    2
+ 93  Manitoba (McEwen)                         2017    88    21*    MB    7  NO    5
+ 93  NO (Jacobs)                               2017    88    21*    MB    7  NO    5
+ 93  Newfoundland and Labrador (Gushue)        2016    88     1     NL    5  MB    4
+ 93  Manitoba (McEwen)                         2016    88     1     NL    5  MB    4
+ 93  Alberta (Koe)                             2016    88     1     ON    5  AB    4
+ 93  Quebec (Menard)                           2016    88     3     QC    4  NO    5
+ 93  Saskatchewan (Laycock)                    2016    63     4     SK    8  BC    4
+ 93  New Brunswick (Kennedy)                   2016    80     5     MB    6  NB    3
+ 93  Northern Ontario (Jacobs)                 2016    72     8     PE    2  NO    6
+ 93  Manitoba (McEwen)                         2016    80    10     MB    6  CA    4
+ 93  Manitoba (McEwen)                         2016    71    13     MB    8  BC    3
+ 93  Quebec (Menard)                           2016    77    16     MB    8  QC    6
+ 93  Alberta (Koe)                             2016    79    19*    MB    5  AB    7
+ 93  N.Ontario (Jacobs)                        2015    72     7     ON    3  NO    7
+ 93  Alberta (K. Koe)                          2015    63     8     AB    8  PE    4
+ 93  NL (Gushue)                               2015    64     9     NL   10  NB    2
+ 93  N.Ontario (Jacobs)                        2015    64    10     MB    2  NO    7
+ 93  T.Canada (Morris)                         2015    79    12     ON    4  TC    7
+ 93  Alberta (K. Koe)                          2015    77    13     AB    7  NT    4
+ 93  N.Ontario (Currie)                        2014    79     5     NONT  7  PEI  10
+ 93  NL (Gushue)                               2014    79     7     N.B.  7  NL    9
+ 93  NL (Gushue)                               2014    77     9     PEI   5  NL    8
+ 93  Manitoba (Stoughton)                      2014    80    12     SASK  4  MAN   7
+ 93  N.B. (Grattan)                            2014    64    13     NWTY  3  N.B.  8
+ 93  Sask (Laycock)                            2014    88    15     SASK  8  ONT   7
+ 93  Manitoba (Stoughton)                      2014    80    16     MAN   8  ONT   6
+ 93  ON (Howard)                               2013    56     9     NO    2  ON    8
+ 93  QC (Menard)                               2013    64     9     QC    9  BC    3
+ 93  AB (Martin)                               2013    56     9     AB    9  NS    3
+ 93  MB (Stoughton)                            2013    71    11     MB    9  NL    5
+ 93  AB (Martin)                               2013    56    13     PE    2  AB    7
+ 93  Ontario (Howard)                          2012    64    15     ON    8  NS    3
+ 93  Manitoba (Stoughton)                      2011    54     1     MB   10  BC    4
+ 93  Nova Scotia (Adams)                       2011    56     7     NT/Y  2  NS    9
+ 93  Ontario (Howard)                          2011    80    20*    ON    7  NL    6
+ 93  NONT (Jacobs)                             2010    70    15     NL    4  NO    8
+ 93  Manitoba (Stoughton)                      2009    72     1     N.S.  3  MAN   8
+ 93  Ontario (G.Howard)                        2009    63     4     ONT   9  NONT  2
+ 93  Alberta (Martin)                          2009    48    10     ALTA 11  PEI   4
+ 93  Alberta (Martin)                          2009    48    13     NONT  2  ALTA  8
+ 93  B.C. (Ursel)                              2008    64     8     B.C. 10  YNWT  5
+ 93  Ontario (Howard)                          2008    72    10     YNWT  4  ONT  10
+ 93  Manitoba(Stoughton)                       2007    48     7     MAN   7  NWTY  1
+ 93  Ontario (Howard)                          2007    48    17     NWTY  2  ONT   7
+ 93  Alberta (Ferbey)                          2004    72    10     ALTA  7  N.B.  3
+ 93  Sask (Harcourt)                           2003    80     7     SASK  6  PEI   5
+ 93  Nova Scotia (Adams)                       2002    78     9     NONT  3  N.S.  5
+ 93  Ontario (Morris)                          2002    48    12     ONT   8  PEI   2
+ 93  Alberta (Martin)                          2000    48     7     ALTA 10  QUE   3
+ 93  N.B. (Howard)                             1999    40     6     N.B.  8  NONT  2
+ 93  Ontario (Middaugh)                        1998    64     6     ONT  10  N.S.  3
+ 93  B.C. (Folk)                               1993    70    17     N.S.  3  B.C.  7
+ 93  N. Ont (Lang)                             1991    63     2     NONT  7  QUE   2
+ 93  Alberta (Ryan)                            1988    71    10     NONT  4  ALTA  8
+ 
+* - Post-Round Robin Game    + - Final Game
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Event Percentages</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section3-tab1-tab" data-toggle="tab" href="#section3-tab1" role="tab" aria-controls="section3-tab1" aria-selected="true">Top Lead Event Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section3-tab2-tab" data-toggle="tab" href="#section3-tab2" role="tab" aria-controls="section3-tab2" aria-selected="false">Top Second Event Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section3-tab3-tab" data-toggle="tab" href="#section3-tab3" role="tab" aria-controls="section3-tab3" aria-selected="false">Top Third Event Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section3-tab4-tab" data-toggle="tab" href="#section3-tab4" role="tab" aria-controls="section3-tab4" aria-selected="false">Top Fourth Event Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section3-tab5-tab" data-toggle="tab" href="#section3-tab5" role="tab" aria-controls="section3-tab5" aria-selected="false">Top Team Event Percentages</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section3-tab1" role="tabpanel" aria-labelledby="section3-tab1-tab">
+                    MONTANA'S BRIER
+  TOP LEAD EVENT ROUND ROBIN & POOL PERCENTAGES - 1980-2025
+               ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  GAMES
+ 
+ 95  Karrick Martin                            ABKO  2025     8
+ 95  Ben Hebert                                WC1   2023     8
+ 95  Colin Hodgson                             MB    2015    11
+ 95  Rick Sawatsky                             B.C.  2014    11
+ 94  Ryan Harnden                              MBDU  2025     8
+ 94  Ben Hebert                                ABJA  2025     8
+ 94  Geoff Walker                              CA    2024     8
+ 94  Ryan Harnden                              MB-D  2024     8
+ 94  Ben Hebert                                AB-B  2024     8
+ 94  Karrick Martin                            CA    2022     8
+ 94  Jean-Francois Trepanier                   QC    2021     8
+ 94  Ben Hebert                                CA    2020    11
+ 94  Colin Hodgson                             WC    2020    11
+ 94  Denni Neufeld                             MB    2017    11
+ 94  Denni Neufeld                             MB    2016    11
+ 94  Ben Hebert                                AB    2016    11
+ 93  Connor Njegovan                           MBCA  2025     8
+ 93  Ian McMillan                              NOEP  2025     8
+ 93  Jean-Francois Trepanier                   QC    2022     8
+ 93  Ben Hebert                                WC2   2021    12
+ 93  Geoff Walker                              NL    2017    11
+ 93  Philippe Menard                           QC    2016    11
+ 93  Ben Hebert                                AB    2015    11
+ 93  Peter Case                                NB    2013    11
+ 93  Aaron Watson                              BC    2013    11
+ 93  Marcel Rocque                             ALTA  2004    11
+ 93  Peter Corner                              ONT   1993    11
+ 92  Geoff Walker                              CA    2023     8
+ 92  Ben Hebert                                AB    2022     8
+ 92  Brent Laing                               ON    2021    12
+ 92  Ryan Harnden                              NO    2021    12
+ 92  Brent Laing                               ON    2020    11
+ 92  Geoff Walker                              NL    2020    11
+ 92  Connor Njegovan                           MB    2020    11
+ 92  Colin Hodgson                             MB    2019    11
+ 92  Dallan Muyres                             SK    2019    11
+ 92  Ryan Harnden                              NO    2019    11
+ 92  Ben Hebert                                AB    2019    10
+ 92  Geoff Walker                              CA    2018    11
+ 92  Denni Neufeld                             WC    2018    11
+ 92  Ryan Harnden                              NO    2017    11
+ 92  Dustin Kidby                              SK    2017    11
+ 92  Ben Hebert                                CA    2017    10
+ 92  Ryan Harnden                              NO    2016    11
+ 92  Mark Nichols                              MB    2013    11
+ 92  Ben Hebert                                AB    2011    11
+ 92  Craig Savill                              ONT   2007    11
+ 91  Geoff Walker                              CAGU  2025     8
+ 91  Edward White                              PESM  2025     8
+ 91  Daniel Marsh                              SKMC  2025     8
+ 91  Jean-François Trépanier                 QCAS  2025     8
+ 91  Alex Horvath                              BC    2024     8
+ 91  Connor Njegovan                           MB-C  2024     8
+ 91  Alex Horvath                              BC    2023     8
+ 91  Jean-Francois Trepanier                   QC    2023     8
+ 91  Karrick Martin                            AB    2023     8
+ 91  Dan Marsh                                 SK    2022     8
+ 91  Ryan Harnden                              NO    2022     8
+ 91  Colin Hodgson                             WC1   2021     8
+ 91  Connor Njegovan                           MB    2021    12
+ 91  Karrick Martin                            Wild  2019    11
+ 91  Cole Parsons                              NT    2019     7
+ 91  Geoff Walker                              NL    2016    11
+ 91  Scott Howard                              ON    2016    11
+ 91  Rick Sawatsky                             BC    2016    11
+ 91  Nolan Thiessen                            TC    2015    11
+ 91  Philippe Menard                           QC    2013    11
+ 91  Sean Ledgerwood                           PE    2013    11
+ 91  Ben Hebert                                AB    2013    11
+ 91  Craig Savill                              ON    2013    11
+ 91  Rick Sawatsky                             B.C.  2008    11
+ 91  Craig Savill                              ONT   2008    11
+ 91  Ben Hebert                                ALTA  2007    11
+ 91  Grant Odishaw                             N.B.  2004    11
+ 91  Marcel Rocque                             ALTA  2003    10
+ 91  Brian Wempe                               SASK  2003    11
+ 91  Dale Ness                                 QUE   2001    11
+ 91  Don Bartlett                              ALTA  1992    11
+ 90  Brayden Carpenter                         BCDE  2025     8
+ 90  Ryan Abraham                              NSPU  2025     8
+ 90  Nick Zachernuk                            NS    2024     8
+ 90  Karrick Martin                            AB-K  2024     8
+ 90  Evan Latos                                YT    2024     6
+ 90  Trent Knapp                               SK    2023     8
+ 90  Dustin Kidby                              WC2   2022     8
+ 90  Connor Njegovan                           WC3   2022     8
+ 90  Colton Lott                               MB    2022     7
+ 90  Phil Crowell                              NS    2021     8
+ 90  Karrick Martin                            AB    2021    12
+ 90  Dustin Kidby                              SK    2020    11
+ 90  Tim March                                 ON    2018    11
+ 90  Nolan Thiessen                            CA    2016    11
+ 90  Jamie Farnell                             ONT   2014     7
+ 90  Philippe Menard                           QUE   2014    11
+ 90  Derek Samagalski                          MB    2012    11
+ 90  Craig Savill                              ON    2011    11
+ 90  Steve Gould                               MAN   2009    11
+ 90  Marco Berthelot                           QUE   2007    11
+ 90  Steve Laycock                             SASK  2007    11
+ 90  Marcel Rocque                             ALTA  2005    11
+ 90  Mark Ward                                 NFLD  2003    11
+ 90  Grant Odishaw                             N.B.  2003    11
+ 90  Kelly Moskowy                             SASK  2002    11
+ 90  Scott Bailey                              ONT   2001    11
+ 90  Jeff Lacey                                N.B.  2001    11
+ 90  Rory Golanowski                           SASK  2000    11
+      </div>
+      <div class="tab-pane fade" id="section3-tab2" role="tabpanel" aria-labelledby="section3-tab2-tab">
+                      MONTANA'S BRIER
+  TOP SECOND EVENT ROUND ROBIN & POOL PERCENTAGES - 1980-2025
+                 ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  GAMES
+ 
+ 93  Brent Laing                               AB    2016    11
+ 93  Brent Laing                               ON    2013    11
+ 93  Marc Kennedy                              ALTA  2008    11
+ 92  Brett Gallant                             AB-B  2024     8
+ 92  Brett Gallant                             CA    2018    11
+ 92  E.J. Harnden                              NO    2017    11
+ 92  E.J. Harnden                              NO    2016    11
+ 91  Brendan Bottcher                          CAGU  2025     8
+ 91  Brett Gallant                             ABJA  2025     8
+ 91  E.J. Harnden                              NO    2020    11
+ 91  E.J. Harnden                              NO    2019    11
+ 91  Matt Wozniak                              MB    2017    11
+ 91  Adam Spencer                              ON    2016    11
+ 91  Brent Laing                               AB    2015    11
+ 91  Marc Kennedy                              ALTA  2009    11
+ 91  Ian Tetley                                ONT   2001    11
+ 91  Eric Sylvain                              QUE   2000    11
+ 90  Kevin Marsh                               SKMC  2025     8
+ 90  E.J. Harnden                              CA    2024     8
+ 90  Brett Gallant                             WC1   2023     8
+ 90  Kevin Marsh                               SK    2022     8
+ 90  Derek Samagalski                          WC    2020    11
+ 90  Brett Gallant                             CA    2019    10
+ 90  Brett Gallant                             NL    2016    11
+ 90  Tyrel Griffith                            BC    2016    11
+ 90  Carter Rycroft                            TC    2015    11
+ 90  Mark Nichols                              MAN   2014    11
+ 90  Marc Kennedy                              AB    2013    11
+ 90  Marc Kennedy                              AB    2011    11
+ 89  Tanner Horgan                             NOEP  2025     8
+ 89  Kerr Drummond                             AB-S  2024     8
+ 89  Brad Thiessen                             AB    2021    12
+ 89  E.J. Harnden                              NO    2018    11
+ 89  Colton Flasch                             SK    2016    11
+ 89  Carter Rycroft                            AB    2012    11
+ 89  Brent Laing                               ONT   2008    11
+ 89  Scott Pfeifer                             ALTA  2004    10
+ 89  Don Reddick                               QUE   1991    11
+ 88  Martin Crête                             QCAS  2025     8
+ 88  John Morris                               AB    2022     8
+ 88  E.J. Harnden                              NO    2022     8
+ 88  Brett Gallant                             NL    2020    11
+ 88  Brad Thiessen                             Wild  2019    11
+ 88  Wes Forget                                ON    2019    11
+ 88  Tyrel Griffith                            BC    2017    11
+ 88  Shaun Myles Meachem                       SK    2017    11
+ 88  Brett Gallant                             NL    2017    11
+ 88  Matt Wozniak                              MB    2016    11
+ 88  Eric Sylvain                              QC    2016    11
+ 88  Derek Samagalski                          MB    2015    11
+ 88  Tyrel Griffith                            B.C.  2014    11
+ 88  Brent Laing                               ON    2010    11
+ 88  Scott Pfeifer                             ALTA  2005     9
+ 88  Don Walchuk                               ALTA  1987    11
+ 87  E.J. Harnden                              MBDU  2025     8
+ 87  Kevin Marsh                               SK    2024     8
+ 87  Sterling Middleton                        BC    2024     8
+ 87  Colton Lott                               MB-D  2024     8
+ 87  Brent Laing                               ON    2023     8
+ 87  Brad Thiessen                             CA    2022     8
+ 87  John Morris                               WC2   2021    12
+ 87  E.J. Harnden                              NO    2015    11
+ 87  Reid Carruthers                           MB    2013    11
+ 87  Brent Laing                               ON    2012    11
+ 87  Reid Carruthers                           MB    2011    11
+ 87  Chris Haichert                            SASK  2006    11
+ 87  Jamie Korab                               NL    2004    11
+ 87  Scott Pfeifer                             ALTA  2003    11
+ 87  Scott Pfeifer                             ALTA  2001    11
+ 87  Mark O'Rourke                             PEI   2001    11
+ 87  Wayne Charteris                           SASK  1995    11
+ 87  Wayne Middaugh                            ONT   1993    11
+ 87  Dave Wallace                              N.S.  1990    11
+ 87  Ian Tetley                                ONT   1990    11
+ 87  Don Walchuk                               ALTA  1988    11
+ 86  Tyler Tardi                               ABKO  2025     8
+ 86  Derek Samagalski                          MB-C  2024     8
+ 86  David Mathers                             WC3   2021    12
+ 86  Derek Samagalski                          MB    2019    11
+ 86  Matt Wozniak                              WC    2018    11
+ 86  Brent Laing                               CA    2017    11
+ 86  Carter Rycroft                            CA    2016    11
+ 86  Tyrel Griffith                            BC    2015    11
+ 86  Carter Rycroft                            ALTA  2014    11
+ 86  Derek Errington                           BC    2013    11
+ 86  Brent Laing                               ON    2011    11
+ 86  Ryan Fry                                  NL    2011    11
+ 86  Carter Rycroft                            AB    2010    11
+ 86  Eric Sylvain                              QUE   2009    11
+ 86  Carter Rycroft                            ALTA  2006    11
+ 86  Brent Laing                               ONT   2006    11
+ 86  Marc LeCocq                               N.B.  2003    11
+ 86  Jean-Michel Menard                        QUE   2003    11
+ 86  Scott Pfeifer                             ALTA  2002    11
+ 86  Greg Harcourt                             SASK  2001    11
+ 86  Rob Meakin                                MAN   2001    11
+ 86  Bryan Miki                                B.C.  2000    11
+ 86  Carter Rycroft                            ALTA  2000    11
+ 86  Dan Petryk                                ALTA  1991    11
+ 86  Mike Schneider                            SASK  1990    11
+      </div>
+      <div class="tab-pane fade" id="section3-tab3" role="tabpanel" aria-labelledby="section3-tab3-tab">
+                     MONTANA'S BRIER
+  TOP THIRD EVENT ROUND ROBIN & POOL PERCENTAGES - 1980-2025
+                ALL GAMES (1984 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  GAMES
+ 
+ 93  Ryan Fry                                  NO    2016    11
+ 92  Marc Kennedy                              AB-B  2024     8
+ 92  B.J. Neufeld                              MB    2023     8
+ 92  Mark Nichols                              NL    2016    11
+ 92  Marc Kennedy                              AB    2016    11
+ 92  Ryan Fry                                  NO    2015    11
+ 91  Reid Carruthers                           WC    2020    11
+ 91  B.J. Neufeld                              MB    2016    11
+ 91  Marc Kennedy                              AB    2015    11
+ 90  Mark Nichols                              CAGU  2025     8
+ 90  Marc Kennedy                              NO    2022     8
+ 90  Mark Nichols                              NL    2020    11
+ 90  Marc Kennedy                              NO    2020    11
+ 90  Ryan Fry                                  NO    2019    11
+ 90  John Morris                               CA    2016    11
+ 90  Richard Hart                              ON    2016    11
+ 90  John Morris (S)                           B.C.  2014    11
+ 90  Jon Mead                                  MB    2013    11
+ 90  Wayne Middaugh                            ON    2013    11
+ 90  Graeme McCarrel                           ONT   1998    11
+ 89  Mark Nichols                              CA    2024     8
+ 89  Braeden Moskowy                           SK    2021    12
+ 89  Mark Nichols                              CA    2018    11
+ 89  Catlin Schneider                          SK    2017    11
+ 89  Kirk Muyres                               SK    2016    11
+ 89  Braeden Moskowy                           MB    2015    11
+ 89  John Morris                               ALTA  2008    11
+ 89  Don Walchuk                               ALTA  2000    11
+ 88  Marc Kennedy                              ABJA  2025     8
+ 88  Tyler Tardi                               AB    2023     8
+ 88  Mark Nichols                              WC1   2022     8
+ 88  B.J. Neufeld                              WC2   2021    12
+ 88  Mark Nichols                              CA    2019    11
+ 88  B.J. Neufeld                              AB    2019    11
+ 88  John Morris                               TC    2015     6
+ 88  Jon Mead                                  MAN   2014    11
+ 88  Ryan Fry                                  NO    2013    11
+ 88  Richard Hart                              ON    2010    11
+ 88  Richard Hart                              ONT   2009    11
+ 88  Graeme McCarrel                           ONT   2001    11
+ 88  Pat Ryan                                  B.C.  1993    11
+ 87  Colton Lott                               MBDU  2025     8
+ 87  Colton Flasch                             SKMC  2025     8
+ 87  David Mathers                             ON    2024     8
+ 87  Darren Moulding                           AB    2021    12
+ 87  B.J. Neufeld                              CA    2020    11
+ 87  Martin Crete                              QC    2016    11
+ 87  Kirk Muyres                               SK    2015    11
+ 87  Martin Crete                              QC    2013    11
+ 87  Wayne Middaugh                            ON    2012    11
+ 87  Richard Hart                              ON    2011    11
+ 87  Jon Mead                                  MB    2011    11
+ 87  John Morris                               ALTA  2007    11
+ 87  Randy Ferbey (S)                          ALTA  2004    11
+ 86  Jacob Horgan                              NOEP  2025     8
+ 86  Colton Flasch                             SK    2024     8
+ 86  B.J. Neufeld                              MB-D  2024     8
+ 86  Mike McCarville                           NO    2024     8
+ 86  Braeden Moskowy                           WC2   2022     8
+ 86  Mark Nichols                              CA    2021    12
+ 86  Scott Howard                              WC3   2021    12
+ 86  Marc Kennedy                              NO    2021    12
+ 86  Ryan Fry                                  ON    2020    11
+ 86  Darren Moulding                           AB    2020    11
+ 86  Steve Laycock                             SK    2018    11
+ 86  Mathew Camm                               ON    2018    11
+ 86  John Morris (S)                           BC    2017    11
+ 86  Mark Nichols                              NL    2017    11
+ 86  Marc Kennedy                              CA    2017    11
+ 86  Martin Crete                              QC    2017    11
+ 86  Pat Simmons                               ALTA  2014    11
+ 86  Martin Crete                              QUE   2014    11
+ 86  John Morris                               AB    2013    11
+ 86  John Morris                               ALTA  2009    11
+ 86  Randy Ferbey (S)                          ALTA  2005    11
+ 86  Randy Ferbey (S)                          ALTA  2003    11
+ 86  Joe Frans                                 ONT   2002    11
+ 86  Brent Pierce                              B.C.  2000    11
+ 86  Jonathan Mead                             MAN   2000    11
+ 86  Don Walchuk                               ALTA  1996    11
+ 86  Glenn Howard                              ONT   1993    11
+ 86  John Kawaja                               ONT   1990    11
+ 85  Luke Saunders                             NSPU  2025     8
+ 85  Luke Saunders                             NS    2024     8
+ 85  Adam Cocks                                PE    2024     8
+ 85  Glen Kennedy                              NT    2024     8
+ 85  Jason Ginter                              BC    2024     8
+ 85  Reid Carruthers                           MB-C  2024     8
+ 85  Mark Nichols                              CA    2023     8
+ 85  Sterling Middleton                        BC    2023     8
+ 85  Ryan Fry                                  ON    2023     8
+ 85  Darren Moulding                           NO    2023     8
+ 85  Scott Howard                              ON    2022     8
+ 85  Braeden Moskowy                           SK    2020    11
+ 85  Ryan Fry                                  NO    2018    11
+ 85  B.J. Neufeld                              WC    2018    11
+ 85  Ryan Fry                                  NO    2017    11
+ 85  Richard Hart                              ON    2017    11
+ 85  Mathew Camm                               ON    2015    11
+ 85  Mark Bice                                 ONT   2014    11
+ 85  Kirk Muyres                               SASK  2014    11
+ 85  Brett Gallant                             NL    2013    11
+ 85  Allan Lyburn                              MB    2012    11
+ 85  Pat Simmons                               AB    2012    11
+ 85  E.J. Harnden                              NO    2010    11
+ 85  Bob Ursel (S)                             B.C.  2008    11
+ 85  Richard Hart                              ONT   2006    11
+ 85  James Grattan                             N.B.  2004    11
+ 85  Charles Sullivan                          N.B.  2001    11
+ 85  Todd Brandwood                            ONT   2000    11
+ 85  Kevin Park                                ALTA  1991    11
+ 85  Randy Ferbey                              ALTA  1988    11
+      </div>
+      <div class="tab-pane fade" id="section3-tab4" role="tabpanel" aria-labelledby="section3-tab4-tab">
+                      MONTANA'S BRIER
+  TOP FOURTH EVENT ROUND ROBIN & POOL PERCENTAGES - 1980-2025
+                 ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                                    TEAM  YEAR  GAMES
+ 
+ 93  Brad Jacobs                               ABJA  2025     8
+ 93  Brad Jacobs                               NO    2016    11
+ 92  Brad Gushue                               CA    2018    11
+ 92  Brad Gushue                               NL    2016    11
+ 91  Brad Gushue                               NL    2020    11
+ 91  Brad Jacobs                               NO    2019    11
+ 91  Brad Gushue                               NL    2017    11
+ 90  Brad Jacobs                               NO    2022     8
+ 90  Brad Gushue                               WC1   2022     8
+ 90  Mike McEwen                               WC    2020    11
+ 90  Ed Werenich                               ONT   1990    11
+ 89  Brad Gushue                               CAGU  2025     8
+ 89  Mike McEwen                               SKMC  2025     8
+ 89  Mike McEwen                               SK    2024     8
+ 89  Brad Gushue                               CA    2023     8
+ 89  Mike McEwen                               MB    2016    11
+ 89  Kevin Koe                                 AB    2016    11
+ 89  Brad Gushue                               NL    2013    11
+ 89  Glenn Howard                              ON    2013    11
+ 89  Kevin Martin                              ALTA  2009    11
+ 88  Brad Gushue                               CA    2024     8
+ 88  Matt Dunstone                             MB    2023     8
+ 88  Matt Dunstone                             WC2   2022     8
+ 88  Brad Gushue                               CA    2021    12
+ 88  Kevin Koe                                 CA    2020    11
+ 88  Brad Jacobs                               NO    2020    11
+ 88  Brendan Bottcher                          AB    2020    11
+ 88  Brad Gushue                               CA    2019    11
+ 88  Pat Simmons                               CA    2016    11
+ 88  Glenn Howard                              ON    2010    11
+ 88  Glenn Howard                              ONT   2009    11
+ 88  Glenn Howard                              ONT   2008    11
+ 88  Kevin Martin                              ALTA  2008    11
+ 88  Glenn Howard                              ONT   2006    11
+ 88  Wayne Middaugh                            ONT   2001    11
+ 88  Jeff Stoughton                            MAN   2000    11
+ 87  Reid Carruthers                           MBCA  2025     8
+ 87  Matt Dunstone                             MBDU  2025     8
+ 87  Kevin Koe                                 AB    2022     8
+ 87  Kevin Koe                                 WC2   2021    12
+ 87  Matt Dunstone                             SK    2020    11
+ 87  Jim Cotter                                B.C.  2014    11
+ 87  Glenn Howard                              ON    2011    11
+ 86  Matt Dunstone                             MB-D  2024     8
+ 86  John Epping                               ON    2018    11
+ 86  Mike McEwen                               MB    2017    11
+ 86  Kevin Koe                                 CA    2017    11
+ 86  Glenn Howard                              ON    2016    11
+ 86  Brad Jacobs                               NO    2015    11
+ 86  Jeff Stoughton                            MAN   2014    11
+ 86  Jeff Stoughton                            MB    2013    11
+ 86  Glenn Howard                              ON    2012    11
+ 86  Brad Gushue                               NL    2009    11
+ 86  Russ Howard                               N.B.  2000    11
+ 86  Peter Corner                              ONT   2000    11
+ 86  Kevin Martin                              ALTA  1996    11
+ 85  Rylan Kleiter                             SKKL  2025     8
+ 85  Brendan Bottcher                          AB-B  2024     8
+ 85  Kevin Koe                                 AB    2023     8
+ 85  Brendan Bottcher                          CA    2022     8
+ 85  Matt Dunstone                             SK    2021    12
+ 85  Brendan Bottcher                          AB    2021    12
+ 85  Kevin Koe                                 AB    2019    11
+ 85  Brad Jacobs                               NO    2018    11
+ 85  Brad Gushue                               NL    2014    11
+ 85  Kevin Koe                                 ALTA  2014    11
+ 85  Kevin Martin                              ALTA  2007    11
+ 85  Russ Howard                               N.B.  2003    11
+ 85  John Morris                               ONT   2002    11
+ 85  James Grattan                             N.B.  1997    11
+ 85  Russ Howard                               ONT   1994    11
+ 85  Randy Woytowich                           SASK  1991    11
+ 85  Pat Ryan                                  ALTA  1988    11
+ 84  Catlin Schneider                          BC    2024     8
+ 84  Brendan Bottcher                          AB    2018    11
+ 84  Glenn Howard                              ON    2017    11
+ 84  Steve Laycock                             SK    2015    11
+ 84  Pat Simmons                               TC    2015     6
+ 84  Greg Balsdon                              ONT   2014    11
+ 84  Jean-Michel Menard                        QUE   2014    11
+ 84  Kevin Martin                              AB    2013    11
+ 84  Brad Gushue                               NL    2011    11
+ 84  Jeff Stoughton                            MB    2011    11
+ 84  Glenn Howard                              ONT   2007    11
+ 84  Jeff Stoughton                            MAN   2007    11
+ 84  Russ Howard                               N.B.  2004    11
+ 84  Bruce Korte                               SASK  2000    11
+ 84  Wayne Middaugh                            ONT   1998    11
+ 84  Pat Ryan                                  ALTA  1985    11
+ 83  Tyler Smith                               PE    2024     8
+ 83  Brad Jacobs                               MB-C  2024     8
+ 83  Mike McEwen                               MB    2022     8
+ 83  Wayne Middaugh                            WC3   2021    12
+ 83  Matt Dunstone                             SK    2018    11
+ 83  Jean-Michel Menard                        QC    2016    11
+ 83  Steve Laycock                             SK    2016    11
+ 83  Mike Kennedy                              NB    2016    11
+ 83  Steve Laycock                             SASK  2014    11
+ 83  Brad Jacobs                               NO    2013    11
+ 83  Jean-Michel Menard                        QC    2013    11
+ 83  Kevin Koe                                 AB    2012    11
+ 83  Brad Jacobs                               NO    2011    11
+ 83  Brad Gushue                               NL    2010    11
+ 83  David Nedohin                             ALTA  2005    11
+ 83  Brad Gushue                               NL    2004    11
+ 83  David Nedohin                             ALTA  2003    11
+ 83  Kerry Burtnyk                             MAN   2001    11
+ 83  Jeff Stoughton                            MAN   1999    11
+ 83  Paul Flemming                             N.S.  1999    11
+ 83  Bert Gretzinger                           B.C.  1999    11
+ 83  Dale Duguid                               MAN   1998    11
+ 83  Russ Howard                               ONT   1993    11
+ 83  Ted MacFadyen                             PEI   1990    11
+ 83  Jamie Schneider                           SASK  1990    11
+ 83  Ed Lukowich                               ALTA  1986    11
+ 83  Ed Lukowich                               ALTA  1983    11
+      </div>
+      <div class="tab-pane fade" id="section3-tab5" role="tabpanel" aria-labelledby="section3-tab5-tab">
+                    MONTANA'S BRIER
+  TOP TEAM EVENT ROUND ROBIN & POOL PERCENTAGES - 1980-2025
+               ALL GAMES (1982 EXCLUDED)
+ 
+     TEAM                                      YEAR
+ 
+ 92  Alberta (Jacobs)                          2025
+ 92  Northern Ontario (Jacobs)                 2016
+ 92  Alberta (Koe)                             2016
+ 91  Alberta (Bottcher)                        2024
+ 91  Wild Card                                 2020
+ 91  Northern Ontario                          2019
+ 91  Canada                                    2018
+ 91  Manitoba (McEwen)                         2016
+ 91  Newfoundland and Labrador (Gushue)        2016
+ 90  Canada (Gushue)                           2025
+ 90  Canada (Gushue)                           2024
+ 90  Northern Ontario (Jacobs)                 2022
+ 90  Northern Ontario                          2020
+ 90  Newfoundland and Labrador                 2020
+ 90  Ontario (Howard)                          2016
+ 90  B.C. (Morris)                             2014
+ 90  ON (Howard)                               2013
+ 89  Manitoba (Dunstone)                       2025
+ 89  Saskatchewan (McEwen)                     2025
+ 89  Wild Card 2 (Koe)                         2021
+ 89  Manitoba (McEwen)                         2017
+ 89  NL (Gushue)                               2017
+ 89  Alberta (K. Koe)                          2015
+ 89  MB (Stoughton)                            2013
+ 89  Alberta (Martin)                          2008
+ 89  Ontario (Middaugh)                        2001
+ 88  Saskatchewan (McEwen)                     2024
+ 88  Manitoba (Dunstone)                       2024
+ 88  Manitoba (Dunstone)                       2023
+ 88  Canada (Gushue)                           2023
+ 88  Wild Card #1 (Gushue)                     2022
+ 88  Alberta (Koe)                             2022
+ 88  Alberta (Bottcher)                        2021
+ 88  Canada                                    2020
+ 88  Canada                                    2019
+ 88  NO (Jacobs)                               2017
+ 88  Quebec (Menard)                           2016
+ 88  Canada (Simmons)                          2016
+ 88  Man. (Carruthers)                         2015
+ 88  N.Ontario (Jacobs)                        2015
+ 88  Manitoba (Stoughton)                      2014
+ 88  AB (Martin)                               2013
+ 88  Ontario (Howard)                          2011
+ 88  Ontario (Howard)                          2010
+ 88  Alberta (Martin)                          2009
+ 88  Ontario (Howard)                          2008
+ 88  Alberta (Ferbey)                          2004
+ 88  Ontario (Werenich)                        1990
+ 87  British Columbia (Schneider)              2024
+ 87  Wild Card #1 (Bottcher)                   2023
+ 87  Alberta (Koe)                             2023
+ 87  Wild Card #2 (Dunstone)                   2022
+ 87  Canada (Bottcher)                         2022
+ 87  Saskatchewan                              2020
+ 87  Alberta                                   2019
+ 87  Ontario                                   2018
+ 87  Northern Ontario                          2018
+ 87  Canada (Koe)                              2017
+ 87  Saskatchewan (Laycock)                    2016
+ 87  T.Canada (Morris)                         2015
+ 87  NL (Gushue)                               2013
+ 87  Ontario (Howard)                          2012
+ 87  Manitoba (Stoughton)                      2011
+ 87  Ontario (G.Howard)                        2009
+ 87  Alberta (Martin)                          2007
+ 87  Alberta (Ferbey)                          2003
+ 87  N.B. (Howard)                             2003
+ 87  Manitoba (Stoughton)                      2000
+ 87  Ontario (Howard)                          1993
+ 86  Alberta (Koe)                             2025
+ 86  Manitoba (Carruthers)                     2025
+ 86  Northern Ontario (Epping)                 2025
+ 86  Québec  (Asselin)                        2025
+ 86  Manitoba (Carruthers)                     2024
+ 86  Nova Scotia (Manuel)                      2024
+ 86  Manitoba (McEwen)                         2022
+ 86  Saskatchewan (Flasch)                     2022
+ 86  Northern Ontario (Jacobs)                 2021
+ 86  Saskatchewan (Dunstone)                   2021
+ 86  Canada (Gushue)                           2021
+ 86  Alberta                                   2020
+ 86  Wild Card                                 2019
+ 86  Saskatchewan                              2018
+ 86  Wild Card                                 2018
+ 86  BC (Morris)                               2017
+ 86  Ontario (Howard)                          2017
+ 86  Saskatchewan (Casey)                      2017
+ 86  British Columbia (Cotter)                 2016
+ 86  Alberta (K Koe)                           2014
+ 86  Ontario (Balsdon)                         2014
+ 86  Quebec (Menard)                           2014
+ 86  NO (Jacobs)                               2013
+ 86  QC (Menard)                               2013
+ 86  Alberta (Koe)                             2012
+ 86  Alberta (Martin)                          2011
+ 86  Ontario (Howard)                          2006
+ 86  Alberta (Ferbey)                          2005
+ 86  N.B. (Howard)                             2004
+ 86  Ontario (Corner)                          2000
+ 86  Quebec (Roberge)                          2000
+ 86  Ontario (Middaugh)                        1998
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Career Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section4-tab1-tab" data-toggle="tab" href="#section4-tab1" role="tab" aria-controls="section4-tab1" aria-selected="true">Top Career Percentages</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section4-tab2-tab" data-toggle="tab" href="#section4-tab2" role="tab" aria-controls="section4-tab2" aria-selected="false">Top Career Games Played</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section4-tab3-tab" data-toggle="tab" href="#section4-tab3" role="tab" aria-controls="section4-tab3" aria-selected="false">Top Career Wins</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section4-tab1" role="tabpanel" aria-labelledby="section4-tab1-tab">
+               MONTANA'S BRIER
+      TOP CAREER SCORING PERCENTAGE - 1980-2025
+          ALL GAMES (1982 EXCLUDED)
+ 
+     PLAYER                          YEARS  GAMES
+ 
+ 93  Neufeld, Denni                    3      38
+ 92  Hodgson, Colin                    6      62
+ 91  Hebert, Ben                      17     206
+ 91  Njegovan, Connor                  6      61
+ 91  Trepanier, Jean-Francois          5      40
+ 90  Walker, Geoff                    14     171
+ 90  Savill, Craig                    10     121
+ 90  Martin, Karrick                  10     105
+ 90  Rocque, Marcel                    5      64
+ 90  Marsh, Dan                        4      46
+ 89  Harnden, Ryan                    16     190
+ 89  Kennedy, Marc                    14     171
+ 89  Muyres, Dallan                    6      68
+ 89  Thiessen, Nolan                   5      67
+ 89  Kidby, Dustin                     6      57
+ 88  Laing, Brent                     16     198
+ 88  Sawatsky, Rick                   11     106
+ 88  Menard, Philippe                  9      78
+ 88  Gould, Steve                      8      77
+ 88  Corner, Peter                     5      63
+ 88  March, Tim                        4      41
+ 87  Harnden, E.J.                    16     193
+ 87  Gallant, Brett                   13     163
+ 87  Neufeld, B.J.                    10     119
+ 87  Rycroft, Carter                   8      92
+ 87  Howard, Scott                     9      68
+ 87  Pfeifer, Scott                    7      67
+ 87  Wozniak, Matt                     7      60
+ 87  Crowell, Phil                     6      56
+ 87  Ness, Dale                        4      51
+ 87  Lott, Colton                      4      42
+ 87  Armstrong, Doug                   3      39
+ 87  Richard, Gerry                    4      38
+ 87  Bailey, Scott                     3      37
+ 86  Gushue, Brad                     22     268
+ 86  Nichols, Mark                    21     255
+ 86  Fry, Ryan                        14     177
+ 86  Morris, John                     13     150
+ 86  Middaugh, Wayne                  10     127
+ 86  Hart, Richard                    10     103
+ 86  Odishaw, Grant                    9      99
+ 86  Samagalski, Derek                 9      94
+ 86  Borden, Robert                    9      92
+ 86  Dunstone, Matt                    7      79
+ 86  Mead, Jon                         7      76
+ 86  Moskowy, Braeden                  6      68
+ 86  Case, Peter                       7      56
+ 86  Gagnon, Jean                      6      48
+ 86  Ledgerwood, Sean                  5      48
+ 86  Marsh, Kevin                      4      46
+ 86  Wempe, Brian                      3      33
+ 85  Carruthers, Reid                 13     130
+ 85  Bottcher, Brendan                10     123
+ 85  McEwen, Mike                     10     112
+ 85  Walchuk, Don                      8      97
+ 85  Thiessen, Brad                    7      87
+ 85  Bartlett, Don                     8      85
+ 85  Muyres, Kirk                      7      79
+ 85  Griffith, Tyrel                   6      68
+ 85  Schneider, Catlin                 5      54
+ 85  Tetley, Ian                       4      51
+ 85  McCarrel, Graeme                  4      49
+ 85  Reddick, Don                      4      41
+ 85  Mittelstadt, Kelly                3      33
+ 85  White, Edward                     4      32
+ 84  Howard, Glenn                    20     227
+ 84  Jacobs, Brad                     16     188
+ 84  Koe, Kevin                       13     155
+ 84  Flasch, Colton                    8      95
+ 84  Moulding, Darren                  7      83
+ 84  Butler, Mark                      8      72
+ 84  Korab, Jamie                      8      72
+ 84  Mathers, David                    6      61
+ 84  Camm, Mathew                      5      57
+ 84  Perroud, Pat                      4      50
+ 84  Lacey, Jeff                       4      44
+ 84  Neufeld, Chris                    3      39
+ 84  Adam, Gerry                       5      37
+ 84  Toner, Lee                        8      35
+ 84  Barry, Josh                       3      30
+ 83  Stoughton, Jeff                  11     139
+ 83  Sylvain, Eric                    12     137
+ 83  Crete, Martin                    12     120
+ 83  Laycock, Steve                   10     107
+ 83  Ferbey, Randy                     8     100
+ 83  LeCocq, Marc                      8      86
+ 83  Harrison, Neil                    7      77
+ 83  Nedohin, David                    5      65
+ 83  Gibson, Andrew                    5      62
+ 83  Gretzinger, Bert                  5      62
+ 83  McCann, Andy                      9      59
+ 83  Saccary, Scott                    6      54
+ 83  Fowler, Rob                       4      53
+ 83  Wallace, Dave                     4      44
+ 83  Dillon, Mike                      4      43
+ 83  Brannen, Jamie                    6      41
+ 83  Ursel, Bob                        3      37
+ 83  McKenzie, Donald                  3      36
+ 83  Petryk, Dan                       3      36
+ 83  Gavin, Martin                     3      33
+ 82  Martin, Kevin                    12     150
+ 82  Simmons, Pat                     11     112
+ 82  Ryan, Pat                        10     109
+ 82  Casey, Adam                      10     102
+ 82  Schille, Chris                    6      66
+ 82  Park, Kevin                       5      64
+ 82  Van Den Berghe, Garry             5      61
+ 82  Burgess, Craig                    5      51
+ 82  Elmaleh, Maxime                   4      50
+ 82  Lappalainen, Art                  4      48
+ 82  Epping, John                      4      46
+ 82  Perron, Rick                      4      46
+ 82  Harris, Rob                       3      41
+ 82  McCusker, Brian                   6      36
+ 82  Folk, Kevin                       3      35
+ 82  Grundy, John                      3      34
+ 82  Carter, Andrew                    3      33
+ 82  Korte, Bruce                      3      33
+ 81  Howard, Russ                     14     174
+ 81  Menard, Jean-Michel              12     127
+ 81  O'Rourke, Mark                   13     118
+ 81  Kawaja, John                      6      65
+ 81  Carstairs, Kent                   4      48
+ 81  Biron, Louis                      4      46
+ 81  Sharp, Jeff                       4      46
+ 81  Pierce, Brent                     4      44
+ 81  Bryant, Doug                      4      43
+ 81  Asselin, Felix                    5      40
+ 81  Carey, Dan                        3      39
+ 81  Parsons, Cole                     5      39
+ 81  Peters, Vic                       3      39
+ 81  Belcourt, Tim                     3      37
+ 81  Spencer, Jim                      3      37
+ 81  Syme, Brent                       3      36
+ 81  Horning, Deane                    3      35
+ 81  Wallingham, Joe                   5      35
+ 81  Harcourt, Greg                    3      33
+ 81  Korte, Roger                      3      33
+ 80  Grattan, James                   17     174
+ 80  Cotter, Jim                      10     107
+ 80  Flemming, Paul                   10     104
+ 80  Charette, Pierre                 16      87
+ 80  Sullivan, Charles Jr.             5      60
+ 80  Hemmings, Guy                     4      51
+ 80  Roberge, Francois                 4      50
+ 80  Thibaudeau, Guy                   3      40
+ 80  Kalthoff, Kevin                   3      33
+ 80  Loevenmark, Phil                  3      33
+ 80  Ravndal, Clayton                  3      33
+ 80  Cocks, Adam                       4      32
+ 
+Note: Minimum 30 games played - all positions combined
+      </div>
+      <div class="tab-pane fade" id="section4-tab2" role="tabpanel" aria-labelledby="section4-tab2-tab">
+                                    BRIER - TOP CAREER GAMES PLAYED - 1927-2025
+ 
+                                                                                               CAREER
+RANK PLAYER                         EVENT                 YEARS LEAD SECOND THIRD FOURTH TOTAL  TOTAL
+ 
+   1 Gushue, Brad                   Montana's Brier         22     0      0     0    268   268    268
+   2 Nichols, Mark                  Montana's Brier         21    13     13   229      0   255    255
+   3 Howard, Glenn                  Montana's Brier         19     1      0    88    138   227    227
+   4 Hebert, Ben                    Montana's Brier         17   205      1     0      0   206    206
+   5 Laing, Brent                   Montana's Brier         16    39    159     0      0   198    198
+   6 Harnden, E.J.                  Montana's Brier         16     0    147    46      0   193    193
+   7 Harnden, Ryan                  Montana's Brier         16   144     46     0      0   190    190
+   8 Jacobs, Brad                   Montana's Brier         16     1      0     0    187   188    188
+   9 Fry, Ryan                      Montana's Brier         14     0     38   139      0   177    177
+  10 Grattan, James                 Montana's Brier         17     0      0    48    126   174    174
+     Howard, Russ                   Montana's Brier         14     0      0     0    174   174    174
+  12 Kennedy, Marc                  Montana's Brier         14     0     61   110      0   171    171
+     Walker, Geoff                  Montana's Brier         14   171      0     0      0   171    171
+  14 Koe, Jamie                     Montana's Brier         17     0      0     0    169   169    169
+  15 Gallant, Brett                 Montana's Brier         13     0    134    29      0   163    163
+  16 Koe, Kevin                     Montana's Brier         13     0      0     0    155   155    155
+  17 Chorostkowski, Brad            Montana's Brier         14    20    129     1      0   150    150
+     Martin, Kevin                  Montana's Brier         12     0      0     0    150   150    150
+     Morris, John                   Montana's Brier         13     0     24   107     19   150    150
+  20 Stoughton, Jeff                Montana's Brier         11     0      0     0    139   139    139
+  21 Sylvain, Eric                  Montana's Brier         12     0    137     0      0   137    137
+  22 Carruthers, Reid               Montana's Brier         13    13     26    51     40   130    130
+  23 Sparkes, Bernie                Montana's Brier          3     0      0     0     36    36
+                                    Macdonald Brier          9     0     41    20     32    93
+                                    TOTAL                   12     0     41    20     68   129    129
+  24 Menard, Jean-Michel            Montana's Brier         12     0     12    10    105   127    127
+     Middaugh, Wayne                Montana's Brier         10     0     51    27     49   127    127
+  26 Bottcher, Brendan              Montana's Brier         10     0     22     0    101   123    123
+  27 Lang, Rick                     Montana's Brier          8     0      0    73     26    99
+                                    Macdonald Brier          2     0      0    11     11    22
+                                    TOTAL                   10     0      0    84     37   121    121
+     Savill, Craig                  Montana's Brier         10   107     14     0      0   121    121
+  29 Crete, Martin                  Montana's Brier         12     0      8   103      9   120    120
+     Ryan, Pat                      Montana's Brier          9     0      0    38     71   109
+                                    Macdonald Brier          1     0     11     0      0    11
+                                    TOTAL                   10     0     11    38     71   120    120
+     Werenich, Ed                   Montana's Brier          7     0      0    12     77    89
+                                    Macdonald Brier          3     0     20    11      0    31
+                                    TOTAL                   10     0     20    23     77   120    120
+  32 Neufeld, B.J.                  Montana's Brier         10     0      0   119      0   119    119
+  33 O'Rourke, Mark                 Montana's Brier         12    18     99     1      0   118    118
+  34 McEwen, Mike                   Montana's Brier         10     0      0     0    112   112    112
+     Simmons, Pat                   Montana's Brier         10     0      1    34     77   112    112
+  36 Cotter, Jim                    Montana's Brier         10     0      0     0    107   107    107
+     Laycock, Steve                 Montana's Brier         10    24      0    48     35   107    107
+  38 Hackner, Al                    Montana's Brier          9     0      0     0    106   106    106
+     Sawatsky, Rick                 Montana's Brier         10   106      0     0      0   106    106
+  40 Martin, Karrick                Montana's Brier         10   105      0     0      0   105    105
+  41 Flemming, Paul                 Montana's Brier         10     0      0    73     31   104    104
+  42 Hart, Richard                  Montana's Brier          8     0      0   103      0   103    103
+  43 Casey, Adam                    Montana's Brier         10     0     47    22     33   102    102
+  44 Campbell, Garnet               Macdonald Brier         10     0     20    41     40   101    101
+  45 Ferbey, Randy                  Montana's Brier          8     0      0   100      0   100    100
+     Gallant, Peter                 Montana's Brier          9     0     11    66     23   100    100
+  47 Aitken, Don                    Montana's Brier          3     0      0    11     24    35
+                                    Macdonald Brier          6     0     53    11      0    64
+                                    TOTAL                    9     0     53    22     24    99     99
+     Odishaw, Grant                 Montana's Brier          9    73      3    18      5    99     99
+  49 Walchuk, Don                   Montana's Brier          8    12     35    50      0    97     97
+  50 Flasch, Colton                 Montana's Brier          8     0     60    23     12    95     95
+  51 Samagalski, Derek              Montana's Brier          9    14     72     8      0    94     94
+  52 Borden, Robert                 Montana's Brier          9    92      0     0      0    92     92
+     Rycroft, Carter                Montana's Brier          8     1     91     0      0    92     92
+  54 Campbell, Robert               Montana's Brier          9    12      0    11     66    89     89
+  55 Charette, Pierre               Montana's Brier          9    14     10    41     22    87     87
+     Thiessen, Brad                 Montana's Brier          7     0     87     0      0    87     87
+  57 LeCocq, Marc                   Montana's Brier          8     0     86     0      0    86     86
+  58 Bartlett, Don                  Montana's Brier          7    85      0     0      0    85     85
+     Folk, Rick                     Montana's Brier          5     0      0     0     63    63
+                                    Macdonald Brier          2     0      0     0     22    22
+                                    TOTAL                    7     0      0     0     85    85     85
+  60 Lohnes, Bruce                  Montana's Brier          7     0      0    73     11    84     84
+  61 Moulding, Darren               Montana's Brier          7     0      0    83      0    83     83
+  62 Savage, Paul                   Montana's Brier          3     0      0    28     12    40
+                                    Macdonald Brier          4     0      0     0     41    41
+                                    TOTAL                    7     0      0    28     53    81     81
+     Dillon, George                 Macdonald Brier          8     0     20    61      0    81     81
+  64 Dunstone, Matt                 Montana's Brier          7     0      0     0     79    79     79
+     MacDonald, Rod                 Montana's Brier          6    24      0     0     44    68
+                                    Macdonald Brier          1     0      0    11      0    11
+                                    TOTAL                    7    24      0    11     44    79     79
+     Muyres, Kirk                   Montana's Brier          7     0     33    35     11    79     79
+  67 Menard, Philippe               Montana's Brier          8    77      1     0      0    78     78
+  68 Gould, Steve                   Montana's Brier          7    77      0     0      0    77     77
+     Harrison, Neil                 Montana's Brier          6    65     12     0      0    77     77
+  70 Champion, Kevin                Montana's Brier          7     0      0    76      0    76     76
+     Dacey, Mark                    Montana's Brier          6     0      0    13     63    76     76
+     Mead, Jon                      Montana's Brier          6     0      0    76      0    76     76
+     Ursel, Jim                     Montana's Brier          1     0      0     0     11    11
+                                    Macdonald Brier          6     0      0    11     54    65
+                                    TOTAL                    7     0      0    11     65    76     76
+  74 Turner, Malcolm                Montana's Brier          5    22     16    14      0    52
+                                    Macdonald Brier          2    22      0     0      0    22
+                                    TOTAL                    7    44     16    14      0    74     74
+  75 Gretzinger, Bert               Montana's Brier          5     0     38    13     11    62
+                                    Macdonald Brier          1     0      0    11      0    11
+                                    TOTAL                    6     0     38    24     11    73     73
+  76 Butler, Mark                   Montana's Brier          8    70      2     0      0    72     72
+     Korab, Jamie                   Montana's Brier          7    49     23     0      0    72     72
+  78 Storey, Frederick              Macdonald Brier          7    71      0     0      0    71     71
+  79 Cameron, Douglas               Macdonald Brier          7     0      0    20     50    70     70
+     Dillon, Robert                 Macdonald Brier          7    10     40     0     20    70     70
+  81 Griffith, Tyrel                Montana's Brier          6     0     68     0      0    68     68
+     Howard, Scott                  Montana's Brier          9    39      1    20      8    68     68
+     Moskowy, Braeden               Montana's Brier          6     0      0    68      0    68     68
+     Muyres, Dallan                 Montana's Brier          6    68      0     0      0    68     68
+     Westphal, Don                  Montana's Brier          6     0     19    25     24    68     68
+  86 Pfeifer, Scott                 Montana's Brier          6     2     62     3      0    67     67
+     Thiessen, Nolan                Montana's Brier          5    67      0     0      0    67     67
+  88 Kennedy, Mike                  Montana's Brier          6     0      0    11     55    66     66
+     MacPhee, Peter                 Montana's Brier          4     0      0    44      0    44
+                                    Macdonald Brier          2     0      0    22      0    22
+                                    TOTAL                    6     0      0    66      0    66     66
+     Schille, Chris                 Montana's Brier          6     0     36    30      0    66     66
+  91 Armstrong, Jim                 Montana's Brier          4     0      0    34     11    45
+                                    Macdonald Brier          2     0     10     0     10    20
+                                    TOTAL                    6     0     10    34     21    65     65
+     Kawaja, John                   Montana's Brier          5     0     28    37      0    65     65
+     Nedohin, David                 Montana's Brier          5     0      0     0     65    65     65
+     Sullivan, Dave                 Montana's Brier          2     0      0    24      0    24
+                                    Macdonald Brier          4     0      0    20     21    41
+                                    TOTAL                    6     0      0    44     21    65     65
+  95 Park, Kevin                    Montana's Brier          5     0      0    64      0    64     64
+     Rocque, Marcel                 Montana's Brier          5    64      0     0      0    64     64
+  97 Burtnyk, Kerry                 Montana's Brier          5     0      0     0     63    63     63
+     Corner, Peter                  Montana's Brier          5    51      0     0     12    63     63
+  99 Gibson, Andrew                 Montana's Brier          5    41     21     0      0    62     62
+     Hodgson, Colin                 Montana's Brier          6    62      0     0      0    62     62
+ 101 Mathers, David                 Montana's Brier          6     0     42    19      0    61     61
+     Njegovan, Connor               Montana's Brier          6    53      8     0      0    61     61
+     Van Den Berghe, Garry          Montana's Brier          5    11     50     0      0    61     61
+     Northcott, Ronald              Macdonald Brier          6     0      0    10     51    61     61
+     Pickering, Robert              Macdonald Brier          6     0     10     0     51    61     61
+ 106 Sullivan, Charles Jr.          Montana's Brier          5     0      0    60      0    60     60
+     Wozniak, Matt                  Montana's Brier          5     0     60     0      0    60     60
+     Campbell, Glen                 Macdonald Brier          6    20     20    20      0    60     60
+ 109 MacKenzie, Eddie               Montana's Brier          6     0      0    11     48    59     59
+     McCann, Andy                   Montana's Brier          8    25     23    11      0    59     59
+     Stone, Reginald                Macdonald Brier          6     0      0     0     59    59     59
+     Stone, Roy                     Macdonald Brier          6     0     19    40      0    59     59
+ 113 Delmage, Al                    Montana's Brier          6     0      0     2     56    58     58
+     Lukowich, Ed                   Montana's Brier          4     0      0     0     47    47
+                                    Macdonald Brier          1     0      0     0     11    11
+                                    TOTAL                    5     0      0     0     58    58     58
+     MacDonald, Peter               Montana's Brier          4     0      0     1     35    36
+                                    Macdonald Brier          2     0     11     0     11    22
+                                    TOTAL                    6     0     11     1     46    58     58
+ 116 Camm, Mathew                   Montana's Brier          5     0     33    24      0    57     57
+     Kidby, Dustin                  Montana's Brier          5    57      0     0      0    57     57
+ 118 Case, Peter                    Montana's Brier          6    56      0     0      0    56     56
+     Crowell, Phil                  Montana's Brier          6    56      0     0      0    56     56
+     Giles, Roy                     Montana's Brier          5     0     11    45      0    56     56
+ 121 Allan, John                    Montana's Brier          5     0     55     0      0    55     55
+     Coady, Mike                    Montana's Brier          5     0     55     0      0    55     55
+     Fetterly, Tom                  Montana's Brier          4    34      0    11      0    45
+                                    Macdonald Brier          1     0     10     0      0    10
+                                    TOTAL                    5    34     10    11      0    55     55
+     MacFadyen, Bill                Montana's Brier          5     0      0    55      0    55     55
+     MacFadyen, Ted                 Montana's Brier          5     0      0     0     55    55     55
+     Moss, Steve                    Montana's Brier          5     0     11    11     33    55     55
+     Sullivan, Charlie              Montana's Brier          2     0      0     0     24    24
+                                    Macdonald Brier          3     0      0    11     20    31
+                                    TOTAL                    5     0      0    11     44    55     55
+     Young, Neil                    Montana's Brier          5    55      0     0      0    55     55
+     Hall, Perry                    Macdonald Brier          6     0      9    28     18    55     55
+ 130 Darragh, Alan                  Montana's Brier          3     0     10     0     22    32
+                                    Macdonald Brier          2     0      0     0     22    22
+                                    TOTAL                    5     0     10     0     44    54     54
+     Kapicki, Ron                   Montana's Brier          5    54      0     0      0    54     54
+     MacDonald, Ken                 Montana's Brier          1     0      0    11      0    11
+                                    Macdonald Brier          4     0      0    11     32    43
+                                    TOTAL                    5     0      0    22     32    54     54
+     Saccary, Scott                 Montana's Brier          6     0     45     9      0    54     54
+     Schneider, Catlin              Montana's Brier          5     0     23    23      8    54     54
+     Wood, Bryan                    Macdonald Brier          5    54      0     0      0    54     54
+ 136 Dobson, Paul                   Montana's Brier          6     0     35     7     11    53     53
+     Fowler, Rob                    Montana's Brier          4     0     39     0     14    53     53
+     Lobel, Arthur                  Macdonald Brier          5    10      0    43      0    53     53
+ 139 Jones, Scott                   Montana's Brier          5     0     11    41      0    52     52
+     Richardson, Arnold             Macdonald Brier          5     0      0    52      0    52     52
+     Richardson, Ernest             Macdonald Brier          5     0      0     0     52    52     52
+     Richardson, Garnet             Macdonald Brier          5     0     52     0      0    52     52
+ 143 Burgess, Craig                 Montana's Brier          5     1     28    22      0    51     51
+     Carmody, Anson                 Montana's Brier          5     0     22    29      0    51     51
+     Hemmings, Guy                  Montana's Brier          4     0      0     0     51    51     51
+     Hope, Peter                    Montana's Brier          1     0      0     0     11    11
+                                    Macdonald Brier          4     0      0    20     20    40
+                                    TOTAL                    5     0      0    20     31    51     51
+     Murphy, Jamie                  Montana's Brier          5     0      0     0     51    51     51
+     Ness, Dale                     Montana's Brier          4    51      0     0      0    51     51
+     Tetley, Ian                    Montana's Brier          4     0     51     0      0    51     51
+     Baldwin, Mathew                Macdonald Brier          5     0      0     0     51    51     51
+     Keys, John                     Macdonald Brier          5     0     21    20     10    51     51
+      </div>
+      <div class="tab-pane fade" id="section4-tab3" role="tabpanel" aria-labelledby="section4-tab2-tab">
+                                    BRIER - TOP CAREER WINS - 1927-2025
+ 
+                                                                                               CAREER
+RANK PLAYER                         EVENT                 YEARS LEAD SECOND THIRD FOURTH TOTAL  TOTAL
+ 
+   1 Gushue, Brad                   Montana's Brier         22     0      0     0    189   189    189
+   2 Nichols, Mark                  Montana's Brier         21     9     10   167      0   186    186
+   3 Howard, Glenn                  Montana's Brier         19     1      0    63    100   164    164
+   4 Hebert, Ben                    Montana's Brier         17   153      0     0      0   153    153
+   5 Laing, Brent                   Montana's Brier         16    24    123     0      0   147    147
+   6 Harnden, E.J.                  Montana's Brier         16     0    109    24      0   133    133
+   7 Harnden, Ryan                  Montana's Brier         16   107     24     0      0   131    131
+   8 Jacobs, Brad                   Montana's Brier         16     1      0     0    127   128    128
+   9 Kennedy, Marc                  Montana's Brier         14     0     50    77      0   127    127
+     Walker, Geoff                  Montana's Brier         14   127      0     0      0   127    127
+  11 Gallant, Brett                 Montana's Brier         13     0    105    18      0   123    123
+  12 Fry, Ryan                      Montana's Brier         14     0     26    95      0   121    121
+  13 Howard, Russ                   Montana's Brier         14     0      0     0    113   113    113
+     Martin, Kevin                  Montana's Brier         12     0      0     0    113   113    113
+  15 Koe, Kevin                     Montana's Brier         13     0      0     0    111   111    111
+     Morris, John                   Montana's Brier         12     0     19    81     11   111    111
+  17 Stoughton, Jeff                Montana's Brier         11     0      0     0     98    98     98
+  18 Savill, Craig                  Montana's Brier          9    87      9     0      0    96     96
+  19 Middaugh, Wayne                Montana's Brier         10     0     35    23     35    93     93
+  20 Sparkes, Bernie                Montana's Brier          3     0      0     0     23    23
+                                    Macdonald Brier          9     0     35    11     20    66
+                                    TOTAL                   12     0     35    11     43    89     89
+  21 Neufeld, B.J.                  Montana's Brier         10     0      0    88      0    88     88
+  22 Bottcher, Brendan              Montana's Brier         10     0     16     0     70    86     86
+  23 Ferbey, Randy                  Montana's Brier          8     0      0    84      0    84     84
+     Ryan, Pat                      Montana's Brier          9     0      0    27     51    78
+                                    Macdonald Brier          1     0      6     0      0     6
+                                    TOTAL                   10     0      6    27     51    84     84
+  25 Werenich, Ed                   Montana's Brier          7     0      0     8     55    63
+                                    Macdonald Brier          3     0     12     8      0    20
+                                    TOTAL                   10     0     12    16     55    83     83
+  26 Carruthers, Reid               Montana's Brier         12    10     20    29     20    79     79
+     Grattan, James                 Montana's Brier         17     0      0    28     51    79     79
+  28 Lang, Rick                     Montana's Brier          8     0      0    48     16    64
+                                    Macdonald Brier          2     0      0     9      5    14
+                                    TOTAL                   10     0      0    57     21    78     78
+  29 Campbell, Garnet               Macdonald Brier         10     0     15    29     32    76     76
+  30 Walchuk, Don                   Montana's Brier          8    11     27    37      0    75     75
+  31 Sylvain, Eric                  Montana's Brier         12     0     74     0      0    74     74
+  32 Hart, Richard                  Montana's Brier          8     0      0    73      0    73     73
+  33 McEwen, Mike                   Montana's Brier         10     0      0     0     71    71     71
+  34 Simmons, Pat                   Montana's Brier         10     0      1    24     45    70     70
+  35 Menard, Jean-Michel            Montana's Brier         11     0      6     5     58    69     69
+  36 Martin, Karrick                Montana's Brier         10    68      0     0      0    68     68
+  37 Flasch, Colton                 Montana's Brier          8     0     39    17      8    64     64
+     Rycroft, Carter                Montana's Brier          8     1     63     0      0    64     64
+  39 Crete, Martin                  Montana's Brier         12     0      4    54      4    62     62
+     Folk, Rick                     Montana's Brier          5     0      0     0     46    46
+                                    Macdonald Brier          2     0      0     0     16    16
+                                    TOTAL                    7     0      0     0     62    62     62
+     Hackner, Al                    Montana's Brier          9     0      0     0     62    62     62
+  42 Thiessen, Brad                 Montana's Brier          7     0     61     0      0    61     61
+  43 Bartlett, Don                  Montana's Brier          7    60      0     0      0    60     60
+  44 Pfeifer, Scott                 Montana's Brier          6     2     54     3      0    59     59
+  45 Nedohin, David                 Montana's Brier          5     0      0     0     57    57     57
+  46 Rocque, Marcel                 Montana's Brier          5    56      0     0      0    56     56
+     Storey, Frederick              Macdonald Brier          7    56      0     0      0    56     56
+  48 Dunstone, Matt                 Montana's Brier          7     0      0     0     55    55     55
+     Gould, Steve                   Montana's Brier          7    55      0     0      0    55     55
+     Mead, Jon                      Montana's Brier          6     0      0    55      0    55     55
+  51 Aitken, Don                    Montana's Brier          3     0      0     7     12    19
+                                    Macdonald Brier          6     0     30     5      0    35
+                                    TOTAL                    9     0     30    12     12    54     54
+     Laycock, Steve                 Montana's Brier         10    16      0    19     19    54     54
+     Moulding, Darren               Montana's Brier          7     0      0    54      0    54     54
+     Savage, Paul                   Montana's Brier          3     0      0    22      8    30
+                                    Macdonald Brier          4     0      0     0     24    24
+                                    TOTAL                    7     0      0    22     32    54     54
+  55 Odishaw, Grant                 Montana's Brier          9    41      1     8      3    53     53
+  56 Harrison, Neil                 Montana's Brier          6    45      7     0      0    52     52
+  57 Samagalski, Derek              Montana's Brier          9     9     38     4      0    51     51
+  58 Cotter, Jim                    Montana's Brier         10     0      0     0     50    50     50
+     Koe, Jamie                     Montana's Brier         15     0      0     0     50    50     50
+     Sawatsky, Rick                 Montana's Brier         10    50      0     0      0    50     50
+  61 Casey, Adam                    Montana's Brier         10     0     25    12     12    49     49
+     Flemming, Paul                 Montana's Brier         10     0      0    34     15    49     49
+  63 Gretzinger, Bert               Montana's Brier          5     0     27     9      5    41
+                                    Macdonald Brier          1     0      0     7      0     7
+                                    TOTAL                    6     0     27    16      5    48     48
+     Kawaja, John                   Montana's Brier          5     0     22    26      0    48     48
+     Thiessen, Nolan                Montana's Brier          5    48      0     0      0    48     48
+     Ursel, Jim                     Montana's Brier          1     0      0     0      7     7
+                                    Macdonald Brier          6     0      0     8     33    41
+                                    TOTAL                    7     0      0     8     40    48     48
+     Northcott, Ronald              Macdonald Brier          6     0      0     8     40    48     48
+  68 Campbell, Glen                 Macdonald Brier          6    15     18    14      0    47     47
+  69 Charette, Pierre               Montana's Brier          7     9      5    22     10    46     46
+     Dacey, Mark                    Montana's Brier          6     0      0     9     37    46     46
+     Korab, Jamie                   Montana's Brier          7    32     14     0      0    46     46
+  72 Muyres, Kirk                   Montana's Brier          7     0     21    19      5    45     45
+     Richardson, Arnold             Macdonald Brier          5     0      0    45      0    45     45
+     Richardson, Ernest             Macdonald Brier          5     0      0     0     45    45     45
+     Richardson, Garnet             Macdonald Brier          5     0     45     0      0    45     45
+  76 Burtnyk, Kerry                 Montana's Brier          5     0      0     0     44    44     44
+     Lohnes, Bruce                  Montana's Brier          7     0      0    39      5    44     44
+     Pickering, Robert              Macdonald Brier          6     0      8     0     36    44     44
+  79 Corner, Peter                  Montana's Brier          5    35      0     0      8    43     43
+     O'Rourke, Mark                 Montana's Brier         11     4     39     0      0    43     43
+     Park, Kevin                    Montana's Brier          5     0      0    43      0    43     43
+  82 Lukowich, Ed                   Montana's Brier          4     0      0     0     33    33
+                                    Macdonald Brier          1     0      0     0      9     9
+                                    TOTAL                    5     0      0     0     42    42     42
+     Van Den Berghe, Garry          Montana's Brier          5     6     36     0      0    42     42
+  84 Tetley, Ian                    Montana's Brier          4     0     41     0      0    41     41
+     Stone, Reginald                Macdonald Brier          6     0      0     0     41    41     41
+     Stone, Roy                     Macdonald Brier          6     0     14    27      0    41     41
+  87 Chorostkowski, Brad            Montana's Brier         12     9     31     0      0    40     40
+  88 Gallant, Peter                 Montana's Brier          9     0      3    29      7    39     39
+     LeCocq, Marc                   Montana's Brier          8     0     39     0      0    39     39
+     Menard, Philippe               Montana's Brier          8    38      1     0      0    39     39
+     Wood, Bryan                    Macdonald Brier          5    39      0     0      0    39     39
+  92 Armstrong, Jim                 Montana's Brier          4     0      0    22      5    27
+                                    Macdonald Brier          2     0      5     0      6    11
+                                    TOTAL                    6     0      5    22     11    38     38
+     Westphal, Don                  Montana's Brier          6     0      8    16     14    38     38
+     Baldwin, Mathew                Macdonald Brier          5     0      0     0     38    38     38
+  95 Moskowy, Braeden               Montana's Brier          6     0      0    37      0    37     37
+     Wozniak, Matt                  Montana's Brier          5     0     37     0      0    37     37
+     Keys, John                     Macdonald Brier          5     0     14    15      8    37     37
+  98 Gibson, Andrew                 Montana's Brier          5    29      7     0      0    36     36
+     Houston, Neil                  Montana's Brier          4     0     28     8      0    36     36
+     Richardson, Wesley             Macdonald Brier          4    36      0     0      0    36     36
+ 101 Fowler, Rob                    Montana's Brier          4     0     26     0      9    35     35
+     McCarrel, Graeme               Montana's Brier          4     0      8    27      0    35     35
+     Njegovan, Connor               Montana's Brier          6    31      4     0      0    35     35
+     Perroud, Pat                   Montana's Brier          4    20     15     0      0    35     35
+     Turner, Malcolm                Montana's Brier          5    12      8     8      0    28
+                                    Macdonald Brier          2     7      0     0      0     7
+                                    TOTAL                    7    19      8     8      0    35     35
+     Manahan, Clifford              Macdonald Brier          5     0      0     0     35    35     35
+ 107 Howard, Scott                  Montana's Brier          9    18      1    12      3    34     34
+     Muyres, Dallan                 Montana's Brier          6    34      0     0      0    34     34
+     Cameron, Douglas               Macdonald Brier          7     0      0     8     26    34     34
+     Dillon, George                 Macdonald Brier          8     0      7    27      0    34     34
+     Duguid, Donald                 Macdonald Brier          4     0      7     9     18    34     34
+     Gervais, Hector                Macdonald Brier          4     0      0     0     34    34     34
+     Hall, Perry                    Macdonald Brier          6     0      5    17     12    34     34
+ 114 Carstairs, Kent                Montana's Brier          4    33      0     0      0    33     33
+     Griffith, Tyrel                Montana's Brier          6     0     33     0      0    33     33
+     Kidby, Dustin                  Montana's Brier          5    33      0     0      0    33     33
+ 117 Camm, Mathew                   Montana's Brier          5     0     18    14      0    32     32
+     Campbell, Robert               Montana's Brier          9     5      0     2     25    32     32
+     Hemmings, Guy                  Montana's Brier          4     0      0     0     32    32     32
+     Hodgson, Colin                 Montana's Brier          6    32      0     0      0    32     32
+     Kennedy, Bruce                 Montana's Brier          4    32      0     0      0    32     32
+     McKenzie, Donald               Montana's Brier          3    21     11     0      0    32     32
+     Ness, Dale                     Montana's Brier          4    32      0     0      0    32     32
+     Schneider, Catlin              Montana's Brier          5     0     15    13      4    32     32
+     Sullivan, Charles Jr.          Montana's Brier          5     0      0    32      0    32     32
+     Dillon, Robert                 Macdonald Brier          7     4     20     0      8    32     32
+     Watson, Grant                  Macdonald Brier          4     0      0    25      7    32     32
+ 128 Lott, Colton                   Montana's Brier          4     4     18     9      0    31     31
+     McGibney, Douglas              Macdonald Brier          5     6     20     0      5    31     31
+ 130 Burgess, Craig                 Montana's Brier          5     1     18    11      0    30     30
+     Carey, Dan                     Montana's Brier          3     0      0    30      0    30     30
+     Epping, John                   Montana's Brier          4     0      0     0     30    30     30
+     Marsh, Dan                     Montana's Brier          4    25      5     0      0    30     30
+     Marsh, Kevin                   Montana's Brier          4     0     25     5      0    30     30
+     Neufeld, Chris                 Montana's Brier          3     0     30     0      0    30     30
+     Peters, Vic                    Montana's Brier          3     0      0     0     30    30     30
+     Campbell, Gordon M.            Macdonald Brier          5     0      0     0     30    30     30
+     Haynes, Gordon                 Macdonald Brier          4     0     15    15      0    30     30
+     Lobel, Arthur                  Macdonald Brier          5     1      0    29      0    30     30
+     Naimark, Barry                 Macdonald Brier          4    17      0     7      6    30     30
+ 141 Butler, Mark                   Montana's Brier          6    29      0     0      0    29     29
+     Elmaleh, Maxime                Montana's Brier          4    17      0    12      0    29     29
+     Harris, Rob                    Montana's Brier          3     0     29     0      0    29     29
+     Roberge, Francois              Montana's Brier          4     0      0    17     12    29     29
+     Schille, Chris                 Montana's Brier          6     0     21     8      0    29     29
+     Ford, Gary                     Macdonald Brier          4    29      0     0      0    29     29
+     Manahan, Ross                  Macdonald Brier          4     0     23     6      0    29     29
+ 148 Belcourt, Tim                  Montana's Brier          3     0     28     0      0    28     28
+     MacDonald, Rod                 Montana's Brier          6    11      0     0     12    23
+                                    Macdonald Brier          1     0      0     5      0     5
+                                    TOTAL                    7    11      0     5     12    28     28
+     MacPhee, Peter                 Montana's Brier          4     0      0    18      0    18
+                                    Macdonald Brier          2     0      0    10      0    10
+                                    TOTAL                    6     0      0    28      0    28     28
+     Nichol, Bob                    Montana's Brier          3     0     28     0      0    28     28
+     Pierce, Brent                  Montana's Brier          4     0      0    24      4    28     28
+     Syme, Brent                    Montana's Brier          3    28      0     0      0    28     28
+     Campbell, Duncan A.            Macdonald Brier          5    17      0    11      0    28     28
+     Hunter, Roderick               Macdonald Brier          4     0      0    22      6    28     28
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

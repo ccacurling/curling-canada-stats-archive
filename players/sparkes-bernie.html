@@ -1,0 +1,1838 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Bernie Sparkes
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Bernie Sparkes <i class="fe fe-user-plus" data-name="Sparkes, Bernie" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1983">1983</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="BC"><a href="../brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>42</td>
+  <td>74</td>
+  <td>186</td>
+  <td>78</td>
+  <td>110</td>
+  <td>77</td>
+  <td>118</td>
+  <td>79</td>
+  <td>228</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1984">1984</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="BC"><a href="../brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>55</td>
+  <td>67</td>
+  <td>146</td>
+  <td>73</td>
+  <td>86</td>
+  <td>70</td>
+  <td>115</td>
+  <td>72</td>
+  <td>201</td>
+  <td>71</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1987">1987</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="BC"><a href="../brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>78</td>
+  <td>82</td>
+  <td>164</td>
+  <td>78</td>
+  <td>125</td>
+  <td>78</td>
+  <td>117</td>
+  <td>81</td>
+  <td>242</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1966">1966</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>9</td>
+  <td>2</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1967">1967</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>7</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1968">1968</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>9</td>
+  <td>1</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1969">1969</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>10</td>
+  <td>0</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1972">1972</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="BC"><a href="../macdonald-brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1973">1973</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="BC"><a href="../macdonald-brier/team/bc">BC</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1974">1974</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="BC"><a href="../macdonald-brier/team/bc">BC</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1976">1976</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="BC"><a href="../macdonald-brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>7</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1978">1978</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="BC"><a href="../macdonald-brier/team/bc">BC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>8</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>36</td>
+  <td>23</td>
+  <td>13</td>
+  <td>175</td>
+  <td>76</td>
+  <td>496</td>
+  <td>77</td>
+  <td>321</td>
+  <td>76</td>
+  <td>350</td>
+  <td>77</td>
+  <td>671</td>
+  <td>76</td>
+</tr>
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>93</td>
+  <td>66</td>
+  <td>27</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/achtymichuk-george#sparkes-bernie">Achtymichuk, George</option>
+
+
+      <option value="/vs/adams-kevin#sparkes-bernie">Adams, Kevin</option>
+
+
+      <option value="/vs/aitken-don#sparkes-bernie">Aitken, Don</option>
+
+
+      <option value="/vs/aldridge-glenn#sparkes-bernie">Aldridge, Glenn</option>
+
+
+      <option value="/vs/allan-john#sparkes-bernie">Allan, John</option>
+
+
+      <option value="/vs/anderson-jim#sparkes-bernie">Anderson, Jim</option>
+
+
+      <option value="/vs/andrews-alexander#sparkes-bernie">Andrews, Alexander</option>
+
+
+      <option value="/vs/anholt-roger#sparkes-bernie">Anholt, Roger</option>
+
+
+      <option value="/vs/anton-ronald#sparkes-bernie">Anton, Ronald</option>
+
+
+      <option value="/vs/armstrong-mark#sparkes-bernie">Armstrong, Mark</option>
+
+
+      <option value="/vs/arnold-douglas#sparkes-bernie">Arnold, Douglas</option>
+
+
+      <option value="/vs/arseneau-robert#sparkes-bernie">Arseneau, Robert</option>
+
+
+      <option value="/vs/ayer-frank#sparkes-bernie">Ayer, Frank</option>
+
+
+      <option value="/vs/ayer-james#sparkes-bernie">Ayer, James</option>
+
+
+      <option value="/vs/ballantyne-john#sparkes-bernie">Ballantyne, John</option>
+
+
+      <option value="/vs/barr-donald#sparkes-bernie">Barr, Donald</option>
+
+
+      <option value="/vs/barrette-yves#sparkes-bernie">Barrette, Yves</option>
+
+
+      <option value="/vs/beaver-reginald#sparkes-bernie">Beaver, Reginald</option>
+
+
+      <option value="/vs/belcourt-tim#sparkes-bernie">Belcourt, Tim</option>
+
+
+      <option value="/vs/bell-douglas#sparkes-bernie">Bell, Douglas</option>
+
+
+      <option value="/vs/bell-frank#sparkes-bernie">Bell, Frank</option>
+
+
+      <option value="/vs/bell-kenneth#sparkes-bernie">Bell, Kenneth</option>
+
+
+      <option value="/vs/belyea-richard#sparkes-bernie">Belyea, Richard</option>
+
+
+      <option value="/vs/berry-roy#sparkes-bernie">Berry, Roy</option>
+
+
+      <option value="/vs/berting-alfred#sparkes-bernie">Berting, Alfred</option>
+
+
+      <option value="/vs/beveridge-bruce#sparkes-bernie">Beveridge, Bruce</option>
+
+
+      <option value="/vs/bloom-terrance#sparkes-bernie">Bloom, Terrance</option>
+
+
+      <option value="/vs/bowcock-edward#sparkes-bernie">Bowcock, Edward</option>
+
+
+      <option value="/vs/boyd-john#sparkes-bernie">Boyd, John</option>
+
+
+      <option value="/vs/brazeau-howard#sparkes-bernie">Brazeau, Howard</option>
+
+
+      <option value="/vs/brennan-michael#sparkes-bernie">Brennan, Michael</option>
+
+
+      <option value="/vs/bryden-gary#sparkes-bernie">Bryden, Gary</option>
+
+
+      <option value="/vs/buchan-kenneth#sparkes-bernie">Buchan, Kenneth</option>
+
+
+      <option value="/vs/burke-arthur#sparkes-bernie">Burke, Arthur</option>
+
+
+      <option value="/vs/butt-edwin#sparkes-bernie">Butt, Edwin</option>
+
+
+      <option value="/vs/butters-warren#sparkes-bernie">Butters, Warren</option>
+
+
+      <option value="/vs/cameron-douglas#sparkes-bernie">Cameron, Douglas</option>
+
+
+      <option value="/vs/cameron-john-j#sparkes-bernie">Cameron, John J.</option>
+
+
+      <option value="/vs/cameron-stuart#sparkes-bernie">Cameron, Stuart</option>
+
+
+      <option value="/vs/campbell-garnet#sparkes-bernie">Campbell, Garnet</option>
+
+
+      <option value="/vs/campbell-glen#sparkes-bernie">Campbell, Glen</option>
+
+
+      <option value="/vs/carr-brian#sparkes-bernie">Carr, Brian</option>
+
+
+      <option value="/vs/carr-patrick#sparkes-bernie">Carr, Patrick</option>
+
+
+      <option value="/vs/carson-earl#sparkes-bernie">Carson, Earl</option>
+
+
+      <option value="/vs/carstairs-kent#sparkes-bernie">Carstairs, Kent</option>
+
+
+      <option value="/vs/casey-ronald#sparkes-bernie">Casey, Ronald</option>
+
+
+      <option value="/vs/cecil-denis#sparkes-bernie">Cecil, Denis</option>
+
+
+      <option value="/vs/charlebois-robert#sparkes-bernie">Charlebois, Robert</option>
+
+
+      <option value="/vs/chernoff-mike#sparkes-bernie">Chernoff, Mike</option>
+
+
+      <option value="/vs/clark-john#sparkes-bernie">Clark, John</option>
+
+
+      <option value="/vs/clarke-haylett#sparkes-bernie">Clarke, Haylett</option>
+
+
+      <option value="/vs/clattenburg-rae#sparkes-bernie">Clattenburg, Rae</option>
+
+
+      <option value="/vs/coady-mike#sparkes-bernie">Coady, Mike</option>
+
+
+      <option value="/vs/conrad-david#sparkes-bernie">Conrad, David</option>
+
+
+      <option value="/vs/coombe-eldon#sparkes-bernie">Coombe, Eldon</option>
+
+
+      <option value="/vs/corkum-peter#sparkes-bernie">Corkum, Peter</option>
+
+
+      <option value="/vs/cormier-john#sparkes-bernie">Cormier, John</option>
+
+
+      <option value="/vs/cormier-robert#sparkes-bernie">Cormier, Robert</option>
+
+
+      <option value="/vs/cottam-john#sparkes-bernie">Cottam, John</option>
+
+
+      <option value="/vs/coursol-claude#sparkes-bernie">Coursol, Claude</option>
+
+
+      <option value="/vs/cunningham-geoff#sparkes-bernie">Cunningham, Geoff</option>
+
+
+      <option value="/vs/cunningham-robert#sparkes-bernie">Cunningham, Robert</option>
+
+
+      <option value="/vs/currie-michael#sparkes-bernie">Currie, Michael</option>
+
+
+      <option value="/vs/czaja-mitchell#sparkes-bernie">Czaja, Mitchell</option>
+
+
+      <option value="/vs/darragh-alan#sparkes-bernie">Darragh, Alan</option>
+
+
+      <option value="/vs/dauphinee-andrew#sparkes-bernie">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/davidson-robert#sparkes-bernie">Davidson, Robert</option>
+
+
+      <option value="/vs/davis-ross#sparkes-bernie">Davis, Ross</option>
+
+
+      <option value="/vs/deblonde-clare#sparkes-bernie">DeBlonde, Clare</option>
+
+
+      <option value="/vs/deblonde-garry#sparkes-bernie">DeBlonde, Garry</option>
+
+
+      <option value="/vs/delmage-al#sparkes-bernie">Delmage, Al</option>
+
+
+      <option value="/vs/desroches-paul#sparkes-bernie">DesRoches, Paul</option>
+
+
+      <option value="/vs/devine-robert#sparkes-bernie">Devine, Robert</option>
+
+
+      <option value="/vs/dillon-robert#sparkes-bernie">Dillon, Robert</option>
+
+
+      <option value="/vs/dobson-arnie#sparkes-bernie">Dobson, Arnie</option>
+
+
+      <option value="/vs/dobson-brian#sparkes-bernie">Dobson, Brian</option>
+
+
+      <option value="/vs/dobson-michael#sparkes-bernie">Dobson, Michael</option>
+
+
+      <option value="/vs/downey-wayne#sparkes-bernie">Downey, Wayne</option>
+
+
+      <option value="/vs/ducat-stephen#sparkes-bernie">Ducat, Stephen</option>
+
+
+      <option value="/vs/dudar-allan#sparkes-bernie">Dudar, Allan</option>
+
+
+      <option value="/vs/dudar-robert#sparkes-bernie">Dudar, Robert</option>
+
+
+      <option value="/vs/dugre-louis#sparkes-bernie">Dugre, Louis</option>
+
+
+      <option value="/vs/dunn-john#sparkes-bernie">Dunn, John</option>
+
+
+      <option value="/vs/durant-fred#sparkes-bernie">Durant, Fred</option>
+
+
+      <option value="/vs/easton-leonard#sparkes-bernie">Easton, Leonard</option>
+
+
+      <option value="/vs/eberg-omer#sparkes-bernie">Eberg, Omer</option>
+
+
+      <option value="/vs/ellis-douglas#sparkes-bernie">Ellis, Douglas</option>
+
+
+      <option value="/vs/ellis-kenneth#sparkes-bernie">Ellis, Kenneth</option>
+
+
+      <option value="/vs/emond-andre#sparkes-bernie">Emond, Andre</option>
+
+
+      <option value="/vs/evoy-rich#sparkes-bernie">Evoy, Rich</option>
+
+
+      <option value="/vs/farrell-glen#sparkes-bernie">Farrell, Glen</option>
+
+
+      <option value="/vs/feeney-douglas#sparkes-bernie">Feeney, Douglas</option>
+
+
+      <option value="/vs/feeney-thomas#sparkes-bernie">Feeney, Thomas</option>
+
+
+      <option value="/vs/fennimore-charles#sparkes-bernie">Fennimore, Charles</option>
+
+
+      <option value="/vs/ferbey-randy#sparkes-bernie">Ferbey, Randy</option>
+
+
+      <option value="/vs/ferguson-john#sparkes-bernie">Ferguson, John</option>
+
+
+      <option value="/vs/fetterly-tom#sparkes-bernie">Fetterly, Tom</option>
+
+
+      <option value="/vs/fink-daniel#sparkes-bernie">Fink, Daniel</option>
+
+
+      <option value="/vs/finkbeiner-donald#sparkes-bernie">Finkbeiner, Donald</option>
+
+
+      <option value="/vs/finkbeiner-douglas#sparkes-bernie">Finkbeiner, Douglas</option>
+
+
+      <option value="/vs/fiskar-allan#sparkes-bernie">Fiskar, Allan</option>
+
+
+      <option value="/vs/flannery-mike#sparkes-bernie">Flannery, Mike</option>
+
+
+      <option value="/vs/flemming-don#sparkes-bernie">Flemming, Don</option>
+
+
+      <option value="/vs/florian-james#sparkes-bernie">Florian, James</option>
+
+
+      <option value="/vs/folk-rick#sparkes-bernie">Folk, Rick</option>
+
+
+      <option value="/vs/ford-gary#sparkes-bernie">Ford, Gary</option>
+
+
+      <option value="/vs/forgues-keith#sparkes-bernie">Forgues, Keith</option>
+
+
+      <option value="/vs/fortier-john#sparkes-bernie">Fortier, John</option>
+
+
+      <option value="/vs/foss-wilf#sparkes-bernie">Foss, Wilf</option>
+
+
+      <option value="/vs/fowler-brian#sparkes-bernie">Fowler, Brian</option>
+
+
+      <option value="/vs/fox-jim#sparkes-bernie">Fox, Jim</option>
+
+
+      <option value="/vs/foy-sandy#sparkes-bernie">Foy, Sandy</option>
+
+
+      <option value="/vs/franklin-ronald#sparkes-bernie">Franklin, Ronald</option>
+
+
+      <option value="/vs/fraser-jack#sparkes-bernie">Fraser, Jack</option>
+
+
+      <option value="/vs/fulton-chris#sparkes-bernie">Fulton, Chris</option>
+
+
+      <option value="/vs/gardiner-don#sparkes-bernie">Gardiner, Don</option>
+
+
+      <option value="/vs/gardner-reg#sparkes-bernie">Gardner, Reg</option>
+
+
+      <option value="/vs/gervais-hector#sparkes-bernie">Gervais, Hector</option>
+
+
+      <option value="/vs/gilbert-donald#sparkes-bernie">Gilbert, Donald</option>
+
+
+      <option value="/vs/giles-roy#sparkes-bernie">Giles, Roy</option>
+
+
+      <option value="/vs/gilks-gregory#sparkes-bernie">Gilks, Gregory</option>
+
+
+      <option value="/vs/gorman-john#sparkes-bernie">Gorman, John</option>
+
+
+      <option value="/vs/goulden-lowell#sparkes-bernie">Goulden, Lowell</option>
+
+
+      <option value="/vs/graham-dale#sparkes-bernie">Graham, Dale</option>
+
+
+      <option value="/vs/grahame-kenneth#sparkes-bernie">Grahame, Kenneth</option>
+
+
+      <option value="/vs/green-donald#sparkes-bernie">Green, Donald</option>
+
+
+      <option value="/vs/green-grant#sparkes-bernie">Green, Grant</option>
+
+
+      <option value="/vs/green-ronald#sparkes-bernie">Green, Ronald</option>
+
+
+      <option value="/vs/gregga-murray#sparkes-bernie">Gregga, Murray</option>
+
+
+      <option value="/vs/grozelle-robert#sparkes-bernie">Grozelle, Robert</option>
+
+
+      <option value="/vs/grozelle-william#sparkes-bernie">Grozelle, William</option>
+
+
+      <option value="/vs/grundy-john#sparkes-bernie">Grundy, John</option>
+
+
+      <option value="/vs/guest-ross#sparkes-bernie">Guest, Ross</option>
+
+
+      <option value="/vs/gunnlaugson-lloyd#sparkes-bernie">Gunnlaugson, Lloyd</option>
+
+
+      <option value="/vs/gurowka-joseph#sparkes-bernie">Gurowka, Joseph</option>
+
+
+      <option value="/vs/hailley-patrick#sparkes-bernie">Hailley, Patrick</option>
+
+
+      <option value="/vs/hale-robert#sparkes-bernie">Hale, Robert</option>
+
+
+      <option value="/vs/hanesiak-john#sparkes-bernie">Hanesiak, John</option>
+
+
+      <option value="/vs/hansen-warren#sparkes-bernie">Hansen, Warren</option>
+
+
+      <option value="/vs/harnden-al#sparkes-bernie">Harnden, Al</option>
+
+
+      <option value="/vs/harnden-eric#sparkes-bernie">Harnden, Eric</option>
+
+
+      <option value="/vs/harrison-doug#sparkes-bernie">Harrison, Doug</option>
+
+
+      <option value="/vs/harrison-neil#sparkes-bernie">Harrison, Neil</option>
+
+
+      <option value="/vs/harry-donald#sparkes-bernie">Harry, Donald</option>
+
+
+      <option value="/vs/harry-morley#sparkes-bernie">Harry, Morley</option>
+
+
+      <option value="/vs/hawkins-john#sparkes-bernie">Hawkins, John</option>
+
+
+      <option value="/vs/hayes-charles#sparkes-bernie">Hayes, Charles</option>
+
+
+      <option value="/vs/hebert-roy#sparkes-bernie">Hebert, Roy</option>
+
+
+      <option value="/vs/helston-john#sparkes-bernie">Helston, John</option>
+
+
+      <option value="/vs/hennigar-ted#sparkes-bernie">Hennigar, Ted</option>
+
+
+      <option value="/vs/hicks-robert#sparkes-bernie">Hicks, Robert</option>
+
+
+      <option value="/vs/hilliard-greg#sparkes-bernie">Hilliard, Greg</option>
+
+
+      <option value="/vs/hinks-geoffrey#sparkes-bernie">Hinks, Geoffrey</option>
+
+
+      <option value="/vs/hodson-gerry#sparkes-bernie">Hodson, Gerry</option>
+
+
+      <option value="/vs/hoffman-richard#sparkes-bernie">Hoffman, Richard</option>
+
+
+      <option value="/vs/hooper-temple#sparkes-bernie">Hooper, Temple</option>
+
+
+      <option value="/vs/hope-peter#sparkes-bernie">Hope, Peter</option>
+
+
+      <option value="/vs/houston-neil#sparkes-bernie">Houston, Neil</option>
+
+
+      <option value="/vs/howard-glenn#sparkes-bernie">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#sparkes-bernie">Howard, Russ</option>
+
+
+      <option value="/vs/howat-thomas#sparkes-bernie">Howat, Thomas</option>
+
+
+      <option value="/vs/hudson-bruce#sparkes-bernie">Hudson, Bruce</option>
+
+
+      <option value="/vs/hudson-douglas#sparkes-bernie">Hudson, Douglas</option>
+
+
+      <option value="/vs/hunter-john#sparkes-bernie">Hunter, John</option>
+
+
+      <option value="/vs/hunter-roderick#sparkes-bernie">Hunter, Roderick</option>
+
+
+      <option value="/vs/hyrich-daniel#sparkes-bernie">Hyrich, Daniel</option>
+
+
+      <option value="/vs/ingo-kenneth#sparkes-bernie">Ingo, Kenneth</option>
+
+
+      <option value="/vs/issac-keith#sparkes-bernie">Issac, Keith</option>
+
+
+      <option value="/vs/jackson-glenn#sparkes-bernie">Jackson, Glenn</option>
+
+
+      <option value="/vs/jeans-gregory#sparkes-bernie">Jeans, Gregory</option>
+
+
+      <option value="/vs/johannesson-harold#sparkes-bernie">Johannesson, Harold</option>
+
+
+      <option value="/vs/johnson-terence#sparkes-bernie">Johnson, Terence</option>
+
+
+      <option value="/vs/johnston-bill#sparkes-bernie">Johnston, Bill</option>
+
+
+      <option value="/vs/johnston-dale#sparkes-bernie">Johnston, Dale</option>
+
+
+      <option value="/vs/journeaux-ian#sparkes-bernie">Journeaux, Ian</option>
+
+
+      <option value="/vs/kaeser-paul-jr#sparkes-bernie">Kaeser, Paul Jr.</option>
+
+
+      <option value="/vs/kalchak-leonard#sparkes-bernie">Kalchak, Leonard</option>
+
+
+      <option value="/vs/kallos-jack-jr#sparkes-bernie">Kallos, Jack Jr.</option>
+
+
+      <option value="/vs/kamp-ragnar#sparkes-bernie">Kamp, Ragnar</option>
+
+
+      <option value="/vs/kapicki-ron#sparkes-bernie">Kapicki, Ron</option>
+
+
+      <option value="/vs/kassner-david#sparkes-bernie">Kassner, David</option>
+
+
+      <option value="/vs/kawaja-john#sparkes-bernie">Kawaja, John</option>
+
+
+      <option value="/vs/keith-harold#sparkes-bernie">Keith, Harold</option>
+
+
+      <option value="/vs/kennedy-bruce#sparkes-bernie">Kennedy, Bruce</option>
+
+
+      <option value="/vs/kent-william#sparkes-bernie">Kent, William</option>
+
+
+      <option value="/vs/ketch-ronald#sparkes-bernie">Ketch, Ronald</option>
+
+
+      <option value="/vs/keys-john#sparkes-bernie">Keys, John</option>
+
+
+      <option value="/vs/klein-joseph#sparkes-bernie">Klein, Joseph</option>
+
+
+      <option value="/vs/klippenstein-daniel#sparkes-bernie">Klippenstein, Daniel</option>
+
+
+      <option value="/vs/knudson-arthur#sparkes-bernie">Knudson, Arthur</option>
+
+
+      <option value="/vs/knudson-elmer#sparkes-bernie">Knudson, Elmer</option>
+
+
+      <option value="/vs/knudson-gerhard#sparkes-bernie">Knudson, Gerhard</option>
+
+
+      <option value="/vs/krupski-gary#sparkes-bernie">Krupski, Gary</option>
+
+
+      <option value="/vs/krupski-mark#sparkes-bernie">Krupski, Mark</option>
+
+
+      <option value="/vs/krupski-ray#sparkes-bernie">Krupski, Ray</option>
+
+
+      <option value="/vs/kyle-keith#sparkes-bernie">Kyle, Keith</option>
+
+
+      <option value="/vs/lang-rick#sparkes-bernie">Lang, Rick</option>
+
+
+      <option value="/vs/langille-kenneth#sparkes-bernie">Langille, Kenneth</option>
+
+
+      <option value="/vs/langille-vic#sparkes-bernie">Langille, Vic</option>
+
+
+      <option value="/vs/larocque-guy#sparkes-bernie">LaRocque, Guy</option>
+
+
+      <option value="/vs/lauziere-claude#sparkes-bernie">Lauziere, Claude</option>
+
+
+      <option value="/vs/lawes-keith#sparkes-bernie">Lawes, Keith</option>
+
+
+      <option value="/vs/lawrence-harry#sparkes-bernie">Lawrence, Harry</option>
+
+
+      <option value="/vs/ledgerwood-allan#sparkes-bernie">Ledgerwood, Allan</option>
+
+
+      <option value="/vs/lemecha-robert#sparkes-bernie">Lemecha, Robert</option>
+
+
+      <option value="/vs/lerner-hersh#sparkes-bernie">Lerner, Hersh</option>
+
+
+      <option value="/vs/lilly-raymond#sparkes-bernie">Lilly, Raymond</option>
+
+
+      <option value="/vs/little-gordon#sparkes-bernie">Little, Gordon</option>
+
+
+      <option value="/vs/little-robert#sparkes-bernie">Little, Robert</option>
+
+
+      <option value="/vs/llewellyn-arnold#sparkes-bernie">Llewellyn, Arnold</option>
+
+
+      <option value="/vs/lobel-arthur#sparkes-bernie">Lobel, Arthur</option>
+
+
+      <option value="/vs/lukowich-ed#sparkes-bernie">Lukowich, Ed</option>
+
+
+      <option value="/vs/lunn-frederick#sparkes-bernie">Lunn, Frederick</option>
+
+
+      <option value="/vs/mabey-harold-jr#sparkes-bernie">Mabey, Harold Jr.</option>
+
+
+      <option value="/vs/maccharles-george#sparkes-bernie">MacCharles, George</option>
+
+
+      <option value="/vs/macdonald-ken#sparkes-bernie">MacDonald, Ken</option>
+
+
+      <option value="/vs/macdonald-peter#sparkes-bernie">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-robert#sparkes-bernie">MacDonald, Robert</option>
+
+
+      <option value="/vs/macdonald-rod#sparkes-bernie">MacDonald, Rod</option>
+
+
+      <option value="/vs/macdonald-ronald#sparkes-bernie">MacDonald, Ronald</option>
+
+
+      <option value="/vs/macduff-jack#sparkes-bernie">MacDuff, Jack</option>
+
+
+      <option value="/vs/maceachern-keith#sparkes-bernie">MacEachern, Keith</option>
+
+
+      <option value="/vs/maceachern-malcolm#sparkes-bernie">MacEachern, Malcolm</option>
+
+
+      <option value="/vs/macfadyen-bill#sparkes-bernie">MacFadyen, Bill</option>
+
+
+      <option value="/vs/macfadyen-dave#sparkes-bernie">MacFadyen, Dave</option>
+
+
+      <option value="/vs/macfadyen-ted#sparkes-bernie">MacFadyen, Ted</option>
+
+
+      <option value="/vs/macfarlane-david#sparkes-bernie">MacFarlane, David</option>
+
+
+      <option value="/vs/macfarlane-john#sparkes-bernie">MacFarlane, John</option>
+
+
+      <option value="/vs/macgregor-william#sparkes-bernie">MacGregor, William</option>
+
+
+      <option value="/vs/mackenzie-kenneth#sparkes-bernie">MacKenzie, Kenneth</option>
+
+
+      <option value="/vs/mackey-donald#sparkes-bernie">Mackey, Donald</option>
+
+
+      <option value="/vs/mackin-brian#sparkes-bernie">Mackin, Brian</option>
+
+
+      <option value="/vs/macmellon-grant#sparkes-bernie">MacMellon, Grant</option>
+
+
+      <option value="/vs/macneill-norman#sparkes-bernie">MacNeill, Norman</option>
+
+
+      <option value="/vs/macphee-peter#sparkes-bernie">MacPhee, Peter</option>
+
+
+      <option value="/vs/manning-ralph#sparkes-bernie">Manning, Ralph</option>
+
+
+      <option value="/vs/manning-ronald#sparkes-bernie">Manning, Ronald</option>
+
+
+      <option value="/vs/marchand-denis#sparkes-bernie">Marchand, Denis</option>
+
+
+      <option value="/vs/margeson-robert#sparkes-bernie">Margeson, Robert</option>
+
+
+      <option value="/vs/martel-harold#sparkes-bernie">Martel, Harold</option>
+
+
+      <option value="/vs/martin-darrell#sparkes-bernie">Martin, Darrell</option>
+
+
+      <option value="/vs/martin-william#sparkes-bernie">Martin, William</option>
+
+
+      <option value="/vs/mason-lynn#sparkes-bernie">Mason, Lynn</option>
+
+
+      <option value="/vs/matheson-wayne#sparkes-bernie">Matheson, Wayne</option>
+
+
+      <option value="/vs/mattatall-eugene#sparkes-bernie">Mattatall, Eugene</option>
+
+
+      <option value="/vs/mazinke-harvey#sparkes-bernie">Mazinke, Harvey</option>
+
+
+      <option value="/vs/mccabe-leslie#sparkes-bernie">McCabe, Leslie</option>
+
+
+      <option value="/vs/mccarron-rod#sparkes-bernie">McCarron, Rod</option>
+
+
+      <option value="/vs/mccubbin-robert#sparkes-bernie">McCubbin, Robert</option>
+
+
+      <option value="/vs/mcdonald-robert#sparkes-bernie">McDonald, Robert</option>
+
+
+      <option value="/vs/mcdonald-toby#sparkes-bernie">McDonald, Toby</option>
+
+
+      <option value="/vs/mcgibney-douglas#sparkes-bernie">McGibney, Douglas</option>
+
+
+      <option value="/vs/mcgrath-jim#sparkes-bernie">McGrath, Jim</option>
+
+
+      <option value="/vs/mcgrath-larry#sparkes-bernie">McGrath, Larry</option>
+
+
+      <option value="/vs/mcillwaine-george#sparkes-bernie">McIllwaine, George</option>
+
+
+      <option value="/vs/mcknight-gord#sparkes-bernie">McKnight, Gord</option>
+
+
+      <option value="/vs/mclaughlin-malcolm#sparkes-bernie">McLaughlin, Malcolm</option>
+
+
+      <option value="/vs/mclenaghan-ralph#sparkes-bernie">McLenaghan, Ralph</option>
+
+
+      <option value="/vs/meleschuk-orest#sparkes-bernie">Meleschuk, Orest</option>
+
+
+      <option value="/vs/melnyk-thomas#sparkes-bernie">Melnyk, Thomas</option>
+
+
+      <option value="/vs/millard-neil#sparkes-bernie">Millard, Neil</option>
+
+
+      <option value="/vs/mitchell-gary#sparkes-bernie">Mitchell, Gary</option>
+
+
+      <option value="/vs/mitchell-kevin#sparkes-bernie">Mitchell, Kevin</option>
+
+
+      <option value="/vs/moon-david#sparkes-bernie">Moon, David</option>
+
+
+      <option value="/vs/moore-claude#sparkes-bernie">Moore, Claude</option>
+
+
+      <option value="/vs/morgan-edward#sparkes-bernie">Morgan, Edward</option>
+
+
+      <option value="/vs/morissette-frank#sparkes-bernie">Morissette, Frank</option>
+
+
+      <option value="/vs/moss-steve#sparkes-bernie">Moss, Steve</option>
+
+
+      <option value="/vs/mousseau-arthur#sparkes-bernie">Mousseau, Arthur</option>
+
+
+      <option value="/vs/murovic-karl#sparkes-bernie">Murovic, Karl</option>
+
+
+      <option value="/vs/murphy-john#sparkes-bernie">Murphy, John</option>
+
+
+      <option value="/vs/murray-peter#sparkes-bernie">Murray, Peter</option>
+
+
+      <option value="/vs/mutrie-barry#sparkes-bernie">Mutrie, Barry</option>
+
+
+      <option value="/vs/muzika-james#sparkes-bernie">Muzika, James</option>
+
+
+      <option value="/vs/narduzzi-richard#sparkes-bernie">Narduzzi, Richard</option>
+
+
+      <option value="/vs/nason-walter#sparkes-bernie">Nason, Walter</option>
+
+
+      <option value="/vs/nicol-bob#sparkes-bernie">Nicol, Bob</option>
+
+
+      <option value="/vs/noble-james#sparkes-bernie">Noble, James</option>
+
+
+      <option value="/vs/noseworthy-mark#sparkes-bernie">Noseworthy, Mark</option>
+
+
+      <option value="/vs/ogden-steve#sparkes-bernie">Ogden, Steve</option>
+
+
+      <option value="/vs/oke-gary#sparkes-bernie">Oke, Gary</option>
+
+
+      <option value="/vs/oliver-bill#sparkes-bernie">Oliver, Bill</option>
+
+
+      <option value="/vs/olson-duane#sparkes-bernie">Olson, Duane</option>
+
+
+      <option value="/vs/oyler-john#sparkes-bernie">Oyler, John</option>
+
+
+      <option value="/vs/packet-jim#sparkes-bernie">Packet, Jim</option>
+
+
+      <option value="/vs/pacquin-rolland#sparkes-bernie">Pacquin, Rolland</option>
+
+
+      <option value="/vs/palk-shelly#sparkes-bernie">Palk, Shelly</option>
+
+
+      <option value="/vs/parker-burke#sparkes-bernie">Parker, Burke</option>
+
+
+      <option value="/vs/paterson-barry#sparkes-bernie">Paterson, Barry</option>
+
+
+      <option value="/vs/paterson-gordon#sparkes-bernie">Paterson, Gordon</option>
+
+
+      <option value="/vs/patrick-james#sparkes-bernie">Patrick, James</option>
+
+
+      <option value="/vs/perry-charles#sparkes-bernie">Perry, Charles</option>
+
+
+      <option value="/vs/perry-randy#sparkes-bernie">Perry, Randy</option>
+
+
+      <option value="/vs/peterson-gordon#sparkes-bernie">Peterson, Gordon</option>
+
+
+      <option value="/vs/pettapiece-james#sparkes-bernie">Pettapiece, James</option>
+
+
+      <option value="/vs/phillips-alfred-jr#sparkes-bernie">Phillips, Alfred Jr.</option>
+
+
+      <option value="/vs/pickering-robert#sparkes-bernie">Pickering, Robert</option>
+
+
+      <option value="/vs/piercey-william#sparkes-bernie">Piercey, William</option>
+
+
+      <option value="/vs/pile-herbert#sparkes-bernie">Pile, Herbert</option>
+
+
+      <option value="/vs/pilling-anthony#sparkes-bernie">Pilling, Anthony</option>
+
+
+      <option value="/vs/pineau-larry#sparkes-bernie">Pineau, Larry</option>
+
+
+      <option value="/vs/piper-charles-jr#sparkes-bernie">Piper, Charles Jr.</option>
+
+
+      <option value="/vs/poole-gary#sparkes-bernie">Poole, Gary</option>
+
+
+      <option value="/vs/provost-barry#sparkes-bernie">Provost, Barry</option>
+
+
+      <option value="/vs/rastelli-max#sparkes-bernie">Rastelli, Max</option>
+
+
+      <option value="/vs/ready-clifford#sparkes-bernie">Ready, Clifford</option>
+
+
+      <option value="/vs/reddick-don#sparkes-bernie">Reddick, Don</option>
+
+
+      <option value="/vs/reilly-keith#sparkes-bernie">Reilly, Keith</option>
+
+
+      <option value="/vs/rhodenizer-wayne#sparkes-bernie">Rhodenizer, Wayne</option>
+
+
+      <option value="/vs/riley-mike#sparkes-bernie">Riley, Mike</option>
+
+
+      <option value="/vs/roach-terry#sparkes-bernie">Roach, Terry</option>
+
+
+      <option value="/vs/robar-jack#sparkes-bernie">Robar, Jack</option>
+
+
+      <option value="/vs/robinson-robert#sparkes-bernie">Robinson, Robert</option>
+
+
+      <option value="/vs/romain-alfred#sparkes-bernie">Romain, Alfred</option>
+
+
+      <option value="/vs/romano-david#sparkes-bernie">Romano, David</option>
+
+
+      <option value="/vs/romkey-david#sparkes-bernie">Romkey, David</option>
+
+
+      <option value="/vs/ronald-dick#sparkes-bernie">Ronald, Dick</option>
+
+
+      <option value="/vs/ross-brian#sparkes-bernie">Ross, Brian</option>
+
+
+      <option value="/vs/ross-john#sparkes-bernie">Ross, John</option>
+
+
+      <option value="/vs/ross-john-k#sparkes-bernie">Ross, John K.</option>
+
+
+      <option value="/vs/ross-john-r#sparkes-bernie">Ross, John R.</option>
+
+
+      <option value="/vs/ross-william#sparkes-bernie">Ross, William</option>
+
+
+      <option value="/vs/rowe-robert#sparkes-bernie">Rowe, Robert</option>
+
+
+      <option value="/vs/roy-william#sparkes-bernie">Roy, William</option>
+
+
+      <option value="/vs/rubec-thomas#sparkes-bernie">Rubec, Thomas</option>
+
+
+      <option value="/vs/ryan-damien#sparkes-bernie">Ryan, Damien</option>
+
+
+      <option value="/vs/ryan-don#sparkes-bernie">Ryan, Don</option>
+
+
+      <option value="/vs/ryan-pat#sparkes-bernie">Ryan, Pat</option>
+
+
+      <option value="/vs/sampson-james#sparkes-bernie">Sampson, James</option>
+
+
+      <option value="/vs/savage-paul#sparkes-bernie">Savage, Paul</option>
+
+
+      <option value="/vs/schaefer-charles#sparkes-bernie">Schaefer, Charles</option>
+
+
+      <option value="/vs/schaefer-james#sparkes-bernie">Schaefer, James</option>
+
+
+      <option value="/vs/schindle-ronald#sparkes-bernie">Schindle, Ronald</option>
+
+
+      <option value="/vs/schmidt-rodger#sparkes-bernie">Schmidt, Rodger</option>
+
+
+      <option value="/vs/shearer-barry#sparkes-bernie">Shearer, Barry</option>
+
+
+      <option value="/vs/sherba-peter#sparkes-bernie">Sherba, Peter</option>
+
+
+      <option value="/vs/shinfield-allan#sparkes-bernie">Shinfield, Allan</option>
+
+
+      <option value="/vs/smale-kevin#sparkes-bernie">Smale, Kevin</option>
+
+
+      <option value="/vs/smith-alan#sparkes-bernie">Smith, Alan</option>
+
+
+      <option value="/vs/snarr-victor#sparkes-bernie">Snarr, Victor</option>
+
+
+      <option value="/vs/snell-brian#sparkes-bernie">Snell, Brian</option>
+
+
+      <option value="/vs/sokolosky-wayne#sparkes-bernie">Sokolosky, Wayne</option>
+
+
+      <option value="/vs/sparkes-bernie#st-john-rodney">St.John, Rodney</option>
+
+
+      <option value="/vs/sparkes-bernie#st-john-ronald">St.John, Ronald</option>
+
+
+      <option value="/vs/sparkes-bernie#st-john-wayne">St.John, Wayne</option>
+
+
+      <option value="/vs/sparkes-bernie#steeves-edward">Steeves, Edward</option>
+
+
+      <option value="/vs/sparkes-bernie#stent-frank">Stent, Frank</option>
+
+
+      <option value="/vs/sparkes-bernie#stewart-gordon-sk">Stewart, Gordon(SK)</option>
+
+
+      <option value="/vs/sparkes-bernie#strain-bill">Strain, Bill</option>
+
+
+      <option value="/vs/sparkes-bernie#strang-don">Strang, Don</option>
+
+
+      <option value="/vs/sparkes-bernie#strange-douglas">Strange, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#strong-carl">Strong, Carl</option>
+
+
+      <option value="/vs/sparkes-bernie#strugnell-john">Strugnell, John</option>
+
+
+      <option value="/vs/sparkes-bernie#stuart-douglas">Stuart, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#sullivan-charlie">Sullivan, Charlie</option>
+
+
+      <option value="/vs/sparkes-bernie#sullivan-dave">Sullivan, Dave</option>
+
+
+      <option value="/vs/sparkes-bernie#sully-alan">Sully, Alan</option>
+
+
+      <option value="/vs/sparkes-bernie#sutton-darrel">Sutton, Darrel</option>
+
+
+      <option value="/vs/sparkes-bernie#syme-brent">Syme, Brent</option>
+
+
+      <option value="/vs/sparkes-bernie#taite-john">Taite, John</option>
+
+
+      <option value="/vs/sparkes-bernie#tate-robert">Tate, Robert</option>
+
+
+      <option value="/vs/sparkes-bernie#tate-russell">Tate, Russell</option>
+
+
+      <option value="/vs/sparkes-bernie#templeton-kenneth">Templeton, Kenneth</option>
+
+
+      <option value="/vs/sparkes-bernie#thomas-jeff">Thomas, Jeff</option>
+
+
+      <option value="/vs/sparkes-bernie#thomas-rob">Thomas, Rob</option>
+
+
+      <option value="/vs/sparkes-bernie#thomas-robert">Thomas, Robert</option>
+
+
+      <option value="/vs/sparkes-bernie#thompson-jack">Thompson, Jack</option>
+
+
+      <option value="/vs/sparkes-bernie#thompson-robert">Thompson, Robert</option>
+
+
+      <option value="/vs/sparkes-bernie#thornborough-james">Thornborough, James</option>
+
+
+      <option value="/vs/sparkes-bernie#thun-albert">Thun, Albert</option>
+
+
+      <option value="/vs/sparkes-bernie#toews-brian">Toews, Brian</option>
+
+
+      <option value="/vs/sparkes-bernie#topp-frederick">Topp, Frederick</option>
+
+
+      <option value="/vs/sparkes-bernie#tracy-william">Tracy, William</option>
+
+
+      <option value="/vs/sparkes-bernie#trapp-murray">Trapp, Murray</option>
+
+
+      <option value="/vs/sparkes-bernie#trecartin-douglas">Trecartin, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#tremblay-joseph">Tremblay, Joseph</option>
+
+
+      <option value="/vs/sparkes-bernie#trickett-eugene">Trickett, Eugene</option>
+
+
+      <option value="/vs/sparkes-bernie#trimble-edward">Trimble, Edward</option>
+
+
+      <option value="/vs/sparkes-bernie#tucker-jack">Tucker, Jack</option>
+
+
+      <option value="/vs/sparkes-bernie#turner-malcolm">Turner, Malcolm</option>
+
+
+      <option value="/vs/sparkes-bernie#ursel-jim">Ursel, Jim</option>
+
+
+      <option value="/vs/sparkes-bernie#victor-mark">Victor, Mark</option>
+
+
+      <option value="/vs/sparkes-bernie#waite-james">Waite, James</option>
+
+
+      <option value="/vs/sparkes-bernie#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/sparkes-bernie#wallace-dale">Wallace, Dale</option>
+
+
+      <option value="/vs/sparkes-bernie#wankel-douglas">Wankel, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#ward-james">Ward, James</option>
+
+
+      <option value="/vs/sparkes-bernie#warren-thomas">Warren, Thomas</option>
+
+
+      <option value="/vs/sparkes-bernie#watchorn-mel">Watchorn, Mel</option>
+
+
+      <option value="/vs/sparkes-bernie#watchorn-merv">Watchorn, Merv</option>
+
+
+      <option value="/vs/sparkes-bernie#watchorn-terry">Watchorn, Terry</option>
+
+
+      <option value="/vs/sparkes-bernie#webster-glenn">Webster, Glenn</option>
+
+
+      <option value="/vs/sparkes-bernie#wedge-keith">Wedge, Keith</option>
+
+
+      <option value="/vs/sparkes-bernie#weisz-gary">Weisz, Gary</option>
+
+
+      <option value="/vs/sparkes-bernie#werenich-ed">Werenich, Ed</option>
+
+
+      <option value="/vs/sparkes-bernie#wiggington-merrill">Wiggington, Merrill</option>
+
+
+      <option value="/vs/sparkes-bernie#wiggins-douglas">Wiggins, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#wight-frederick">Wight, Frederick</option>
+
+
+      <option value="/vs/sparkes-bernie#wight-keith">Wight, Keith</option>
+
+
+      <option value="/vs/sparkes-bernie#wilber-robin">Wilber, Robin</option>
+
+
+      <option value="/vs/sparkes-bernie#wilson-tom">Wilson, Tom</option>
+
+
+      <option value="/vs/sparkes-bernie#wilson-william">Wilson, William</option>
+
+
+      <option value="/vs/sparkes-bernie#wong-peter">Wong, Peter</option>
+
+
+      <option value="/vs/sparkes-bernie#wood-bryan">Wood, Bryan</option>
+
+
+      <option value="/vs/sparkes-bernie#wood-edgar">Wood, Edgar</option>
+
+
+      <option value="/vs/sparkes-bernie#wookey-russ">Wookey, Russ</option>
+
+
+      <option value="/vs/sparkes-bernie#wright-richard">Wright, Richard</option>
+
+
+      <option value="/vs/sparkes-bernie#wyatt-douglas">Wyatt, Douglas</option>
+
+
+      <option value="/vs/sparkes-bernie#wylie-shayne">Wylie, Shayne</option>
+
+
+      <option value="/vs/sparkes-bernie#yerama-lloyd">Yerama, Lloyd</option>
+
+
+      <option value="/vs/sparkes-bernie#young-irvine">Young, Irvine</option>
+
+
+      <option value="/vs/sparkes-bernie#young-neil">Young, Neil</option>
+
+
+      <option value="/vs/sparkes-bernie#yuill-jack">Yuill, Jack</option>
+
+
+      <option value="/vs/sparkes-bernie#zikman-albert">Zikman, Albert</option>
+
+
+      <option value="/vs/sparkes-bernie#zimmer-jerry">Zimmer, Jerry</option>
+
+
+      <option value="/vs/sparkes-bernie#ziola-kirk">Ziola, Kirk</option>
+
+
+      <option value="/vs/sparkes-bernie#ziola-monte">Ziola, Monte</option>
+
+
+      <option value="/vs/sparkes-bernie#zoerb-dale">Zoerb, Dale</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

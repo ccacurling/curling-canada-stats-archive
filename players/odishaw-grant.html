@@ -1,0 +1,1674 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Grant Odishaw
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Grant Odishaw <i class="fe fe-user-plus" data-name="Odishaw, Grant" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1991">1991</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>5</td>
+  <td>1</td>
+  <td>4</td>
+  <td>44</td>
+  <td>71</td>
+  <td>48</td>
+  <td>83</td>
+  <td>50</td>
+  <td>77</td>
+  <td>42</td>
+  <td>78</td>
+  <td>92</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1991">1991</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>37</td>
+  <td>86</td>
+  <td>51</td>
+  <td>72</td>
+  <td>34</td>
+  <td>74</td>
+  <td>54</td>
+  <td>81</td>
+  <td>88</td>
+  <td>78</td>
+</tr>
+
+<tr class="totals">
+
+  <td>1991</td>
+  <td>Brier</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>10</td>
+  <td>4</td>
+  <td>6</td>
+  <td>81</td>
+  <td>78</td>
+  <td>99</td>
+  <td>77</td>
+  <td>84</td>
+  <td>76</td>
+  <td>96</td>
+  <td>79</td>
+  <td>180</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1996">1996</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>106</td>
+  <td>78</td>
+  <td>114</td>
+  <td>82</td>
+  <td>94</td>
+  <td>78</td>
+  <td>126</td>
+  <td>81</td>
+  <td>220</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>4</td>
+  <td>2</td>
+  <td>2</td>
+  <td>33</td>
+  <td>91</td>
+  <td>45</td>
+  <td>84</td>
+  <td>60</td>
+  <td>89</td>
+  <td>18</td>
+  <td>82</td>
+  <td>78</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>3</td>
+  <td>1</td>
+  <td>2</td>
+  <td>26</td>
+  <td>76</td>
+  <td>36</td>
+  <td>77</td>
+  <td>30</td>
+  <td>79</td>
+  <td>32</td>
+  <td>74</td>
+  <td>62</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1999">1999</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>2</td>
+  <td>2</td>
+  <td>0</td>
+  <td>9</td>
+  <td>92</td>
+  <td>21</td>
+  <td>88</td>
+  <td>8</td>
+  <td>84</td>
+  <td>22</td>
+  <td>91</td>
+  <td>30</td>
+  <td>89</td>
+</tr>
+
+<tr class="totals">
+
+  <td>1999</td>
+  <td>Brier</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>9</td>
+  <td>5</td>
+  <td>4</td>
+  <td>68</td>
+  <td>85</td>
+  <td>102</td>
+  <td>83</td>
+  <td>98</td>
+  <td>85</td>
+  <td>72</td>
+  <td>81</td>
+  <td>170</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2000">2000</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>75</td>
+  <td>91</td>
+  <td>175</td>
+  <td>88</td>
+  <td>192</td>
+  <td>92</td>
+  <td>58</td>
+  <td>76</td>
+  <td>250</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2002">2002</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>99</td>
+  <td>87</td>
+  <td>147</td>
+  <td>88</td>
+  <td>194</td>
+  <td>89</td>
+  <td>52</td>
+  <td>80</td>
+  <td>246</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2003">2003</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>81</td>
+  <td>94</td>
+  <td>136</td>
+  <td>88</td>
+  <td>170</td>
+  <td>91</td>
+  <td>47</td>
+  <td>85</td>
+  <td>217</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2004">2004</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>12</td>
+  <td>7</td>
+  <td>5</td>
+  <td>78</td>
+  <td>92</td>
+  <td>158</td>
+  <td>91</td>
+  <td>205</td>
+  <td>93</td>
+  <td>31</td>
+  <td>77</td>
+  <td>236</td>
+  <td>91</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2012">2012</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>24</td>
+  <td>86</td>
+  <td>182</td>
+  <td>86</td>
+  <td>193</td>
+  <td>87</td>
+  <td>13</td>
+  <td>71</td>
+  <td>206</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2019">2019</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="NB"><a href="../brier/team/nb">NB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>7</td>
+  <td>3</td>
+  <td>4</td>
+  <td>30</td>
+  <td>84</td>
+  <td>101</td>
+  <td>88</td>
+  <td>112</td>
+  <td>90</td>
+  <td>19</td>
+  <td>70</td>
+  <td>131</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2003">2003</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="Howa">Howa</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>4</td>
+  <td>1</td>
+  <td>3</td>
+  <td>26</td>
+  <td>88</td>
+  <td>49</td>
+  <td>94</td>
+  <td>68</td>
+  <td>92</td>
+  <td>7</td>
+  <td>96</td>
+  <td>75</td>
+  <td>92</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2004">2004</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>5</td>
+  <td>3</td>
+  <td>2</td>
+  <td>28</td>
+  <td>91</td>
+  <td>63</td>
+  <td>83</td>
+  <td>81</td>
+  <td>86</td>
+  <td>10</td>
+  <td>80</td>
+  <td>91</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2001">2001</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>9</td>
+  <td>5</td>
+  <td>4</td>
+  <td>80</td>
+  <td>86</td>
+  <td>93</td>
+  <td>87</td>
+  <td>150</td>
+  <td>86</td>
+  <td>23</td>
+  <td>87</td>
+  <td>173</td>
+  <td>86</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>99</td>
+  <td>53</td>
+  <td>46</td>
+  <td>642</td>
+  <td>86</td>
+  <td>1214</td>
+  <td>86</td>
+  <td>1342</td>
+  <td>89</td>
+  <td>514</td>
+  <td>80</td>
+  <td>1856</td>
+  <td>86</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>9</td>
+  <td>4</td>
+  <td>5</td>
+  <td>54</td>
+  <td>90</td>
+  <td>112</td>
+  <td>88</td>
+  <td>149</td>
+  <td>89</td>
+  <td>17</td>
+  <td>87</td>
+  <td>166</td>
+  <td>89</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>9</td>
+  <td>5</td>
+  <td>4</td>
+  <td>80</td>
+  <td>86</td>
+  <td>93</td>
+  <td>87</td>
+  <td>150</td>
+  <td>86</td>
+  <td>23</td>
+  <td>87</td>
+  <td>173</td>
+  <td>86</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adam-gerry#odishaw-grant">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-kevin#odishaw-grant">Adams, Kevin</option>
+
+
+      <option value="/vs/adams-shawn#odishaw-grant">Adams, Shawn</option>
+
+
+      <option value="/vs/aho-david#odishaw-grant">Aho, David</option>
+
+
+      <option value="/vs/ardiel-taylor#odishaw-grant">Ardiel, Taylor</option>
+
+
+      <option value="/vs/armstrong-doug#odishaw-grant">Armstrong, Doug</option>
+
+
+      <option value="/vs/armstrong-mike#odishaw-grant">Armstrong, Mike</option>
+
+
+      <option value="/vs/arsenault-craig#odishaw-grant">Arsenault, Craig</option>
+
+
+      <option value="/vs/bailey-scott#odishaw-grant">Bailey, Scott</option>
+
+
+      <option value="/vs/bardsley-mike#odishaw-grant">Bardsley, Mike</option>
+
+
+      <option value="/vs/bartlett-don#odishaw-grant">Bartlett, Don</option>
+
+
+      <option value="/vs/base-john#odishaw-grant">Base, John</option>
+
+
+      <option value="/vs/bentley-dan#odishaw-grant">Bentley, Dan</option>
+
+
+      <option value="/vs/bentley-darren#odishaw-grant">Bentley, Darren</option>
+
+
+      <option value="/vs/beuk-jonathan#odishaw-grant">Beuk, Jonathan</option>
+
+
+      <option value="/vs/biron-louis#odishaw-grant">Biron, Louis</option>
+
+
+      <option value="/vs/bitz-scott#odishaw-grant">Bitz, Scott</option>
+
+
+      <option value="/vs/blanchard-ben#odishaw-grant">Blanchard, Ben</option>
+
+
+      <option value="/vs/blanchard-jason#odishaw-grant">Blanchard, Jason</option>
+
+
+      <option value="/vs/boland-john#odishaw-grant">Boland, John</option>
+
+
+      <option value="/vs/borden-robert#odishaw-grant">Borden, Robert</option>
+
+
+      <option value="/vs/brackett-james#odishaw-grant">Brackett, James</option>
+
+
+      <option value="/vs/brandwood-todd#odishaw-grant">Brandwood, Todd</option>
+
+
+      <option value="/vs/broda-shawn#odishaw-grant">Broda, Shawn</option>
+
+
+      <option value="/vs/brodersen-erik#odishaw-grant">Brodersen, Erik</option>
+
+
+      <option value="/vs/brown-ken#odishaw-grant">Brown, Ken</option>
+
+
+      <option value="/vs/bryant-doug#odishaw-grant">Bryant, Doug</option>
+
+
+      <option value="/vs/bubbs-john#odishaw-grant">Bubbs, John</option>
+
+
+      <option value="/vs/buck-wyatt#odishaw-grant">Buck, Wyatt</option>
+
+
+      <option value="/vs/burgess-craig#odishaw-grant">Burgess, Craig</option>
+
+
+      <option value="/vs/burnett-steve#odishaw-grant">Burnett, Steve</option>
+
+
+      <option value="/vs/burtnyk-kerry#odishaw-grant">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-marc#odishaw-grant">Butler, Marc</option>
+
+
+      <option value="/vs/butler-mark#odishaw-grant">Butler, Mark</option>
+
+
+      <option value="/vs/buyck-james#odishaw-grant">Buyck, James</option>
+
+
+      <option value="/vs/campbell-robert#odishaw-grant">Campbell, Robert</option>
+
+
+      <option value="/vs/carter-andrew#odishaw-grant">Carter, Andrew</option>
+
+
+      <option value="/vs/casey-adam#odishaw-grant">Casey, Adam</option>
+
+
+      <option value="/vs/cayouette-maurice#odishaw-grant">Cayouette, Maurice</option>
+
+
+      <option value="/vs/chadwick-scott#odishaw-grant">Chadwick, Scott</option>
+
+
+      <option value="/vs/champion-kevin#odishaw-grant">Champion, Kevin</option>
+
+
+      <option value="/vs/charest-jean-francois#odishaw-grant">Charest, Jean-Francois</option>
+
+
+      <option value="/vs/charette-pierre#odishaw-grant">Charette, Pierre</option>
+
+
+      <option value="/vs/chorostkowski-brad#odishaw-grant">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/clarey-sean#odishaw-grant">Clarey, Sean</option>
+
+
+      <option value="/vs/cochrane-bryan#odishaw-grant">Cochrane, Bryan</option>
+
+
+      <option value="/vs/collins-ron#odishaw-grant">Collins, Ron</option>
+
+
+      <option value="/vs/collison-brian#odishaw-grant">Collison, Brian</option>
+
+
+      <option value="/vs/colter-travis#odishaw-grant">Colter, Travis</option>
+
+
+      <option value="/vs/connolly-t-j#odishaw-grant">Connolly, T.J.</option>
+
+
+      <option value="/vs/corner-peter#odishaw-grant">Corner, Peter</option>
+
+
+      <option value="/vs/cotter-jim#odishaw-grant">Cotter, Jim</option>
+
+
+      <option value="/vs/cowan-chad#odishaw-grant">Cowan, Chad</option>
+
+
+      <option value="/vs/cursons-neil#odishaw-grant">Cursons, Neil</option>
+
+
+      <option value="/vs/dacey-mark#odishaw-grant">Dacey, Mark</option>
+
+
+      <option value="/vs/daneault-richard#odishaw-grant">Daneault, Richard</option>
+
+
+      <option value="/vs/dauphinee-andrew#odishaw-grant">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/deconinck-smith-carl#odishaw-grant">deConinck-Smith, Carl</option>
+
+
+      <option value="/vs/deis-ryan#odishaw-grant">Deis, Ryan</option>
+
+
+      <option value="/vs/delmage-ron#odishaw-grant">Delmage, Ron</option>
+
+
+      <option value="/vs/desilets-mike#odishaw-grant">Desilets, Mike</option>
+
+
+      <option value="/vs/desjardins-robert#odishaw-grant">Desjardins, Robert</option>
+
+
+      <option value="/vs/despins-glen#odishaw-grant">Despins, Glen</option>
+
+
+      <option value="/vs/dieno-clint#odishaw-grant">Dieno, Clint</option>
+
+
+      <option value="/vs/dillon-mike#odishaw-grant">Dillon, Mike</option>
+
+
+      <option value="/vs/dowden-craig#odishaw-grant">Dowden, Craig</option>
+
+
+      <option value="/vs/eberts-tony#odishaw-grant">Eberts, Tony</option>
+
+
+      <option value="/vs/elias-dave#odishaw-grant">Elias, Dave</option>
+
+
+      <option value="/vs/elkin-derek#odishaw-grant">Elkin, Derek</option>
+
+
+      <option value="/vs/ellis-ken-jr#odishaw-grant">Ellis, Ken Jr.</option>
+
+
+      <option value="/vs/elmaleh-maxime#odishaw-grant">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/eloranta-drew#odishaw-grant">Eloranta, Drew</option>
+
+
+      <option value="/vs/engel-ron#odishaw-grant">Engel, Ron</option>
+
+
+      <option value="/vs/fawcett-brian#odishaw-grant">Fawcett, Brian</option>
+
+
+      <option value="/vs/fenton-brad#odishaw-grant">Fenton, Brad</option>
+
+
+      <option value="/vs/fenton-keith#odishaw-grant">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#odishaw-grant">Ferbey, Randy</option>
+
+
+      <option value="/vs/fetterly-tom#odishaw-grant">Fetterly, Tom</option>
+
+
+      <option value="/vs/flasch-colton#odishaw-grant">Flasch, Colton</option>
+
+
+      <option value="/vs/flemming-paul#odishaw-grant">Flemming, Paul</option>
+
+
+      <option value="/vs/florence-malcolm#odishaw-grant">Florence, Malcolm</option>
+
+
+      <option value="/vs/folk-kevin#odishaw-grant">Folk, Kevin</option>
+
+
+      <option value="/vs/forget-wesley#odishaw-grant">Forget, Wesley</option>
+
+
+      <option value="/vs/forsyth-sandy#odishaw-grant">Forsyth, Sandy</option>
+
+
+      <option value="/vs/fowler-rob#odishaw-grant">Fowler, Rob</option>
+
+
+      <option value="/vs/frans-joe#odishaw-grant">Frans, Joe</option>
+
+
+      <option value="/vs/frans-joseph#odishaw-grant">Frans, Joseph</option>
+
+
+      <option value="/vs/fry-ryan#odishaw-grant">Fry, Ryan</option>
+
+
+      <option value="/vs/fulton-chris#odishaw-grant">Fulton, Chris</option>
+
+
+      <option value="/vs/gagnon-jean#odishaw-grant">Gagnon, Jean</option>
+
+
+      <option value="/vs/gagnon-steeve#odishaw-grant">Gagnon, Steeve</option>
+
+
+      <option value="/vs/gallant-brett#odishaw-grant">Gallant, Brett</option>
+
+
+      <option value="/vs/gallant-peter#odishaw-grant">Gallant, Peter</option>
+
+
+      <option value="/vs/gamble-bill#odishaw-grant">Gamble, Bill</option>
+
+
+      <option value="/vs/gaudet-mike#odishaw-grant">Gaudet, Mike</option>
+
+
+      <option value="/vs/geisler-arnie#odishaw-grant">Geisler, Arnie</option>
+
+
+      <option value="/vs/germsheid-tony#odishaw-grant">Germsheid, Tony</option>
+
+
+      <option value="/vs/gibson-andrew#odishaw-grant">Gibson, Andrew</option>
+
+
+      <option value="/vs/golanowski-rory#odishaw-grant">Golanowski, Rory</option>
+
+
+      <option value="/vs/goodman-eric#odishaw-grant">Goodman, Eric</option>
+
+
+      <option value="/vs/gordon-robbie#odishaw-grant">Gordon, Robbie</option>
+
+
+      <option value="/vs/gorveatt-philip#odishaw-grant">Gorveatt, Philip</option>
+
+
+      <option value="/vs/gould-steve#odishaw-grant">Gould, Steve</option>
+
+
+      <option value="/vs/gretzinger-bert#odishaw-grant">Gretzinger, Bert</option>
+
+
+      <option value="/vs/griffith-tyrel#odishaw-grant">Griffith, Tyrel</option>
+
+
+      <option value="/vs/grundy-john#odishaw-grant">Grundy, John</option>
+
+
+      <option value="/vs/gubbels-will#odishaw-grant">Gubbels, Will</option>
+
+
+      <option value="/vs/gushue-brad#odishaw-grant">Gushue, Brad</option>
+
+
+      <option value="/vs/haichert-chris#odishaw-grant">Haichert, Chris</option>
+
+
+      <option value="/vs/haines-chuck#odishaw-grant">Haines, Chuck</option>
+
+
+      <option value="/vs/harcourt-doug#odishaw-grant">Harcourt, Doug</option>
+
+
+      <option value="/vs/harcourt-greg#odishaw-grant">Harcourt, Greg</option>
+
+
+      <option value="/vs/hardy-gord#odishaw-grant">Hardy, Gord</option>
+
+
+      <option value="/vs/harnden-e-j#odishaw-grant">Harnden, E.J.</option>
+
+
+      <option value="/vs/harnden-ryan#odishaw-grant">Harnden, Ryan</option>
+
+
+      <option value="/vs/harris-mike#odishaw-grant">Harris, Mike</option>
+
+
+      <option value="/vs/harris-rob#odishaw-grant">Harris, Rob</option>
+
+
+      <option value="/vs/harris-tyler#odishaw-grant">Harris, Tyler</option>
+
+
+      <option value="/vs/hebert-ben#odishaw-grant">Hebert, Ben</option>
+
+
+      <option value="/vs/hemmings-guy#odishaw-grant">Hemmings, Guy</option>
+
+
+      <option value="/vs/henderson-jeffrey#odishaw-grant">Henderson, Jeffrey</option>
+
+
+      <option value="/vs/henderson-ron#odishaw-grant">Henderson, Ron</option>
+
+
+      <option value="/vs/henderson-scott#odishaw-grant">Henderson, Scott</option>
+
+
+      <option value="/vs/hersikorn-terry#odishaw-grant">Hersikorn, Terry</option>
+
+
+      <option value="/vs/hinch-bert#odishaw-grant">Hinch, Bert</option>
+
+
+      <option value="/vs/hollett-peter#odishaw-grant">Hollett, Peter</option>
+
+
+      <option value="/vs/hong-doug#odishaw-grant">Hong, Doug</option>
+
+
+      <option value="/vs/hopkins-jeff#odishaw-grant">Hopkins, Jeff</option>
+
+
+      <option value="/vs/horning-deane#odishaw-grant">Horning, Deane</option>
+
+
+      <option value="/vs/howard-glenn#odishaw-grant">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#odishaw-grant">Howard, Russ</option>
+
+
+      <option value="/vs/humble-brian#odishaw-grant">Humble, Brian</option>
+
+
+      <option value="/vs/hunt-bruce#odishaw-grant">Hunt, Bruce</option>
+
+
+      <option value="/vs/ingram-bob#odishaw-grant">Ingram, Bob</option>
+
+
+      <option value="/vs/irwin-don#odishaw-grant">Irwin, Don</option>
+
+
+      <option value="/vs/iskiw-blayne#odishaw-grant">Iskiw, Blayne</option>
+
+
+      <option value="/vs/iverson-dave#odishaw-grant">Iverson, Dave</option>
+
+
+      <option value="/vs/jacobs-brad#odishaw-grant">Jacobs, Brad</option>
+
+
+      <option value="/vs/jenion-bob#odishaw-grant">Jenion, Bob</option>
+
+
+      <option value="/vs/jenkins-bill#odishaw-grant">Jenkins, Bill</option>
+
+
+      <option value="/vs/josephson-glenn#odishaw-grant">Josephson, Glenn</option>
+
+
+      <option value="/vs/kalthoff-kevin#odishaw-grant">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/kelsch-dan#odishaw-grant">Kelsch, Dan</option>
+
+
+      <option value="/vs/kendall-lloyd#odishaw-grant">Kendall, Lloyd</option>
+
+
+      <option value="/vs/kent-gerry#odishaw-grant">Kent, Gerry</option>
+
+
+      <option value="/vs/kerr-ian#odishaw-grant">Kerr, Ian</option>
+
+
+      <option value="/vs/kieley-phil#odishaw-grant">Kieley, Phil</option>
+
+
+      <option value="/vs/kilgallen-shane#odishaw-grant">Kilgallen, Shane</option>
+
+
+      <option value="/vs/kleiter-dean#odishaw-grant">Kleiter, Dean</option>
+
+
+      <option value="/vs/kochan-craig#odishaw-grant">Kochan, Craig</option>
+
+
+      <option value="/vs/koe-jamie#odishaw-grant">Koe, Jamie</option>
+
+
+      <option value="/vs/koe-kevin#odishaw-grant">Koe, Kevin</option>
+
+
+      <option value="/vs/koffski-rob#odishaw-grant">Koffski, Rob</option>
+
+
+      <option value="/vs/korab-jamie#odishaw-grant">Korab, Jamie</option>
+
+
+      <option value="/vs/korte-bruce#odishaw-grant">Korte, Bruce</option>
+
+
+      <option value="/vs/korte-roger#odishaw-grant">Korte, Roger</option>
+
+
+      <option value="/vs/lafleur-daniel#odishaw-grant">Lafleur, Daniel</option>
+
+
+      <option value="/vs/laing-brent#odishaw-grant">Laing, Brent</option>
+
+
+      <option value="/vs/landry-jeremy#odishaw-grant">Landry, Jeremy</option>
+
+
+      <option value="/vs/lang-mark#odishaw-grant">Lang, Mark</option>
+
+
+      <option value="/vs/lang-tyler#odishaw-grant">Lang, Tyler</option>
+
+
+      <option value="/vs/lappalainen-art#odishaw-grant">Lappalainen, Art</option>
+
+
+      <option value="/vs/laycock-steve#odishaw-grant">Laycock, Steve</option>
+
+
+      <option value="/vs/ledgerwood-sean#odishaw-grant">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/leech-ron#odishaw-grant">Leech, Ron</option>
+
+
+      <option value="/vs/lemery-daniel#odishaw-grant">Lemery, Daniel</option>
+
+
+      <option value="/vs/likely-john#odishaw-grant">Likely, John</option>
+
+
+      <option value="/vs/lindsay-tim#odishaw-grant">Lindsay, Tim</option>
+
+
+      <option value="/vs/loevenmark-phil#odishaw-grant">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lohnes-bruce#odishaw-grant">Lohnes, Bruce</option>
+
+
+      <option value="/vs/lowe-wayne#odishaw-grant">Lowe, Wayne</option>
+
+
+      <option value="/vs/lukowich-mark#odishaw-grant">Lukowich, Mark</option>
+
+
+      <option value="/vs/lyburn-allan#odishaw-grant">Lyburn, Allan</option>
+
+
+      <option value="/vs/macaulay-ian#odishaw-grant">MacAulay, Ian</option>
+
+
+      <option value="/vs/macdonald-blake#odishaw-grant">MacDonald, Blake</option>
+
+
+      <option value="/vs/macdonald-peter#odishaw-grant">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-rod#odishaw-grant">MacDonald, Rod</option>
+
+
+      <option value="/vs/macinnes-david#odishaw-grant">MacInnes, David</option>
+
+
+      <option value="/vs/mackenzie-kevin#odishaw-grant">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/mackenzie-tyler#odishaw-grant">MacKenzie, Tyler</option>
+
+
+      <option value="/vs/mackey-peter#odishaw-grant">Mackey, Peter</option>
+
+
+      <option value="/vs/macklin-drew#odishaw-grant">Macklin, Drew</option>
+
+
+      <option value="/vs/maclean-rob#odishaw-grant">MacLean, Rob</option>
+
+
+      <option value="/vs/madden-paul#odishaw-grant">Madden, Paul</option>
+
+
+      <option value="/vs/manners-scott#odishaw-grant">Manners, Scott</option>
+
+
+      <option value="/vs/martin-kevin#odishaw-grant">Martin, Kevin</option>
+
+
+      <option value="/vs/mayne-dave#odishaw-grant">Mayne, Dave</option>
+
+
+      <option value="/vs/mcaulay-greg#odishaw-grant">McAulay, Greg</option>
+
+
+      <option value="/vs/mccarrel-graeme#odishaw-grant">McCarrel, Graeme</option>
+
+
+      <option value="/vs/mcclelland-john#odishaw-grant">McClelland, John</option>
+
+
+      <option value="/vs/mccusker-brian#odishaw-grant">McCusker, Brian</option>
+
+
+      <option value="/vs/mcdermaid-donald#odishaw-grant">McDermaid, Donald</option>
+
+
+      <option value="/vs/mcdermot-ken#odishaw-grant">McDermot, Ken</option>
+
+
+      <option value="/vs/mcdonald-scott#odishaw-grant">McDonald, Scott</option>
+
+
+      <option value="/vs/mchargue-ken#odishaw-grant">McHargue, Ken</option>
+
+
+      <option value="/vs/mckee-darrell#odishaw-grant">McKee, Darrell</option>
+
+
+      <option value="/vs/mcleod-shadrach#odishaw-grant">Mcleod, Shadrach</option>
+
+
+      <option value="/vs/mcphee-barry#odishaw-grant">McPhee, Barry</option>
+
+
+      <option value="/vs/mead-jon#odishaw-grant">Mead, Jon</option>
+
+
+      <option value="/vs/meakin-rob#odishaw-grant">Meakin, Rob</option>
+
+
+      <option value="/vs/mellof-dave#odishaw-grant">Mellof, Dave</option>
+
+
+      <option value="/vs/mellof-david#odishaw-grant">Mellof, David</option>
+
+
+      <option value="/vs/menard-jean-michel#odishaw-grant">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/middaugh-wayne#odishaw-grant">Middaugh, Wayne</option>
+
+
+      <option value="/vs/mihalicz-dwayne#odishaw-grant">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/miki-bryan#odishaw-grant">Miki, Bryan</option>
+
+
+      <option value="/vs/mikkelsen-ray#odishaw-grant">Mikkelsen, Ray</option>
+
+
+      <option value="/vs/milward-ross#odishaw-grant">Milward, Ross</option>
+
+
+      <option value="/vs/moffatt-rich#odishaw-grant">Moffatt, Rich</option>
+
+
+      <option value="/vs/molloy-pat#odishaw-grant">Molloy, Pat</option>
+
+
+      <option value="/vs/montgomery-rod#odishaw-grant">Montgomery, Rod</option>
+
+
+      <option value="/vs/morris-john#odishaw-grant">Morris, John</option>
+
+
+      <option value="/vs/moskowy-kelly#odishaw-grant">Moskowy, Kelly</option>
+
+
+      <option value="/vs/munroe-steven#odishaw-grant">Munroe, Steven</option>
+
+
+      <option value="/vs/murphy-jamie#odishaw-grant">Murphy, Jamie</option>
+
+
+      <option value="/vs/nadeau-jeff#odishaw-grant">Nadeau, Jeff</option>
+
+
+      <option value="/vs/naugler-tom#odishaw-grant">Naugler, Tom</option>
+
+
+      <option value="/vs/nedohin-david#odishaw-grant">Nedohin, David</option>
+
+
+      <option value="/vs/ness-dale#odishaw-grant">Ness, Dale</option>
+
+
+      <option value="/vs/neufeld-b-j#odishaw-grant">Neufeld, B.J.</option>
+
+
+      <option value="/vs/ng-matt#odishaw-grant">Ng, Matt</option>
+
+
+      <option value="/vs/nichols-mark#odishaw-grant">Nichols, Mark</option>
+
+
+      <option value="/vs/nolan-jason#odishaw-grant">Nolan, Jason</option>
+
+
+      <option value="/vs/noseworthy-mark#odishaw-grant">Noseworthy, Mark</option>
+
+
+      <option value="/vs/o-driscoll-frank#odishaw-grant">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/o-rourke-mark#odishaw-grant">O'Rourke, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#palmer-curt">Palmer, Curt</option>
+
+
+      <option value="/vs/odishaw-grant#park-kevin">Park, Kevin</option>
+
+
+      <option value="/vs/odishaw-grant#park-shane">Park, Shane</option>
+
+
+      <option value="/vs/odishaw-grant#parsons-cole">Parsons, Cole</option>
+
+
+      <option value="/vs/odishaw-grant#paslawski-pat">Paslawski, Pat</option>
+
+
+      <option value="/vs/odishaw-grant#patterson-scott">Patterson, Scott</option>
+
+
+      <option value="/vs/odishaw-grant#peachey-jay">Peachey, Jay</option>
+
+
+      <option value="/vs/odishaw-grant#peech-orest">Peech, Orest</option>
+
+
+      <option value="/vs/odishaw-grant#perrin-hubert">Perrin, Hubert</option>
+
+
+      <option value="/vs/odishaw-grant#petryk-dan">Petryk, Dan</option>
+
+
+      <option value="/vs/odishaw-grant#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/odishaw-grant#phillips-tim">Phillips, Tim</option>
+
+
+      <option value="/vs/odishaw-grant#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/odishaw-grant#pinder-jordan">Pinder, Jordan</option>
+
+
+      <option value="/vs/odishaw-grant#pohl-mike">Pohl, Mike</option>
+
+
+      <option value="/vs/odishaw-grant#postma-john">Postma, John</option>
+
+
+      <option value="/vs/odishaw-grant#pritchett-bob">Pritchett, Bob</option>
+
+
+      <option value="/vs/odishaw-grant#pyper-dwayne">Pyper, Dwayne</option>
+
+
+      <option value="/vs/odishaw-grant#rafuse-brian">Rafuse, Brian</option>
+
+
+      <option value="/vs/odishaw-grant#rajala-howard">Rajala, Howard</option>
+
+
+      <option value="/vs/odishaw-grant#recksiedler-kevin">Recksiedler, Kevin</option>
+
+
+      <option value="/vs/odishaw-grant#reddick-don">Reddick, Don</option>
+
+
+      <option value="/vs/odishaw-grant#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/odishaw-grant#robertson-ian">Robertson, Ian</option>
+
+
+      <option value="/vs/odishaw-grant#robertson-richard">Robertson, Richard</option>
+
+
+      <option value="/vs/odishaw-grant#robinson-andrew">Robinson, Andrew</option>
+
+
+      <option value="/vs/odishaw-grant#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/odishaw-grant#rowsell-rick">Rowsell, Rick</option>
+
+
+      <option value="/vs/odishaw-grant#roy-jean-sebastien">Roy, Jean-Sebastien</option>
+
+
+      <option value="/vs/odishaw-grant#rumfeldt-robert">Rumfeldt, Robert</option>
+
+
+      <option value="/vs/odishaw-grant#ryan-jeff">Ryan, Jeff</option>
+
+
+      <option value="/vs/odishaw-grant#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/odishaw-grant#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/odishaw-grant#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/odishaw-grant#sauve-dan">Sauve, Dan</option>
+
+
+      <option value="/vs/odishaw-grant#sauve-roger">Sauve, Roger</option>
+
+
+      <option value="/vs/odishaw-grant#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/odishaw-grant#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/odishaw-grant#scales-bob">Scales, Bob</option>
+
+
+      <option value="/vs/odishaw-grant#scales-brent">Scales, Brent</option>
+
+
+      <option value="/vs/odishaw-grant#scales-brian">Scales, Brian</option>
+
+
+      <option value="/vs/odishaw-grant#scharf-joe">Scharf, Joe</option>
+
+
+      <option value="/vs/odishaw-grant#scoffin-wade">Scoffin, Wade</option>
+
+
+      <option value="/vs/odishaw-grant#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/odishaw-grant#shymko-gerald">Shymko, Gerald</option>
+
+
+      <option value="/vs/odishaw-grant#shypitka-tom">Shypitka, Tom</option>
+
+
+      <option value="/vs/odishaw-grant#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/odishaw-grant#skanes-robert">Skanes, Robert</option>
+
+
+      <option value="/vs/odishaw-grant#slauenwhite-david">Slauenwhite, David</option>
+
+
+      <option value="/vs/odishaw-grant#smith-jeff">Smith, Jeff</option>
+
+
+      <option value="/vs/odishaw-grant#smyth-larry">Smyth, Larry</option>
+
+
+      <option value="/vs/odishaw-grant#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/odishaw-grant#somers-grant">Somers, Grant</option>
+
+
+      <option value="/vs/odishaw-grant#spicer-grant">Spicer, Grant</option>
+
+
+      <option value="/vs/odishaw-grant#st-louis-david">St.Louis, David</option>
+
+
+      <option value="/vs/odishaw-grant#steele-colten">Steele, Colten</option>
+
+
+      <option value="/vs/odishaw-grant#steski-john">Steski, John</option>
+
+
+      <option value="/vs/odishaw-grant#stokes-lionel">Stokes, Lionel</option>
+
+
+      <option value="/vs/odishaw-grant#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/odishaw-grant#stuart-darol">Stuart, Darol</option>
+
+
+      <option value="/vs/odishaw-grant#suchy-chris">Suchy, Chris</option>
+
+
+      <option value="/vs/odishaw-grant#sullivan-evan">Sullivan, Evan</option>
+
+
+      <option value="/vs/odishaw-grant#sumner-kevin">Sumner, Kevin</option>
+
+
+      <option value="/vs/odishaw-grant#sveistrup-jody">Sveistrup, Jody</option>
+
+
+      <option value="/vs/odishaw-grant#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/odishaw-grant#tarasoff-kerry">Tarasoff, Kerry</option>
+
+
+      <option value="/vs/odishaw-grant#tetley-ian">Tetley, Ian</option>
+
+
+      <option value="/vs/odishaw-grant#thibaudeau-guy">Thibaudeau, Guy</option>
+
+
+      <option value="/vs/odishaw-grant#thiessen-nolan">Thiessen, Nolan</option>
+
+
+      <option value="/vs/odishaw-grant#thompson-stuart">Thompson, Stuart</option>
+
+
+      <option value="/vs/odishaw-grant#tresoor-ken">Tresoor, Ken</option>
+
+
+      <option value="/vs/odishaw-grant#trevellyan-todd">Trevellyan, Todd</option>
+
+
+      <option value="/vs/odishaw-grant#turpin-randy">Turpin, Randy</option>
+
+
+      <option value="/vs/odishaw-grant#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/odishaw-grant#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/odishaw-grant#van-dine-steve">Van Dine, Steve</option>
+
+
+      <option value="/vs/odishaw-grant#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/odishaw-grant#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/odishaw-grant#wall-trevor">Wall, Trevor</option>
+
+
+      <option value="/vs/odishaw-grant#walsh-jim">Walsh, Jim</option>
+
+
+      <option value="/vs/odishaw-grant#ward-mark">Ward, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#wasnea-brian">Wasnea, Brian</option>
+
+
+      <option value="/vs/odishaw-grant#wempe-brian">Wempe, Brian</option>
+
+
+      <option value="/vs/odishaw-grant#westphal-don">Westphal, Don</option>
+
+
+      <option value="/vs/odishaw-grant#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#woodward-murray">Woodward, Murray</option>
+
+
+      <option value="/vs/odishaw-grant#woytowich-randy">Woytowich, Randy</option>
+
+
+      <option value="/vs/odishaw-grant#xidos-george">Xidos, George</option>
+
+
+      <option value="/vs/odishaw-grant#young-wayne">Young, Wayne</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1083 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Don Westphal
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Don Westphal <i class="fe fe-user-plus" data-name="Westphal, Don" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1989">1989</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+  <td>87</td>
+  <td>74</td>
+  <td>113</td>
+  <td>74</td>
+  <td>87</td>
+  <td>76</td>
+  <td>113</td>
+  <td>72</td>
+  <td>200</td>
+  <td>74</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1993">1993</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>57</td>
+  <td>75</td>
+  <td>105</td>
+  <td>83</td>
+  <td>93</td>
+  <td>80</td>
+  <td>69</td>
+  <td>79</td>
+  <td>162</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1993">1993</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>2</td>
+  <td>2</td>
+  <td>0</td>
+  <td>19</td>
+  <td>39</td>
+  <td>21</td>
+  <td>75</td>
+  <td>13</td>
+  <td>38</td>
+  <td>27</td>
+  <td>68</td>
+  <td>40</td>
+  <td>58</td>
+</tr>
+
+<tr class="totals">
+
+  <td>1993</td>
+  <td>Brier</td>
+  <td data-order="zzz">Totals</td>
+
+  <td data-order="
+5
+">
+</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>76</td>
+  <td>66</td>
+  <td>126</td>
+  <td>82</td>
+  <td>106</td>
+  <td>75</td>
+  <td>96</td>
+  <td>76</td>
+  <td>202</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1996">1996</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>112</td>
+  <td>73</td>
+  <td>136</td>
+  <td>80</td>
+  <td>122</td>
+  <td>78</td>
+  <td>126</td>
+  <td>76</td>
+  <td>248</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1997">1997</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>5</td>
+  <td>6</td>
+  <td>90</td>
+  <td>77</td>
+  <td>105</td>
+  <td>76</td>
+  <td>97</td>
+  <td>72</td>
+  <td>98</td>
+  <td>80</td>
+  <td>195</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2001">2001</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>108</td>
+  <td>83</td>
+  <td>94</td>
+  <td>83</td>
+  <td>94</td>
+  <td>84</td>
+  <td>108</td>
+  <td>82</td>
+  <td>202</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2003">2003</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="QC"><a href="../brier/team/qc">QC</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>105</td>
+  <td>79</td>
+  <td>97</td>
+  <td>81</td>
+  <td>96</td>
+  <td>79</td>
+  <td>106</td>
+  <td>81</td>
+  <td>202</td>
+  <td>80</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>68</td>
+  <td>38</td>
+  <td>30</td>
+  <td>578</td>
+  <td>76</td>
+  <td>671</td>
+  <td>79</td>
+  <td>602</td>
+  <td>77</td>
+  <td>647</td>
+  <td>78</td>
+  <td>1249</td>
+  <td>78</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/adams-bill#westphal-don">Adams, Bill</option>
+
+
+      <option value="/vs/adams-jim#westphal-don">Adams, Jim</option>
+
+
+      <option value="/vs/alderman-dan#westphal-don">Alderman, Dan</option>
+
+
+      <option value="/vs/alexander-scott#westphal-don">Alexander, Scott</option>
+
+
+      <option value="/vs/alexander-trevor#westphal-don">Alexander, Trevor</option>
+
+
+      <option value="/vs/armstrong-mark#westphal-don">Armstrong, Mark</option>
+
+
+      <option value="/vs/assad-mike#westphal-don">Assad, Mike</option>
+
+
+      <option value="/vs/bailey-scott#westphal-don">Bailey, Scott</option>
+
+
+      <option value="/vs/bartlett-don#westphal-don">Bartlett, Don</option>
+
+
+      <option value="/vs/belcourt-tim#westphal-don">Belcourt, Tim</option>
+
+
+      <option value="/vs/brackett-james#westphal-don">Brackett, James</option>
+
+
+      <option value="/vs/broda-shawn#westphal-don">Broda, Shawn</option>
+
+
+      <option value="/vs/brophy-marc#westphal-don">Brophy, Marc</option>
+
+
+      <option value="/vs/brown-ken#westphal-don">Brown, Ken</option>
+
+
+      <option value="/vs/bryant-doug#westphal-don">Bryant, Doug</option>
+
+
+      <option value="/vs/bubbs-john#westphal-don">Bubbs, John</option>
+
+
+      <option value="/vs/buchan-chris#westphal-don">Buchan, Chris</option>
+
+
+      <option value="/vs/buck-wyatt#westphal-don">Buck, Wyatt</option>
+
+
+      <option value="/vs/burgess-bryan#westphal-don">Burgess, Bryan</option>
+
+
+      <option value="/vs/burtnyk-kerry#westphal-don">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-marc#westphal-don">Butler, Marc</option>
+
+
+      <option value="/vs/butler-mark#westphal-don">Butler, Mark</option>
+
+
+      <option value="/vs/buyck-james#westphal-don">Buyck, James</option>
+
+
+      <option value="/vs/campbell-robert#westphal-don">Campbell, Robert</option>
+
+
+      <option value="/vs/carey-dan#westphal-don">Carey, Dan</option>
+
+
+      <option value="/vs/carstairs-kent#westphal-don">Carstairs, Kent</option>
+
+
+      <option value="/vs/champion-kevin#westphal-don">Champion, Kevin</option>
+
+
+      <option value="/vs/chorostkowski-brad#westphal-don">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/cochrane-bryan#westphal-don">Cochrane, Bryan</option>
+
+
+      <option value="/vs/corner-peter#westphal-don">Corner, Peter</option>
+
+
+      <option value="/vs/coster-dave#westphal-don">Coster, Dave</option>
+
+
+      <option value="/vs/coulter-mike#westphal-don">Coulter, Mike</option>
+
+
+      <option value="/vs/cowan-chad#westphal-don">Cowan, Chad</option>
+
+
+      <option value="/vs/dacey-mark#westphal-don">Dacey, Mark</option>
+
+
+      <option value="/vs/delmage-al#westphal-don">Delmage, Al</option>
+
+
+      <option value="/vs/delmage-ron#westphal-don">Delmage, Ron</option>
+
+
+      <option value="/vs/desilets-mike#westphal-don">Desilets, Mike</option>
+
+
+      <option value="/vs/despins-glen#westphal-don">Despins, Glen</option>
+
+
+      <option value="/vs/dillon-mike#westphal-don">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-brian#westphal-don">Dobson, Brian</option>
+
+
+      <option value="/vs/dowden-craig#westphal-don">Dowden, Craig</option>
+
+
+      <option value="/vs/duce-dallas#westphal-don">Duce, Dallas</option>
+
+
+      <option value="/vs/eberts-tony#westphal-don">Eberts, Tony</option>
+
+
+      <option value="/vs/elkin-derek#westphal-don">Elkin, Derek</option>
+
+
+      <option value="/vs/ellis-ken-jr#westphal-don">Ellis, Ken Jr.</option>
+
+
+      <option value="/vs/ernst-georg#westphal-don">Ernst, Georg</option>
+
+
+      <option value="/vs/fenton-keith#westphal-don">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#westphal-don">Ferbey, Randy</option>
+
+
+      <option value="/vs/ferster-greg#westphal-don">Ferster, Greg</option>
+
+
+      <option value="/vs/fetterly-tom#westphal-don">Fetterly, Tom</option>
+
+
+      <option value="/vs/fitzherbert-brad#westphal-don">Fitzherbert, Brad</option>
+
+
+      <option value="/vs/flemming-paul#westphal-don">Flemming, Paul</option>
+
+
+      <option value="/vs/folk-rick#westphal-don">Folk, Rick</option>
+
+
+      <option value="/vs/forsyth-sandy#westphal-don">Forsyth, Sandy</option>
+
+
+      <option value="/vs/gallant-peter#westphal-don">Gallant, Peter</option>
+
+
+      <option value="/vs/gamble-bill#westphal-don">Gamble, Bill</option>
+
+
+      <option value="/vs/gibson-andrew#westphal-don">Gibson, Andrew</option>
+
+
+      <option value="/vs/giles-roy#westphal-don">Giles, Roy</option>
+
+
+      <option value="/vs/gorveatt-philip#westphal-don">Gorveatt, Philip</option>
+
+
+      <option value="/vs/gould-steve#westphal-don">Gould, Steve</option>
+
+
+      <option value="/vs/goulden-lowell#westphal-don">Goulden, Lowell</option>
+
+
+      <option value="/vs/grant-scott#westphal-don">Grant, Scott</option>
+
+
+      <option value="/vs/grattan-james#westphal-don">Grattan, James</option>
+
+
+      <option value="/vs/gretzinger-bert#westphal-don">Gretzinger, Bert</option>
+
+
+      <option value="/vs/grundy-john#westphal-don">Grundy, John</option>
+
+
+      <option value="/vs/gubbels-will#westphal-don">Gubbels, Will</option>
+
+
+      <option value="/vs/gushue-brad#westphal-don">Gushue, Brad</option>
+
+
+      <option value="/vs/hackner-al#westphal-don">Hackner, Al</option>
+
+
+      <option value="/vs/harcourt-doug#westphal-don">Harcourt, Doug</option>
+
+
+      <option value="/vs/harcourt-greg#westphal-don">Harcourt, Greg</option>
+
+
+      <option value="/vs/harris-rob#westphal-don">Harris, Rob</option>
+
+
+      <option value="/vs/harrison-neil#westphal-don">Harrison, Neil</option>
+
+
+      <option value="/vs/henderson-jeffrey#westphal-don">Henderson, Jeffrey</option>
+
+
+      <option value="/vs/henderson-lorne#westphal-don">Henderson, Lorne</option>
+
+
+      <option value="/vs/henderson-scott#westphal-don">Henderson, Scott</option>
+
+
+      <option value="/vs/hinch-bert#westphal-don">Hinch, Bert</option>
+
+
+      <option value="/vs/hipkin-rich#westphal-don">Hipkin, Rich</option>
+
+
+      <option value="/vs/hollett-peter#westphal-don">Hollett, Peter</option>
+
+
+      <option value="/vs/horning-deane#westphal-don">Horning, Deane</option>
+
+
+      <option value="/vs/howard-glenn#westphal-don">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#westphal-don">Howard, Russ</option>
+
+
+      <option value="/vs/hyrich-john#westphal-don">Hyrich, John</option>
+
+
+      <option value="/vs/ingram-bob#westphal-don">Ingram, Bob</option>
+
+
+      <option value="/vs/iskiw-blayne#westphal-don">Iskiw, Blayne</option>
+
+
+      <option value="/vs/jackson-glen#westphal-don">Jackson, Glen</option>
+
+
+      <option value="/vs/jakomait-dusty#westphal-don">Jakomait, Dusty</option>
+
+
+      <option value="/vs/jenion-bob#westphal-don">Jenion, Bob</option>
+
+
+      <option value="/vs/joanisse-dean#westphal-don">Joanisse, Dean</option>
+
+
+      <option value="/vs/johnston-steve#westphal-don">Johnston, Steve</option>
+
+
+      <option value="/vs/josephson-glenn#westphal-don">Josephson, Glenn</option>
+
+
+      <option value="/vs/kalthoff-kevin#westphal-don">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/kamp-ragnar#westphal-don">Kamp, Ragnar</option>
+
+
+      <option value="/vs/kapicki-ron#westphal-don">Kapicki, Ron</option>
+
+
+      <option value="/vs/kawaja-john#westphal-don">Kawaja, John</option>
+
+
+      <option value="/vs/kelsch-dan#westphal-don">Kelsch, Dan</option>
+
+
+      <option value="/vs/kennedy-mike#westphal-don">Kennedy, Mike</option>
+
+
+      <option value="/vs/kerr-ian#westphal-don">Kerr, Ian</option>
+
+
+      <option value="/vs/kijewski-kelly#westphal-don">Kijewski, Kelly</option>
+
+
+      <option value="/vs/koffski-rob#westphal-don">Koffski, Rob</option>
+
+
+      <option value="/vs/kofoed-lonnie#westphal-don">Kofoed, Lonnie</option>
+
+
+      <option value="/vs/korab-jamie#westphal-don">Korab, Jamie</option>
+
+
+      <option value="/vs/lacey-jeff#westphal-don">Lacey, Jeff</option>
+
+
+      <option value="/vs/lang-rick#westphal-don">Lang, Rick</option>
+
+
+      <option value="/vs/langdon-dennis#westphal-don">Langdon, Dennis</option>
+
+
+      <option value="/vs/lappalainen-art#westphal-don">Lappalainen, Art</option>
+
+
+      <option value="/vs/leclair-bob#westphal-don">LeClair, Bob</option>
+
+
+      <option value="/vs/lecocq-marc#westphal-don">LeCocq, Marc</option>
+
+
+      <option value="/vs/lindsay-tim#westphal-don">Lindsay, Tim</option>
+
+
+      <option value="/vs/loeffler-ken#westphal-don">Loeffler, Ken</option>
+
+
+      <option value="/vs/lohnes-bruce#westphal-don">Lohnes, Bruce</option>
+
+
+      <option value="/vs/macaulay-ian#westphal-don">MacAulay, Ian</option>
+
+
+      <option value="/vs/macdonald-peter#westphal-don">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-rod#westphal-don">MacDonald, Rod</option>
+
+
+      <option value="/vs/macinnes-david#westphal-don">MacInnes, David</option>
+
+
+      <option value="/vs/mackenzie-kevin#westphal-don">MacKenzie, Kevin</option>
+
+
+      <option value="/vs/macleod-kris#westphal-don">MacLeod, Kris</option>
+
+
+      <option value="/vs/martin-kevin#westphal-don">Martin, Kevin</option>
+
+
+      <option value="/vs/mccarrel-graeme#westphal-don">McCarrel, Graeme</option>
+
+
+      <option value="/vs/mccarron-rod#westphal-don">McCarron, Rod</option>
+
+
+      <option value="/vs/mccusker-brian#westphal-don">McCusker, Brian</option>
+
+
+      <option value="/vs/mcgowan-nolin#westphal-don">McGowan, Nolin</option>
+
+
+      <option value="/vs/mckenzie-donald#westphal-don">McKenzie, Donald</option>
+
+
+      <option value="/vs/mcphee-barry#westphal-don">McPhee, Barry</option>
+
+
+      <option value="/vs/meakin-rob#westphal-don">Meakin, Rob</option>
+
+
+      <option value="/vs/meleschuk-orest#westphal-don">Meleschuk, Orest</option>
+
+
+      <option value="/vs/meleschuk-sean#westphal-don">Meleschuk, Sean</option>
+
+
+      <option value="/vs/middaugh-wayne#westphal-don">Middaugh, Wayne</option>
+
+
+      <option value="/vs/mihalicz-dwayne#westphal-don">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/milward-ross#westphal-don">Milward, Ross</option>
+
+
+      <option value="/vs/mitchell-gary#westphal-don">Mitchell, Gary</option>
+
+
+      <option value="/vs/montgomery-rod#westphal-don">Montgomery, Rod</option>
+
+
+      <option value="/vs/moshenko-darcy#westphal-don">Moshenko, Darcy</option>
+
+
+      <option value="/vs/moshenko-jaret#westphal-don">Moshenko, Jaret</option>
+
+
+      <option value="/vs/mosley-jeff#westphal-don">Mosley, Jeff</option>
+
+
+      <option value="/vs/moss-steve#westphal-don">Moss, Steve</option>
+
+
+      <option value="/vs/nedohin-david#westphal-don">Nedohin, David</option>
+
+
+      <option value="/vs/neily-peter#westphal-don">Neily, Peter</option>
+
+
+      <option value="/vs/neufeld-chris#westphal-don">Neufeld, Chris</option>
+
+
+      <option value="/vs/nichols-mark#westphal-don">Nichols, Mark</option>
+
+
+      <option value="/vs/nowlan-daryell#westphal-don">Nowlan, Daryell</option>
+
+
+      <option value="/vs/o-driscoll-frank#westphal-don">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/o-leary-alan#westphal-don">O'Leary, Alan</option>
+
+
+      <option value="/vs/o-rourke-mark#westphal-don">O'Rourke, Mark</option>
+
+
+      <option value="/vs/odishaw-grant#westphal-don">Odishaw, Grant</option>
+
+
+      <option value="/vs/oke-gary#westphal-don">Oke, Gary</option>
+
+
+      <option value="/vs/packet-jim#westphal-don">Packet, Jim</option>
+
+
+      <option value="/vs/palmer-curt#westphal-don">Palmer, Curt</option>
+
+
+      <option value="/vs/perron-rick#westphal-don">Perron, Rick</option>
+
+
+      <option value="/vs/perroud-pat#westphal-don">Perroud, Pat</option>
+
+
+      <option value="/vs/peters-vic#westphal-don">Peters, Vic</option>
+
+
+      <option value="/vs/pfeifer-scott#westphal-don">Pfeifer, Scott</option>
+
+
+      <option value="/vs/piggott-steve#westphal-don">Piggott, Steve</option>
+
+
+      <option value="/vs/pinsent-garry#westphal-don">Pinsent, Garry</option>
+
+
+      <option value="/vs/postma-john#westphal-don">Postma, John</option>
+
+
+      <option value="/vs/power-humphrey#westphal-don">Power, Humphrey</option>
+
+
+      <option value="/vs/rafuse-brian#westphal-don">Rafuse, Brian</option>
+
+
+      <option value="/vs/ramcharan-rudy#westphal-don">Ramcharan, Rudy</option>
+
+
+      <option value="/vs/richard-gerry#westphal-don">Richard, Gerry</option>
+
+
+      <option value="/vs/roach-terry#westphal-don">Roach, Terry</option>
+
+
+      <option value="/vs/robertson-richard#westphal-don">Robertson, Richard</option>
+
+
+      <option value="/vs/robinson-bill#westphal-don">Robinson, Bill</option>
+
+
+      <option value="/vs/rocque-marcel#westphal-don">Rocque, Marcel</option>
+
+
+      <option value="/vs/rodd-roy#westphal-don">Rodd, Roy</option>
+
+
+      <option value="/vs/rowe-gary#westphal-don">Rowe, Gary</option>
+
+
+      <option value="/vs/rowsell-rick#westphal-don">Rowsell, Rick</option>
+
+
+      <option value="/vs/rudd-don#westphal-don">Rudd, Don</option>
+
+
+      <option value="/vs/rumfeldt-robert#westphal-don">Rumfeldt, Robert</option>
+
+
+      <option value="/vs/ryan-don#westphal-don">Ryan, Don</option>
+
+
+      <option value="/vs/ryan-jeff#westphal-don">Ryan, Jeff</option>
+
+
+      <option value="/vs/ryan-keith#westphal-don">Ryan, Keith</option>
+
+
+      <option value="/vs/ryan-mike#westphal-don">Ryan, Mike</option>
+
+
+      <option value="/vs/ryan-pat#westphal-don">Ryan, Pat</option>
+
+
+      <option value="/vs/salo-john#westphal-don">Salo, John</option>
+
+
+      <option value="/vs/scales-bob#westphal-don">Scales, Bob</option>
+
+
+      <option value="/vs/scharf-joe#westphal-don">Scharf, Joe</option>
+
+
+      <option value="/vs/schiewe-calvin#westphal-don">Schiewe, Calvin</option>
+
+
+      <option value="/vs/schleppe-dave#westphal-don">Schleppe, Dave</option>
+
+
+      <option value="/vs/slauenwhite-david#westphal-don">Slauenwhite, David</option>
+
+
+      <option value="/vs/smith-alex#westphal-don">Smith, Alex</option>
+
+
+      <option value="/vs/smith-doug-2#westphal-don">Smith, Doug-2</option>
+
+
+      <option value="/vs/smyth-larry#westphal-don">Smyth, Larry</option>
+
+
+      <option value="/vs/somers-grant#westphal-don">Somers, Grant</option>
+
+
+      <option value="/vs/steski-john#westphal-don">Steski, John</option>
+
+
+      <option value="/vs/stoughton-jeff#westphal-don">Stoughton, Jeff</option>
+
+
+      <option value="/vs/strain-bill#westphal-don">Strain, Bill</option>
+
+
+      <option value="/vs/stuart-darol#westphal-don">Stuart, Darol</option>
+
+
+      <option value="/vs/sullivan-charles-jr#westphal-don">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/sullivan-jim#westphal-don">Sullivan, Jim</option>
+
+
+      <option value="/vs/tervo-randy#westphal-don">Tervo, Randy</option>
+
+
+      <option value="/vs/tetley-ian#westphal-don">Tetley, Ian</option>
+
+
+      <option value="/vs/tetley-ross#westphal-don">Tetley, Ross</option>
+
+
+      <option value="/vs/thomas-jeff#westphal-don">Thomas, Jeff</option>
+
+
+      <option value="/vs/thomas-rob#westphal-don">Thomas, Rob</option>
+
+
+      <option value="/vs/tresoor-ken#westphal-don">Tresoor, Ken</option>
+
+
+      <option value="/vs/tuson-jay#westphal-don">Tuson, Jay</option>
+
+
+      <option value="/vs/ursel-bob#westphal-don">Ursel, Bob</option>
+
+
+      <option value="/vs/usackis-john#westphal-don">Usackis, John</option>
+
+
+      <option value="/vs/van-den-berghe-garry#westphal-don">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/van-dine-steve#westphal-don">Van Dine, Steve</option>
+
+
+      <option value="/vs/walchuk-don#westphal-don">Walchuk, Don</option>
+
+
+      <option value="/vs/ward-mark#westphal-don">Ward, Mark</option>
+
+
+      <option value="/vs/weeks-blair#westphal-don">Weeks, Blair</option>
+
+
+      <option value="/vs/weeks-david#westphal-don">Weeks, David</option>
+
+
+      <option value="/vs/weeks-doug#westphal-don">Weeks, Doug</option>
+
+
+      <option value="/vs/wempe-brian#westphal-don">Wempe, Brian</option>
+
+
+      <option value="/vs/werenich-ed#westphal-don">Werenich, Ed</option>
+
+
+      <option value="/vs/westphal-don#woytowich-randy">Woytowich, Randy</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

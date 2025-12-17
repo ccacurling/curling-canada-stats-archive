@@ -1,0 +1,853 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Clifford Manahan
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Clifford Manahan <i class="fe fe-user-plus" data-name="Manahan, Clifford" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1933">1933</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1937">1937</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>9</td>
+  <td>1</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1938">1938</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>8</td>
+  <td>1</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1940">1940</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../macdonald-brier/1950">1950</a></td>
+  <td><a href="../macdonald-brier">Macdonald Brier</a></td>
+  <td data-order="AB"><a href="../macdonald-brier/team/ab">AB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>10</td>
+  <td>6</td>
+  <td>4</td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+  <td>0</td>
+  <td></td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Macdonald Brier Totals</td>
+  <td>45</td>
+  <td>35</td>
+  <td>10</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abrams-jerry#manahan-clifford">Abrams, Jerry</option>
+
+
+      <option value="/vs/allanach-lee#manahan-clifford">Allanach, Lee</option>
+
+
+      <option value="/vs/annett-sidney#manahan-clifford">Annett, Sidney</option>
+
+
+      <option value="/vs/arthur-frank#manahan-clifford">Arthur, Frank</option>
+
+
+      <option value="/vs/asmussen-carl#manahan-clifford">Asmussen, Carl</option>
+
+
+      <option value="/vs/avery-francis#manahan-clifford">Avery, Francis</option>
+
+
+      <option value="/vs/barry-charles#manahan-clifford">Barry, Charles</option>
+
+
+      <option value="/vs/baum-william#manahan-clifford">Baum, William</option>
+
+
+      <option value="/vs/beattie-andrew#manahan-clifford">Beattie, Andrew</option>
+
+
+      <option value="/vs/beattie-thomas#manahan-clifford">Beattie, Thomas</option>
+
+
+      <option value="/vs/beckett-james#manahan-clifford">Beckett, James</option>
+
+
+      <option value="/vs/beecroft-william#manahan-clifford">Beecroft, William</option>
+
+
+      <option value="/vs/belcher-arthur#manahan-clifford">Belcher, Arthur</option>
+
+
+      <option value="/vs/bell-archibald#manahan-clifford">Bell, Archibald</option>
+
+
+      <option value="/vs/bell-reginald#manahan-clifford">Bell, Reginald</option>
+
+
+      <option value="/vs/bickle-warner#manahan-clifford">Bickle, Warner</option>
+
+
+      <option value="/vs/brower-john#manahan-clifford">Brower, John</option>
+
+
+      <option value="/vs/caldbick-samuel#manahan-clifford">Caldbick, Samuel</option>
+
+
+      <option value="/vs/campbell-donald-a#manahan-clifford">Campbell, Donald A.</option>
+
+
+      <option value="/vs/campbell-duncan-a#manahan-clifford">Campbell, Duncan A.</option>
+
+
+      <option value="/vs/campbell-gordon-m#manahan-clifford">Campbell, Gordon M.</option>
+
+
+      <option value="/vs/cartmell-elwyn#manahan-clifford">Cartmell, Elwyn</option>
+
+
+      <option value="/vs/charron-mel#manahan-clifford">Charron, Mel</option>
+
+
+      <option value="/vs/coates-gordon#manahan-clifford">Coates, Gordon</option>
+
+
+      <option value="/vs/cobb-philip#manahan-clifford">Cobb, Philip</option>
+
+
+      <option value="/vs/cobb-t-r#manahan-clifford">Cobb, T.R.</option>
+
+
+      <option value="/vs/colwell-harold#manahan-clifford">Colwell, Harold</option>
+
+
+      <option value="/vs/condie-arthur#manahan-clifford">Condie, Arthur</option>
+
+
+      <option value="/vs/conn-kenneth#manahan-clifford">Conn, Kenneth</option>
+
+
+      <option value="/vs/connolly-daniel#manahan-clifford">Connolly, Daniel</option>
+
+
+      <option value="/vs/connolly-joseph#manahan-clifford">Connolly, Joseph</option>
+
+
+      <option value="/vs/cook-charles#manahan-clifford">Cook, Charles</option>
+
+
+      <option value="/vs/cook-frank#manahan-clifford">Cook, Frank</option>
+
+
+      <option value="/vs/cox-charles#manahan-clifford">Cox, Charles</option>
+
+
+      <option value="/vs/cream-robert#manahan-clifford">Cream, Robert</option>
+
+
+      <option value="/vs/crowe-victor#manahan-clifford">Crowe, Victor</option>
+
+
+      <option value="/vs/cunningham-j-a#manahan-clifford">Cunningham, J.A.</option>
+
+
+      <option value="/vs/david-roland#manahan-clifford">David, Roland</option>
+
+
+      <option value="/vs/davis-james#manahan-clifford">Davis, James</option>
+
+
+      <option value="/vs/dickie-ronald#manahan-clifford">Dickie, Ronald</option>
+
+
+      <option value="/vs/donald-robert#manahan-clifford">Donald, Robert</option>
+
+
+      <option value="/vs/doucet-allen#manahan-clifford">Doucet, Allen</option>
+
+
+      <option value="/vs/douglas-john#manahan-clifford">Douglas, John</option>
+
+
+      <option value="/vs/dunbar-george#manahan-clifford">Dunbar, George</option>
+
+
+      <option value="/vs/dunbar-william#manahan-clifford">Dunbar, William</option>
+
+
+      <option value="/vs/dunker-albert#manahan-clifford">Dunker, Albert</option>
+
+
+      <option value="/vs/durrant-charles#manahan-clifford">Durrant, Charles</option>
+
+
+      <option value="/vs/eaton-ronald#manahan-clifford">Eaton, Ronald</option>
+
+
+      <option value="/vs/elliott-bert#manahan-clifford">Elliott, Bert</option>
+
+
+      <option value="/vs/elliott-james#manahan-clifford">Elliott, James</option>
+
+
+      <option value="/vs/enman-roy#manahan-clifford">Enman, Roy</option>
+
+
+      <option value="/vs/ferguson-hugh#manahan-clifford">Ferguson, Hugh</option>
+
+
+      <option value="/vs/finlay-william#manahan-clifford">Finlay, William</option>
+
+
+      <option value="/vs/fortier-h-c#manahan-clifford">Fortier, H.C.</option>
+
+
+      <option value="/vs/fowler-ralph#manahan-clifford">Fowler, Ralph</option>
+
+
+      <option value="/vs/fraser-john#manahan-clifford">Fraser, John</option>
+
+
+      <option value="/vs/garnham-david#manahan-clifford">Garnham, David</option>
+
+
+      <option value="/vs/gauthier-john#manahan-clifford">Gauthier, John</option>
+
+
+      <option value="/vs/gowanlock-albert#manahan-clifford">Gowanlock, Albert</option>
+
+
+      <option value="/vs/graham-archibald#manahan-clifford">Graham, Archibald</option>
+
+
+      <option value="/vs/haines-bernard#manahan-clifford">Haines, Bernard</option>
+
+
+      <option value="/vs/hall-bert#manahan-clifford">Hall, Bert</option>
+
+
+      <option value="/vs/hall-perry#manahan-clifford">Hall, Perry</option>
+
+
+      <option value="/vs/hasenflug-frederick#manahan-clifford">Hasenflug, Frederick</option>
+
+
+      <option value="/vs/hatt-fred#manahan-clifford">Hatt, Fred</option>
+
+
+      <option value="/vs/hayes-fred#manahan-clifford">Hayes, Fred</option>
+
+
+      <option value="/vs/hebb-irving#manahan-clifford">Hebb, Irving</option>
+
+
+      <option value="/vs/hughes-gordon#manahan-clifford">Hughes, Gordon</option>
+
+
+      <option value="/vs/hume-norman#manahan-clifford">Hume, Norman</option>
+
+
+      <option value="/vs/humphries-manfield#manahan-clifford">Humphries, Manfield</option>
+
+
+      <option value="/vs/huntington-irvin#manahan-clifford">Huntington, Irvin</option>
+
+
+      <option value="/vs/joudry-eric#manahan-clifford">Joudry, Eric</option>
+
+
+      <option value="/vs/kennah-john#manahan-clifford">Kennah, John</option>
+
+
+      <option value="/vs/kenny-william#manahan-clifford">Kenny, William</option>
+
+
+      <option value="/vs/kent-harper#manahan-clifford">Kent, Harper</option>
+
+
+      <option value="/vs/kinsman-harold#manahan-clifford">Kinsman, Harold</option>
+
+
+      <option value="/vs/landry-aurele#manahan-clifford">Landry, Aurele</option>
+
+
+      <option value="/vs/lehnen-arthur#manahan-clifford">Lehnen, Arthur</option>
+
+
+      <option value="/vs/lesage-william#manahan-clifford">LeSage, William</option>
+
+
+      <option value="/vs/lillyman-gordon#manahan-clifford">Lillyman, Gordon</option>
+
+
+      <option value="/vs/lister-ralph#manahan-clifford">Lister, Ralph</option>
+
+
+      <option value="/vs/lord-william#manahan-clifford">Lord, William</option>
+
+
+      <option value="/vs/macdonald-james#manahan-clifford">MacDonald, James</option>
+
+
+      <option value="/vs/macleod-david#manahan-clifford">MacLeod, David</option>
+
+
+      <option value="/vs/malcolm-donald#manahan-clifford">Malcolm, Donald</option>
+
+
+      <option value="/vs/malcolm-john#manahan-clifford">Malcolm, John</option>
+
+
+      <option value="/vs/manahan-clifford#maw-edwin">Maw, Edwin</option>
+
+
+      <option value="/vs/manahan-clifford#mcculloch-henry">McCulloch, Henry</option>
+
+
+      <option value="/vs/manahan-clifford#mcknight-edward">McKnight, Edward</option>
+
+
+      <option value="/vs/manahan-clifford#mcknight-william">McKnight, William</option>
+
+
+      <option value="/vs/manahan-clifford#mclaine-rankine">McLaine, Rankine</option>
+
+
+      <option value="/vs/manahan-clifford#mclauchlan-cliff">McLauchlan, Cliff</option>
+
+
+      <option value="/vs/manahan-clifford#mcleod-henry">McLeod, Henry</option>
+
+
+      <option value="/vs/manahan-clifford#mcmahon-james">McMahon, James</option>
+
+
+      <option value="/vs/manahan-clifford#mcnabb-harry">McNabb, Harry</option>
+
+
+      <option value="/vs/manahan-clifford#mctavish-william">McTavish, William</option>
+
+
+      <option value="/vs/manahan-clifford#miles-edmund">Miles, Edmund</option>
+
+
+      <option value="/vs/manahan-clifford#millar-daniel">Millar, Daniel</option>
+
+
+      <option value="/vs/manahan-clifford#monk-harry-sr">Monk, Harry Sr.</option>
+
+
+      <option value="/vs/manahan-clifford#murray-j-r">Murray, J.R.</option>
+
+
+      <option value="/vs/manahan-clifford#norgan-george">Norgan, George</option>
+
+
+      <option value="/vs/manahan-clifford#o-rourke-daniel">O'Rourke, Daniel</option>
+
+
+      <option value="/vs/manahan-clifford#ortloff-g-k">Ortloff, G.K.</option>
+
+
+      <option value="/vs/manahan-clifford#parkes-ernest">Parkes, Ernest</option>
+
+
+      <option value="/vs/manahan-clifford#ployart-edward">Ployart, Edward</option>
+
+
+      <option value="/vs/manahan-clifford#pollard-ernest">Pollard, Ernest</option>
+
+
+      <option value="/vs/manahan-clifford#porter-harold">Porter, Harold</option>
+
+
+      <option value="/vs/manahan-clifford#rafuse-stanley">Rafuse, Stanley</option>
+
+
+      <option value="/vs/manahan-clifford#ramsay-thomas">Ramsay, Thomas</option>
+
+
+      <option value="/vs/manahan-clifford#reed-sudbury">Reed, Sudbury</option>
+
+
+      <option value="/vs/manahan-clifford#reid-john">Reid, John</option>
+
+
+      <option value="/vs/manahan-clifford#rhodenizer-lee">Rhodenizer, Lee</option>
+
+
+      <option value="/vs/manahan-clifford#robb-melvin">Robb, Melvin</option>
+
+
+      <option value="/vs/manahan-clifford#roy-john">Roy, John</option>
+
+
+      <option value="/vs/manahan-clifford#roy-ormiston">Roy, Ormiston</option>
+
+
+      <option value="/vs/manahan-clifford#sackrider-albert">Sackrider, Albert</option>
+
+
+      <option value="/vs/manahan-clifford#saunders-douglas">Saunders, Douglas</option>
+
+
+      <option value="/vs/manahan-clifford#saunders-heath">Saunders, Heath</option>
+
+
+      <option value="/vs/manahan-clifford#schmidt-c-b">Schmidt, C.B.</option>
+
+
+      <option value="/vs/manahan-clifford#schulz-edwin">Schulz, Edwin</option>
+
+
+      <option value="/vs/manahan-clifford#seagram-campbell">Seagram, Campbell</option>
+
+
+      <option value="/vs/manahan-clifford#shantz-larry">Shantz, Larry</option>
+
+
+      <option value="/vs/manahan-clifford#simm-edward">Simm, Edward</option>
+
+
+      <option value="/vs/manahan-clifford#simmons-ralph">Simmons, Ralph</option>
+
+
+      <option value="/vs/manahan-clifford#simons-herbert">Simons, Herbert</option>
+
+
+      <option value="/vs/manahan-clifford#smith-emmett">Smith, Emmett</option>
+
+
+      <option value="/vs/manahan-clifford#smith-franklin">Smith, Franklin</option>
+
+
+      <option value="/vs/manahan-clifford#smith-fred">Smith, Fred</option>
+
+
+      <option value="/vs/manahan-clifford#stewart-howard">Stewart, Howard</option>
+
+
+      <option value="/vs/manahan-clifford#stuart-william">Stuart, William</option>
+
+
+      <option value="/vs/manahan-clifford#sutherland-harry">Sutherland, Harry</option>
+
+
+      <option value="/vs/manahan-clifford#thibodeau-leo">Thibodeau, Leo</option>
+
+
+      <option value="/vs/manahan-clifford#thibodeau-nicholas">Thibodeau, Nicholas</option>
+
+
+      <option value="/vs/manahan-clifford#thomas-george">Thomas, George</option>
+
+
+      <option value="/vs/manahan-clifford#tinling-frederick">Tinling, Frederick</option>
+
+
+      <option value="/vs/manahan-clifford#tinling-lionel">Tinling, Lionel</option>
+
+
+      <option value="/vs/manahan-clifford#turner-william">Turner, William</option>
+
+
+      <option value="/vs/manahan-clifford#vance-james">Vance, James</option>
+
+
+      <option value="/vs/manahan-clifford#walker-harry">Walker, Harry</option>
+
+
+      <option value="/vs/manahan-clifford#walker-john">Walker, John</option>
+
+
+      <option value="/vs/manahan-clifford#warner-george">Warner, George</option>
+
+
+      <option value="/vs/manahan-clifford#weldon-william">Weldon, William</option>
+
+
+      <option value="/vs/manahan-clifford#welsh-alexander">Welsh, Alexander</option>
+
+
+      <option value="/vs/manahan-clifford#welsh-james">Welsh, James</option>
+
+
+      <option value="/vs/manahan-clifford#west-earl">West, Earl</option>
+
+
+      <option value="/vs/manahan-clifford#weston-william">Weston, William</option>
+
+
+      <option value="/vs/manahan-clifford#weyman-hugh">Weyman, Hugh</option>
+
+
+      <option value="/vs/manahan-clifford#whitter-ernest">Whitter, Ernest</option>
+
+
+      <option value="/vs/manahan-clifford#whitter-james">Whitter, James</option>
+
+
+      <option value="/vs/manahan-clifford#whitter-william">Whitter, William</option>
+
+
+      <option value="/vs/manahan-clifford#williams-charles">Williams, Charles</option>
+
+
+      <option value="/vs/manahan-clifford#williams-norman">Williams, Norman</option>
+
+
+      <option value="/vs/manahan-clifford#williamson-lynn">Williamson, Lynn</option>
+
+
+      <option value="/vs/manahan-clifford#wood-howard-jr">Wood, Howard Jr.</option>
+
+
+      <option value="/vs/manahan-clifford#wood-howard-sr">Wood, Howard Sr.</option>
+
+
+      <option value="/vs/manahan-clifford#woods-percy">Woods, Percy</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

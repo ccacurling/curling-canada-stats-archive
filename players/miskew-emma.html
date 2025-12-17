@@ -1,0 +1,1743 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Emma Miskew
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Emma Miskew <i class="fe fe-user-plus" data-name="Miskew, Emma" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2011">2011</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>6</td>
+  <td>2</td>
+  <td>4</td>
+  <td>69</td>
+  <td>82</td>
+  <td>47</td>
+  <td>72</td>
+  <td>49</td>
+  <td>79</td>
+  <td>67</td>
+  <td>77</td>
+  <td>116</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2014">2014</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>7</td>
+  <td>5</td>
+  <td>2</td>
+  <td>75</td>
+  <td>79</td>
+  <td>55</td>
+  <td>83</td>
+  <td>43</td>
+  <td>76</td>
+  <td>87</td>
+  <td>83</td>
+  <td>130</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2015">2015</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>72</td>
+  <td>86</td>
+  <td>62</td>
+  <td>83</td>
+  <td>52</td>
+  <td>86</td>
+  <td>82</td>
+  <td>84</td>
+  <td>134</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2016">2016</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>75</td>
+  <td>80</td>
+  <td>75</td>
+  <td>80</td>
+  <td>83</td>
+  <td>76</td>
+  <td>67</td>
+  <td>84</td>
+  <td>150</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2018">2018</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>82</td>
+  <td>83</td>
+  <td>68</td>
+  <td>81</td>
+  <td>66</td>
+  <td>79</td>
+  <td>84</td>
+  <td>84</td>
+  <td>150</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-women/2019">2019</a></td>
+  <td><a href="../canada-cup-women">Canada Cup (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>7</td>
+  <td>6</td>
+  <td>1</td>
+  <td>73</td>
+  <td>84</td>
+  <td>63</td>
+  <td>87</td>
+  <td>48</td>
+  <td>82</td>
+  <td>88</td>
+  <td>88</td>
+  <td>136</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2011">2011</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>9</td>
+  <td>5</td>
+  <td>133</td>
+  <td>79</td>
+  <td>119</td>
+  <td>74</td>
+  <td>96</td>
+  <td>72</td>
+  <td>156</td>
+  <td>79</td>
+  <td>252</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2013">2013</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>131</td>
+  <td>78</td>
+  <td>109</td>
+  <td>81</td>
+  <td>77</td>
+  <td>71</td>
+  <td>163</td>
+  <td>83</td>
+  <td>240</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2014">2014</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>13</td>
+  <td>0</td>
+  <td>140</td>
+  <td>89</td>
+  <td>94</td>
+  <td>90</td>
+  <td>57</td>
+  <td>88</td>
+  <td>177</td>
+  <td>90</td>
+  <td>234</td>
+  <td>90</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2015">2015</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>150</td>
+  <td>81</td>
+  <td>104</td>
+  <td>82</td>
+  <td>106</td>
+  <td>83</td>
+  <td>148</td>
+  <td>80</td>
+  <td>254</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2017">2017</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>12</td>
+  <td>2</td>
+  <td>150</td>
+  <td>87</td>
+  <td>123</td>
+  <td>81</td>
+  <td>102</td>
+  <td>78</td>
+  <td>171</td>
+  <td>88</td>
+  <td>273</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2019">2019</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>10</td>
+  <td>4</td>
+  <td>140</td>
+  <td>81</td>
+  <td>134</td>
+  <td>85</td>
+  <td>92</td>
+  <td>79</td>
+  <td>182</td>
+  <td>86</td>
+  <td>274</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2020">2020</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>136</td>
+  <td>85</td>
+  <td>126</td>
+  <td>83</td>
+  <td>106</td>
+  <td>84</td>
+  <td>156</td>
+  <td>84</td>
+  <td>262</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2021">2021</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>10</td>
+  <td>3</td>
+  <td>115</td>
+  <td>78</td>
+  <td>127</td>
+  <td>79</td>
+  <td>104</td>
+  <td>78</td>
+  <td>138</td>
+  <td>78</td>
+  <td>242</td>
+  <td>78</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2022">2022</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="WC"><a href="../hearts/team/wc">WC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>65</td>
+  <td>71</td>
+  <td>80</td>
+  <td>78</td>
+  <td>70</td>
+  <td>75</td>
+  <td>75</td>
+  <td>75</td>
+  <td>145</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2023">2023</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>6</td>
+  <td>3</td>
+  <td>77</td>
+  <td>88</td>
+  <td>95</td>
+  <td>83</td>
+  <td>62</td>
+  <td>82</td>
+  <td>110</td>
+  <td>87</td>
+  <td>172</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2024">2024</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="ON"><a href="../hearts/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>11</td>
+  <td>0</td>
+  <td>104</td>
+  <td>88</td>
+  <td>105</td>
+  <td>85</td>
+  <td>78</td>
+  <td>91</td>
+  <td>131</td>
+  <td>84</td>
+  <td>209</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2025">2025</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>11</td>
+  <td>0</td>
+  <td>116</td>
+  <td>88</td>
+  <td>90</td>
+  <td>79</td>
+  <td>72</td>
+  <td>85</td>
+  <td>134</td>
+  <td>83</td>
+  <td>206</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2013">2013</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="HOM">HOM</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>4</td>
+  <td>4</td>
+  <td>96</td>
+  <td>79</td>
+  <td>56</td>
+  <td>83</td>
+  <td>46</td>
+  <td>72</td>
+  <td>106</td>
+  <td>84</td>
+  <td>152</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2017">2017</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>10</td>
+  <td>9</td>
+  <td>1</td>
+  <td>97</td>
+  <td>83</td>
+  <td>97</td>
+  <td>86</td>
+  <td>53</td>
+  <td>81</td>
+  <td>141</td>
+  <td>85</td>
+  <td>194</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2021">2021</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="Homa">Homa</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>2</td>
+  <td>6</td>
+  <td>84</td>
+  <td>75</td>
+  <td>72</td>
+  <td>84</td>
+  <td>76</td>
+  <td>78</td>
+  <td>80</td>
+  <td>81</td>
+  <td>156</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/2025">2025</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="HOMw">HOMw</td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>9</td>
+  <td>8</td>
+  <td>1</td>
+  <td>66</td>
+  <td>89</td>
+  <td>96</td>
+  <td>87</td>
+  <td>66</td>
+  <td>89</td>
+  <td>96</td>
+  <td>88</td>
+  <td>162</td>
+  <td>88</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canada Cup (Women) Totals</td>
+  <td>43</td>
+  <td>29</td>
+  <td>14</td>
+  <td>446</td>
+  <td>82</td>
+  <td>370</td>
+  <td>81</td>
+  <td>341</td>
+  <td>79</td>
+  <td>475</td>
+  <td>84</td>
+  <td>816</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>147</td>
+  <td>117</td>
+  <td>30</td>
+  <td>1457</td>
+  <td>83</td>
+  <td>1306</td>
+  <td>82</td>
+  <td>1022</td>
+  <td>80</td>
+  <td>1741</td>
+  <td>84</td>
+  <td>2763</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>35</td>
+  <td>23</td>
+  <td>12</td>
+  <td>343</td>
+  <td>81</td>
+  <td>321</td>
+  <td>85</td>
+  <td>241</td>
+  <td>80</td>
+  <td>423</td>
+  <td>85</td>
+  <td>664</td>
+  <td>83</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/ackland-abby#miskew-emma">Ackland, Abby</option>
+
+
+      <option value="/vs/adams-melissa#miskew-emma">Adams, Melissa</option>
+
+
+      <option value="/vs/affleck-tricia#miskew-emma">Affleck, Tricia</option>
+
+
+      <option value="/vs/alcoe-holland-jill#miskew-emma">Alcoe-Holland, Jill</option>
+
+
+      <option value="/vs/aleksic-shannon#miskew-emma">Aleksic, Shannon</option>
+
+
+      <option value="/vs/anderson-sherry#miskew-emma">Anderson, Sherry</option>
+
+
+      <option value="/vs/armstrong-hailey#miskew-emma">Armstrong, Hailey</option>
+
+
+      <option value="/vs/armstrong-jacquie#miskew-emma">Armstrong, Jacquie</option>
+
+
+      <option value="/vs/armstrong-jennifer#miskew-emma">Armstrong, Jennifer</option>
+
+
+      <option value="/vs/armstrong-leigh#miskew-emma">Armstrong, Leigh</option>
+
+
+      <option value="/vs/arsenault-mary-anne#miskew-emma">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/atkinson-rebecca#miskew-emma">Atkinson, Rebecca</option>
+
+
+      <option value="/vs/ayrey-jinaye#miskew-emma">Ayrey, Jinaye</option>
+
+
+      <option value="/vs/babin-jillian#miskew-emma">Babin, Jillian</option>
+
+
+      <option value="/vs/baier-stephanie#miskew-emma">Baier, Stephanie</option>
+
+
+      <option value="/vs/barbour-shona#miskew-emma">Barbour, Shona</option>
+
+
+      <option value="/vs/barker-penny#miskew-emma">Barker, Penny</option>
+
+
+      <option value="/vs/barker-shelley#miskew-emma">Barker, Shelley</option>
+
+
+      <option value="/vs/baxter-jennifer#miskew-emma">Baxter, Jennifer</option>
+
+
+      <option value="/vs/beauchamp-sasha#miskew-emma">Beauchamp, Sasha</option>
+
+
+      <option value="/vs/belisle-eve#miskew-emma">Belisle, Eve</option>
+
+
+      <option value="/vs/bell-chelsey#miskew-emma">Bell, Chelsey</option>
+
+
+      <option value="/vs/bernard-cheryl#miskew-emma">Bernard, Cheryl</option>
+
+
+      <option value="/vs/birchard-shannon#miskew-emma">Birchard, Shannon</option>
+
+
+      <option value="/vs/birnie-hailey#miskew-emma">Birnie, Hailey</option>
+
+
+      <option value="/vs/birt-suzanne#miskew-emma">Birt, Suzanne</option>
+
+
+      <option value="/vs/black-christina#miskew-emma">Black, Christina</option>
+
+
+      <option value="/vs/blais-amelie#miskew-emma">Blais, Amelie</option>
+
+
+      <option value="/vs/blaney-jennifer#miskew-emma">Blaney, Jennifer</option>
+
+
+      <option value="/vs/bobbie-tess#miskew-emma">Bobbie, Tess</option>
+
+
+      <option value="/vs/bodner-jenine#miskew-emma">Bodner, Jenine</option>
+
+
+      <option value="/vs/boudreault-patricia#miskew-emma">Boudreault, Patricia</option>
+
+
+      <option value="/vs/boyle-jane#miskew-emma">Boyle, Jane</option>
+
+
+      <option value="/vs/bradley-shelley#miskew-emma">Bradley, Shelley</option>
+
+
+      <option value="/vs/brassard-veronique#miskew-emma">Brassard, Veronique</option>
+
+
+      <option value="/vs/brine-jenn#miskew-emma">Brine, Jenn</option>
+
+
+      <option value="/vs/brothers-jillian#miskew-emma">Brothers, Jillian</option>
+
+
+      <option value="/vs/brown-corryn#miskew-emma">Brown, Corryn</option>
+
+
+      <option value="/vs/brown-rachel#miskew-emma">Brown, Rachel</option>
+
+
+      <option value="/vs/brown-rachelle#miskew-emma">Brown, Rachelle</option>
+
+
+      <option value="/vs/brunton-kira#miskew-emma">Brunton, Kira</option>
+
+
+      <option value="/vs/burgess-karlee#miskew-emma">Burgess, Karlee</option>
+
+
+      <option value="/vs/burns-krysta#miskew-emma">Burns, Krysta</option>
+
+
+      <option value="/vs/burt-camille#miskew-emma">Burt, Camille</option>
+
+
+      <option value="/vs/cameron-kate#miskew-emma">Cameron, Kate</option>
+
+
+      <option value="/vs/camozzi-rhonda#miskew-emma">Camozzi, Rhonda</option>
+
+
+      <option value="/vs/campbell-jolene#miskew-emma">Campbell, Jolene</option>
+
+
+      <option value="/vs/cannon-theresa#miskew-emma">Cannon, Theresa</option>
+
+
+      <option value="/vs/carey-chelsea#miskew-emma">Carey, Chelsea</option>
+
+
+      <option value="/vs/carmody-erin#miskew-emma">Carmody, Erin</option>
+
+
+      <option value="/vs/carter-sasha#miskew-emma">Carter, Sasha</option>
+
+
+      <option value="/vs/cheveldave-amber#miskew-emma">Cheveldave, Amber</option>
+
+
+      <option value="/vs/christianson-marie#miskew-emma">Christianson, Marie</option>
+
+
+      <option value="/vs/clark-stefanie#miskew-emma">Clark, Stefanie</option>
+
+
+      <option value="/vs/collins-katrina#miskew-emma">Collins, Katrina</option>
+
+
+      <option value="/vs/cooper-kathryn#miskew-emma">Cooper, Kathryn</option>
+
+
+      <option value="/vs/cormier-sharon#miskew-emma">Cormier, Sharon</option>
+
+
+      <option value="/vs/cottrill-katie#miskew-emma">Cottrill, Katie</option>
+
+
+      <option value="/vs/court-morgan#miskew-emma">Court, Morgan</option>
+
+
+      <option value="/vs/courtney-joanne#miskew-emma">Courtney, Joanne</option>
+
+
+      <option value="/vs/crandall-jaclyn#miskew-emma">Crandall, Jaclyn</option>
+
+
+      <option value="/vs/crocker-laura#miskew-emma">Crocker, Laura</option>
+
+
+      <option value="/vs/curtis-erica#miskew-emma">Curtis, Erica</option>
+
+
+      <option value="/vs/curtis-stacie#miskew-emma">Curtis, Stacie</option>
+
+
+      <option value="/vs/cutcliffe-margaret#miskew-emma">Cutcliffe, Margaret</option>
+
+
+      <option value="/vs/daigle-julie#miskew-emma">Daigle, Julie</option>
+
+
+      <option value="/vs/daly-calissa#miskew-emma">Daly, Calissa</option>
+
+
+      <option value="/vs/darbyshire-carolyn#miskew-emma">Darbyshire, Carolyn</option>
+
+
+      <option value="/vs/degroot-cassandra#miskew-emma">deGroot, Cassandra</option>
+
+
+      <option value="/vs/dejager-blaine#miskew-emma">deJager, Blaine</option>
+
+
+      <option value="/vs/derry-danielle#miskew-emma">Derry, Danielle</option>
+
+
+      <option value="/vs/desolla-jodie#miskew-emma">deSolla, Jodie</option>
+
+
+      <option value="/vs/dicarlo-jane#miskew-emma">DiCarlo, Jane</option>
+
+
+      <option value="/vs/doerksen-katherine#miskew-emma">Doerksen, Katherine</option>
+
+
+      <option value="/vs/doig-deanna#miskew-emma">Doig, Deanna</option>
+
+
+      <option value="/vs/dolan-kim#miskew-emma">Dolan, Kim</option>
+
+
+      <option value="/vs/dubue-lindsay#miskew-emma">Dubue, Lindsay</option>
+
+
+      <option value="/vs/dufresne-audree#miskew-emma">Dufresne, Audree</option>
+
+
+      <option value="/vs/duhaime-chantal#miskew-emma">Duhaime, Chantal</option>
+
+
+      <option value="/vs/duncan-chelsea#miskew-emma">Duncan, Chelsea</option>
+
+
+      <option value="/vs/dykstra-michelle#miskew-emma">Dykstra, Michelle</option>
+
+
+      <option value="/vs/einarson-kerri#miskew-emma">Einarson, Kerri</option>
+
+
+      <option value="/vs/elias-mackenzie#miskew-emma">Elias, Mackenzie</option>
+
+
+      <option value="/vs/enge-jenna#miskew-emma">Enge, Jenna</option>
+
+
+      <option value="/vs/englot-michelle#miskew-emma">Englot, Michelle</option>
+
+
+      <option value="/vs/everist-karlee#miskew-emma">Everist, Karlee</option>
+
+
+      <option value="/vs/eyamie-lisa#miskew-emma">Eyamie, Lisa</option>
+
+
+      <option value="/vs/fallis-karen#miskew-emma">Fallis, Karen</option>
+
+
+      <option value="/vs/ferguson-dana#miskew-emma">Ferguson, Dana</option>
+
+
+      <option value="/vs/filteau-anne-marie#miskew-emma">Filteau, Anne-Marie</option>
+
+
+      <option value="/vs/fisher-samantha#miskew-emma">Fisher, Samantha</option>
+
+
+      <option value="/vs/flaxey-allison#miskew-emma">Flaxey, Allison</option>
+
+
+      <option value="/vs/flemming-margot#miskew-emma">Flemming, Margot</option>
+
+
+      <option value="/vs/fleury-tracy#miskew-emma">Fleury, Tracy</option>
+
+
+      <option value="/vs/forward-katie#miskew-emma">Forward, Katie</option>
+
+
+      <option value="/vs/foster-kerry#miskew-emma">Foster, Kerry</option>
+
+
+      <option value="/vs/foster-kristen#miskew-emma">Foster, Kristen</option>
+
+
+      <option value="/vs/foster-vanessa#miskew-emma">Foster, Vanessa</option>
+
+
+      <option value="/vs/fullerton-sarah#miskew-emma">Fullerton, Sarah</option>
+
+
+      <option value="/vs/fyfe-liz#miskew-emma">Fyfe, Liz</option>
+
+
+      <option value="/vs/galusha-kerry#miskew-emma">Galusha, Kerry</option>
+
+
+      <option value="/vs/gamble-christie#miskew-emma">Gamble, Christie</option>
+
+
+      <option value="/vs/gannon-melissa#miskew-emma">Gannon, Melissa</option>
+
+
+      <option value="/vs/gates-amanda#miskew-emma">Gates, Amanda</option>
+
+
+      <option value="/vs/gates-jennifer#miskew-emma">Gates, Jennifer</option>
+
+
+      <option value="/vs/gordon-kristin#miskew-emma">Gordon, Kristin</option>
+
+
+      <option value="/vs/grandy-clancy#miskew-emma">Grandy, Clancy</option>
+
+
+      <option value="/vs/gregoire-veronique#miskew-emma">Gregoire, Veronique</option>
+
+
+      <option value="/vs/griffin-alison#miskew-emma">Griffin, Alison</option>
+
+
+      <option value="/vs/gustafson-leigh#miskew-emma">Gustafson, Leigh</option>
+
+
+      <option value="/vs/guy-sara#miskew-emma">Guy, Sara</option>
+
+
+      <option value="/vs/guzzwell-stephanie#miskew-emma">Guzzwell, Stephanie</option>
+
+
+      <option value="/vs/hamilton-beth#miskew-emma">Hamilton, Beth</option>
+
+
+      <option value="/vs/harris-briane#miskew-emma">Harris, Briane</option>
+
+
+      <option value="/vs/harrison-jacqueline#miskew-emma">Harrison, Jacqueline</option>
+
+
+      <option value="/vs/hastings-julie#miskew-emma">Hastings, Julie</option>
+
+
+      <option value="/vs/haughian-jessie#miskew-emma">Haughian, Jessie</option>
+
+
+      <option value="/vs/hawes-dezaray#miskew-emma">Hawes, Dezaray</option>
+
+
+      <option value="/vs/helston-raelyn#miskew-emma">Helston, Raelyn</option>
+
+
+      <option value="/vs/hickey-laura#miskew-emma">Hickey, Laura</option>
+
+
+      <option value="/vs/hill-sarah#miskew-emma">Hill, Sarah</option>
+
+
+      <option value="/vs/hill-trish#miskew-emma">Hill, Trish</option>
+
+
+      <option value="/vs/holland-amber#miskew-emma">Holland, Amber</option>
+
+
+      <option value="/vs/holtby-taryn#miskew-emma">Holtby, Taryn</option>
+
+
+      <option value="/vs/hughes-meaghan#miskew-emma">Hughes, Meaghan</option>
+
+
+      <option value="/vs/hunkin-jessie#miskew-emma">Hunkin, Jessie</option>
+
+
+      <option value="/vs/hynes-julie#miskew-emma">Hynes, Julie</option>
+
+
+      <option value="/vs/inglis-danielle#miskew-emma">Inglis, Danielle</option>
+
+
+      <option value="/vs/iskiw-beth#miskew-emma">Iskiw, Beth</option>
+
+
+      <option value="/vs/jenkins-whitney#miskew-emma">Jenkins, Whitney</option>
+
+
+      <option value="/vs/johnston-kara#miskew-emma">Johnston, Kara</option>
+
+
+      <option value="/vs/jones-colleen#miskew-emma">Jones, Colleen</option>
+
+
+      <option value="/vs/jones-jennifer#miskew-emma">Jones, Jennifer</option>
+
+
+      <option value="/vs/joyce-blisse#miskew-emma">Joyce, Blisse</option>
+
+
+      <option value="/vs/kalenchuk-heather#miskew-emma">Kalenchuk, Heather</option>
+
+
+      <option value="/vs/karwacki-krysten#miskew-emma">Karwacki, Krysten</option>
+
+
+      <option value="/vs/kasner-marliese#miskew-emma">Kasner, Marliese</option>
+
+
+      <option value="/vs/kelly-andrea#miskew-emma">Kelly, Andrea</option>
+
+
+      <option value="/vs/kelly-kim#miskew-emma">Kelly, Kim</option>
+
+
+      <option value="/vs/kleibrink-shannon#miskew-emma">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/klein-karen#miskew-emma">Klein, Karen</option>
+
+
+      <option value="/vs/klymchuk-ashley#miskew-emma">Klymchuk, Ashley</option>
+
+
+      <option value="/vs/knapp-breanne#miskew-emma">Knapp, Breanne</option>
+
+
+      <option value="/vs/knezevic-patti#miskew-emma">Knezevic, Patti</option>
+
+
+      <option value="/vs/koehler-megan#miskew-emma">Koehler, Megan</option>
+
+
+      <option value="/vs/koltun-sarah#miskew-emma">Koltun, Sarah</option>
+
+
+      <option value="/vs/korab-stephanie#miskew-emma">Korab, Stephanie</option>
+
+
+      <option value="/vs/kreviazuk-lynn#miskew-emma">Kreviazuk, Lynn</option>
+
+
+      <option value="/vs/larouche-marie-france#miskew-emma">Larouche, Marie-France</option>
+
+
+      <option value="/vs/lavoie-gabrielle#miskew-emma">Lavoie, Gabrielle</option>
+
+
+      <option value="/vs/lawes-kaitlyn#miskew-emma">Lawes, Kaitlyn</option>
+
+
+      <option value="/vs/lawton-stefanie#miskew-emma">Lawton, Stefanie</option>
+
+
+      <option value="/vs/lemay-annie#miskew-emma">Lemay, Annie</option>
+
+
+      <option value="/vs/lenentine-lauren#miskew-emma">Lenentine, Lauren</option>
+
+
+      <option value="/vs/lilly-kendra#miskew-emma">Lilly, Kendra</option>
+
+
+      <option value="/vs/lister-kendra#miskew-emma">Lister, Kendra</option>
+
+
+      <option value="/vs/loder-jenna#miskew-emma">Loder, Jenna</option>
+
+
+      <option value="/vs/logan-emma#miskew-emma">Logan, Emma</option>
+
+
+      <option value="/vs/loken-sarah#miskew-emma">Loken, Sarah</option>
+
+
+      <option value="/vs/lott-kadriana#miskew-emma">Lott, Kadriana</option>
+
+
+      <option value="/vs/macdonald-kaitlin#miskew-emma">MacDonald, Kaitlin</option>
+
+
+      <option value="/vs/macdonald-lawnie#miskew-emma">MacDonald, Lawnie</option>
+
+
+      <option value="/vs/macdonald-rebecca-jean#miskew-emma">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/macdougall-leslie#miskew-emma">MacDougall, Leslie</option>
+
+
+      <option value="/vs/macmillan-kayla#miskew-emma">MacMillan, Kayla</option>
+
+
+      <option value="/vs/macphail-brigitte#miskew-emma">MacPhail, Brigitte</option>
+
+
+      <option value="/vs/macphee-robyn#miskew-emma">MacPhee, Robyn</option>
+
+
+      <option value="/vs/mair-jessica#miskew-emma">Mair, Jessica</option>
+
+
+      <option value="/vs/mallett-marla#miskew-emma">Mallett, Marla</option>
+
+
+      <option value="/vs/mann-lauren#miskew-emma">Mann, Lauren</option>
+
+
+      <option value="/vs/martin-heather#miskew-emma">Martin, Heather</option>
+
+
+      <option value="/vs/martin-nancy#miskew-emma">Martin, Nancy</option>
+
+
+      <option value="/vs/mattatall-mary#miskew-emma">Mattatall, Mary</option>
+
+
+      <option value="/vs/mayne-veronica#miskew-emma">Mayne, Veronica</option>
+
+
+      <option value="/vs/mccarville-krista#miskew-emma">McCarville, Krista</option>
+
+
+      <option value="/vs/mcdonald-kristy#miskew-emma">McDonald, Kristy</option>
+
+
+      <option value="/vs/mcdonald-taylor#miskew-emma">McDonald, Taylor</option>
+
+
+      <option value="/vs/mcewen-dawn#miskew-emma">McEwen, Dawn</option>
+
+
+      <option value="/vs/mcinnis-susan#miskew-emma">McInnis, Susan</option>
+
+
+      <option value="/vs/mctaggart-cary-anne#miskew-emma">McTaggart, Cary-Anne</option>
+
+
+      <option value="/vs/mercer-adrienne#miskew-emma">Mercer, Adrienne</option>
+
+
+      <option value="/vs/merklinger-lee#miskew-emma">Merklinger, Lee</option>
+
+
+      <option value="/vs/middaugh-sherry#miskew-emma">Middaugh, Sherry</option>
+
+
+      <option value="/vs/miller-wendy#miskew-emma">Miller, Wendy</option>
+
+
+      <option value="/vs/miskew-emma#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/miskew-emma#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/miskew-emma#munroe-anna">Munroe, Anna</option>
+
+
+      <option value="/vs/miskew-emma#murphy-sarah">Murphy, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/miskew-emma#nixon-amy">Nixon, Amy</option>
+
+
+      <option value="/vs/miskew-emma#njegovan-robyn">Njegovan, Robyn</option>
+
+
+      <option value="/vs/miskew-emma#njegovan-selena">Njegovan, Selena</option>
+
+
+      <option value="/vs/miskew-emma#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/miskew-emma#nugent-pamela">Nugent, Pamela</option>
+
+
+      <option value="/vs/miskew-emma#o-rourke-brittany">O'Rourke, Brittany</option>
+
+
+      <option value="/vs/miskew-emma#officer-jill">Officer, Jill</option>
+
+
+      <option value="/vs/miskew-emma#oliver-sara">Oliver, Sara</option>
+
+
+      <option value="/vs/miskew-emma#olson-johns-lori">Olson-Johns, Lori</option>
+
+
+      <option value="/vs/miskew-emma#overton-clapham-cathy">Overton-Clapham, Cathy</option>
+
+
+      <option value="/vs/miskew-emma#papley-paige">Papley, Paige</option>
+
+
+      <option value="/vs/miskew-emma#parsons-danielle">Parsons, Danielle</option>
+
+
+      <option value="/vs/miskew-emma#pasika-rona">Pasika, Rona</option>
+
+
+      <option value="/vs/miskew-emma#paul-sarah">Paul, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#peterman-jocelyn">Peterman, Jocelyn</option>
+
+
+      <option value="/vs/miskew-emma#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/miskew-emma#peterson-beth">Peterson, Beth</option>
+
+
+      <option value="/vs/miskew-emma#pilote-kristen">Pilote, Kristen</option>
+
+
+      <option value="/vs/miskew-emma#pincott-erin">Pincott, Erin</option>
+
+
+      <option value="/vs/miskew-emma#pinksen-sadie">Pinksen, Sadie</option>
+
+
+      <option value="/vs/miskew-emma#plonka-gabrielle">Plonka, Gabrielle</option>
+
+
+      <option value="/vs/miskew-emma#porter-erin">Porter, Erin</option>
+
+
+      <option value="/vs/miskew-emma#potts-sarah">Potts, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#powers-marlee">Powers, Marlee</option>
+
+
+      <option value="/vs/miskew-emma#quillian-sylvie">Quillian, Sylvie</option>
+
+
+      <option value="/vs/miskew-emma#ramsay-geri-lynn">Ramsay, Geri-Lynn</option>
+
+
+      <option value="/vs/miskew-emma#reid-jackie">Reid, Jackie</option>
+
+
+      <option value="/vs/miskew-emma#richard-marie">Richard, Marie</option>
+
+
+      <option value="/vs/miskew-emma#richards-brette">Richards, Brette</option>
+
+
+      <option value="/vs/miskew-emma#riley-emily">Riley, Emily</option>
+
+
+      <option value="/vs/miskew-emma#rizzo-jo-ann">Rizzo, Jo-Ann</option>
+
+
+      <option value="/vs/miskew-emma#robertson-darcy">Robertson, Darcy</option>
+
+
+      <option value="/vs/miskew-emma#robison-michala">Robison, Michala</option>
+
+
+      <option value="/vs/miskew-emma#rocque-kelsey">Rocque, Kelsey</option>
+
+
+      <option value="/vs/miskew-emma#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/miskew-emma#rumberg-crystal">Rumberg, Crystal</option>
+
+
+      <option value="/vs/miskew-emma#rusnell-jen">Rusnell, Jen</option>
+
+
+      <option value="/vs/miskew-emma#russell-kayla">Russell, Kayla</option>
+
+
+      <option value="/vs/miskew-emma#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/miskew-emma#sanderson-jessie">Sanderson, Jessie</option>
+
+
+      <option value="/vs/miskew-emma#sandwith-carley">Sandwith, Carley</option>
+
+
+      <option value="/vs/miskew-emma#saulnier-andrea">Saulnier, Andrea</option>
+
+
+      <option value="/vs/miskew-emma#scheidegger-casey">Scheidegger, Casey</option>
+
+
+      <option value="/vs/miskew-emma#scheidegger-jessie">Scheidegger, Jessie</option>
+
+
+      <option value="/vs/miskew-emma#schmidt-stephanie">Schmidt, Stephanie</option>
+
+
+      <option value="/vs/miskew-emma#schmiemann-danielle">Schmiemann, Danielle</option>
+
+
+      <option value="/vs/miskew-emma#schneider-kim">Schneider, Kim</option>
+
+
+      <option value="/vs/miskew-emma#schneider-lorraine">Schneider, Lorraine</option>
+
+
+      <option value="/vs/miskew-emma#schneider-tammy">Schneider, Tammy</option>
+
+
+      <option value="/vs/miskew-emma#schraeder-jeanna">Schraeder, Jeanna</option>
+
+
+      <option value="/vs/miskew-emma#scoffin-bayly">Scoffin, Bayly</option>
+
+
+      <option value="/vs/miskew-emma#scotland-nadine">Scotland, Nadine</option>
+
+
+      <option value="/vs/miskew-emma#scott-kelly">Scott, Kelly</option>
+
+
+      <option value="/vs/miskew-emma#sharpe-kelli">Sharpe, Kelli</option>
+
+
+      <option value="/vs/miskew-emma#shea-michelle">Shea, Michelle</option>
+
+
+      <option value="/vs/miskew-emma#shumay-jill">Shumay, Jill</option>
+
+
+      <option value="/vs/miskew-emma#sicinski-danielle">Sicinski, Danielle</option>
+
+
+      <option value="/vs/miskew-emma#silvernagle-robyn">Silvernagle, Robyn</option>
+
+
+      <option value="/vs/miskew-emma#sinclair-andrea">Sinclair, Andrea</option>
+
+
+      <option value="/vs/miskew-emma#singler-sherri">Singler, Sherri</option>
+
+
+      <option value="/vs/miskew-emma#sippala-ashley">Sippala, Ashley</option>
+
+
+      <option value="/vs/miskew-emma#skrlik-ashton">Skrlik, Ashton</option>
+
+
+      <option value="/vs/miskew-emma#skrlik-kayla">Skrlik, Kayla</option>
+
+
+      <option value="/vs/miskew-emma#smith-heather">Smith, Heather</option>
+
+
+      <option value="/vs/miskew-emma#smith-megan">Smith, Megan</option>
+
+
+      <option value="/vs/miskew-emma#smith-sabrina">Smith, Sabrina</option>
+
+
+      <option value="/vs/miskew-emma#smith-stacey">Smith, Stacey</option>
+
+
+      <option value="/vs/miskew-emma#snyder-jane">Snyder, Jane</option>
+
+
+      <option value="/vs/miskew-emma#sobey-lianne">Sobey, Lianne</option>
+
+
+      <option value="/vs/miskew-emma#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/miskew-emma#st-georges-cynthia">St-Georges, Cynthia</option>
+
+
+      <option value="/vs/miskew-emma#st-georges-laurie">St-Georges, Laurie</option>
+
+
+      <option value="/vs/miskew-emma#stewart-chaelynn">Stewart, Chaelynn</option>
+
+
+      <option value="/vs/miskew-emma#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/miskew-emma#strong-laura">Strong, Laura</option>
+
+
+      <option value="/vs/miskew-emma#sturmay-selena">Sturmay, Selena</option>
+
+
+      <option value="/vs/miskew-emma#sweeting-val">Sweeting, Val</option>
+
+
+      <option value="/vs/miskew-emma#taylor-alison">Taylor, Alison</option>
+
+
+      <option value="/vs/miskew-emma#thevenot-kara">Thevenot, Kara</option>
+
+
+      <option value="/vs/miskew-emma#thiessen-alison">Thiessen, Alison</option>
+
+
+      <option value="/vs/miskew-emma#tippin-julie">Tippin, Julie</option>
+
+
+      <option value="/vs/miskew-emma#titheridge-lindsay">Titheridge, Lindsay</option>
+
+
+      <option value="/vs/miskew-emma#tran-brittany">Tran, Brittany</option>
+
+
+      <option value="/vs/miskew-emma#trombley-christy">Trombley, Christy</option>
+
+
+      <option value="/vs/miskew-emma#tuor-kimberly">Tuor, Kimberly</option>
+
+
+      <option value="/vs/miskew-emma#udle-teri">Udle, Teri</option>
+
+
+      <option value="/vs/miskew-emma#van-osch-kesa">Van Osch, Kesa</option>
+
+
+      <option value="/vs/miskew-emma#vink-rachelle">Vink, Rachelle</option>
+
+
+      <option value="/vs/miskew-emma#walker-laura">Walker, Laura</option>
+
+
+      <option value="/vs/miskew-emma#wallingham-patty">Wallingham, Patty</option>
+
+
+      <option value="/vs/miskew-emma#walter-meghan">Walter, Meghan</option>
+
+
+      <option value="/vs/miskew-emma#ward-molli">Ward, Molli</option>
+
+
+      <option value="/vs/miskew-emma#wark-sarah">Wark, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#wasylkiw-lauren">Wasylkiw, Lauren</option>
+
+
+      <option value="/vs/miskew-emma#wazney-sarah">Wazney, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#weagle-julia">Weagle, Julia</option>
+
+
+      <option value="/vs/miskew-emma#weagle-lisa">Weagle, Lisa</option>
+
+
+      <option value="/vs/miskew-emma#webster-bronwen">Webster, Bronwen</option>
+
+
+      <option value="/vs/miskew-emma#westcott-raunora">Westcott, Raunora</option>
+
+
+      <option value="/vs/miskew-emma#wilkes-sarah">Wilkes, Sarah</option>
+
+
+      <option value="/vs/miskew-emma#wilson-leslie">Wilson, Leslie</option>
+
+
+      <option value="/vs/miskew-emma#wiseman-jessica">Wiseman, Jessica</option>
+
+
+      <option value="/vs/miskew-emma#wylie-jennifer">Wylie, Jennifer</option>
+
+
+      <option value="/vs/miskew-emma#zacharias-emily">Zacharias, Emily</option>
+
+
+      <option value="/vs/miskew-emma#zacharias-mackenzie">Zacharias, Mackenzie</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

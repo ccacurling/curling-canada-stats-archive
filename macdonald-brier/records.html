@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Macdonald Brier Records
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<h1>Macdonald Brier Records</h1>
+
+<div id="records">
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Game Scoring Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section1-tab1-tab" data-toggle="tab" href="#section1-tab1" role="tab" aria-controls="section1-tab1" aria-selected="true">All Games</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section1-tab1" role="tabpanel" aria-labelledby="section1-tab1-tab">
+MACDONALD BRIER SCORING RECORDS - 1927-1979
+ 
+NUMBER OF GAMES PLAYED: 2536
+ 
+NUMBER OF EXTRA END GAMES:  178
+ 
+HIGHEST SCORE, ONE TEAM, ONE GAME:  30
+ 
+          1957 DRAW  2    NB    3  SK   30
+ 
+LOWEST SCORE, ONE TEAM, ONE GAME:   0
+ 
+          1951 DRAW 13    BC    8  SK    0
+          1977 DRAW  7    PE    0  NL   11
+ 
+HIGHEST COMBINED SCORE, BOTH TEAMS, ONE GAME:  33
+ 
+          1932 DRAW  6    ON   17  NB   16
+          1957 DRAW  2    NB    3  SK   30
+          1968 DRAW 11    PE   17  NL   16
+ 
+LOWEST COMBINED SCORE, BOTH TEAMS, ONE GAME:   6
+ 
+          1974 DRAW 11    AB    4  QC    2
+          1977 DRAW 13    NO    2  NS    4
+          1979 DRAW 10    MB    4  ON    2
+ 
+HIGHEST END SCORE WITH HAMMER:   7
+ 
+          1928 DRAW  7    SK   20  MO    7    SK   SCORED 7 IN THE 8TH END
+          1929 DRAW  7    TO   16  NB    9    TO   SCORED 7 IN THE 5TH END
+          1931 DRAW  5    MO   15  NB    8    MO   SCORED 7 IN THE FIRST END
+          1936 DRAW  7    MB   25  PE    5    MB   SCORED 7 IN THE FIRST END
+          1947 DRAW  8    MB   18  PE    7    MB   SCORED 7 IN THE 8TH END
+          1950 DRAW  6    NB    9  MB   17    MB   SCORED 7 IN THE 10TH END
+ 
+HIGHEST END SCORE WITHOUT HAMMER:   6
+ 
+          1931 DRAW  6    MB   17  NO    6    MB   SCORED 6 IN THE THIRD END
+          1937 DRAW  3    BC   13  AB    6    BC   SCORED 6 IN THE 4TH END
+          1938 DRAW  9    MB   21  NS    6    MB   SCORED 6 IN THE 7TH END
+          1941 DRAW  7    AB   18  ON    9    AB   SCORED 6 IN THE 10TH END
+          1951 DRAW  9    NO    9  BC   12    BC   SCORED 6 IN THE FIRST END
+          1952 DRAW  1    NL    7  AB   23    AB   SCORED 6 IN THE 11TH END
+          1954 DRAW  9    QC    9  AB   16    AB   SCORED 6 IN THE 9TH END
+          1955 DRAW  1    SK   20  NL    3    SK   SCORED 6 IN THE 4TH END
+          1957 DRAW  2    NB    3  SK   30    SK   SCORED 6 IN THE 5TH END
+          1959 DRAW  4    NO   13  NS   12    NS   SCORED 6 IN THE 8TH END
+          1971 DRAW  5    QC   14  SK   11    QC   SCORED 6 IN THE 11TH END
+ 
+MOST POINTS SCORED, ONE TEAM, ONE EVENT YEAR: 142
+ 
+          1936 Manitoba (Kenneth Watson, Grant Watson, Marvin MacIntyre, Charles Kerr)
+ 
+MOST POINTS SCORED, ALL TEAMS, ONE EVENT YEAR: 1120
+ 
+          1951 Dalhousie Memorial Arena, Halifax, NS
+ 
+MOST BLANK ENDS, ONE GAME:   7
+ 
+          1974 DRAW 11    AB    4  QC    2
+          1976 DRAW  5    QC    3  BC    4
+          1976 DRAW 12    NL    5  SK    4
+ 
+MOST CONSECUTIVE BLANK ENDS, ONE GAME:   5
+ 
+          1973 DRAW  7    NO    3  NB    5 BEGINNING IN END 4
+ 
+LARGEST COME FROM BEHIND VICTORY:   9
+ 
+          1965 DRAW  9    QC   12  AB   16    AB   WAS DOWN 9 AFTER 5 ENDS
+ 
+MOST EXTRA END GAMES IN ONE EVENT YEAR:  11
+ 
+          1976 Regina, Saskatchewan
+ 
+FEWEST EXTRA END GAMES IN ONE EVENT YEAR:   0
+ 
+          1933 Toronto, Ontario
+          1942 Quebec City, Quebec
+          1946 Saskatoon, Saskatchewan
+          1949 Hamilton, Ontario
+          1952 Winnipeg, MB
+ 
+MOST BLANK ENDS IN ONE EVENT YEAR: 199
+ 
+          1976 Regina, Saskatchewan
+ 
+FEWEST BLANK ENDS IN ONE EVENT YEAR:   0
+ 
+          1931 Toronto, Ontario
+          1932 Toronto, Ontario
+ 
+MOST ENDS PLAYED IN ONE GAME:  15
+ 
+          1927 DRAW  4    NO   11  TO   10
+          1927 DRAW  6    QC   10  NO   11
+ 
+FEWEST ENDS PLAYED IN ONE GAME:   6
+ 
+          1929 DRAW  8    MB   14  AB    1
+          1978 DRAW  6    NS   14  MB    1
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="card card-collapsed">
+  <div class="card-header" data-toggle="card-collapse">
+    <h3 class="card-title">Career Records</h3>
+    <div class="card-options">
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+    </div>
+  </div>
+  <div class="card-body">
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="section2-tab1-tab" data-toggle="tab" href="#section2-tab1" role="tab" aria-controls="section2-tab1" aria-selected="true">Top Career Games Played</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="section2-tab2-tab" data-toggle="tab" href="#section2-tab2" role="tab" aria-controls="section2-tab2" aria-selected="false">Top Career Wins</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div class="tab-pane fade show active" id="section2-tab1" role="tabpanel" aria-labelledby="section2-tab1-tab">
+MACDONALD BRIER - TOP CAREER GAMES PLAYED - 1927-1979
+ 
+RANK PLAYER                         EVENTS LEAD SECOND THIRD FOURTH TOTAL
+ 
+   1 Campbell, Garnet                 10     0     20    41     40   101
+   2 Sparkes, Bernie                   9     0     41    20     32    93
+   3 Dillon, George                    8     0     20    61      0    81
+   4 Storey, Frederick                 7    71      0     0      0    71
+   5 Cameron, Douglas                  7     0      0    20     50    70
+     Dillon, Robert                    7    10     40     0     20    70
+   7 Ursel, Jim                        6     0      0    11     54    65
+   8 Aitken, Don                       6     0     53    11      0    64
+   9 Northcott, Ronald                 6     0      0    10     51    61
+     Pickering, Robert                 6     0     10     0     51    61
+  11 Campbell, Glen                    6    20     20    20      0    60
+  12 Stone, Reginald                   6     0      0     0     59    59
+     Stone, Roy                        6     0     19    40      0    59
+  14 Hall, Perry                       6     0      9    28     18    55
+  15 Wood, Bryan                       5    54      0     0      0    54
+  16 Lobel, Arthur                     5    10      0    43      0    53
+  17 Richardson, Arnold                5     0      0    52      0    52
+     Richardson, Ernest                5     0      0     0     52    52
+     Richardson, Garnet                5     0     52     0      0    52
+  20 Baldwin, Mathew                   5     0      0     0     51    51
+     Keys, John                        5     0     21    20     10    51
+  22 Burke, Arthur                     5    10      0     0     40    50
+     Fisher, Alexander                 5     0     10     0     40    50
+     Keith, Harold                     5    10     40     0      0    50
+     Llewellyn, Arnold                 5    40      0    10      0    50
+     Mabey, Harold Jr.                 5     0      0    30     20    50
+     McGibney, Douglas                 5    10     30     0     10    50
+     Piercey, William                  5    30      0     0     20    50
+     Smith, Alan                       5     0      0    30     20    50
+     Stewart, Howard                   6     0     50     0      0    50
+  31 Squarebriggs, John                5     0      9    40      0    49
+  32 Brower, John                      5     0     10    36      0    46
+  33 Manahan, Clifford                 5     0      0     0     45    45
+  34 MacDonald, Ken                    4     0      0    11     32    43
+  35 Gervais, Hector                   4     0      0     0     42    42
+     Hunter, Roderick                  4     0      0    31     11    42
+     Richardson, Wesley                4    42      0     0      0    42
+     Thibodeau, Nicholas               5     0      0     0     42    42
+  39 Campbell, Gordon M.               5     0      0     0     41    41
+     Duguid, Donald                    4     0     10    10     21    41
+     Ford, Gary                        4    41      0     0      0    41
+     Haynes, Gordon                    4     0     21    20      0    41
+     Naimark, Barry                    4    21      0    10     10    41
+     Savage, Paul                      4     0      0     0     41    41
+     Sullivan, Dave                    4     0      0    20     21    41
+  46 Andrews, Alexander                4    40      0     0      0    40
+     Campbell, Duncan A.               5    22      0    18      0    40
+     Carson, Earl                      4     0     10    20     10    40
+     Ellis, Kenneth                    4     0     40     0      0    40
+     Hope, Peter                       4     0      0    20     20    40
+     Howell, Wilbert                   4    10      0    30      0    40
+     Saunders, Allison                 4     0     40     0      0    40
+     Taite, John                       4    10     10    20      0    40
+     Tracy, William                    4     0      0     0     40    40
+     Wiggington, Merrill               4    40      0     0      0    40
+  56 MacDonald, Wendell                4     0      0     0     39    39
+  57 Manahan, Ross                     4     0     28    10      0    38
+  58 Hall, Bert                        4     0      0     9     28    37
+     Reid, John                        4     8     29     0      0    37
+     Watson, Grant                     4     0      0    27     10    37
+     Welsh, James                      4     0      0     8     29    37
+  62 Avery, Francis                    4     0      0    27      9    36
+     Cream, Robert                     4     0      9     0     27    36
+     Hughes, Gordon                    4     0      0    36      0    36
+     Roy, Ormiston                     4     9      0    18      9    36
+     Tinling, Frederick                4     0     18    18      0    36
+  67 Arthur, Frank                     4     7     18     9      0    34
+     Connolly, Daniel                  4     0     16     0     18    34
+     Connolly, Joseph                  4     0      0    34      0    34
+     Durrant, Charles                  4     0      0     9     25    34
+     Kennah, John                      4    16     18     0      0    34
+     Millar, Daniel                    4     0      7    18      9    34
+     Palmer, Howard                    4     0      0     7     27    34
+  74 Currie, Michael                   3     0     33     0      0    33
+     Ledgerwood, Allan                 3    11     22     0      0    33
+     Tetley, William                   3    10      0     0     23    33
+  77 Anton, Ronald                     3     0      0    32      0    32
+     Donahoe, James                    4     7     25     0      0    32
+     Lyall, Peter                      4     0      0     0     32    32
+     Macneill, Murray                  4     0      0     0     32    32
+     Malcolm, John                     4     0      0     0     32    32
+  82 Campbell, Donald A.               4     0      0    22      9    31
+     Fortier, John                     3     0     10    10     11    31
+     Green, Ronald                     3    20     11     0      0    31
+     Hebert, Leo                       3     0     10    21      0    31
+     Kassner, David                    3     0     31     0      0    31
+     Margeson, Robert                  3    10     10    11      0    31
+     Mazinke, Harvey                   3     0      0    10     21    31
+     Pettapiece, James                 3     0     31     0      0    31
+     Sullivan, Charlie                 3     0      0    11     20    31
+     Thompson, Robert                  3     0      0    31      0    31
+     Weldon, Kenneth                   3     0      0     0     31    31
+     Werenich, Ed                      3     0     20    11      0    31
+  94 Annabel, Clifford                 3     0      9    12      9    30
+     Baird, Ian                        3     0      0     0     30    30
+     Baker, Ronald                     3     0     30     0      0    30
+     Bell, Kenneth                     3     0     20    10      0    30
+     Buchan, Kenneth                   3     0      0    20     10    30
+     Campbell, Donald C.               3     0     10    20      0    30
+     Campbell, Lloyd                   3    20     10     0      0    30
+     Corkum, Peter                     3     0      0    30      0    30
+     Florian, James                    3     0      0    10     20    30
+     Franklin, John                    3     0      0     9     21    30
+     Franklin, Ronald                  3     0      0     0     30    30
+     Giannou, George                   3    10      0    10     10    30
+     Grant, Ray                        3    10     10     0     10    30
+     Gullage, John                     3     0     30     0      0    30
+     Hoar, Frank                       3     0     20     0     10    30
+     Kent, William                     3     0      0     0     30    30
+     Mabey, Harold Sr.                 3     0      0     0     30    30
+     MacCharles, George                3     0     10     0     20    30
+     MacDonald, Elmer                  3    20     10     0      0    30
+     MacInnes, Earl                    3     0     30     0      0    30
+     MacNevin, Elmer                   3    10     10    10      0    30
+     Mann, Avard                       3     0      0    30      0    30
+     Mann, Robert                      3     0     10     0     20    30
+     McKay, Hunt                       3    30      0     0      0    30
+     Palmer, Richard                   3    20      0    10      0    30
+     Polyblank, John                   3     0      0     0     30    30
+     Shields, James                    3     0      0    20     10    30
+     Smith, Duncan                     3    10     20     0      0    30
+     Wood, Edgar                       3    30      0     0      0    30
+     Worth, Harold Jr.                 3     0     10    10     10    30
+      </div>
+      <div class="tab-pane fade" id="section2-tab2" role="tabpanel" aria-labelledby="section2-tab2-tab">
+MACDONALD BRIER - TOP CAREER WINS - 1927-1979
+ 
+RANK PLAYER                         EVENTS LEAD SECOND THIRD FOURTH TOTAL
+ 
+   1 Campbell, Garnet                 10     0     15    29     32    76
+   2 Sparkes, Bernie                   9     0     35    11     20    66
+   3 Storey, Frederick                 7    56      0     0      0    56
+   4 Northcott, Ronald                 6     0      0     8     40    48
+   5 Campbell, Glen                    6    15     18    14      0    47
+   6 Richardson, Arnold                5     0      0    45      0    45
+     Richardson, Ernest                5     0      0     0     45    45
+     Richardson, Garnet                5     0     45     0      0    45
+   9 Pickering, Robert                 6     0      8     0     36    44
+  10 Stone, Reginald                   6     0      0     0     41    41
+     Stone, Roy                        6     0     14    27      0    41
+     Ursel, Jim                        6     0      0     8     33    41
+  13 Wood, Bryan                       5    39      0     0      0    39
+  14 Baldwin, Mathew                   5     0      0     0     38    38
+  15 Keys, John                        5     0     14    15      8    37
+  16 Richardson, Wesley                4    36      0     0      0    36
+  17 Aitken, Don                       6     0     30     5      0    35
+     Manahan, Clifford                 5     0      0     0     35    35
+  19 Cameron, Douglas                  7     0      0     8     26    34
+     Dillon, George                    8     0      7    27      0    34
+     Duguid, Donald                    4     0      7     9     18    34
+     Gervais, Hector                   4     0      0     0     34    34
+     Hall, Perry                       6     0      5    17     12    34
+  24 Dillon, Robert                    7     4     20     0      8    32
+     Watson, Grant                     4     0      0    25      7    32
+  26 McGibney, Douglas                 5     6     20     0      5    31
+  27 Campbell, Gordon M.               5     0      0     0     30    30
+     Haynes, Gordon                    4     0     15    15      0    30
+     Lobel, Arthur                     5     1      0    29      0    30
+     Naimark, Barry                    4    17      0     7      6    30
+  31 Ford, Gary                        4    29      0     0      0    29
+     Manahan, Ross                     4     0     23     6      0    29
+  33 Campbell, Duncan A.               5    17      0    11      0    28
+     Hunter, Roderick                  4     0      0    22      6    28
+  35 Brower, John                      5     0      7    20      0    27
+  36 Anton, Ronald                     3     0      0    26      0    26
+     Campbell, Donald C.               3     0      8    18      0    26
+     Llewellyn, Arnold                 5    22      0     4      0    26
+     Reid, John                        4     5     21     0      0    26
+     Welsh, James                      4     0      0     5     21    26
+  41 Avery, Francis                    4     0      0    19      6    25
+     Shields, James                    3     0      0    17      8    25
+     Watson, Kenneth                   3     0      0     0     25    25
+  44 Campbell, Donald A.               4     0      0    17      7    24
+     Campbell, Lloyd                   3    18      6     0      0    24
+     Hebert, Leo                       3     0      7    17      0    24
+     Savage, Paul                      4     0      0     0     24    24
+     Smith, Alan                       5     0      0    10     14    24
+  49 Mazinke, Harvey                   3     0      0     7     16    23
+     Robinson, Wesley                  3     0      0    23      0    23
+     Wood, Howard Sr.                  3     0      0     6     17    23
+  52 D'Amour, Theophile                3     0      7     0     15    22
+     Hall, Bert                        4     0      0     5     17    22
+     MacNevin, Elmer                   3     7      7     8      0    22
+     Millar, Daniel                    4     0      3    12      7    22
+     Pettapiece, James                 3     0     22     0      0    22
+     Wiggington, Merrill               4    22      0     0      0    22
+     Worth, Harold Jr.                 3     0      7     7      8    22
+  59 Baker, Ronald                     3     0     21     0      0    21
+     Monk, Harry Sr.                   3    21      0     0      0    21
+     Palmer, Howard                    4     0      0     5     16    21
+     Tetley, William                   3     3      0     0     18    21
+  63 Cartmell, Elwyn                   3     0      0     9     11    20
+     Green, Ronald                     3    12      8     0      0    20
+     McKay, Hunt                       3    20      0     0      0    20
+     Saunders, Allison                 4     0     20     0      0    20
+     Thompson, Robert                  3     0      0    20      0    20
+     Tinling, Frederick                4     0     10    10      0    20
+     Werenich, Ed                      3     0     12     8      0    20
+  70 Beecroft, William                 3     0     19     0      0    19
+     Brower, Edward                    3     0      0     6     13    19
+     Grant, Ray                        3     7      7     0      5    19
+     Langlois, Allan                   2     0      0    19      0    19
+     McWilliams, Andrew                2     9     10     0      0    19
+     Price, William                    2    19      0     0      0    19
+     Walsh, William                    2     0      0     0     19    19
+  77 Annabel, Clifford                 3     0      5     8      5    18
+     Gowanlock, Albert                 2     0      0     0     18    18
+     Grant, William                    2    18      0     0      0    18
+     Hope, Peter                       4     0      0    10      8    18
+     Hudson, Gordon                    2     0      0     0     18    18
+     Singbusch, Ronald                 2     0     18     0      0    18
+     Ursuliak, Wally                   2    18      0     0      0    18
+     Welsh, Alexander                  3     0      5    13      0    18
+     Werner, Raymond                   2     0     18     0      0    18
+  86 Bell, Kenneth                     3     0     10     7      0    17
+     Braunstein, Ronald                2     0      9     8      0    17
+     Braunstein, Terrance              2     0      0     0     17    17
+     Carson, Earl                      4     0      5     7      5    17
+     Coates, Gordon                    3     0     17     0      0    17
+     Connolly, Daniel                  4     0      6     0     11    17
+     Connolly, Joseph                  4     0      0    17      0    17
+     David, Roland                     3     0      0     5     12    17
+     Franklin, John                    3     0      0     5     12    17
+     Keith, Harold                     5     3     14     0      0    17
+     Kennah, John                      4     6     11     0      0    17
+     Mabey, Harold Jr.                 5     0      0    10      7    17
+     MacDonald, Wendell                4     0      0     0     17    17
+     MacInnes, Earl                    3     0     17     0      0    17
+     Mann, Avard                       3     0      0    17      0    17
+     McIntyre, Lloyd                   2    17      0     0      0    17
+     Muirhead, Frank                   3     0      9     8      0    17
+     Parkes, Ernest                    3     0     17     0      0    17
+     Pollard, Ernest                   2     0      0    17      0    17
+     Polyblank, John                   3     0      0     0     17    17
+     Ramsay, Thomas                    3     0      3     0     14    17
+     Rose, William                     2     0      0     8      9    17
+     Seagram, Campbell                 3    17      0     0      0    17
+     Turnbull, Raymond                 2     9      8     0      0    17
+     Weldon, Kenneth                   3     0      0     0     17    17
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

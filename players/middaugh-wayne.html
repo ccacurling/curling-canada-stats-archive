@@ -1,0 +1,1969 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Wayne Middaugh
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Wayne Middaugh <i class="fe fe-user-plus" data-name="Middaugh, Wayne" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../brier/1991">1991</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>90</td>
+  <td>85</td>
+  <td>124</td>
+  <td>83</td>
+  <td>88</td>
+  <td>79</td>
+  <td>126</td>
+  <td>87</td>
+  <td>214</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1992">1992</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>101</td>
+  <td>84</td>
+  <td>136</td>
+  <td>84</td>
+  <td>97</td>
+  <td>82</td>
+  <td>140</td>
+  <td>86</td>
+  <td>237</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1993">1993</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>126</td>
+  <td>88</td>
+  <td>148</td>
+  <td>88</td>
+  <td>83</td>
+  <td>83</td>
+  <td>191</td>
+  <td>90</td>
+  <td>274</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1994">1994</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+2
+
+">
+Second</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>113</td>
+  <td>82</td>
+  <td>131</td>
+  <td>89</td>
+  <td>90</td>
+  <td>85</td>
+  <td>154</td>
+  <td>86</td>
+  <td>244</td>
+  <td>86</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/1998">1998</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>108</td>
+  <td>84</td>
+  <td>115</td>
+  <td>85</td>
+  <td>89</td>
+  <td>82</td>
+  <td>134</td>
+  <td>86</td>
+  <td>223</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2001">2001</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>105</td>
+  <td>85</td>
+  <td>121</td>
+  <td>88</td>
+  <td>82</td>
+  <td>86</td>
+  <td>144</td>
+  <td>88</td>
+  <td>226</td>
+  <td>87</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2005">2005</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>89</td>
+  <td>84</td>
+  <td>114</td>
+  <td>79</td>
+  <td>83</td>
+  <td>82</td>
+  <td>120</td>
+  <td>81</td>
+  <td>203</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2012">2012</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>118</td>
+  <td>89</td>
+  <td>138</td>
+  <td>89</td>
+  <td>66</td>
+  <td>83</td>
+  <td>190</td>
+  <td>90</td>
+  <td>256</td>
+  <td>89</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2013">2013</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="ON"><a href="../brier/team/on">ON</a></td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>14</td>
+  <td>11</td>
+  <td>3</td>
+  <td>139</td>
+  <td>88</td>
+  <td>117</td>
+  <td>88</td>
+  <td>89</td>
+  <td>87</td>
+  <td>167</td>
+  <td>89</td>
+  <td>256</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../brier/2021">2021</a></td>
+  <td><a href="../brier">Brier</a></td>
+  <td data-order="WC"><a href="../brier/team/wc">WC</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>8</td>
+  <td>4</td>
+  <td>114</td>
+  <td>86</td>
+  <td>115</td>
+  <td>80</td>
+  <td>96</td>
+  <td>77</td>
+  <td>133</td>
+  <td>87</td>
+  <td>229</td>
+  <td>83</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2004">2004</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="MID">MID</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>45</td>
+  <td>76</td>
+  <td>60</td>
+  <td>84</td>
+  <td>49</td>
+  <td>82</td>
+  <td>56</td>
+  <td>79</td>
+  <td>105</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2009">2009</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="WMID">WMID</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>6</td>
+  <td>3</td>
+  <td>3</td>
+  <td>46</td>
+  <td>80</td>
+  <td>66</td>
+  <td>82</td>
+  <td>47</td>
+  <td>80</td>
+  <td>65</td>
+  <td>82</td>
+  <td>112</td>
+  <td>81</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2010">2010</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="GH">GH</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>7</td>
+  <td>1</td>
+  <td>54</td>
+  <td>85</td>
+  <td>98</td>
+  <td>90</td>
+  <td>55</td>
+  <td>89</td>
+  <td>97</td>
+  <td>88</td>
+  <td>152</td>
+  <td>88</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2011">2011</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>75</td>
+  <td>81</td>
+  <td>79</td>
+  <td>90</td>
+  <td>60</td>
+  <td>90</td>
+  <td>94</td>
+  <td>83</td>
+  <td>154</td>
+  <td>85</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../canada-cup-men/2012">2012</a></td>
+  <td><a href="../canada-cup-men">Canada Cup (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>8</td>
+  <td>5</td>
+  <td>3</td>
+  <td>74</td>
+  <td>81</td>
+  <td>74</td>
+  <td>83</td>
+  <td>65</td>
+  <td>77</td>
+  <td>83</td>
+  <td>86</td>
+  <td>148</td>
+  <td>82</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/1997">1997</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MID">MID</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>78</td>
+  <td>72</td>
+  <td>84</td>
+  <td>77</td>
+  <td>75</td>
+  <td>70</td>
+  <td>87</td>
+  <td>79</td>
+  <td>162</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2001">2001</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MID">MID</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>2</td>
+  <td>7</td>
+  <td>61</td>
+  <td>70</td>
+  <td>98</td>
+  <td>79</td>
+  <td>74</td>
+  <td>78</td>
+  <td>85</td>
+  <td>73</td>
+  <td>159</td>
+  <td>75</td>
+</tr>
+
+<tr class="dnp">
+
+  <td><a href="../trials-men/2005">2005</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+5
+">
+Alternate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2009">2009</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="MIDD">MIDD</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>7</td>
+  <td>2</td>
+  <td>5</td>
+  <td>61</td>
+  <td>84</td>
+  <td>68</td>
+  <td>83</td>
+  <td>70</td>
+  <td>85</td>
+  <td>59</td>
+  <td>81</td>
+  <td>129</td>
+  <td>84</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-men/2013">2013</a></td>
+  <td><a href="../trials-men">Trials (Men)</a></td>
+  <td data-order="HOW">HOW</td>
+
+  <td data-order="
+1
+
+">
+Third</td>
+  <td>7</td>
+  <td>2</td>
+  <td>5</td>
+  <td>60</td>
+  <td>84</td>
+  <td>74</td>
+  <td>89</td>
+  <td>58</td>
+  <td>89</td>
+  <td>76</td>
+  <td>85</td>
+  <td>134</td>
+  <td>87</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Brier Totals</td>
+  <td>127</td>
+  <td>93</td>
+  <td>34</td>
+  <td>1103</td>
+  <td>86</td>
+  <td>1259</td>
+  <td>85</td>
+  <td>863</td>
+  <td>83</td>
+  <td>1499</td>
+  <td>87</td>
+  <td>2362</td>
+  <td>86</td>
+</tr>
+
+<tr>
+  <td colspan="4">Canada Cup (Men) Totals</td>
+  <td>36</td>
+  <td>23</td>
+  <td>13</td>
+  <td>294</td>
+  <td>81</td>
+  <td>377</td>
+  <td>86</td>
+  <td>276</td>
+  <td>83</td>
+  <td>395</td>
+  <td>84</td>
+  <td>671</td>
+  <td>84</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Men) Totals</td>
+  <td>32</td>
+  <td>9</td>
+  <td>23</td>
+  <td>260</td>
+  <td>77</td>
+  <td>324</td>
+  <td>81</td>
+  <td>277</td>
+  <td>80</td>
+  <td>307</td>
+  <td>79</td>
+  <td>584</td>
+  <td>79</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/abel-clinton#middaugh-wayne">Abel, Clinton</option>
+
+
+      <option value="/vs/adam-gerry#middaugh-wayne">Adam, Gerry</option>
+
+
+      <option value="/vs/adams-brian#middaugh-wayne">Adams, Brian</option>
+
+
+      <option value="/vs/adams-kevin#middaugh-wayne">Adams, Kevin</option>
+
+
+      <option value="/vs/adams-shawn#middaugh-wayne">Adams, Shawn</option>
+
+
+      <option value="/vs/alderman-dan#middaugh-wayne">Alderman, Dan</option>
+
+
+      <option value="/vs/alexander-scott#middaugh-wayne">Alexander, Scott</option>
+
+
+      <option value="/vs/alexander-trevor#middaugh-wayne">Alexander, Trevor</option>
+
+
+      <option value="/vs/allan-john#middaugh-wayne">Allan, John</option>
+
+
+      <option value="/vs/andrews-robert#middaugh-wayne">Andrews, Robert</option>
+
+
+      <option value="/vs/armstrong-doug#middaugh-wayne">Armstrong, Doug</option>
+
+
+      <option value="/vs/armstrong-jim#middaugh-wayne">Armstrong, Jim</option>
+
+
+      <option value="/vs/armstrong-mike#middaugh-wayne">Armstrong, Mike</option>
+
+
+      <option value="/vs/arsenault-craig#middaugh-wayne">Arsenault, Craig</option>
+
+
+      <option value="/vs/assad-mike#middaugh-wayne">Assad, Mike</option>
+
+
+      <option value="/vs/bailey-scott#middaugh-wayne">Bailey, Scott</option>
+
+
+      <option value="/vs/bardsley-mike#middaugh-wayne">Bardsley, Mike</option>
+
+
+      <option value="/vs/bartlett-don#middaugh-wayne">Bartlett, Don</option>
+
+
+      <option value="/vs/bawel-brent#middaugh-wayne">Bawel, Brent</option>
+
+
+      <option value="/vs/bentley-dan#middaugh-wayne">Bentley, Dan</option>
+
+
+      <option value="/vs/bentley-darren#middaugh-wayne">Bentley, Darren</option>
+
+
+      <option value="/vs/beuk-jonathan#middaugh-wayne">Beuk, Jonathan</option>
+
+
+      <option value="/vs/bilesky-andrew#middaugh-wayne">Bilesky, Andrew</option>
+
+
+      <option value="/vs/biron-louis#middaugh-wayne">Biron, Louis</option>
+
+
+      <option value="/vs/blanchard-wade#middaugh-wayne">Blanchard, Wade</option>
+
+
+      <option value="/vs/boland-john#middaugh-wayne">Boland, John</option>
+
+
+      <option value="/vs/borden-robert#middaugh-wayne">Borden, Robert</option>
+
+
+      <option value="/vs/bottcher-brendan#middaugh-wayne">Bottcher, Brendan</option>
+
+
+      <option value="/vs/brannen-jamie#middaugh-wayne">Brannen, Jamie</option>
+
+
+      <option value="/vs/breckon-graham#middaugh-wayne">Breckon, Graham</option>
+
+
+      <option value="/vs/bryant-doug#middaugh-wayne">Bryant, Doug</option>
+
+
+      <option value="/vs/buck-wyatt#middaugh-wayne">Buck, Wyatt</option>
+
+
+      <option value="/vs/buckle-andrew#middaugh-wayne">Buckle, Andrew</option>
+
+
+      <option value="/vs/burgess-bryan#middaugh-wayne">Burgess, Bryan</option>
+
+
+      <option value="/vs/burgess-craig#middaugh-wayne">Burgess, Craig</option>
+
+
+      <option value="/vs/burtnyk-kerry#middaugh-wayne">Burtnyk, Kerry</option>
+
+
+      <option value="/vs/butler-mark#middaugh-wayne">Butler, Mark</option>
+
+
+      <option value="/vs/butler-mike#middaugh-wayne">Butler, Mike</option>
+
+
+      <option value="/vs/butler-ted#middaugh-wayne">Butler, Ted</option>
+
+
+      <option value="/vs/camm-mathew#middaugh-wayne">Camm, Mathew</option>
+
+
+      <option value="/vs/campbell-robert#middaugh-wayne">Campbell, Robert</option>
+
+
+      <option value="/vs/carey-dan#middaugh-wayne">Carey, Dan</option>
+
+
+      <option value="/vs/carmody-anson#middaugh-wayne">Carmody, Anson</option>
+
+
+      <option value="/vs/carruthers-reid#middaugh-wayne">Carruthers, Reid</option>
+
+
+      <option value="/vs/carter-andrew#middaugh-wayne">Carter, Andrew</option>
+
+
+      <option value="/vs/case-peter#middaugh-wayne">Case, Peter</option>
+
+
+      <option value="/vs/casey-adam#middaugh-wayne">Casey, Adam</option>
+
+
+      <option value="/vs/champion-kevin#middaugh-wayne">Champion, Kevin</option>
+
+
+      <option value="/vs/charette-pierre#middaugh-wayne">Charette, Pierre</option>
+
+
+      <option value="/vs/chorostkowski-brad#middaugh-wayne">Chorostkowski, Brad</option>
+
+
+      <option value="/vs/chugg-brad#middaugh-wayne">Chugg, Brad</option>
+
+
+      <option value="/vs/clarey-sean#middaugh-wayne">Clarey, Sean</option>
+
+
+      <option value="/vs/coady-mike#middaugh-wayne">Coady, Mike</option>
+
+
+      <option value="/vs/collison-brian#middaugh-wayne">Collison, Brian</option>
+
+
+      <option value="/vs/coster-dave#middaugh-wayne">Coster, Dave</option>
+
+
+      <option value="/vs/cotter-jim#middaugh-wayne">Cotter, Jim</option>
+
+
+      <option value="/vs/crete-martin#middaugh-wayne">Crete, Martin</option>
+
+
+      <option value="/vs/cripps-scott#middaugh-wayne">Cripps, Scott</option>
+
+
+      <option value="/vs/cunningham-geoff#middaugh-wayne">Cunningham, Geoff</option>
+
+
+      <option value="/vs/dacey-mark#middaugh-wayne">Dacey, Mark</option>
+
+
+      <option value="/vs/daneault-richard#middaugh-wayne">Daneault, Richard</option>
+
+
+      <option value="/vs/dauphinee-andrew#middaugh-wayne">Dauphinee, Andrew</option>
+
+
+      <option value="/vs/deis-ryan#middaugh-wayne">Deis, Ryan</option>
+
+
+      <option value="/vs/desjardins-robert#middaugh-wayne">Desjardins, Robert</option>
+
+
+      <option value="/vs/despins-glen#middaugh-wayne">Despins, Glen</option>
+
+
+      <option value="/vs/dillon-mike#middaugh-wayne">Dillon, Mike</option>
+
+
+      <option value="/vs/dobson-brian#middaugh-wayne">Dobson, Brian</option>
+
+
+      <option value="/vs/dobson-mark#middaugh-wayne">Dobson, Mark</option>
+
+
+      <option value="/vs/dobson-paul#middaugh-wayne">Dobson, Paul</option>
+
+
+      <option value="/vs/doyon-ghislain#middaugh-wayne">Doyon, Ghislain</option>
+
+
+      <option value="/vs/duguid-dale#middaugh-wayne">Duguid, Dale</option>
+
+
+      <option value="/vs/dunstone-matt#middaugh-wayne">Dunstone, Matt</option>
+
+
+      <option value="/vs/dutiaume-randy#middaugh-wayne">Dutiaume, Randy</option>
+
+
+      <option value="/vs/elias-dave#middaugh-wayne">Elias, Dave</option>
+
+
+      <option value="/vs/elkin-derek#middaugh-wayne">Elkin, Derek</option>
+
+
+      <option value="/vs/elmaleh-maxime#middaugh-wayne">Elmaleh, Maxime</option>
+
+
+      <option value="/vs/engel-ron#middaugh-wayne">Engel, Ron</option>
+
+
+      <option value="/vs/epping-john#middaugh-wayne">Epping, John</option>
+
+
+      <option value="/vs/errington-derek#middaugh-wayne">Errington, Derek</option>
+
+
+      <option value="/vs/feldman-alfred#middaugh-wayne">Feldman, Alfred</option>
+
+
+      <option value="/vs/fenton-darin#middaugh-wayne">Fenton, Darin</option>
+
+
+      <option value="/vs/fenton-keith#middaugh-wayne">Fenton, Keith</option>
+
+
+      <option value="/vs/ferbey-randy#middaugh-wayne">Ferbey, Randy</option>
+
+
+      <option value="/vs/ferster-greg#middaugh-wayne">Ferster, Greg</option>
+
+
+      <option value="/vs/fetterly-tom#middaugh-wayne">Fetterly, Tom</option>
+
+
+      <option value="/vs/fitzherbert-brad#middaugh-wayne">Fitzherbert, Brad</option>
+
+
+      <option value="/vs/fitzner-leblanc-ian#middaugh-wayne">Fitzner-LeBlanc, Ian</option>
+
+
+      <option value="/vs/flemming-paul#middaugh-wayne">Flemming, Paul</option>
+
+
+      <option value="/vs/florence-malcolm#middaugh-wayne">Florence, Malcolm</option>
+
+
+      <option value="/vs/folk-kevin#middaugh-wayne">Folk, Kevin</option>
+
+
+      <option value="/vs/folk-rick#middaugh-wayne">Folk, Rick</option>
+
+
+      <option value="/vs/forrest-tyler#middaugh-wayne">Forrest, Tyler</option>
+
+
+      <option value="/vs/fowler-ed#middaugh-wayne">Fowler, Ed</option>
+
+
+      <option value="/vs/fowler-rob#middaugh-wayne">Fowler, Rob</option>
+
+
+      <option value="/vs/foy-sandy#middaugh-wayne">Foy, Sandy</option>
+
+
+      <option value="/vs/frans-joseph#middaugh-wayne">Frans, Joseph</option>
+
+
+      <option value="/vs/freschi-don#middaugh-wayne">Freschi, Don</option>
+
+
+      <option value="/vs/fry-ryan#middaugh-wayne">Fry, Ryan</option>
+
+
+      <option value="/vs/gallant-brett#middaugh-wayne">Gallant, Brett</option>
+
+
+      <option value="/vs/gallant-peter#middaugh-wayne">Gallant, Peter</option>
+
+
+      <option value="/vs/gardeski-larry#middaugh-wayne">Gardeski, Larry</option>
+
+
+      <option value="/vs/gaudet-mike#middaugh-wayne">Gaudet, Mike</option>
+
+
+      <option value="/vs/germsheid-tony#middaugh-wayne">Germsheid, Tony</option>
+
+
+      <option value="/vs/gervais-martin#middaugh-wayne">Gervais, Martin</option>
+
+
+      <option value="/vs/gibson-andrew#middaugh-wayne">Gibson, Andrew</option>
+
+
+      <option value="/vs/gorveatt-philip#middaugh-wayne">Gorveatt, Philip</option>
+
+
+      <option value="/vs/goss-glenn#middaugh-wayne">Goss, Glenn</option>
+
+
+      <option value="/vs/gould-steve#middaugh-wayne">Gould, Steve</option>
+
+
+      <option value="/vs/grant-scott#middaugh-wayne">Grant, Scott</option>
+
+
+      <option value="/vs/grattan-james#middaugh-wayne">Grattan, James</option>
+
+
+      <option value="/vs/gretzinger-bert#middaugh-wayne">Gretzinger, Bert</option>
+
+
+      <option value="/vs/griffith-tyrel#middaugh-wayne">Griffith, Tyrel</option>
+
+
+      <option value="/vs/grundy-john#middaugh-wayne">Grundy, John</option>
+
+
+      <option value="/vs/gudereit-kerry#middaugh-wayne">Gudereit, Kerry</option>
+
+
+      <option value="/vs/gunnlaugson-jason#middaugh-wayne">Gunnlaugson, Jason</option>
+
+
+      <option value="/vs/gushue-brad#middaugh-wayne">Gushue, Brad</option>
+
+
+      <option value="/vs/hackner-al#middaugh-wayne">Hackner, Al</option>
+
+
+      <option value="/vs/hagen-brandon#middaugh-wayne">Hagen, Brandon</option>
+
+
+      <option value="/vs/haichert-chris#middaugh-wayne">Haichert, Chris</option>
+
+
+      <option value="/vs/haines-chuck#middaugh-wayne">Haines, Chuck</option>
+
+
+      <option value="/vs/hamilton-andrew#middaugh-wayne">Hamilton, Andrew</option>
+
+
+      <option value="/vs/hamilton-wayne#middaugh-wayne">Hamilton, Wayne</option>
+
+
+      <option value="/vs/hannah-brad#middaugh-wayne">Hannah, Brad</option>
+
+
+      <option value="/vs/harcourt-doug#middaugh-wayne">Harcourt, Doug</option>
+
+
+      <option value="/vs/harcourt-greg#middaugh-wayne">Harcourt, Greg</option>
+
+
+      <option value="/vs/harnden-e-j#middaugh-wayne">Harnden, E.J.</option>
+
+
+      <option value="/vs/harnden-ryan#middaugh-wayne">Harnden, Ryan</option>
+
+
+      <option value="/vs/harris-mike#middaugh-wayne">Harris, Mike</option>
+
+
+      <option value="/vs/harris-rob#middaugh-wayne">Harris, Rob</option>
+
+
+      <option value="/vs/harris-tom#middaugh-wayne">Harris, Tom</option>
+
+
+      <option value="/vs/harris-tyler#middaugh-wayne">Harris, Tyler</option>
+
+
+      <option value="/vs/harrison-neil#middaugh-wayne">Harrison, Neil</option>
+
+
+      <option value="/vs/hart-richard#middaugh-wayne">Hart, Richard</option>
+
+
+      <option value="/vs/harvey-don#middaugh-wayne">Harvey, Don</option>
+
+
+      <option value="/vs/hebert-ben#middaugh-wayne">Hebert, Ben</option>
+
+
+      <option value="/vs/hebert-brad#middaugh-wayne">Hebert, Brad</option>
+
+
+      <option value="/vs/hemmings-guy#middaugh-wayne">Hemmings, Guy</option>
+
+
+      <option value="/vs/henderson-jeffrey#middaugh-wayne">Henderson, Jeffrey</option>
+
+
+      <option value="/vs/henderson-scott#middaugh-wayne">Henderson, Scott</option>
+
+
+      <option value="/vs/hipkin-rich#middaugh-wayne">Hipkin, Rich</option>
+
+
+      <option value="/vs/hodgson-colin#middaugh-wayne">Hodgson, Colin</option>
+
+
+      <option value="/vs/horning-deane#middaugh-wayne">Horning, Deane</option>
+
+
+      <option value="/vs/howard-glenn#middaugh-wayne">Howard, Glenn</option>
+
+
+      <option value="/vs/howard-russ#middaugh-wayne">Howard, Russ</option>
+
+
+      <option value="/vs/howard-scott#middaugh-wayne">Howard, Scott</option>
+
+
+      <option value="/vs/howard-steven#middaugh-wayne">Howard, Steven</option>
+
+
+      <option value="/vs/iskiw-blayne#middaugh-wayne">Iskiw, Blayne</option>
+
+
+      <option value="/vs/iverson-dave#middaugh-wayne">Iverson, Dave</option>
+
+
+      <option value="/vs/jackson-glen#middaugh-wayne">Jackson, Glen</option>
+
+
+      <option value="/vs/jacobs-brad#middaugh-wayne">Jacobs, Brad</option>
+
+
+      <option value="/vs/jakubo-mike#middaugh-wayne">Jakubo, Mike</option>
+
+
+      <option value="/vs/jantzen-mike#middaugh-wayne">Jantzen, Mike</option>
+
+
+      <option value="/vs/joanisse-dean#middaugh-wayne">Joanisse, Dean</option>
+
+
+      <option value="/vs/johnston-steve#middaugh-wayne">Johnston, Steve</option>
+
+
+      <option value="/vs/johnston-wade#middaugh-wayne">Johnston, Wade</option>
+
+
+      <option value="/vs/jones-brennen#middaugh-wayne">Jones, Brennen</option>
+
+
+      <option value="/vs/jones-dave#middaugh-wayne">Jones, Dave</option>
+
+
+      <option value="/vs/jones-scott#middaugh-wayne">Jones, Scott</option>
+
+
+      <option value="/vs/jordison-joel#middaugh-wayne">Jordison, Joel</option>
+
+
+      <option value="/vs/kalthoff-kevin#middaugh-wayne">Kalthoff, Kevin</option>
+
+
+      <option value="/vs/karrys-george#middaugh-wayne">Karrys, George</option>
+
+
+      <option value="/vs/kawaja-john#middaugh-wayne">Kawaja, John</option>
+
+
+      <option value="/vs/keefe-kevin#middaugh-wayne">Keefe, Kevin</option>
+
+
+      <option value="/vs/kennedy-marc#middaugh-wayne">Kennedy, Marc</option>
+
+
+      <option value="/vs/kennedy-mike#middaugh-wayne">Kennedy, Mike</option>
+
+
+      <option value="/vs/kent-gerry#middaugh-wayne">Kent, Gerry</option>
+
+
+      <option value="/vs/kidby-dustin#middaugh-wayne">Kidby, Dustin</option>
+
+
+      <option value="/vs/kieley-phil#middaugh-wayne">Kieley, Phil</option>
+
+
+      <option value="/vs/kijewski-kelly#middaugh-wayne">Kijewski, Kelly</option>
+
+
+      <option value="/vs/kilgallen-shane#middaugh-wayne">Kilgallen, Shane</option>
+
+
+      <option value="/vs/kirkness-james#middaugh-wayne">Kirkness, James</option>
+
+
+      <option value="/vs/koe-jamie#middaugh-wayne">Koe, Jamie</option>
+
+
+      <option value="/vs/koe-kevin#middaugh-wayne">Koe, Kevin</option>
+
+
+      <option value="/vs/kopf-steve#middaugh-wayne">Kopf, Steve</option>
+
+
+      <option value="/vs/korab-jamie#middaugh-wayne">Korab, Jamie</option>
+
+
+      <option value="/vs/kushnir-warren#middaugh-wayne">Kushnir, Warren</option>
+
+
+      <option value="/vs/lacey-jeff#middaugh-wayne">Lacey, Jeff</option>
+
+
+      <option value="/vs/lafleur-andre#middaugh-wayne">Lafleur, Andre</option>
+
+
+      <option value="/vs/laing-brent#middaugh-wayne">Laing, Brent</option>
+
+
+      <option value="/vs/landry-garry#middaugh-wayne">Landry, Garry</option>
+
+
+      <option value="/vs/lang-rick#middaugh-wayne">Lang, Rick</option>
+
+
+      <option value="/vs/lang-tyler#middaugh-wayne">Lang, Tyler</option>
+
+
+      <option value="/vs/langdon-dennis#middaugh-wayne">Langdon, Dennis</option>
+
+
+      <option value="/vs/lappalainen-art#middaugh-wayne">Lappalainen, Art</option>
+
+
+      <option value="/vs/laycock-steve#middaugh-wayne">Laycock, Steve</option>
+
+
+      <option value="/vs/leclair-bob#middaugh-wayne">LeClair, Bob</option>
+
+
+      <option value="/vs/lecocq-marc#middaugh-wayne">LeCocq, Marc</option>
+
+
+      <option value="/vs/lecocq-vance#middaugh-wayne">LeCocq, Vance</option>
+
+
+      <option value="/vs/ledgerwood-sean#middaugh-wayne">Ledgerwood, Sean</option>
+
+
+      <option value="/vs/lemay-jean-yves#middaugh-wayne">Lemay, Jean-Yves</option>
+
+
+      <option value="/vs/lemery-daniel#middaugh-wayne">Lemery, Daniel</option>
+
+
+      <option value="/vs/lewis-wayne#middaugh-wayne">Lewis, Wayne</option>
+
+
+      <option value="/vs/loevenmark-phil#middaugh-wayne">Loevenmark, Phil</option>
+
+
+      <option value="/vs/lohnes-bruce#middaugh-wayne">Lohnes, Bruce</option>
+
+
+      <option value="/vs/lowe-wayne#middaugh-wayne">Lowe, Wayne</option>
+
+
+      <option value="/vs/lukowich-ed#middaugh-wayne">Lukowich, Ed</option>
+
+
+      <option value="/vs/lyburn-allan#middaugh-wayne">Lyburn, Allan</option>
+
+
+      <option value="/vs/lyburn-william#middaugh-wayne">Lyburn, William</option>
+
+
+      <option value="/vs/macdonald-blake#middaugh-wayne">MacDonald, Blake</option>
+
+
+      <option value="/vs/macdonald-brent#middaugh-wayne">MacDonald, Brent</option>
+
+
+      <option value="/vs/macdonald-peter#middaugh-wayne">MacDonald, Peter</option>
+
+
+      <option value="/vs/macdonald-rod#middaugh-wayne">MacDonald, Rod</option>
+
+
+      <option value="/vs/macfadyen-alex#middaugh-wayne">MacFadyen, Alex</option>
+
+
+      <option value="/vs/macfadyen-bill#middaugh-wayne">MacFadyen, Bill</option>
+
+
+      <option value="/vs/macfadyen-ted#middaugh-wayne">MacFadyen, Ted</option>
+
+
+      <option value="/vs/mackenzie-eddie#middaugh-wayne">MacKenzie, Eddie</option>
+
+
+      <option value="/vs/mackenzie-tyler#middaugh-wayne">MacKenzie, Tyler</option>
+
+
+      <option value="/vs/maclean-rob#middaugh-wayne">MacLean, Rob</option>
+
+
+      <option value="/vs/maclean-stuart#middaugh-wayne">MacLean, Stuart</option>
+
+
+      <option value="/vs/macleod-glen#middaugh-wayne">MacLeod, Glen</option>
+
+
+      <option value="/vs/manners-scott#middaugh-wayne">Manners, Scott</option>
+
+
+      <option value="/vs/martin-karrick#middaugh-wayne">Martin, Karrick</option>
+
+
+      <option value="/vs/martin-kevin#middaugh-wayne">Martin, Kevin</option>
+
+
+      <option value="/vs/mathers-david#middaugh-wayne">Mathers, David</option>
+
+
+      <option value="/vs/maurice-jean#middaugh-wayne">Maurice, Jean</option>
+
+
+      <option value="/vs/maxie-fred#middaugh-wayne">Maxie, Fred</option>
+
+
+      <option value="/vs/mayne-dave#middaugh-wayne">Mayne, Dave</option>
+
+
+      <option value="/vs/mcaulay-greg#middaugh-wayne">McAulay, Greg</option>
+
+
+      <option value="/vs/mccann-andy#middaugh-wayne">McCann, Andy</option>
+
+
+      <option value="/vs/mcclelland-john#middaugh-wayne">McClelland, John</option>
+
+
+      <option value="/vs/mccusker-brian#middaugh-wayne">McCusker, Brian</option>
+
+
+      <option value="/vs/mcdermaid-donald#middaugh-wayne">McDermaid, Donald</option>
+
+
+      <option value="/vs/mcdonald-toby#middaugh-wayne">McDonald, Toby</option>
+
+
+      <option value="/vs/mcewen-mike#middaugh-wayne">McEwen, Mike</option>
+
+
+      <option value="/vs/mcgregor-ken#middaugh-wayne">McGregor, Ken</option>
+
+
+      <option value="/vs/mchargue-ken#middaugh-wayne">McHargue, Ken</option>
+
+
+      <option value="/vs/mcinnis-phillip#middaugh-wayne">McInnis, Phillip</option>
+
+
+      <option value="/vs/mckinnon-robert#middaugh-wayne">Mckinnon, Robert</option>
+
+
+      <option value="/vs/mead-jon#middaugh-wayne">Mead, Jon</option>
+
+
+      <option value="/vs/meakin-rob#middaugh-wayne">Meakin, Rob</option>
+
+
+      <option value="/vs/mellof-david#middaugh-wayne">Mellof, David</option>
+
+
+      <option value="/vs/melnichuk-greg#middaugh-wayne">Melnichuk, Greg</option>
+
+
+      <option value="/vs/melville-bruce#middaugh-wayne">Melville, Bruce</option>
+
+
+      <option value="/vs/menard-jean-michel#middaugh-wayne">Menard, Jean-Michel</option>
+
+
+      <option value="/vs/menard-philippe#middaugh-wayne">Menard, Philippe</option>
+
+
+      <option value="/vs/middaugh-wayne#mihalicz-dwayne">Mihalicz, Dwayne</option>
+
+
+      <option value="/vs/middaugh-wayne#miki-bryan">Miki, Bryan</option>
+
+
+      <option value="/vs/middaugh-wayne#mikkelsen-dustin">Mikkelsen, Dustin</option>
+
+
+      <option value="/vs/middaugh-wayne#mitchell-collin">Mitchell, Collin</option>
+
+
+      <option value="/vs/middaugh-wayne#mitchell-garth">Mitchell, Garth</option>
+
+
+      <option value="/vs/middaugh-wayne#mitchell-gary">Mitchell, Gary</option>
+
+
+      <option value="/vs/middaugh-wayne#mittelstadt-kelly">Mittelstadt, Kelly</option>
+
+
+      <option value="/vs/middaugh-wayne#moffatt-paul">Moffatt, Paul</option>
+
+
+      <option value="/vs/middaugh-wayne#monkman-greg">Monkman, Greg</option>
+
+
+      <option value="/vs/middaugh-wayne#montgomery-rod">Montgomery, Rod</option>
+
+
+      <option value="/vs/middaugh-wayne#morris-john">Morris, John</option>
+
+
+      <option value="/vs/middaugh-wayne#moshenko-darcy">Moshenko, Darcy</option>
+
+
+      <option value="/vs/middaugh-wayne#moshenko-jaret">Moshenko, Jaret</option>
+
+
+      <option value="/vs/middaugh-wayne#moskowy-braeden">Moskowy, Braeden</option>
+
+
+      <option value="/vs/middaugh-wayne#moss-steve">Moss, Steve</option>
+
+
+      <option value="/vs/middaugh-wayne#moulding-darren">Moulding, Darren</option>
+
+
+      <option value="/vs/middaugh-wayne#munroe-steven">Munroe, Steven</option>
+
+
+      <option value="/vs/middaugh-wayne#murphy-jamie">Murphy, Jamie</option>
+
+
+      <option value="/vs/middaugh-wayne#muyres-dallan">Muyres, Dallan</option>
+
+
+      <option value="/vs/middaugh-wayne#muyres-kirk">Muyres, Kirk</option>
+
+
+      <option value="/vs/middaugh-wayne#naugler-tom">Naugler, Tom</option>
+
+
+      <option value="/vs/middaugh-wayne#nedohin-david">Nedohin, David</option>
+
+
+      <option value="/vs/middaugh-wayne#nerpin-andrew">Nerpin, Andrew</option>
+
+
+      <option value="/vs/middaugh-wayne#ness-dale">Ness, Dale</option>
+
+
+      <option value="/vs/middaugh-wayne#neufeld-b-j">Neufeld, B.J.</option>
+
+
+      <option value="/vs/middaugh-wayne#neufeld-chris">Neufeld, Chris</option>
+
+
+      <option value="/vs/middaugh-wayne#neufeld-denni">Neufeld, Denni</option>
+
+
+      <option value="/vs/middaugh-wayne#nicholls-peter">Nicholls, Peter</option>
+
+
+      <option value="/vs/middaugh-wayne#nichols-mark">Nichols, Mark</option>
+
+
+      <option value="/vs/middaugh-wayne#njegovan-connor">Njegovan, Connor</option>
+
+
+      <option value="/vs/middaugh-wayne#nobert-rob">Nobert, Rob</option>
+
+
+      <option value="/vs/middaugh-wayne#noseworthy-mark">Noseworthy, Mark</option>
+
+
+      <option value="/vs/middaugh-wayne#novakowski-bob">Novakowski, Bob</option>
+
+
+      <option value="/vs/middaugh-wayne#o-connor-sean">O'Connor, Sean</option>
+
+
+      <option value="/vs/middaugh-wayne#o-driscoll-frank">O'Driscoll, Frank</option>
+
+
+      <option value="/vs/middaugh-wayne#o-leary-alan">O'Leary, Alan</option>
+
+
+      <option value="/vs/middaugh-wayne#o-rourke-mark">O'Rourke, Mark</option>
+
+
+      <option value="/vs/middaugh-wayne#odishaw-grant">Odishaw, Grant</option>
+
+
+      <option value="/vs/middaugh-wayne#odishaw-terry">Odishaw, Terry</option>
+
+
+      <option value="/vs/middaugh-wayne#oke-gary">Oke, Gary</option>
+
+
+      <option value="/vs/middaugh-wayne#ouimet-luc">Ouimet, Luc</option>
+
+
+      <option value="/vs/middaugh-wayne#park-kerry">Park, Kerry</option>
+
+
+      <option value="/vs/middaugh-wayne#park-kevin">Park, Kevin</option>
+
+
+      <option value="/vs/middaugh-wayne#park-shane">Park, Shane</option>
+
+
+      <option value="/vs/middaugh-wayne#patterson-scott">Patterson, Scott</option>
+
+
+      <option value="/vs/middaugh-wayne#patzer-brad">Patzer, Brad</option>
+
+
+      <option value="/vs/middaugh-wayne#peech-alexander">Peech, Alexander</option>
+
+
+      <option value="/vs/middaugh-wayne#perozak-brian">Perozak, Brian</option>
+
+
+      <option value="/vs/middaugh-wayne#perron-rick">Perron, Rick</option>
+
+
+      <option value="/vs/middaugh-wayne#perroud-pat">Perroud, Pat</option>
+
+
+      <option value="/vs/middaugh-wayne#peters-vic">Peters, Vic</option>
+
+
+      <option value="/vs/middaugh-wayne#petryk-dan">Petryk, Dan</option>
+
+
+      <option value="/vs/middaugh-wayne#petryk-steve">Petryk, Steve</option>
+
+
+      <option value="/vs/middaugh-wayne#pfeifer-scott">Pfeifer, Scott</option>
+
+
+      <option value="/vs/middaugh-wayne#philip-dan">Philip, Dan</option>
+
+
+      <option value="/vs/middaugh-wayne#pielak-rod">Pielak, Rod</option>
+
+
+      <option value="/vs/middaugh-wayne#pierce-brent">Pierce, Brent</option>
+
+
+      <option value="/vs/middaugh-wayne#piggott-steve">Piggott, Steve</option>
+
+
+      <option value="/vs/middaugh-wayne#pinder-jordan">Pinder, Jordan</option>
+
+
+      <option value="/vs/middaugh-wayne#pineau-larry">Pineau, Larry</option>
+
+
+      <option value="/vs/middaugh-wayne#pinsent-garry">Pinsent, Garry</option>
+
+
+      <option value="/vs/middaugh-wayne#porter-geoff">Porter, Geoff</option>
+
+
+      <option value="/vs/middaugh-wayne#powell-lloyd">Powell, Lloyd</option>
+
+
+      <option value="/vs/middaugh-wayne#ramcharan-rudy">Ramcharan, Rudy</option>
+
+
+      <option value="/vs/middaugh-wayne#rathje-larry">Rathje, Larry</option>
+
+
+      <option value="/vs/middaugh-wayne#ravndal-clayton">Ravndal, Clayton</option>
+
+
+      <option value="/vs/middaugh-wayne#reddick-don">Reddick, Don</option>
+
+
+      <option value="/vs/middaugh-wayne#reed-tom">Reed, Tom</option>
+
+
+      <option value="/vs/middaugh-wayne#richard-gerry">Richard, Gerry</option>
+
+
+      <option value="/vs/middaugh-wayne#richter-justin">Richter, Justin</option>
+
+
+      <option value="/vs/middaugh-wayne#roach-darren">Roach, Darren</option>
+
+
+      <option value="/vs/middaugh-wayne#roach-jason">Roach, Jason</option>
+
+
+      <option value="/vs/middaugh-wayne#roberge-francois">Roberge, Francois</option>
+
+
+      <option value="/vs/middaugh-wayne#robertson-richard">Robertson, Richard</option>
+
+
+      <option value="/vs/middaugh-wayne#rocque-marcel">Rocque, Marcel</option>
+
+
+      <option value="/vs/middaugh-wayne#rogers-les">Rogers, Les</option>
+
+
+      <option value="/vs/middaugh-wayne#rowe-gary">Rowe, Gary</option>
+
+
+      <option value="/vs/middaugh-wayne#roy-jean-sebastien">Roy, Jean-Sebastien</option>
+
+
+      <option value="/vs/middaugh-wayne#rudd-don">Rudd, Don</option>
+
+
+      <option value="/vs/middaugh-wayne#ryan-don">Ryan, Don</option>
+
+
+      <option value="/vs/middaugh-wayne#ryan-jeff">Ryan, Jeff</option>
+
+
+      <option value="/vs/middaugh-wayne#ryan-keith">Ryan, Keith</option>
+
+
+      <option value="/vs/middaugh-wayne#ryan-mike">Ryan, Mike</option>
+
+
+      <option value="/vs/middaugh-wayne#ryan-pat">Ryan, Pat</option>
+
+
+      <option value="/vs/middaugh-wayne#rycroft-carter">Rycroft, Carter</option>
+
+
+      <option value="/vs/middaugh-wayne#salina-charlie">Salina, Charlie</option>
+
+
+      <option value="/vs/middaugh-wayne#samagalski-derek">Samagalski, Derek</option>
+
+
+      <option value="/vs/middaugh-wayne#savill-craig">Savill, Craig</option>
+
+
+      <option value="/vs/middaugh-wayne#sawatsky-rick">Sawatsky, Rick</option>
+
+
+      <option value="/vs/middaugh-wayne#scharf-joe">Scharf, Joe</option>
+
+
+      <option value="/vs/middaugh-wayne#schiewe-calvin">Schiewe, Calvin</option>
+
+
+      <option value="/vs/middaugh-wayne#schille-chris">Schille, Chris</option>
+
+
+      <option value="/vs/middaugh-wayne#schoenne-klaus">Schoenne, Klaus</option>
+
+
+      <option value="/vs/middaugh-wayne#seabrook-scott">Seabrook, Scott</option>
+
+
+      <option value="/vs/middaugh-wayne#semen-jerry">Semen, Jerry</option>
+
+
+      <option value="/vs/middaugh-wayne#sharp-jeff">Sharp, Jeff</option>
+
+
+      <option value="/vs/middaugh-wayne#sharp-warren">Sharp, Warren</option>
+
+
+      <option value="/vs/middaugh-wayne#shypitka-tom">Shypitka, Tom</option>
+
+
+      <option value="/vs/middaugh-wayne#simmons-pat">Simmons, Pat</option>
+
+
+      <option value="/vs/middaugh-wayne#sinclair-rob">Sinclair, Rob</option>
+
+
+      <option value="/vs/middaugh-wayne#skanes-robert">Skanes, Robert</option>
+
+
+      <option value="/vs/middaugh-wayne#skauge-greg">Skauge, Greg</option>
+
+
+      <option value="/vs/middaugh-wayne#smith-dave">Smith, Dave</option>
+
+
+      <option value="/vs/middaugh-wayne#smith-garth">Smith, Garth</option>
+
+
+      <option value="/vs/middaugh-wayne#smith-kent">Smith, Kent</option>
+
+
+      <option value="/vs/middaugh-wayne#solberg-jon">Solberg, Jon</option>
+
+
+      <option value="/vs/middaugh-wayne#sosiak-jim">Sosiak, Jim</option>
+
+
+      <option value="/vs/middaugh-wayne#spencer-jim">Spencer, Jim</option>
+
+
+      <option value="/vs/middaugh-wayne#stambaugh-doug">Stambaugh, Doug</option>
+
+
+      <option value="/vs/middaugh-wayne#stokes-lionel">Stokes, Lionel</option>
+
+
+      <option value="/vs/middaugh-wayne#stoughton-jeff">Stoughton, Jeff</option>
+
+
+      <option value="/vs/middaugh-wayne#sulimma-hardi">Sulimma, Hardi</option>
+
+
+      <option value="/vs/middaugh-wayne#sullivan-charles-jr">Sullivan, Charles Jr.</option>
+
+
+      <option value="/vs/middaugh-wayne#sullivan-jim">Sullivan, Jim</option>
+
+
+      <option value="/vs/middaugh-wayne#sullivan-tommy">Sullivan, Tommy</option>
+
+
+      <option value="/vs/middaugh-wayne#sveistrup-jody">Sveistrup, Jody</option>
+
+
+      <option value="/vs/middaugh-wayne#sylvain-eric">Sylvain, Eric</option>
+
+
+      <option value="/vs/middaugh-wayne#tait-jeff">Tait, Jeff</option>
+
+
+      <option value="/vs/middaugh-wayne#tervo-randy">Tervo, Randy</option>
+
+
+      <option value="/vs/middaugh-wayne#tetley-ross">Tetley, Ross</option>
+
+
+      <option value="/vs/middaugh-wayne#thibaudeau-guy">Thibaudeau, Guy</option>
+
+
+      <option value="/vs/middaugh-wayne#thiessen-brad">Thiessen, Brad</option>
+
+
+      <option value="/vs/middaugh-wayne#thiessen-nolan">Thiessen, Nolan</option>
+
+
+      <option value="/vs/middaugh-wayne#thomas-rob">Thomas, Rob</option>
+
+
+      <option value="/vs/middaugh-wayne#thompson-ron">Thompson, Ron</option>
+
+
+      <option value="/vs/middaugh-wayne#thomson-fred">Thomson, Fred</option>
+
+
+      <option value="/vs/middaugh-wayne#toner-lee">Toner, Lee</option>
+
+
+      <option value="/vs/middaugh-wayne#tresoor-ken">Tresoor, Ken</option>
+
+
+      <option value="/vs/middaugh-wayne#trickett-eugene">Trickett, Eugene</option>
+
+
+      <option value="/vs/middaugh-wayne#tuson-jay">Tuson, Jay</option>
+
+
+      <option value="/vs/middaugh-wayne#ursel-bob">Ursel, Bob</option>
+
+
+      <option value="/vs/middaugh-wayne#van-den-berghe-garry">Van Den Berghe, Garry</option>
+
+
+      <option value="/vs/middaugh-wayne#van-dine-steve">Van Dine, Steve</option>
+
+
+      <option value="/vs/middaugh-wayne#vaughan-jason">Vaughan, Jason</option>
+
+
+      <option value="/vs/middaugh-wayne#villeneuve-steeve">Villeneuve, Steeve</option>
+
+
+      <option value="/vs/middaugh-wayne#virtue-brock">Virtue, Brock</option>
+
+
+      <option value="/vs/middaugh-wayne#walchuk-don">Walchuk, Don</option>
+
+
+      <option value="/vs/middaugh-wayne#walker-geoff">Walker, Geoff</option>
+
+
+      <option value="/vs/middaugh-wayne#walsh-jim">Walsh, Jim</option>
+
+
+      <option value="/vs/middaugh-wayne#watson-aaron">Watson, Aaron</option>
+
+
+      <option value="/vs/middaugh-wayne#wempe-brian">Wempe, Brian</option>
+
+
+      <option value="/vs/middaugh-wayne#werenich-ed">Werenich, Ed</option>
+
+
+      <option value="/vs/middaugh-wayne#westlund-mike">Westlund, Mike</option>
+
+
+      <option value="/vs/middaugh-wayne#westphal-don">Westphal, Don</option>
+
+
+      <option value="/vs/middaugh-wayne#whittle-mark">Whittle, Mark</option>
+
+
+      <option value="/vs/middaugh-wayne#wiersema-dale">Wiersema, Dale</option>
+
+
+      <option value="/vs/middaugh-wayne#withers-paul">Withers, Paul</option>
+
+
+      <option value="/vs/middaugh-wayne#woytowich-randy">Woytowich, Randy</option>
+
+
+      <option value="/vs/middaugh-wayne#wozniak-matt">Wozniak, Matt</option>
+
+
+      <option value="/vs/middaugh-wayne#xidos-george">Xidos, George</option>
+
+
+      <option value="/vs/middaugh-wayne#young-neil">Young, Neil</option>
+
+
+      <option value="/vs/middaugh-wayne#zawada-braden">Zawada, Braden</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

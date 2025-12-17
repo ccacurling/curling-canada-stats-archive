@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>About
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+<h1 id="about-the-curling-canada-stats-archive">About the Curling Canada Stats Archive</h1>
+
+<p>This is the official site for player career statistics across Curling Canada events. The initial focus is on Brier and Hearts events, but will hopefully be expanded over time.</p>
+
+<p>Note: There are no detailed statistics available for the 1982 Brier.</p>
+
+<p>If anyone has detailed statistics information from this Brier era, Curling Canada would like to incorporate that into this site. Contact <a href="mailto:bcassidy@curling.ca">bcassidy@curling.ca</a>.</p>
+
+<h2 id="credits">Credits</h2>
+
+<p>Data - Brian Cassidy Sr.</p>
+
+<p>Site - Brian Cassidy Jr.</p>
+
+<p>Curling Canada gratefully acknowledges contributions to this archive from the following individuals:</p>
+
+<p>Terry Begin</p>
+
+<p>Al Cameron</p>
+
+<p>Soupy Campbell</p>
+
+<p>Arleen Day</p>
+
+<p>Kyle Jahns</p>
+
+<p>Stella Keays</p>
+
+<p>Connie Laliberte</p>
+
+<p>Dave Thomas</p>
+
+<h2 id="changelog">Changelog</h2>
+
+<h3 id="2025-12-16">2025-12-16</h3>
+
+<ul>
+  <li>Added 2025 Trials (Women) data.</li>
+  <li>Added 2025 Trials (Men) data.</li>
+</ul>
+
+<h3 id="2025-03-13">2025-03-13</h3>
+
+<ul>
+  <li>Added 2025 Brier data.</li>
+</ul>
+
+<h3 id="2025-03-10">2025-03-10</h3>
+
+<ul>
+  <li>Added 2025 Hearts data.</li>
+</ul>
+
+<h3 id="2024-03-28">2024-03-28</h3>
+
+<ul>
+  <li>Added 2024 Brier data.</li>
+</ul>
+
+<h3 id="2024-02-27">2024-02-27</h3>
+
+<ul>
+  <li>Added 2024 Hearts data.</li>
+</ul>
+
+<h3 id="2023-07-11">2023-07-11</h3>
+
+<ul>
+  <li>Added a note for players with positional data that were alternates in the initial lineup.</li>
+</ul>
+
+<h3 id="2023-04-03">2023-04-03</h3>
+
+<ul>
+  <li>Added 2023 Brier data.</li>
+</ul>
+
+<h3 id="2023-03-23">2023-03-23</h3>
+
+<ul>
+  <li>Updates to Macdonald Brier data.</li>
+  <li>Updates to Trials (Women) data.</li>
+  <li>Added 2023 Hearts data.</li>
+</ul>
+
+<h3 id="2022-11-16">2022-11-16</h3>
+
+<ul>
+  <li>Added Canadian Women’s data (1961-1981)</li>
+</ul>
+
+<h3 id="2022-03-25">2022-03-25</h3>
+
+<ul>
+  <li>Added 2022 Brier data.</li>
+</ul>
+
+<h3 id="2022-02-09">2022-02-09</h3>
+
+<ul>
+  <li>Added 2022 Hearts data.</li>
+</ul>
+
+<h3 id="2021-12-03">2021-12-03</h3>
+
+<ul>
+  <li>Added 2021 Trials (Men &amp; Women) data.</li>
+</ul>
+
+<h3 id="2021-09-07">2021-09-07</h3>
+
+<ul>
+  <li>Added stats for 1981, 1983 and 1984 Briers.</li>
+</ul>
+
+<h3 id="2021-03-18">2021-03-18</h3>
+
+<ul>
+  <li>Added 2021 Brier data.</li>
+  <li>Misc fixes across all mens events.</li>
+</ul>
+
+<h3 id="2021-03-12">2021-03-12</h3>
+
+<ul>
+  <li>Added 2021 Hearts data.</li>
+  <li>Misc fixes across all womens events.</li>
+</ul>
+
+<h3 id="2021-02-19">2021-02-19</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1970-1979).</li>
+</ul>
+
+<h3 id="2021-02-06">2021-02-06</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1960-1969).</li>
+</ul>
+
+<h3 id="2021-02-02">2021-02-02</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1950-1959).</li>
+</ul>
+
+<h3 id="2021-01-26">2021-01-26</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1940-1949). Note: 1943-1945 were not played due to WWII.</li>
+</ul>
+
+<h3 id="2021-01-21">2021-01-21</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1930-1939).</li>
+</ul>
+
+<h3 id="2020-11-02">2020-11-02</h3>
+
+<ul>
+  <li>Added Macdonald Brier data (1927-1929).</li>
+</ul>
+
+<h3 id="2020-05-27">2020-05-27</h3>
+
+<ul>
+  <li>Added Canada Cup (Men &amp; Women) data (2003-2019).</li>
+</ul>
+
+<h3 id="2020-04-30">2020-04-30</h3>
+
+<ul>
+  <li>Added 2020 Brier and Hearts data.</li>
+</ul>
+
+<h3 id="2020-02-21">2020-02-21</h3>
+
+<ul>
+  <li>Show draw dates &amp; times when available.</li>
+  <li>Fixed trials draw data &amp; display.</li>
+</ul>
+
+<h3 id="2019-07-25">2019-07-25</h3>
+
+<ul>
+  <li>Added Trials (Men &amp; Women) data (1997-2017).</li>
+</ul>
+
+<h3 id="2019-07-10">2019-07-10</h3>
+
+<ul>
+  <li>Fixed standings lists for years with only 1 pool.</li>
+  <li>Fixed totals for players who only played 1 year.</li>
+  <li>Added a note about the lack of detailed statistics for Briers from 81-84.</li>
+</ul>
+
+<h3 id="2019-06-18">2019-06-18</h3>
+
+<ul>
+  <li>Added 2019 Brier and Hearts data.</li>
+</ul>
+
+<h3 id="2019-02-19">2019-02-19</h3>
+
+<ul>
+  <li>Added “vs” shortcut selector to player pages.</li>
+</ul>
+
+<h3 id="2019-02-15">2019-02-15</h3>
+
+<ul>
+  <li>Added “Top Career Wins” for Brier and Hearts records.</li>
+</ul>
+
+<h3 id="2019-02-11">2019-02-11</h3>
+
+<ul>
+  <li>New version launched!</li>
+</ul>
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1380 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFY1MZN846"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CFY1MZN846');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#4188c9">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <title>Connie Laliberte
+ - Curling Canada Stats Archive</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
+    <script src="/assets/js/require.min.js"></script>
+    <script>
+      requirejs.config({
+          baseUrl: '/'
+      });
+    </script>
+    <!-- Dashboard Core -->
+    <link href="/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="/assets/js/dashboard.js"></script>
+    <!-- c3.js Charts Plugin -->
+    <link href="/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/charts-c3/plugin.js"></script>
+    <!-- Google Maps Plugin -->
+    <link href="/assets/plugins/maps-google/plugin.css" rel="stylesheet" />
+    <script src="/assets/plugins/maps-google/plugin.js"></script>
+    <!-- Input Mask Plugin -->
+    <script src="/assets/plugins/input-mask/plugin.js"></script>
+    <link href="/assets/css/curling.css" rel="stylesheet" />
+    <!-- Players -->
+    <link href="/assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="/assets/js/players.js"></script>
+    <!-- Vs. -->
+    <script src="/assets/js/vs.js"></script>
+    <!-- Max -->
+    <script src="/assets/js/max.js"></script>
+  </head>
+  <body>
+
+    <div class="page">
+      <div class="page-main">
+        <div class="header py-4">
+          <div class="container-fluid">
+            <div class="d-flex">
+              <a class="header-brand" href="/">
+                <img src="/favicon.png" class="header-brand-img" alt="Curling Canada"> Curling Canada Stats Archive
+              </a>
+              <a href="#" class="header-toggler d-lg-none ml-auto" data-toggle="collapse" data-target="#headerMenuCollapse">
+                <span class="header-toggler-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
+          <div class="container-fluid">
+            <div class="row align-items-center">
+              <div class="col-lg">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item">
+                    <a href="/" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Macdonald Brier (1927-1979)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/macdonald-brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/macdonald-brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/macdonald-brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Brier (1980-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/brier" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/brier/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/brier/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canadian Women (1961-1981)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/canadian-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/canadian-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/canadian-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Hearts (1982-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <a href="/hearts" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/hearts/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/hearts/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Trials (1997-2025)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/trials-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/trials-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/trials-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/trials-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-database"></i> Canada Cup (2003-2019)</a>
+                    <div class="dropdown-menu dropdown-menu-arrow">
+                      <div class="dropdown-header">Men</div>
+                      <a href="/cancup-men" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-men/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-men/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                      <div class="dropdown-divider"></div>
+                      <div class="dropdown-header">Women</div>
+                      <a href="/cancup-women" class="dropdown-item "><i class="fe fe-calendar"></i> Results by Year</a>
+                      <a href="/cancup-women/records" class="dropdown-item "><i class="fe fe-award"></i> Records</a>
+                      <a href="/cancup-women/roster" class="dropdown-item "><i class="fe fe-user"></i> Player Roster</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-2 ml-auto">
+                <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
+                  <li class="nav-item" id="vs-wrapper">
+                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><span class="avatar avatar-gray">vs<span class="avatar-status"></span></span></a>
+                    <div class="dropdown-menu dropdown-menu-arrow" style="width:300px;">
+                      <p class="px-3 pb-2" style="border-bottom: 1px solid rgba(0, 40, 100, 0.12);">Head-to-Head</p>
+                      <div class="px-2 py-2 text-center">
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player1-default">Player 1</span>
+                        <span class="vs" id="vs-player1-selected"><span id="vs-player1-name"></span> <i class="fa fa-times text-danger"></i></span>
+                        <div class="my-3">
+                          <span class="avatar avatar-gray-dark my-3">vs</span>
+                        </div>
+                        <span class="avatar avatar-placeholder"></span>
+                        <span class="vs font-italic" id="vs-player2-default">Player 2</span>
+                        <span class="vs" id="vs-player2-selected"><span id="vs-player2-name"></span> <i class="fa fa-times text-danger"></i></span>
+                      </div>
+                      <div class="px-3 pt-2" style="border-top: 1px solid rgba(0, 40, 100, 0.12);">
+                        <div class="text-center font-italic vs-status" id="vs-status-default">Select two players from any roster page to compare them head-to-head.</div>
+                        <div class="text-center text-danger vs-status" id="vs-status-fail">These two players have not played head-to-head.</div>
+                        <div class="text-right vs-status" id="vs-status-view"><a class="btn btn-success">View</a></div>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/about" class="nav-link"><i class="fe fe-help-circle"></i> About</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3 ml-auto">
+                <form class="input-icon my-3 my-lg-0">
+                  <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
+                  <div class="dropdown-menu dropdown-menu-arrow" id="search-results">
+                    <div id="search-results-none" class="dropdown-item font-italic">No Results</div>
+                  </div>
+                  <div class="input-icon-addon">
+                    <i class="fe fe-search"></i>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="my-3 my-md-5">
+          <div class="container-fluid">
+
+<h1>Career Statistics for Connie Laliberte <i class="fe fe-user-plus" data-name="Laliberte, Connie" title="Select this player for head-to-head comparison"></i></h1>
+<table id="player" class="table table-striped table-hover datatable" data-order='[[0,"asc"],[1,"asc"],[2,"asc"]]' data-length-change="false" data-paging="false" data-searching="false" data-info="false"><thead><tr>
+<th rowspan="2">Year</th><th rowspan="2">Event</th><th rowspan="2">Team</th><th rowspan="2">Pos</th><th rowspan="2">Games</th><th rowspan="2">Wins</th><th rowspan="2">Losses</th>
+<th colspan="2">Inturns</th><th colspan="2">Outturns</th><th colspan="2">Draws</th><th colspan="2">Takeouts</th><th colspan="2">Totals</th></tr>
+<tr><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th><th>Qty</th><th>Pct</th></tr></thead>
+<tbody>
+
+<tr class="">
+
+  <td><a href="../canadian-women/1980">1980</a></td>
+  <td><a href="../canadian-women">Canadian Women</a></td>
+  <td data-order="MB"><a href="../canadian-women/team/mb">MB</a></td>
+
+  <td data-order="
+3
+
+">
+Lead</td>
+  <td>10</td>
+  <td>4</td>
+  <td>6</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1984">1984</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>12</td>
+  <td>10</td>
+  <td>2</td>
+  <td>90</td>
+  <td>79</td>
+  <td>130</td>
+  <td>74</td>
+  <td>113</td>
+  <td>72</td>
+  <td>107</td>
+  <td>81</td>
+  <td>220</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1992">1992</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>11</td>
+  <td>2</td>
+  <td>110</td>
+  <td>77</td>
+  <td>129</td>
+  <td>73</td>
+  <td>100</td>
+  <td>66</td>
+  <td>139</td>
+  <td>81</td>
+  <td>239</td>
+  <td>75</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1993">1993</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>11</td>
+  <td>6</td>
+  <td>5</td>
+  <td>112</td>
+  <td>81</td>
+  <td>93</td>
+  <td>77</td>
+  <td>96</td>
+  <td>75</td>
+  <td>109</td>
+  <td>83</td>
+  <td>205</td>
+  <td>80</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1994">1994</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>122</td>
+  <td>76</td>
+  <td>129</td>
+  <td>78</td>
+  <td>115</td>
+  <td>74</td>
+  <td>136</td>
+  <td>78</td>
+  <td>251</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1995">1995</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>12</td>
+  <td>1</td>
+  <td>106</td>
+  <td>79</td>
+  <td>134</td>
+  <td>79</td>
+  <td>106</td>
+  <td>77</td>
+  <td>134</td>
+  <td>80</td>
+  <td>240</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1996">1996</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="CA"><a href="../hearts/team/ca">CA</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>15</td>
+  <td>9</td>
+  <td>6</td>
+  <td>140</td>
+  <td>73</td>
+  <td>150</td>
+  <td>84</td>
+  <td>106</td>
+  <td>75</td>
+  <td>184</td>
+  <td>81</td>
+  <td>290</td>
+  <td>79</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/1999">1999</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>8</td>
+  <td>5</td>
+  <td>99</td>
+  <td>73</td>
+  <td>142</td>
+  <td>78</td>
+  <td>102</td>
+  <td>75</td>
+  <td>139</td>
+  <td>77</td>
+  <td>241</td>
+  <td>76</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../hearts/2000">2000</a></td>
+  <td><a href="../hearts">Hearts</a></td>
+  <td data-order="MB"><a href="../hearts/team/mb">MB</a></td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>13</td>
+  <td>9</td>
+  <td>4</td>
+  <td>116</td>
+  <td>74</td>
+  <td>124</td>
+  <td>81</td>
+  <td>105</td>
+  <td>74</td>
+  <td>135</td>
+  <td>80</td>
+  <td>240</td>
+  <td>77</td>
+</tr>
+
+<tr class="">
+
+  <td><a href="../trials-women/1997">1997</a></td>
+  <td><a href="../trials-women">Trials (Women)</a></td>
+  <td data-order="LAL">LAL</td>
+
+  <td data-order="
+0
+
+">
+Fourth</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>82</td>
+  <td>73</td>
+  <td>83</td>
+  <td>59</td>
+  <td>88</td>
+  <td>65</td>
+  <td>77</td>
+  <td>67</td>
+  <td>165</td>
+  <td>66</td>
+</tr>
+
+</tbody>
+<tfoot>
+
+
+<tr>
+  <td colspan="4">Canadian Women Totals</td>
+  <td>10</td>
+  <td>4</td>
+  <td>6</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="4">Hearts Totals</td>
+  <td>103</td>
+  <td>74</td>
+  <td>29</td>
+  <td>895</td>
+  <td>76</td>
+  <td>1031</td>
+  <td>78</td>
+  <td>843</td>
+  <td>74</td>
+  <td>1083</td>
+  <td>80</td>
+  <td>1926</td>
+  <td>77</td>
+</tr>
+
+<tr>
+  <td colspan="4">Trials (Women) Totals</td>
+  <td>9</td>
+  <td>3</td>
+  <td>6</td>
+  <td>82</td>
+  <td>73</td>
+  <td>83</td>
+  <td>59</td>
+  <td>88</td>
+  <td>65</td>
+  <td>77</td>
+  <td>67</td>
+  <td>165</td>
+  <td>66</td>
+</tr>
+
+
+</tfoot>
+</table>
+
+
+<h2>Head-to-Head</h2>
+<form class="form-inline" id="vs-select">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="oponent" class="sr-only">Opponent</label>
+    <select class="form-control form-control-lg">
+
+
+
+
+      <option value="/vs/affleck-tricia#laliberte-connie">Affleck, Tricia</option>
+
+
+      <option value="/vs/aleksic-shannon#laliberte-connie">Aleksic, Shannon</option>
+
+
+      <option value="/vs/alexander-donna#laliberte-connie">Alexander, Donna</option>
+
+
+      <option value="/vs/allen-michelle#laliberte-connie">Allen, Michelle</option>
+
+
+      <option value="/vs/anderson-sherry#laliberte-connie">Anderson, Sherry</option>
+
+
+      <option value="/vs/arsenault-mary-anne#laliberte-connie">Arsenault, Mary-Anne</option>
+
+
+      <option value="/vs/arseneau-jane#laliberte-connie">Arseneau, Jane</option>
+
+
+      <option value="/vs/aucoin-shelley#laliberte-connie">Aucoin, Shelley</option>
+
+
+      <option value="/vs/axford-lynne#laliberte-connie">Axford, Lynne</option>
+
+
+      <option value="/vs/baker-rose-marie#laliberte-connie">Baker, Rose-Marie</option>
+
+
+      <option value="/vs/bakker-glenys#laliberte-connie">Bakker, Glenys</option>
+
+
+      <option value="/vs/balderston-marcy#laliberte-connie">Balderston, Marcy</option>
+
+
+      <option value="/vs/barker-catherine#laliberte-connie">Barker, Catherine</option>
+
+
+      <option value="/vs/barrack-carmen#laliberte-connie">Barrack, Carmen</option>
+
+
+      <option value="/vs/barrette-peggy#laliberte-connie">Barrette, Peggy</option>
+
+
+      <option value="/vs/bartlett-sue-ann#laliberte-connie">Bartlett, Sue Ann</option>
+
+
+      <option value="/vs/bell-allyson#laliberte-connie">Bell, Allyson</option>
+
+
+      <option value="/vs/bennet-connie#laliberte-connie">Bennet, Connie</option>
+
+
+      <option value="/vs/bernard-cheryl#laliberte-connie">Bernard, Cheryl</option>
+
+
+      <option value="/vs/bernard-krista#laliberte-connie">Bernard, Krista</option>
+
+
+      <option value="/vs/berthelot-janique#laliberte-connie">Berthelot, Janique</option>
+
+
+      <option value="/vs/betker-jan#laliberte-connie">Betker, Jan</option>
+
+
+      <option value="/vs/beveridge-corie#laliberte-connie">Beveridge, Corie</option>
+
+
+      <option value="/vs/blair-diane#laliberte-connie">Blair, Diane</option>
+
+
+      <option value="/vs/blanchard-judy#laliberte-connie">Blanchard, Judy</option>
+
+
+      <option value="/vs/bodogh-christine#laliberte-connie">Bodogh, Christine</option>
+
+
+      <option value="/vs/bodogh-marilyn#laliberte-connie">Bodogh, Marilyn</option>
+
+
+      <option value="/vs/bohmer-brenda#laliberte-connie">Bohmer, Brenda</option>
+
+
+      <option value="/vs/boily-caroline#laliberte-connie">Boily, Caroline</option>
+
+
+      <option value="/vs/bonar-maureen#laliberte-connie">Bonar, Maureen</option>
+
+
+      <option value="/vs/boudreault-tracie#laliberte-connie">Boudreault, Tracie</option>
+
+
+      <option value="/vs/bowman-mary#laliberte-connie">Bowman, Mary</option>
+
+
+      <option value="/vs/bradley-shelley#laliberte-connie">Bradley, Shelley</option>
+
+
+      <option value="/vs/breen-theresa#laliberte-connie">Breen, Theresa</option>
+
+
+      <option value="/vs/brooks-lee#laliberte-connie">Brooks, Lee</option>
+
+
+      <option value="/vs/brophy-kathy#laliberte-connie">Brophy, Kathy</option>
+
+
+      <option value="/vs/brown-marcie#laliberte-connie">Brown, Marcie</option>
+
+
+      <option value="/vs/brown-maureen#laliberte-connie">Brown, Maureen</option>
+
+
+      <option value="/vs/bryant-angie#laliberte-connie">Bryant, Angie</option>
+
+
+      <option value="/vs/busche-jodi#laliberte-connie">Busche, Jodi</option>
+
+
+      <option value="/vs/byers-denise#laliberte-connie">Byers, Denise</option>
+
+
+      <option value="/vs/cameron-nancy#laliberte-connie">Cameron, Nancy</option>
+
+
+      <option value="/vs/campbell-june#laliberte-connie">Campbell, June</option>
+
+
+      <option value="/vs/carney-laurie#laliberte-connie">Carney, Laurie</option>
+
+
+      <option value="/vs/carr-judy#laliberte-connie">Carr, Judy</option>
+
+
+      <option value="/vs/cey-naomi#laliberte-connie">Cey, Naomi</option>
+
+
+      <option value="/vs/charette-agnes#laliberte-connie">Charette, Agnes</option>
+
+
+      <option value="/vs/charette-france#laliberte-connie">Charette, France</option>
+
+
+      <option value="/vs/clark-kim#laliberte-connie">Clark, Kim</option>
+
+
+      <option value="/vs/clarke-betty#laliberte-connie">Clarke, Betty</option>
+
+
+      <option value="/vs/combden-cathy#laliberte-connie">Combden, Cathy</option>
+
+
+      <option value="/vs/comeau-sandy#laliberte-connie">Comeau, Sandy</option>
+
+
+      <option value="/vs/cooke-gerri#laliberte-connie">Cooke, Gerri</option>
+
+
+      <option value="/vs/copeland-rae-ann#laliberte-connie">Copeland, Rae Ann</option>
+
+
+      <option value="/vs/cormier-sharon#laliberte-connie">Cormier, Sharon</option>
+
+
+      <option value="/vs/crispo-guylaine#laliberte-connie">Crispo, Guylaine</option>
+
+
+      <option value="/vs/crowe-dorothy#laliberte-connie">Crowe, Dorothy</option>
+
+
+      <option value="/vs/cunningham-cathy#laliberte-connie">Cunningham, Cathy</option>
+
+
+      <option value="/vs/currie-ann#laliberte-connie">Currie, Ann</option>
+
+
+      <option value="/vs/currie-barbara#laliberte-connie">Currie, Barbara</option>
+
+
+      <option value="/vs/currie-wendy#laliberte-connie">Currie, Wendy</option>
+
+
+      <option value="/vs/cutcliffe-ruth#laliberte-connie">Cutcliffe, Ruth</option>
+
+
+      <option value="/vs/daku-karen#laliberte-connie">Daku, Karen</option>
+
+
+      <option value="/vs/dalio-diane#laliberte-connie">Dalio, Diane</option>
+
+
+      <option value="/vs/daniel-sylvie#laliberte-connie">Daniel, Sylvie</option>
+
+
+      <option value="/vs/davis-barb#laliberte-connie">Davis, Barb</option>
+
+
+      <option value="/vs/davis-brandee#laliberte-connie">Davis, Brandee</option>
+
+
+      <option value="/vs/delahunt-nancy#laliberte-connie">Delahunt, Nancy</option>
+
+
+      <option value="/vs/derick-catherine#laliberte-connie">Derick, Catherine</option>
+
+
+      <option value="/vs/deschatelets-guylaine#laliberte-connie">Deschatelets, Guylaine</option>
+
+
+      <option value="/vs/dexter-joan#laliberte-connie">Dexter, Joan</option>
+
+
+      <option value="/vs/dezura-diane#laliberte-connie">Dezura, Diane</option>
+
+
+      <option value="/vs/dobson-sue#laliberte-connie">Dobson, Sue</option>
+
+
+      <option value="/vs/dolan-kim#laliberte-connie">Dolan, Kim</option>
+
+
+      <option value="/vs/dorosz-peggy#laliberte-connie">Dorosz, Peggy</option>
+
+
+      <option value="/vs/dwyer-patricia#laliberte-connie">Dwyer, Patricia</option>
+
+
+      <option value="/vs/earl-allison#laliberte-connie">Earl, Allison</option>
+
+
+      <option value="/vs/eddy-lori#laliberte-connie">Eddy, Lori</option>
+
+
+      <option value="/vs/englot-michelle#laliberte-connie">Englot, Michelle</option>
+
+
+      <option value="/vs/fahlman-kathy#laliberte-connie">Fahlman, Kathy</option>
+
+
+      <option value="/vs/farrell-allison#laliberte-connie">Farrell, Allison</option>
+
+
+      <option value="/vs/flannigan-lorraine#laliberte-connie">Flannigan, Lorraine</option>
+
+
+      <option value="/vs/flesjer-melody#laliberte-connie">Flesjer, Melody</option>
+
+
+      <option value="/vs/floyd-kathy#laliberte-connie">Floyd, Kathy</option>
+
+
+      <option value="/vs/fowler-lois#laliberte-connie">Fowler, Lois</option>
+
+
+      <option value="/vs/fowler-rhonda#laliberte-connie">Fowler, Rhonda</option>
+
+
+      <option value="/vs/fraser-sherry#laliberte-connie">Fraser, Sherry</option>
+
+
+      <option value="/vs/frey-audrey#laliberte-connie">Frey, Audrey</option>
+
+
+      <option value="/vs/garnett-lorelei#laliberte-connie">Garnett, Lorelei</option>
+
+
+      <option value="/vs/gatchell-sara#laliberte-connie">Gatchell, Sara</option>
+
+
+      <option value="/vs/gellard-kim#laliberte-connie">Gellard, Kim</option>
+
+
+      <option value="/vs/gellard-mary#laliberte-connie">Gellard, Mary</option>
+
+
+      <option value="/vs/gervais-chris#laliberte-connie">Gervais, Chris</option>
+
+
+      <option value="/vs/gervais-donna#laliberte-connie">Gervais, Donna</option>
+
+
+      <option value="/vs/gignac-donna#laliberte-connie">Gignac, Donna</option>
+
+
+      <option value="/vs/goring-alison#laliberte-connie">Goring, Alison</option>
+
+
+      <option value="/vs/goule-susan#laliberte-connie">Goule, Susan</option>
+
+
+      <option value="/vs/green-sue#laliberte-connie">Green, Sue</option>
+
+
+      <option value="/vs/greenwood-jill#laliberte-connie">Greenwood, Jill</option>
+
+
+      <option value="/vs/gudereit-marcia#laliberte-connie">Gudereit, Marcia</option>
+
+
+      <option value="/vs/gushulak-diane#laliberte-connie">Gushulak, Diane</option>
+
+
+      <option value="/vs/hanlon-heidi#laliberte-connie">Hanlon, Heidi</option>
+
+
+      <option value="/vs/harris-susan#laliberte-connie">Harris, Susan</option>
+
+
+      <option value="/vs/haspect-ginette#laliberte-connie">Haspect, Ginette</option>
+
+
+      <option value="/vs/hatton-sandra#laliberte-connie">Hatton, Sandra</option>
+
+
+      <option value="/vs/henry-lou-ann#laliberte-connie">Henry, Lou Ann</option>
+
+
+      <option value="/vs/hooper-perroud-jane#laliberte-connie">Hooper-Perroud, Jane</option>
+
+
+      <option value="/vs/hopkins-heather#laliberte-connie">Hopkins, Heather</option>
+
+
+      <option value="/vs/horne-kate#laliberte-connie">Horne, Kate</option>
+
+
+      <option value="/vs/horte-rhonda#laliberte-connie">Horte, Rhonda</option>
+
+
+      <option value="/vs/howse-lillian#laliberte-connie">Howse, Lillian</option>
+
+
+      <option value="/vs/hutton-barb#laliberte-connie">Hutton, Barb</option>
+
+
+      <option value="/vs/jackson-virginia#laliberte-connie">Jackson, Virginia</option>
+
+
+      <option value="/vs/james-elizabeth#laliberte-connie">James, Elizabeth</option>
+
+
+      <option value="/vs/jenkins-sandra#laliberte-connie">Jenkins, Sandra</option>
+
+
+      <option value="/vs/jennings-tracey#laliberte-connie">Jennings, Tracey</option>
+
+
+      <option value="/vs/jesty-janet#laliberte-connie">Jesty, Janet</option>
+
+
+      <option value="/vs/johnston-joan#laliberte-connie">Johnston, Joan</option>
+
+
+      <option value="/vs/johnstone-loralee#laliberte-connie">Johnstone, Loralee</option>
+
+
+      <option value="/vs/jones-barbara#laliberte-connie">Jones, Barbara</option>
+
+
+      <option value="/vs/jones-colleen#laliberte-connie">Jones, Colleen</option>
+
+
+      <option value="/vs/jones-gordon-barb#laliberte-connie">Jones-Gordon, Barb</option>
+
+
+      <option value="/vs/jones-walker-debbie#laliberte-connie">Jones-Walker, Debbie</option>
+
+
+      <option value="/vs/jurgenson-christine#laliberte-connie">Jurgenson, Christine</option>
+
+
+      <option value="/vs/kane-cynthia#laliberte-connie">Kane, Cynthia</option>
+
+
+      <option value="/vs/karam-sally#laliberte-connie">Karam, Sally</option>
+
+
+      <option value="/vs/kaylo-kelly#laliberte-connie">Kaylo, Kelly</option>
+
+
+      <option value="/vs/kehler-lorie#laliberte-connie">Kehler, Lorie</option>
+
+
+      <option value="/vs/kellerman-bev#laliberte-connie">Kellerman, Bev</option>
+
+
+      <option value="/vs/kelly-anita#laliberte-connie">Kelly, Anita</option>
+
+
+      <option value="/vs/kelly-kim#laliberte-connie">Kelly, Kim</option>
+
+
+      <option value="/vs/kennedy-tracy#laliberte-connie">Kennedy, Tracy</option>
+
+
+      <option value="/vs/kerr-kathy#laliberte-connie">Kerr, Kathy</option>
+
+
+      <option value="/vs/kerr-nancy#laliberte-connie">Kerr, Nancy</option>
+
+
+      <option value="/vs/king-cathy#laliberte-connie">King, Cathy</option>
+
+
+      <option value="/vs/kleibrink-shannon#laliberte-connie">Kleibrink, Shannon</option>
+
+
+      <option value="/vs/knickle-margaret#laliberte-connie">Knickle, Margaret</option>
+
+
+      <option value="/vs/kyle-linda#laliberte-connie">Kyle, Linda</option>
+
+
+      <option value="/vs/laliberte-connie#larouche-marie-france">Larouche, Marie-France</option>
+
+
+      <option value="/vs/laliberte-connie#lavigne-denise">Lavigne, Denise</option>
+
+
+      <option value="/vs/laliberte-connie#law-kelley">Law, Kelley</option>
+
+
+      <option value="/vs/laliberte-connie#lawrence-margaret">Lawrence, Margaret</option>
+
+
+      <option value="/vs/laliberte-connie#leach-wendy">Leach, Wendy</option>
+
+
+      <option value="/vs/laliberte-connie#leahy-anne">Leahy, Anne</option>
+
+
+      <option value="/vs/laliberte-connie#leblanc-lisa">Leblanc, Lisa</option>
+
+
+      <option value="/vs/laliberte-connie#lecraw-carolyn">LeCraw, Carolyn</option>
+
+
+      <option value="/vs/laliberte-connie#lemay-annie">Lemay, Annie</option>
+
+
+      <option value="/vs/laliberte-connie#lemire-nancy">Lemire, Nancy</option>
+
+
+      <option value="/vs/laliberte-connie#leonard-judy">Leonard, Judy</option>
+
+
+      <option value="/vs/laliberte-connie#logan-louise">Logan, Louise</option>
+
+
+      <option value="/vs/laliberte-connie#london-debra">London, Debra</option>
+
+
+      <option value="/vs/laliberte-connie#macaulay-marion">MacAulay, Marion</option>
+
+
+      <option value="/vs/laliberte-connie#maccallum-janice">MacCallum, Janice</option>
+
+
+      <option value="/vs/laliberte-connie#macdonald-rebecca-jean">MacDonald, Rebecca Jean</option>
+
+
+      <option value="/vs/laliberte-connie#macdougall-leslie">MacDougall, Leslie</option>
+
+
+      <option value="/vs/laliberte-connie#mackenzie-doris">MacKenzie, Doris</option>
+
+
+      <option value="/vs/laliberte-connie#mackin-marion">Mackin, Marion</option>
+
+
+      <option value="/vs/laliberte-connie#macleod-lisa">MacLeod, Lisa</option>
+
+
+      <option value="/vs/laliberte-connie#mallett-marla">Mallett, Marla</option>
+
+
+      <option value="/vs/laliberte-connie#marchand-jessica">Marchand, Jessica</option>
+
+
+      <option value="/vs/laliberte-connie#marchand-stephanie">Marchand, Stephanie</option>
+
+
+      <option value="/vs/laliberte-connie#marcotte-nicole">Marcotte, Nicole</option>
+
+
+      <option value="/vs/laliberte-connie#martin-heather">Martin, Heather</option>
+
+
+      <option value="/vs/laliberte-connie#mattatall-mary">Mattatall, Mary</option>
+
+
+      <option value="/vs/laliberte-connie#mcardle-cindy">McArdle, Cindy</option>
+
+
+      <option value="/vs/laliberte-connie#mccarville-susan">McCarville, Susan</option>
+
+
+      <option value="/vs/laliberte-connie#mccloy-elaine">McCloy, Elaine</option>
+
+
+      <option value="/vs/laliberte-connie#mcconnery-nancy">McConnery, Nancy</option>
+
+
+      <option value="/vs/laliberte-connie#mccrady-christine">McCrady, Christine</option>
+
+
+      <option value="/vs/laliberte-connie#mccusker-joan">McCusker, Joan</option>
+
+
+      <option value="/vs/laliberte-connie#mcdonald-tina">McDonald, Tina</option>
+
+
+      <option value="/vs/laliberte-connie#mcgeary-lori">McGeary, Lori</option>
+
+
+      <option value="/vs/laliberte-connie#mcgregor-rona">McGregor, Rona</option>
+
+
+      <option value="/vs/laliberte-connie#mcinnis-susan">McInnis, Susan</option>
+
+
+      <option value="/vs/laliberte-connie#mckendry-shirley">McKendry, Shirley</option>
+
+
+      <option value="/vs/laliberte-connie#mcknight-patti">McKnight, Patti</option>
+
+
+      <option value="/vs/laliberte-connie#mcleod-crystal">McLeod, Crystal</option>
+
+
+      <option value="/vs/laliberte-connie#mcnamee-karen">McNamee, Karen</option>
+
+
+      <option value="/vs/laliberte-connie#merklinger-anne">Merklinger, Anne</option>
+
+
+      <option value="/vs/laliberte-connie#middaugh-sherry">Middaugh, Sherry</option>
+
+
+      <option value="/vs/laliberte-connie#millar-beverley">Millar, Beverley</option>
+
+
+      <option value="/vs/laliberte-connie#miller-maureen">Miller, Maureen</option>
+
+
+      <option value="/vs/laliberte-connie#mitchell-marg">Mitchell, Marg</option>
+
+
+      <option value="/vs/laliberte-connie#miyashita-joyce">Miyashita, Joyce</option>
+
+
+      <option value="/vs/laliberte-connie#montgomery-kay">Montgomery, Kay</option>
+
+
+      <option value="/vs/laliberte-connie#moore-kim">Moore, Kim</option>
+
+
+      <option value="/vs/laliberte-connie#moore-kristie">Moore, Kristie</option>
+
+
+      <option value="/vs/laliberte-connie#moore-linda">Moore, Linda</option>
+
+
+      <option value="/vs/laliberte-connie#moriarty-monica">Moriarty, Monica</option>
+
+
+      <option value="/vs/laliberte-connie#moses-dawn">Moses, Dawn</option>
+
+
+      <option value="/vs/laliberte-connie#moss-debbie">Moss, Debbie</option>
+
+
+      <option value="/vs/laliberte-connie#mulroney-sandra">Mulroney, Sandra</option>
+
+
+      <option value="/vs/laliberte-connie#muzika-shelley">Muzika, Shelley</option>
+
+
+      <option value="/vs/laliberte-connie#nedohin-heather">Nedohin, Heather</option>
+
+
+      <option value="/vs/laliberte-connie#nicholls-brenda">Nicholls, Brenda</option>
+
+
+      <option value="/vs/laliberte-connie#nimmo-shannon">Nimmo, Shannon</option>
+
+
+      <option value="/vs/laliberte-connie#nohr-diane">Nohr, Diane</option>
+
+
+      <option value="/vs/laliberte-connie#nowlan-denise">Nowlan, Denise</option>
+
+
+      <option value="/vs/laliberte-connie#noye-marlene">Noye, Marlene</option>
+
+
+      <option value="/vs/laliberte-connie#o-rourke-kathy">O'Rourke, Kathy</option>
+
+
+      <option value="/vs/laliberte-connie#ondrack-wendy">Ondrack, Wendy</option>
+
+
+      <option value="/vs/laliberte-connie#osborne-chantal">Osborne, Chantal</option>
+
+
+      <option value="/vs/laliberte-connie#palinkas-gloria">Palinkas, Gloria</option>
+
+
+      <option value="/vs/laliberte-connie#paradis-marilyn">Paradis, Marilyn</option>
+
+
+      <option value="/vs/laliberte-connie#pendergast-judy">Pendergast, Judy</option>
+
+
+      <option value="/vs/laliberte-connie#perron-leanne">Perron, Leanne</option>
+
+
+      <option value="/vs/laliberte-connie#peters-laine">Peters, Laine</option>
+
+
+      <option value="/vs/laliberte-connie#phillips-laura">Phillips, Laura</option>
+
+
+      <option value="/vs/laliberte-connie#phillips-margaret-lea">Phillips, Margaret Lea</option>
+
+
+      <option value="/vs/laliberte-connie#pike-mavis">Pike, Mavis</option>
+
+
+      <option value="/vs/laliberte-connie#pilling-gayle">Pilling, Gayle</option>
+
+
+      <option value="/vs/laliberte-connie#porter-debbie">Porter, Debbie</option>
+
+
+      <option value="/vs/laliberte-connie#power-marie-anne">Power, Marie-Anne</option>
+
+
+      <option value="/vs/laliberte-connie#quesnell-norma">Quesnell, Norma</option>
+
+
+      <option value="/vs/laliberte-connie#raby-odette">Raby, Odette</option>
+
+
+      <option value="/vs/laliberte-connie#rainville-julie">Rainville, Julie</option>
+
+
+      <option value="/vs/laliberte-connie#rankin-heather">Rankin, Heather</option>
+
+
+      <option value="/vs/laliberte-connie#rayworth-bonnie-anne">Rayworth, Bonnie Anne</option>
+
+
+      <option value="/vs/laliberte-connie#rempel-jane">Rempel, Jane</option>
+
+
+      <option value="/vs/laliberte-connie#renouf-michele">Renouf, Michele</option>
+
+
+      <option value="/vs/laliberte-connie#roberts-angela">Roberts, Angela</option>
+
+
+      <option value="/vs/laliberte-connie#robinson-charlene">Robinson, Charlene</option>
+
+
+      <option value="/vs/laliberte-connie#robinson-julia">Robinson, Julia</option>
+
+
+      <option value="/vs/laliberte-connie#roland-mavis">Roland, Mavis</option>
+
+
+      <option value="/vs/laliberte-connie#ross-allison">Ross, Allison</option>
+
+
+      <option value="/vs/laliberte-connie#ruus-karen">Ruus, Karen</option>
+
+
+      <option value="/vs/laliberte-connie#sabourin-joelle">Sabourin, Joelle</option>
+
+
+      <option value="/vs/laliberte-connie#sanders-pat">Sanders, Pat</option>
+
+
+      <option value="/vs/laliberte-connie#sauer-cathy">Sauer, Cathy</option>
+
+
+      <option value="/vs/laliberte-connie#saunders-sally-jane">Saunders, Sally Jane</option>
+
+
+      <option value="/vs/laliberte-connie#scales-julie">Scales, Julie</option>
+
+
+      <option value="/vs/laliberte-connie#schmirler-sandra">Schmirler, Sandra</option>
+
+
+      <option value="/vs/laliberte-connie#scott-donna">Scott, Donna</option>
+
+
+      <option value="/vs/laliberte-connie#sharpe-kelli">Sharpe, Kelli</option>
+
+
+      <option value="/vs/laliberte-connie#shaw-cathy">Shaw, Cathy</option>
+
+
+      <option value="/vs/laliberte-connie#shephard-wendy">Shephard, Wendy</option>
+
+
+      <option value="/vs/laliberte-connie#sherrington-barb">Sherrington, Barb</option>
+
+
+      <option value="/vs/laliberte-connie#shields-deanne">Shields, Deanne</option>
+
+
+      <option value="/vs/laliberte-connie#shigehiro-sally">Shigehiro, Sally</option>
+
+
+      <option value="/vs/laliberte-connie#sipka-joanne">Sipka, Joanne</option>
+
+
+      <option value="/vs/laliberte-connie#skinner-julie">Skinner, Julie</option>
+
+
+      <option value="/vs/laliberte-connie#smith-heather">Smith, Heather</option>
+
+
+      <option value="/vs/laliberte-connie#smith-yvonne">Smith, Yvonne</option>
+
+
+      <option value="/vs/laliberte-connie#snider-shelly">Snider, Shelly</option>
+
+
+      <option value="/vs/laliberte-connie#soligo-melissa">Soligo, Melissa</option>
+
+
+      <option value="/vs/laliberte-connie#sonnenberg-renee">Sonnenberg, Renee</option>
+
+
+      <option value="/vs/laliberte-connie#sparkes-lindsay">Sparkes, Lindsay</option>
+
+
+      <option value="/vs/laliberte-connie#stahl-carrie">Stahl, Carrie</option>
+
+
+      <option value="/vs/laliberte-connie#stewart-sheri">Stewart, Sheri</option>
+
+
+      <option value="/vs/laliberte-connie#stokes-debbie">Stokes, Debbie</option>
+
+
+      <option value="/vs/laliberte-connie#street-cindy">Street, Cindy</option>
+
+
+      <option value="/vs/laliberte-connie#stricker-joan">Stricker, Joan</option>
+
+
+      <option value="/vs/laliberte-connie#strong-heather">Strong, Heather</option>
+
+
+      <option value="/vs/laliberte-connie#sutton-jodie">Sutton, Jodie</option>
+
+
+      <option value="/vs/laliberte-connie#tanner-allison">Tanner, Allison</option>
+
+
+      <option value="/vs/laliberte-connie#taylor-candy">Taylor, Candy</option>
+
+
+      <option value="/vs/laliberte-connie#thomas-maria">Thomas, Maria</option>
+
+
+      <option value="/vs/laliberte-connie#thompson-elayne">Thompson, Elayne</option>
+
+
+      <option value="/vs/laliberte-connie#thompson-gillian">Thompson, Gillian</option>
+
+
+      <option value="/vs/laliberte-connie#thompson-louise">Thompson, Louise</option>
+
+
+      <option value="/vs/laliberte-connie#tincher-twyla">Tincher, Twyla</option>
+
+
+      <option value="/vs/laliberte-connie#todd-fran">Todd, Fran</option>
+
+
+      <option value="/vs/laliberte-connie#train-mona">Train, Mona</option>
+
+
+      <option value="/vs/laliberte-connie#tucker-cindy">Tucker, Cindy</option>
+
+
+      <option value="/vs/laliberte-connie#turney-nancy">Turney, Nancy</option>
+
+
+      <option value="/vs/laliberte-connie#walker-lisa">Walker, Lisa</option>
+
+
+      <option value="/vs/laliberte-connie#walter-cathy">Walter, Cathy</option>
+
+
+      <option value="/vs/laliberte-connie#wheatcroft-georgina">Wheatcroft, Georgina</option>
+
+
+      <option value="/vs/laliberte-connie#whitrow-leanne">Whitrow, Leanne</option>
+
+
+      <option value="/vs/laliberte-connie#whitten-beverley">Whitten, Beverley</option>
+
+
+      <option value="/vs/laliberte-connie#wieler-bev">Wieler, Bev</option>
+
+
+      <option value="/vs/laliberte-connie#willms-karri">Willms, Karri</option>
+
+
+      <option value="/vs/laliberte-connie#wilson-patty">Wilson, Patty</option>
+
+
+      <option value="/vs/laliberte-connie#wright-joanne">Wright, Joanne</option>
+
+
+      <option value="/vs/laliberte-connie#wright-susan">Wright, Susan</option>
+
+
+      <option value="/vs/laliberte-connie#zielke-colleen">Zielke, Colleen</option>
+
+
+      <option value="/vs/laliberte-connie#zinck-kay">Zinck, Kay</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg mb-2">View</button>
+</form>
+
+
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+              Copyright © 2025 <a href="https://curling.ca">Curling Canada</a>.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
