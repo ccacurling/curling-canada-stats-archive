@@ -1,0 +1,126 @@
+@font-face {
+  font-family:'Knockout-49';
+  src: url('../fonts/knockout/Knockout-49Liteweight_gdi.eot');
+  src: url('../fonts/knockout/Knockout-49Liteweight_gdi.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/knockout/Knockout-49Liteweight_gdi.woff') format('woff'),
+    url('../fonts/knockout/Knockout-49Liteweight_gdi.ttf') format('truetype'),
+    url('../fonts/knockout/Knockout-49Liteweight_gdi.svg#Knockout-49Liteweight') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-2212;
+}
+
+.header-brand {
+  font-family: Knockout-49;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+#players .fe-user-plus,
+#team-players .fe-user-plus,
+h1 .fe-user-plus {
+  cursor: pointer;
+  color: green;
+}
+
+#players .fe-user-plus:hover,
+#team-players .fe-user-plus:hover,
+h1 .fe-user-plus:hover {
+  color: dark-green;
+}
+
+#players td:nth-child(2),
+#team-players td:nth-child(4) {
+  white-space: nowrap;
+}
+
+#player tr.dnp td {
+  color: #999;
+}
+
+#player tr.totals td {
+  font-style: italic;
+}
+
+#player tr.totals td:nth-child(1),
+#player tr.totals td:nth-child(2) {
+  font-weight: bold;
+}
+
+#pvp td {
+  white-space: nowrap;
+}
+
+.vs {
+  margin-left: 0.5em;
+  line-height: 2rem;
+}
+
+#vs-player1-selected, #vs-player2-selected, #vs-status-fail, #vs-status-view {
+  display: none;
+}
+
+#draw table a {
+  display: block;
+}
+
+#records .card-body {
+  padding-top: 0;
+}
+
+#records .tab-pane {
+  margin-top: 1em;
+}
+
+#event-teams h3 a, #pvp h2 a {
+  color: #467fcf;
+}
+
+#event-nav .nav-link {
+  font-size: 1.2em;
+}
+
+#event-tabs {
+  padding-top: 1em;
+}
+
+.team1 .fa-circle {
+  color: red;
+}
+
+.team2 .fa-circle {
+  color: yellow;
+}
+
+#event-tabs #stats .card-header, #records .card-header {
+  cursor: pointer;
+}
+
+#event-tabs #stats .card-body, #records .tab-pane {
+  font-family: monospace;
+  white-space: pre;
+}
+
+#search-results {
+  width: 100%;
+}
+
+hr.draws {
+  text-align: center;
+}
+
+hr.draws:after {
+  content: "§";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background-color: #f5f7fb;
+}
+
+h3 .draw-date {
+  display: block;
+  font-size: 1.2rem
+}
